@@ -16,6 +16,7 @@
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
     <li><a href=#differential-privacy>Differential Privacy</a></li>
+    <li><a href=#graph-neural-network>Graph Neural Network</a></li>
   </ol>
 </details>
 
@@ -2038,7 +2039,9 @@
 |---|---|---|---|---|
 |**2023-10-08**|**A Privacy-Preserving Trajectory Synthesis Method Based on Vector Translation Invariance Supporting Traffic Constraints**|Zechen Liu et.al.|[2310.05091](http://arxiv.org/abs/2310.05091)|null|
 |**2023-10-08**|**Big Data Privacy in Emerging Market Fintech and Financial Services: A Research Agenda**|Joshua E. Blumenstock et.al.|[2310.04970](http://arxiv.org/abs/2310.04970)|null|
+|**2023-10-07**|**DP-starJ: A Differential Private Scheme towards Analytical Star-Join Queries**|Congcong Fu et.al.|[2310.04711](http://arxiv.org/abs/2310.04711)|null|
 |**2023-10-06**|**Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation**|Sunpreet Arora et.al.|[2310.04546](http://arxiv.org/abs/2310.04546)|null|
+|**2023-10-06**|**DPGOMI: Differentially Private Data Publishing with Gaussian Optimized Model Inversion**|Dongjie Chen et.al.|[2310.04528](http://arxiv.org/abs/2310.04528)|null|
 |**2023-10-06**|**A Survey of Data Security: Practices from Cybersecurity and Challenges of Machine Learning**|Padmaksha Roy et.al.|[2310.04513](http://arxiv.org/abs/2310.04513)|null|
 |**2023-10-05**|**PrIeD-KIE: Towards Privacy Preserved Document Key Information Extraction**|Saifullah Saifullah et.al.|[2310.03777](http://arxiv.org/abs/2310.03777)|null|
 |**2023-10-05**|**FLAIM: AIM-based Synthetic Data Generation in the Federated Setting**|Samuel Maddock et.al.|[2310.03447](http://arxiv.org/abs/2310.03447)|**[link](https://github.com/Samuel-Maddock/flaim)**|
@@ -2046,6 +2049,41 @@
 |**2023-10-04**|**Practical, Private Assurance of the Value of Collaboration**|Hassan Jameel Asghar et.al.|[2310.02563](http://arxiv.org/abs/2310.02563)|null|
 |**2023-10-03**|**FLEDGE: Ledger-based Federated Learning Resilient to Inference and Backdoor Attacks**|Jorge Castillo et.al.|[2310.02113](http://arxiv.org/abs/2310.02113)|null|
 |**2023-10-02**|**Defending Against Authorship Identification Attacks**|Haining Wang et.al.|[2310.01568](http://arxiv.org/abs/2310.01568)|null|
+|**2023-10-02**|**Online Sensitivity Optimization in Differentially Private Learning**|Filippo Galli et.al.|[2310.00829](http://arxiv.org/abs/2310.00829)|null|
+|**2023-09-29**|**Federated Learning with Differential Privacy for End-to-End Speech Recognition**|Martin Pelikan et.al.|[2310.00098](http://arxiv.org/abs/2310.00098)|null|
+|**2023-09-29**|**Differentially Private Computation of Basic Reproduction Numbers in Networked Epidemic Models**|Bo Chen et.al.|[2309.17284](http://arxiv.org/abs/2309.17284)|null|
+|**2023-09-28**|**Recent Advances of Differential Privacy in Centralized Deep Learning: A Systematic Survey**|Lea Demelius et.al.|[2309.16398](http://arxiv.org/abs/2309.16398)|null|
+|**2023-09-28**|**Libertas: Privacy-Preserving Computation for Decentralised Personal Data Stores**|Rui Zhao et.al.|[2309.16365](http://arxiv.org/abs/2309.16365)|null|
+|**2023-09-28**|**Differentially Private Secure Multiplication: Hiding Information in the Rubble of Noise**|Viveck R. Cadambe et.al.|[2309.16105](http://arxiv.org/abs/2309.16105)|null|
+|**2023-09-27**|**Some Efficient and Optimal K-Norm Mechanisms**|Matthew Joseph et.al.|[2309.15790](http://arxiv.org/abs/2309.15790)|null|
+|**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746](http://arxiv.org/abs/2309.15746)|null|
+
+<p align=right>(<a href=#updated-on-20231010>back to top</a>)</p>
+
+## Graph Neural Network
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842](http://arxiv.org/abs/2310.05842)|null|
+|**2023-10-09**|**Nonlinear Correct and Smooth for Semi-Supervised Learning**|Yuanhang Shao et.al.|[2310.05757](http://arxiv.org/abs/2310.05757)|null|
+|**2023-10-09**|**WeatherGNN: Exploiting Complicated Relationships in Numerical Weather Prediction Bias Correction**|Binqing Wu et.al.|[2310.05517](http://arxiv.org/abs/2310.05517)|null|
+|**2023-10-08**|**Tailoring Self-Attention for Graph via Rooted Subtrees**|Siyuan Huang et.al.|[2310.05296](http://arxiv.org/abs/2310.05296)|**[link](https://github.com/lumia-group/subtree-attention)**|
+|**2023-10-08**|**PointGAT: A quantum chemical property prediction model integrating graph attention and 3D geometry**|Rong Zhang et.al.|[2310.05217](http://arxiv.org/abs/2310.05217)|null|
+|**2023-10-08**|**GSLB: The Graph Structure Learning Benchmark**|Zhixun Li et.al.|[2310.05174](http://arxiv.org/abs/2310.05174)|**[link](https://github.com/gsl-benchmark/gslb)**|
+|**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space**|Chenxiao Yang et.al.|[2310.05105](http://arxiv.org/abs/2310.05105)|null|
+|**2023-10-07**|**Beyond Text: A Deep Dive into Large Language Models' Ability on Understanding Graph Data**|Yuntong Hu et.al.|[2310.04944](http://arxiv.org/abs/2310.04944)|null|
+|**2023-10-07**|**Hybrid Recommendation System using Graph Neural Network and BERT Embeddings**|Shashidhar Reddy Javaji et.al.|[2310.04878](http://arxiv.org/abs/2310.04878)|null|
+|**2023-10-07**|**Label-free Node Classification on Graphs with Large Language Models (LLMS)**|Zhikai Chen et.al.|[2310.04668](http://arxiv.org/abs/2310.04668)|null|
+|**2023-10-06**|**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**|Yu Wang et.al.|[2310.04612](http://arxiv.org/abs/2310.04612)|null|
+|**2023-10-06**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190](http://arxiv.org/abs/2310.04190)|null|
+|**2023-10-09**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171](http://arxiv.org/abs/2310.04171)|null|
+|**2023-10-09**|**AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models**|Quazi Ishtiaque Mahmud et.al.|[2310.04047](http://arxiv.org/abs/2310.04047)|null|
+|**2023-10-05**|**Fishnets: Information-Optimal, Scalable Aggregation for Sets and Graphs**|T. Lucas Makinen et.al.|[2310.03812](http://arxiv.org/abs/2310.03812)|null|
+|**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
+|**2023-10-05**|**Fragment-based Pretraining and Finetuning on Molecular Graphs**|Kha-Dinh Luong et.al.|[2310.03274](http://arxiv.org/abs/2310.03274)|null|
+|**2023-10-04**|**Deep reinforcement learning for machine scheduling: Methodology, the state-of-the-art, and future directions**|Maziyar Khadivi et.al.|[2310.03195](http://arxiv.org/abs/2310.03195)|null|
+|**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931](http://arxiv.org/abs/2310.02931)|null|
+|**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 
 <p align=right>(<a href=#updated-on-20231010>back to top</a>)</p>
 
