@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2017,7 +2017,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-08**|**A Privacy-Preserving Trajectory Synthesis Method Based on Vector Translation Invariance Supporting Traffic Constraints**|Zechen Liu et.al.|[2310.05091](http://arxiv.org/abs/2310.05091)|null|
 |**2023-10-08**|**Big Data Privacy in Emerging Market Fintech and Financial Services: A Research Agenda**|Joshua E. Blumenstock et.al.|[2310.04970](http://arxiv.org/abs/2310.04970)|null|
-|**2023-10-07**|**DP-starJ: A Differential Private Scheme towards Analytical Star-Join Queries**|Congcong Fu et.al.|[2310.04711](http://arxiv.org/abs/2310.04711)|null|
+|**2023-10-10**|**DP-starJ: A Differential Private Scheme towards Analytical Star-Join Queries**|Congcong Fu et.al.|[2310.04711](http://arxiv.org/abs/2310.04711)|null|
 |**2023-10-06**|**Privacy-Preserving Financial Anomaly Detection via Federated Learning & Multi-Party Computation**|Sunpreet Arora et.al.|[2310.04546](http://arxiv.org/abs/2310.04546)|null|
 |**2023-10-06**|**DPGOMI: Differentially Private Data Publishing with Gaussian Optimized Model Inversion**|Dongjie Chen et.al.|[2310.04528](http://arxiv.org/abs/2310.04528)|null|
 |**2023-10-06**|**A Survey of Data Security: Practices from Cybersecurity and Challenges of Machine Learning**|Padmaksha Roy et.al.|[2310.04513](http://arxiv.org/abs/2310.04513)|null|
@@ -2050,9 +2050,9 @@ layout: default
 |**2023-10-07**|**Beyond Text: A Deep Dive into Large Language Models' Ability on Understanding Graph Data**|Yuntong Hu et.al.|[2310.04944](http://arxiv.org/abs/2310.04944)|null|
 |**2023-10-07**|**Hybrid Recommendation System using Graph Neural Network and BERT Embeddings**|Shashidhar Reddy Javaji et.al.|[2310.04878](http://arxiv.org/abs/2310.04878)|null|
 |**2023-10-07**|**Label-free Node Classification on Graphs with Large Language Models (LLMS)**|Zhikai Chen et.al.|[2310.04668](http://arxiv.org/abs/2310.04668)|null|
-|**2023-10-06**|**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**|Yu Wang et.al.|[2310.04612](http://arxiv.org/abs/2310.04612)|null|
+|**2023-10-06**|**A Topological Perspective on Demystifying GNN-Based Link Prediction Performance**|Yu Wang et.al.|[2310.04612](http://arxiv.org/abs/2310.04612)|**[link](https://github.com/yuwvandy/topo_lp_gnn)**|
 |**2023-10-06**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190](http://arxiv.org/abs/2310.04190)|null|
-|**2023-10-09**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171](http://arxiv.org/abs/2310.04171)|null|
+|**2023-10-09**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171](http://arxiv.org/abs/2310.04171)|**[link](https://github.com/bdi-lab/drag)**|
 |**2023-10-09**|**AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models**|Quazi Ishtiaque Mahmud et.al.|[2310.04047](http://arxiv.org/abs/2310.04047)|null|
 |**2023-10-05**|**Fishnets: Information-Optimal, Scalable Aggregation for Sets and Graphs**|T. Lucas Makinen et.al.|[2310.03812](http://arxiv.org/abs/2310.03812)|null|
 |**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
