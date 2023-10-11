@@ -2037,6 +2037,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning**|Christopher A. Choquette-Choo et.al.|[2310.06771](http://arxiv.org/abs/2310.06771)|null|
+|**2023-10-10**|**Partition-based differentially private synthetic data generation**|Meifan Zhang et.al.|[2310.06371](http://arxiv.org/abs/2310.06371)|null|
+|**2023-10-10**|**NetShaper: A Differentially Private Network Side-Channel Mitigation System**|Amir Sabzi et.al.|[2310.06293](http://arxiv.org/abs/2310.06293)|null|
+|**2023-10-10**|**Better and Simpler Lower Bounds for Differentially Private Statistical Estimation**|Shyam Narayanan et.al.|[2310.06289](http://arxiv.org/abs/2310.06289)|null|
+|**2023-10-10**|**Using Participants' Utility Functions to Compare Versions of Differential Privacy**|Nitin Kohli et.al.|[2310.06258](http://arxiv.org/abs/2310.06258)|null|
+|**2023-10-10**|**Differentially Private Multi-Site Treatment Effect Estimation**|Tatsuki Koga et.al.|[2310.06237](http://arxiv.org/abs/2310.06237)|null|
 |**2023-10-08**|**A Privacy-Preserving Trajectory Synthesis Method Based on Vector Translation Invariance Supporting Traffic Constraints**|Zechen Liu et.al.|[2310.05091](http://arxiv.org/abs/2310.05091)|null|
 |**2023-10-08**|**Big Data Privacy in Emerging Market Fintech and Financial Services: A Research Agenda**|Joshua E. Blumenstock et.al.|[2310.04970](http://arxiv.org/abs/2310.04970)|null|
 |**2023-10-10**|**DP-starJ: A Differential Private Scheme towards Analytical Star-Join Queries**|Congcong Fu et.al.|[2310.04711](http://arxiv.org/abs/2310.04711)|null|
@@ -2064,6 +2070,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder**|Bowen Jin et.al.|[2310.06684](http://arxiv.org/abs/2310.06684)|null|
+|**2023-10-10**|**On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions**|Alvaro Carbonero et.al.|[2310.06682](http://arxiv.org/abs/2310.06682)|null|
+|**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427](http://arxiv.org/abs/2310.06427)|null|
+|**2023-10-10**|**Advective Diffusion Transformers for Topological Generalization in Graph Learning**|Qitian Wu et.al.|[2310.06417](http://arxiv.org/abs/2310.06417)|null|
+|**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
+|**2023-10-10**|**SCAR: Power Side-Channel Analysis at RTL-Level**|Amisha Srivastava et.al.|[2310.06257](http://arxiv.org/abs/2310.06257)|null|
 |**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842](http://arxiv.org/abs/2310.05842)|null|
 |**2023-10-09**|**Nonlinear Correct and Smooth for Semi-Supervised Learning**|Yuanhang Shao et.al.|[2310.05757](http://arxiv.org/abs/2310.05757)|null|
 |**2023-10-09**|**WeatherGNN: Exploiting Complicated Relationships in Numerical Weather Prediction Bias Correction**|Binqing Wu et.al.|[2310.05517](http://arxiv.org/abs/2310.05517)|null|
