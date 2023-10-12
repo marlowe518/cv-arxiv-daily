@@ -2037,6 +2037,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Extremal Mechanisms for Pointwise Maximal Leakage**|Leonhard Grosse et.al.|[2310.07381](http://arxiv.org/abs/2310.07381)|null|
+|**2023-10-11**|**Improved Analysis of Sparse Linear Regression in Local Differential Privacy Model**|Liyang Zhu et.al.|[2310.07367](http://arxiv.org/abs/2310.07367)|null|
+|**2023-10-10**|**Federated Quantum Machine Learning with Differential Privacy**|Rod Rofougaran et.al.|[2310.06973](http://arxiv.org/abs/2310.06973)|null|
 |**2023-10-10**|**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning**|Christopher A. Choquette-Choo et.al.|[2310.06771](http://arxiv.org/abs/2310.06771)|null|
 |**2023-10-10**|**Partition-based differentially private synthetic data generation**|Meifan Zhang et.al.|[2310.06371](http://arxiv.org/abs/2310.06371)|null|
 |**2023-10-10**|**NetShaper: A Differentially Private Network Side-Channel Mitigation System**|Amir Sabzi et.al.|[2310.06293](http://arxiv.org/abs/2310.06293)|null|
@@ -2070,6 +2073,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**Global Minima, Recoverability Thresholds, and Higher-Order Structure in GNNS**|Drake Brown et.al.|[2310.07667](http://arxiv.org/abs/2310.07667)|null|
+|**2023-10-11**|**Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates**|Jimeng Shi et.al.|[2310.07631](http://arxiv.org/abs/2310.07631)|null|
+|**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
+|**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|null|
+|**2023-10-11**|**Are GATs Out of Balance?**|Nimrah Mustafa et.al.|[2310.07235](http://arxiv.org/abs/2310.07235)|null|
+|**2023-10-11**|**My Brother Helps Me: Node Injection Based Adversarial Attack on Social Bot Detection**|Lanjun Wang et.al.|[2310.07159](http://arxiv.org/abs/2310.07159)|null|
+|**2023-10-11**|**GraphCloak: Safeguarding Task-specific Knowledge within Graph-structured Data from Unauthorized Exploitation**|Yixin Liu et.al.|[2310.07100](http://arxiv.org/abs/2310.07100)|null|
+|**2023-10-10**|**Neural Relational Inference with Fast Modular Meta-learning**|Ferran Alet et.al.|[2310.07015](http://arxiv.org/abs/2310.07015)|**[link](https://github.com/FerranAlet/modular-metalearning)**|
+|**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995](http://arxiv.org/abs/2310.06995)|null|
+|**2023-10-10**|**Flood and Echo: Algorithmic Alignment of GNNs with Distributed Computing**|Joël Mathys et.al.|[2310.06970](http://arxiv.org/abs/2310.06970)|null|
 |**2023-10-10**|**Learning Multiplex Embeddings on Text-rich Networks with One Text Encoder**|Bowen Jin et.al.|[2310.06684](http://arxiv.org/abs/2310.06684)|null|
 |**2023-10-10**|**On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions**|Alvaro Carbonero et.al.|[2310.06682](http://arxiv.org/abs/2310.06682)|null|
 |**2023-10-10**|**TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems**|Zijie Huang et.al.|[2310.06427](http://arxiv.org/abs/2310.06427)|null|
