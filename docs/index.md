@@ -2015,6 +2015,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Differentially Private Non-convex Learning for Multi-layer Neural Networks**|Hanpu Shen et.al.|[2310.08425](http://arxiv.org/abs/2310.08425)|null|
+|**2023-10-11**|**Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks**|Hao-Ping Lee et.al.|[2310.07879](http://arxiv.org/abs/2310.07879)|null|
+|**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection via the Exponential Mechanism**|Saptarshi Roy et.al.|[2310.07852](http://arxiv.org/abs/2310.07852)|null|
 |**2023-10-12**|**Extremal Mechanisms for Pointwise Maximal Leakage**|Leonhard Grosse et.al.|[2310.07381](http://arxiv.org/abs/2310.07381)|null|
 |**2023-10-11**|**Improved Analysis of Sparse Linear Regression in Local Differential Privacy Model**|Liyang Zhu et.al.|[2310.07367](http://arxiv.org/abs/2310.07367)|null|
 |**2023-10-10**|**Federated Quantum Machine Learning with Differential Privacy**|Rod Rofougaran et.al.|[2310.06973](http://arxiv.org/abs/2310.06973)|null|
@@ -2049,6 +2052,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|null|
+|**2023-10-12**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow Prediction**|Haiyang Liu et.al.|[2310.08138](http://arxiv.org/abs/2310.08138)|null|
+|**2023-10-12**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979](http://arxiv.org/abs/2310.07979)|null|
+|**2023-10-11**|**Enhanced sampling of Crystal Nucleation with Graph Representation Learnt Variables**|Ziyue Zou et.al.|[2310.07927](http://arxiv.org/abs/2310.07927)|null|
 |**2023-10-11**|**Global Minima, Recoverability Thresholds, and Higher-Order Structure in GNNS**|Drake Brown et.al.|[2310.07667](http://arxiv.org/abs/2310.07667)|null|
 |**2023-10-11**|**Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates**|Jimeng Shi et.al.|[2310.07631](http://arxiv.org/abs/2310.07631)|null|
 |**2023-10-11**|**GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing**|Hangyu Wang et.al.|[2310.07477](http://arxiv.org/abs/2310.07477)|**[link](https://github.com/justarter/gmocat)**|
