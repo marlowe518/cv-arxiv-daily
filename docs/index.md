@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2015,6 +2015,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Split-and-Denoise: Protect large language model inference with local differential privacy**|Peihua Mai et.al.|[2310.09130](http://arxiv.org/abs/2310.09130)|null|
 |**2023-10-12**|**Differentially Private Non-convex Learning for Multi-layer Neural Networks**|Hanpu Shen et.al.|[2310.08425](http://arxiv.org/abs/2310.08425)|null|
 |**2023-10-11**|**Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks**|Hao-Ping Lee et.al.|[2310.07879](http://arxiv.org/abs/2310.07879)|null|
 |**2023-10-11**|**On the Computational Complexity of Private High-dimensional Model Selection via the Exponential Mechanism**|Saptarshi Roy et.al.|[2310.07852](http://arxiv.org/abs/2310.07852)|null|
@@ -2052,6 +2053,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**Graph Condensation via Eigenbasis Matching**|Yang Liu et.al.|[2310.09202](http://arxiv.org/abs/2310.09202)|null|
+|**2023-10-12**|**Heterophily-Based Graph Neural Network for Imbalanced Classification**|Zirui Liang et.al.|[2310.08725](http://arxiv.org/abs/2310.08725)|null|
 |**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|**[link](https://github.com/yCobanoglu/infinite-width-gnns)**|
 |**2023-10-12**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow Prediction**|Haiyang Liu et.al.|[2310.08138](http://arxiv.org/abs/2310.08138)|null|
 |**2023-10-12**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979](http://arxiv.org/abs/2310.07979)|null|
