@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2015,6 +2015,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Label Differential Privacy via Aggregation**|Anand Brahmbhatt et.al.|[2310.10092](http://arxiv.org/abs/2310.10092)|null|
+|**2023-10-15**|**MCMC for Bayesian nonparametric mixture modeling under differential privacy**|Mario Beraha et.al.|[2310.09818](http://arxiv.org/abs/2310.09818)|null|
+|**2023-10-15**|**Private Synthetic Data Meets Ensemble Learning**|Haoyuan Sun et.al.|[2310.09729](http://arxiv.org/abs/2310.09729)|null|
+|**2023-10-14**|**DPZero: Dimension-Independent and Differentially Private Zeroth-Order Optimization**|Liang Zhang et.al.|[2310.09639](http://arxiv.org/abs/2310.09639)|null|
+|**2023-10-13**|**An In-Depth Examination of Requirements for Disclosure Risk Assessment**|Ron S. Jarmin et.al.|[2310.09398](http://arxiv.org/abs/2310.09398)|null|
+|**2023-10-13**|**Near-optimal Differentially Private Client Selection in Federated Settings**|Syed Eqbal Alam et.al.|[2310.09370](http://arxiv.org/abs/2310.09370)|null|
 |**2023-10-13**|**Split-and-Denoise: Protect large language model inference with local differential privacy**|Peihua Mai et.al.|[2310.09130](http://arxiv.org/abs/2310.09130)|null|
 |**2023-10-12**|**Differentially Private Non-convex Learning for Multi-layer Neural Networks**|Hanpu Shen et.al.|[2310.08425](http://arxiv.org/abs/2310.08425)|null|
 |**2023-10-11**|**Deepfakes, Phrenology, Surveillance, and More! A Taxonomy of AI Privacy Risks**|Hao-Ping Lee et.al.|[2310.07879](http://arxiv.org/abs/2310.07879)|null|
@@ -2053,6 +2059,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems**|Chendi Qian et.al.|[2310.10603](http://arxiv.org/abs/2310.10603)|**[link](https://github.com/chendiqian/IPM_MPNN)**|
+|**2023-10-16**|**Equivariant Matrix Function Neural Networks**|Ilyes Batatia et.al.|[2310.10434](http://arxiv.org/abs/2310.10434)|null|
+|**2023-10-16**|**Learning visual-based deformable object rearrangement with local graph neural networks**|Yuhong Deng et.al.|[2310.10307](http://arxiv.org/abs/2310.10307)|**[link](https://github.com/dengyh16code/deformable-gnn)**|
+|**2023-10-16**|**From Continuous Dynamics to Graph Neural Networks: Neural Diffusion and Beyond**|Andi Han et.al.|[2310.10121](http://arxiv.org/abs/2310.10121)|null|
+|**2023-10-16**|**Learning Graph Filters for Spectral GNNs via Newton Interpolation**|Junjie Xu et.al.|[2310.10064](http://arxiv.org/abs/2310.10064)|null|
+|**2023-10-15**|**Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)**|Jianxiang Yu et.al.|[2310.09872](http://arxiv.org/abs/2310.09872)|null|
+|**2023-10-15**|**Model Inversion Attacks on Homogeneous and Heterogeneous Graph Neural Networks**|Renyang Liu et.al.|[2310.09800](http://arxiv.org/abs/2310.09800)|null|
+|**2023-10-15**|**SGA: A Graph Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2310.09705](http://arxiv.org/abs/2310.09705)|null|
+|**2023-10-14**|**Topology-guided Hypergraph Transformer Network: Unveiling Structural Insights for Improved Representation**|Khaled Mohammed Saifuddin et.al.|[2310.09657](http://arxiv.org/abs/2310.09657)|null|
+|**2023-10-14**|**Context-aware Session-based Recommendation with Graph Neural Networks**|Zhihui Zhang et.al.|[2310.09593](http://arxiv.org/abs/2310.09593)|**[link](https://github.com/brilliantzhang/cares)**|
+|**2023-10-14**|**Causality and Independence Enhancement for Biased Node Classification**|Guoxin Chen et.al.|[2310.09586](http://arxiv.org/abs/2310.09586)|**[link](https://github.com/chen-gx/cie)**|
+|**2023-10-14**|**Graph Neural Network approaches for single-cell data: A recent overview**|Konstantinos Lazaros et.al.|[2310.09561](http://arxiv.org/abs/2310.09561)|null|
+|**2023-10-14**|**ARTree: A Deep Autoregressive Model for Phylogenetic Inference**|Tianyu Xie et.al.|[2310.09553](http://arxiv.org/abs/2310.09553)|**[link](https://github.com/tyuxie/artree)**|
+|**2023-10-14**|**Efficient Link Prediction via GNN Layers Induced by Negative Sampling**|Yuxin Wang et.al.|[2310.09516](http://arxiv.org/abs/2310.09516)|null|
 |**2023-10-13**|**Graph Condensation via Eigenbasis Matching**|Yang Liu et.al.|[2310.09202](http://arxiv.org/abs/2310.09202)|null|
 |**2023-10-12**|**Heterophily-Based Graph Neural Network for Imbalanced Classification**|Zirui Liang et.al.|[2310.08725](http://arxiv.org/abs/2310.08725)|null|
 |**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|**[link](https://github.com/yCobanoglu/infinite-width-gnns)**|
