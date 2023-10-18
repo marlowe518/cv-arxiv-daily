@@ -2037,6 +2037,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Disentangling the Linguistic Competence of Privacy-Preserving BERT**|Stefan Arnold et.al.|[2310.11363](http://arxiv.org/abs/2310.11363)|null|
+|**2023-10-17**|**Locally Differentially Private Graph Embedding**|Zening Li et.al.|[2310.11060](http://arxiv.org/abs/2310.11060)|null|
+|**2023-10-17**|**Optimal Private Discrete Distribution Estimation with One-bit Communication**|Seung-Hyun Nam et.al.|[2310.11005](http://arxiv.org/abs/2310.11005)|null|
 |**2023-10-16**|**Label Differential Privacy via Aggregation**|Anand Brahmbhatt et.al.|[2310.10092](http://arxiv.org/abs/2310.10092)|null|
 |**2023-10-15**|**MCMC for Bayesian nonparametric mixture modeling under differential privacy**|Mario Beraha et.al.|[2310.09818](http://arxiv.org/abs/2310.09818)|null|
 |**2023-10-15**|**Private Synthetic Data Meets Ensemble Learning**|Haoyuan Sun et.al.|[2310.09729](http://arxiv.org/abs/2310.09729)|null|
@@ -2083,6 +2086,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**VcT: Visual change Transformer for Remote Sensing Image Change Detection**|Bo Jiang et.al.|[2310.11417](http://arxiv.org/abs/2310.11417)|**[link](https://github.com/event-ahu/vct_remote_sensing_change_detection)**|
+|**2023-10-17**|**Hybrid quantum-classical graph neural networks for tumor classification in digital pathology**|Anupama Ray et.al.|[2310.11353](http://arxiv.org/abs/2310.11353)|null|
+|**2023-10-17**|**Self-supervision meets kernel graph neural models: From architecture to augmentations**|Jiawang Dan et.al.|[2310.11281](http://arxiv.org/abs/2310.11281)|null|
+|**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
+|**2023-10-17**|**Accurate prediction of international trade flows: Leveraging knowledge graphs and their embeddings**|Diego Rincon-Yanez et.al.|[2310.11161](http://arxiv.org/abs/2310.11161)|null|
+|**2023-10-17**|**CSG: Curriculum Representation Learning for Signed Graph**|Zeyu Zhang et.al.|[2310.11083](http://arxiv.org/abs/2310.11083)|null|
+|**2023-10-17**|**Multi-omics Sampling-based Graph Transformer for Synthetic Lethality Prediction**|Xusheng Zhao et.al.|[2310.11082](http://arxiv.org/abs/2310.11082)|null|
+|**2023-10-17**|**Fast Graph Condensation with Structure-based Neural Tangent Kernel**|Lin Wang et.al.|[2310.11046](http://arxiv.org/abs/2310.11046)|null|
+|**2023-10-17**|**SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning**|Jinsong Chen et.al.|[2310.11025](http://arxiv.org/abs/2310.11025)|null|
+|**2023-10-17**|**Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation**|Xinyi Gao et.al.|[2310.10998](http://arxiv.org/abs/2310.10998)|null|
+|**2023-10-17**|**A Local Graph Limits Perspective on Sampling-Based GNNs**|Yeganeh Alimohammadi et.al.|[2310.10953](http://arxiv.org/abs/2310.10953)|null|
+|**2023-10-17**|**Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control**|Xianyue Peng et.al.|[2310.10948](http://arxiv.org/abs/2310.10948)|null|
+|**2023-10-17**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898](http://arxiv.org/abs/2310.10898)|null|
+|**2023-10-16**|**Neural Tangent Kernels Motivate Graph Neural Networks with Cross-Covariance Graphs**|Shervin Khalafi et.al.|[2310.10791](http://arxiv.org/abs/2310.10791)|null|
+|**2023-10-16**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732](http://arxiv.org/abs/2310.10732)|null|
 |**2023-10-16**|**Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems**|Chendi Qian et.al.|[2310.10603](http://arxiv.org/abs/2310.10603)|**[link](https://github.com/chendiqian/IPM_MPNN)**|
 |**2023-10-16**|**Equivariant Matrix Function Neural Networks**|Ilyes Batatia et.al.|[2310.10434](http://arxiv.org/abs/2310.10434)|null|
 |**2023-10-16**|**Learning visual-based deformable object rearrangement with local graph neural networks**|Yuhong Deng et.al.|[2310.10307](http://arxiv.org/abs/2310.10307)|**[link](https://github.com/dengyh16code/deformable-gnn)**|
