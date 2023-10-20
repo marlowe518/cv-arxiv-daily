@@ -2015,6 +2015,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Privately Answering Queries on Skewed Data via Per Record Differential Privacy**|Jeremy Seeman et.al.|[2310.12827](http://arxiv.org/abs/2310.12827)|null|
+|**2023-10-19**|**Conditional Density Estimations from Privacy-Protected Data**|Xiaofei Xiong et.al.|[2310.12781](http://arxiv.org/abs/2310.12781)|null|
+|**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
+|**2023-10-18**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
 |**2023-10-18**|**Differentially Private Distributed Stochastic Optimization with Time-Varying Sample Sizes**|Jimin Wang et.al.|[2310.11892](http://arxiv.org/abs/2310.11892)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
 |**2023-10-17**|**Differentially Private Data Generation with Missing Data**|Shubhankar Mohapatra et.al.|[2310.11548](http://arxiv.org/abs/2310.11548)|**[link](https://github.com/mshubhankar/dp-datageneration-missingdata)**|
@@ -2065,12 +2069,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800](http://arxiv.org/abs/2310.12800)|null|
+|**2023-10-19**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580](http://arxiv.org/abs/2310.12580)|**[link](https://github.com/hope-rita/thlm)**|
+|**2023-10-19**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565](http://arxiv.org/abs/2310.12565)|**[link](https://github.com/bobowner/open-world-lgl)**|
+|**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557](http://arxiv.org/abs/2310.12557)|null|
+|**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515](http://arxiv.org/abs/2310.12515)|null|
+|**2023-10-19**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**|Haitian Jiang et.al.|[2310.12457](http://arxiv.org/abs/2310.12457)|null|
+|**2023-10-19**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403](http://arxiv.org/abs/2310.12403)|null|
+|**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350](http://arxiv.org/abs/2310.12350)|**[link](https://github.com/yuening-lab/f2gnn)**|
+|**2023-10-18**|**Architectural Implications of GNN Aggregation Programming Abstractions**|Yingjie Qi et.al.|[2310.12184](http://arxiv.org/abs/2310.12184)|null|
 |**2023-10-18**|**Building a Graph-based Deep Learning network model from captured traffic traces**|Carlos Güemes-Palau et.al.|[2310.11889](http://arxiv.org/abs/2310.11889)|null|
 |**2023-10-18**|**Towards Graph Foundation Models: A Survey and Beyond**|Jiawei Liu et.al.|[2310.11829](http://arxiv.org/abs/2310.11829)|null|
 |**2023-10-18**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787](http://arxiv.org/abs/2310.11787)|null|
 |**2023-10-19**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762](http://arxiv.org/abs/2310.11762)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
-|**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|null|
+|**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|**[link](https://github.com/dsail-skku/multimodal-aphasia-type-detection_emnlp_2023)**|
 |**2023-10-18**|**Hetero $^2$ Net: Heterophily-aware Representation Learning on Heterogenerous Graphs**|Jintang Li et.al.|[2310.11664](http://arxiv.org/abs/2310.11664)|null|
 |**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562](http://arxiv.org/abs/2310.11562)|null|
 |**2023-10-17**|**On the Temperature of Bayesian Graph Neural Networks for Conformal Prediction**|Seohyeon Cha et.al.|[2310.11479](http://arxiv.org/abs/2310.11479)|null|
