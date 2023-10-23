@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2016,7 +2016,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-19**|**Privately Answering Queries on Skewed Data via Per Record Differential Privacy**|Jeremy Seeman et.al.|[2310.12827](http://arxiv.org/abs/2310.12827)|null|
-|**2023-10-19**|**Conditional Density Estimations from Privacy-Protected Data**|Xiaofei Xiong et.al.|[2310.12781](http://arxiv.org/abs/2310.12781)|null|
+|**2023-10-20**|**Conditional Density Estimations from Privacy-Protected Data**|Yifei Xiong et.al.|[2310.12781](http://arxiv.org/abs/2310.12781)|null|
 |**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
 |**2023-10-18**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
 |**2023-10-18**|**Differentially Private Distributed Stochastic Optimization with Time-Varying Sample Sizes**|Jimin Wang et.al.|[2310.11892](http://arxiv.org/abs/2310.11892)|null|
@@ -2025,7 +2025,7 @@ layout: default
 |**2023-10-17**|**Disentangling the Linguistic Competence of Privacy-Preserving BERT**|Stefan Arnold et.al.|[2310.11363](http://arxiv.org/abs/2310.11363)|null|
 |**2023-10-17**|**Locally Differentially Private Graph Embedding**|Zening Li et.al.|[2310.11060](http://arxiv.org/abs/2310.11060)|null|
 |**2023-10-17**|**Optimal Private Discrete Distribution Estimation with One-bit Communication**|Seung-Hyun Nam et.al.|[2310.11005](http://arxiv.org/abs/2310.11005)|null|
-|**2023-10-16**|**Label Differential Privacy via Aggregation**|Anand Brahmbhatt et.al.|[2310.10092](http://arxiv.org/abs/2310.10092)|null|
+|**2023-10-20**|**Label Differential Privacy via Aggregation**|Anand Brahmbhatt et.al.|[2310.10092](http://arxiv.org/abs/2310.10092)|null|
 |**2023-10-15**|**MCMC for Bayesian nonparametric mixture modeling under differential privacy**|Mario Beraha et.al.|[2310.09818](http://arxiv.org/abs/2310.09818)|null|
 |**2023-10-15**|**Private Synthetic Data Meets Ensemble Learning**|Haoyuan Sun et.al.|[2310.09729](http://arxiv.org/abs/2310.09729)|null|
 |**2023-10-14**|**DPZero: Dimension-Independent and Differentially Private Zeroth-Order Optimization**|Liang Zhang et.al.|[2310.09639](http://arxiv.org/abs/2310.09639)|null|
@@ -2083,7 +2083,7 @@ layout: default
 |**2023-10-18**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787](http://arxiv.org/abs/2310.11787)|null|
 |**2023-10-19**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762](http://arxiv.org/abs/2310.11762)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
-|**2023-10-18**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|**[link](https://github.com/dsail-skku/multimodal-aphasia-type-detection_emnlp_2023)**|
+|**2023-10-20**|**Learning Co-Speech Gesture for Multimodal Aphasia Type Detection**|Daeun Lee et.al.|[2310.11710](http://arxiv.org/abs/2310.11710)|**[link](https://github.com/dsail-skku/multimodal-aphasia-type-detection_emnlp_2023)**|
 |**2023-10-18**|**Hetero $^2$ Net: Heterophily-aware Representation Learning on Heterogenerous Graphs**|Jintang Li et.al.|[2310.11664](http://arxiv.org/abs/2310.11664)|null|
 |**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562](http://arxiv.org/abs/2310.11562)|null|
 |**2023-10-17**|**On the Temperature of Bayesian Graph Neural Networks for Conformal Prediction**|Seohyeon Cha et.al.|[2310.11479](http://arxiv.org/abs/2310.11479)|null|
