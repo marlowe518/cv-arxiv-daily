@@ -2037,6 +2037,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Tractable MCMC for Private Learning with Pure and Gaussian Differential Privacy**|Yingyu Lin et.al.|[2310.14661](http://arxiv.org/abs/2310.14661)|null|
+|**2023-10-22**|**Enhancing Accuracy-Privacy Trade-off in Differentially Private Split Learning**|Ngoc Duy Pham et.al.|[2310.14434](http://arxiv.org/abs/2310.14434)|null|
+|**2023-10-21**|**Local Differential Privacy for Number of Paths and Katz Centrality**|Louis Betzer et.al.|[2310.14000](http://arxiv.org/abs/2310.14000)|null|
 |**2023-10-19**|**Mean Estimation Under Heterogeneous Privacy Demands**|Syomantak Chaudhuri et.al.|[2310.13137](http://arxiv.org/abs/2310.13137)|null|
 |**2023-10-19**|**Making Differential Privacy Easier to Use for Data Controllers and Data Analysts using a Privacy Risk Indicator and an Escrow-Based Platform**|Zhiru Zhu et.al.|[2310.13104](http://arxiv.org/abs/2310.13104)|null|
 |**2023-10-19**|**Privately Answering Queries on Skewed Data via Per Record Differential Privacy**|Jeremy Seeman et.al.|[2310.12827](http://arxiv.org/abs/2310.12827)|null|
@@ -2095,6 +2098,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153](http://arxiv.org/abs/2310.15153)|null|
+|**2023-10-23**|**Projected Stochastic Gradient Descent with Quantum Annealed Binary Gradients**|Maximilian Krahn et.al.|[2310.15128](http://arxiv.org/abs/2310.15128)|null|
+|**2023-10-23**|**GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs**|Yichuan Li et.al.|[2310.15109](http://arxiv.org/abs/2310.15109)|null|
+|**2023-10-23**|**Neural Snowflakes: Universal Latent Graph Inference via Trainable Latent Geometries**|Haitz Sáez de Ocáriz Borde et.al.|[2310.15003](http://arxiv.org/abs/2310.15003)|null|
+|**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866](http://arxiv.org/abs/2310.14866)|**[link](https://github.com/kgrl2021/submission-one)**|
+|**2023-10-23**|**ULTRA-DP: Unifying Graph Pre-training with Multi-task Graph Dual Prompt**|Mouxiang Chen et.al.|[2310.14845](http://arxiv.org/abs/2310.14845)|null|
+|**2023-10-23**|**Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules**|Zhiyuan Liu et.al.|[2310.14753](http://arxiv.org/abs/2310.14753)|**[link](https://github.com/syr-cn/simsgt)**|
+|**2023-10-23**|**A Hybrid GNN approach for predicting node data for 3D meshes**|Shwetha Salimath et.al.|[2310.14707](http://arxiv.org/abs/2310.14707)|null|
+|**2023-10-23**|**GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels**|Xin Zheng et.al.|[2310.14586](http://arxiv.org/abs/2310.14586)|null|
+|**2023-10-23**|**Multimodal Graph Learning for Modeling Emerging Pandemics with Big Data**|Khanh-Tung Tran et.al.|[2310.14549](http://arxiv.org/abs/2310.14549)|**[link](https://github.com/khanhtungtran/mgl4mep)**|
+|**2023-10-23**|**Marginal Nodes Matter: Towards Structure Fairness in Graphs**|Xiaotian Han et.al.|[2310.14527](http://arxiv.org/abs/2310.14527)|null|
+|**2023-10-23**|**Efficient Heterogeneous Graph Learning via Random Projection**|Jun Hu et.al.|[2310.14481](http://arxiv.org/abs/2310.14481)|**[link](https://github.com/CrawlScript/RpHGNN)**|
+|**2023-10-22**|**Ensemble Learning for Graph Neural Networks**|Zhen Hao Wong et.al.|[2310.14166](http://arxiv.org/abs/2310.14166)|**[link](https://github.com/wongzhenhao/elgnn)**|
+|**2023-10-22**|**Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems**|Abhay Sobhanan et.al.|[2310.14157](http://arxiv.org/abs/2310.14157)|null|
+|**2023-10-21**|**Graph Neural Networks and Applied Linear Algebra**|Nicholas S. Moore et.al.|[2310.14084](http://arxiv.org/abs/2310.14084)|**[link](https://github.com/sandialabs/gnn-applied-linear-algebra)**|
+|**2023-10-21**|**LLM-Prop: Predicting Physical And Electronic Properties Of Crystalline Solids From Their Text Descriptions**|Andre Niyongabo Rubungo et.al.|[2310.14029](http://arxiv.org/abs/2310.14029)|null|
+|**2023-10-20**|**Adversarial Attacks on Fairness of Graph Neural Networks**|Binchi Zhang et.al.|[2310.13822](http://arxiv.org/abs/2310.13822)|**[link](https://github.com/zhangbinchi/g-fairattack)**|
+|**2023-10-20**|**Graph AI in Medicine**|Ruth Johnson et.al.|[2310.13767](http://arxiv.org/abs/2310.13767)|null|
 |**2023-10-20**|**ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**|Yaorui Shi et.al.|[2310.13590](http://arxiv.org/abs/2310.13590)|**[link](https://github.com/syr-cn/relm)**|
 |**2023-10-20**|**SPARE: A Single-Pass Neural Model for Relational Databases**|Benjamin Hilprecht et.al.|[2310.13581](http://arxiv.org/abs/2310.13581)|null|
 |**2023-10-20**|**Towards Enhancing Relational Rules for Knowledge Graph Link Prediction**|Shuhan Wu et.al.|[2310.13411](http://arxiv.org/abs/2310.13411)|null|
