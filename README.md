@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -442,7 +442,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## SFM
 
@@ -581,7 +581,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1132,7 +1132,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1313,7 +1313,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1491,7 +1491,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## NeRF
 
@@ -2031,7 +2031,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## Differential Privacy
 
@@ -2042,7 +2042,7 @@
 |**2023-10-19**|**Privately Answering Queries on Skewed Data via Per Record Differential Privacy**|Jeremy Seeman et.al.|[2310.12827](http://arxiv.org/abs/2310.12827)|null|
 |**2023-10-20**|**Conditional Density Estimations from Privacy-Protected Data**|Yifei Xiong et.al.|[2310.12781](http://arxiv.org/abs/2310.12781)|null|
 |**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
-|**2023-10-18**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
+|**2023-10-22**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
 |**2023-10-18**|**Differentially Private Distributed Stochastic Optimization with Time-Varying Sample Sizes**|Jimin Wang et.al.|[2310.11892](http://arxiv.org/abs/2310.11892)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
 |**2023-10-17**|**Differentially Private Data Generation with Missing Data**|Shubhankar Mohapatra et.al.|[2310.11548](http://arxiv.org/abs/2310.11548)|**[link](https://github.com/mshubhankar/dp-datageneration-missingdata)**|
@@ -2089,7 +2089,7 @@
 |**2023-09-27**|**Some Efficient and Optimal K-Norm Mechanisms**|Matthew Joseph et.al.|[2309.15790](http://arxiv.org/abs/2309.15790)|null|
 |**2023-09-27**|**Faster Relative Entropy Coding with Greedy Rejection Coding**|Gergely Flamich et.al.|[2309.15746](http://arxiv.org/abs/2309.15746)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -2105,12 +2105,12 @@
 |**2023-10-19**|**Agri-GNN: A Novel Genotypic-Topological Graph Neural Network Framework Built on GraphSAGE for Optimized Yield Prediction**|Aditya Gupta et.al.|[2310.13037](http://arxiv.org/abs/2310.13037)|null|
 |**2023-10-19**|**GraphGPT: Graph Instruction Tuning for Large Language Models**|Jiabin Tang et.al.|[2310.13023](http://arxiv.org/abs/2310.13023)|**[link](https://github.com/HKUDS/GraphGPT)**|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800](http://arxiv.org/abs/2310.12800)|null|
-|**2023-10-19**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580](http://arxiv.org/abs/2310.12580)|**[link](https://github.com/hope-rita/thlm)**|
+|**2023-10-23**|**Pretraining Language Models with Text-Attributed Heterogeneous Graphs**|Tao Zou et.al.|[2310.12580](http://arxiv.org/abs/2310.12580)|**[link](https://github.com/hope-rita/thlm)**|
 |**2023-10-19**|**Open-World Lifelong Graph Learning**|Marcel Hoffmann et.al.|[2310.12565](http://arxiv.org/abs/2310.12565)|**[link](https://github.com/bobowner/open-world-lgl)**|
 |**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557](http://arxiv.org/abs/2310.12557)|**[link](https://github.com/syon-li/depwignn)**|
 |**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515](http://arxiv.org/abs/2310.12515)|null|
 |**2023-10-19**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**|Haitian Jiang et.al.|[2310.12457](http://arxiv.org/abs/2310.12457)|null|
-|**2023-10-19**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403](http://arxiv.org/abs/2310.12403)|null|
+|**2023-10-22**|**Cooperative Minibatching in Graph Neural Networks**|Muhammed Fatih Balin et.al.|[2310.12403](http://arxiv.org/abs/2310.12403)|null|
 |**2023-10-18**|**Equipping Federated Graph Neural Networks with Structure-aware Group Fairness**|Nan Cui et.al.|[2310.12350](http://arxiv.org/abs/2310.12350)|**[link](https://github.com/yuening-lab/f2gnn)**|
 |**2023-10-18**|**Architectural Implications of GNN Aggregation Programming Abstractions**|Yingjie Qi et.al.|[2310.12184](http://arxiv.org/abs/2310.12184)|null|
 |**2023-10-18**|**Building a Graph-based Deep Learning network model from captured traffic traces**|Carlos Güemes-Palau et.al.|[2310.11889](http://arxiv.org/abs/2310.11889)|null|
@@ -2194,7 +2194,7 @@
 |**2023-10-04**|**Graph data modelling for outcome prediction in oropharyngeal cancer patients**|Nithya Bhasker et.al.|[2310.02931](http://arxiv.org/abs/2310.02931)|null|
 |**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 
-<p align=right>(<a href=#updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
