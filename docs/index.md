@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2023,7 +2023,7 @@ layout: default
 |**2023-10-19**|**Privately Answering Queries on Skewed Data via Per Record Differential Privacy**|Jeremy Seeman et.al.|[2310.12827](http://arxiv.org/abs/2310.12827)|null|
 |**2023-10-20**|**Conditional Density Estimations from Privacy-Protected Data**|Yifei Xiong et.al.|[2310.12781](http://arxiv.org/abs/2310.12781)|null|
 |**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
-|**2023-10-22**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
+|**2023-10-24**|**PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model**|Meng Tong et.al.|[2310.12214](http://arxiv.org/abs/2310.12214)|null|
 |**2023-10-18**|**Differentially Private Distributed Stochastic Optimization with Time-Varying Sample Sizes**|Jimin Wang et.al.|[2310.11892](http://arxiv.org/abs/2310.11892)|null|
 |**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
 |**2023-10-17**|**Differentially Private Data Generation with Missing Data**|Shubhankar Mohapatra et.al.|[2310.11548](http://arxiv.org/abs/2310.11548)|**[link](https://github.com/mshubhankar/dp-datageneration-missingdata)**|
