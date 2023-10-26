@@ -2015,6 +2015,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Private Estimation and Inference in High-Dimensional Regression with FDR Control**|Zhanrui Cai et.al.|[2310.16260](http://arxiv.org/abs/2310.16260)|null|
+|**2023-10-24**|**Locally Differentially Private Document Generation Using Zero Shot Prompting**|Saiteja Utpala et.al.|[2310.16111](http://arxiv.org/abs/2310.16111)|null|
+|**2023-10-24**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
 |**2023-10-24**|**Privacy Amplification for Matrix Mechanisms**|Christopher A. Choquette-Choo et.al.|[2310.15526](http://arxiv.org/abs/2310.15526)|null|
 |**2023-10-24**|**On the Inherent Privacy Properties of Discrete Denoising Diffusion Models**|Rongzhe Wei et.al.|[2310.15524](http://arxiv.org/abs/2310.15524)|null|
 |**2023-10-23**|**Tractable MCMC for Private Learning with Pure and Gaussian Differential Privacy**|Yingyu Lin et.al.|[2310.14661](http://arxiv.org/abs/2310.14661)|null|
@@ -2076,6 +2079,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**RDBench: ML Benchmark for Relational Databases**|Zizhao Zhang et.al.|[2310.16837](http://arxiv.org/abs/2310.16837)|**[link](https://github.com/jiaxuanyou/dbgym)**|
+|**2023-10-25**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772](http://arxiv.org/abs/2310.16772)|null|
+|**2023-10-25**|**$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal $\mathbb{GR}$ aphs**|Adnen Abdessaied et.al.|[2310.16590](http://arxiv.org/abs/2310.16590)|null|
+|**2023-10-25**|**Graph Agent: Explicit Reasoning Agent for Graphs**|Qinyong Wang et.al.|[2310.16421](http://arxiv.org/abs/2310.16421)|null|
+|**2023-10-25**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401](http://arxiv.org/abs/2310.16401)|null|
+|**2023-10-25**|**DyExplainer: Explainable Dynamic Graph Neural Networks**|Tianchun Wang et.al.|[2310.16375](http://arxiv.org/abs/2310.16375)|null|
 |**2023-10-24**|**Graph Deep Learning for Time Series Forecasting**|Andrea Cini et.al.|[2310.15978](http://arxiv.org/abs/2310.15978)|null|
 |**2023-10-24**|**Representation Learning with Large Language Models for Recommendation**|Xubin Ren et.al.|[2310.15950](http://arxiv.org/abs/2310.15950)|**[link](https://github.com/hkuds/rlmrec)**|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938](http://arxiv.org/abs/2310.15938)|null|
