@@ -2015,6 +2015,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**DP-SGD with weight clipping**|Antoine Barczewski et.al.|[2310.18001](http://arxiv.org/abs/2310.18001)|null|
 |**2023-10-26**|**Multitask Online Learning: Listen to the Neighborhood Buzz**|Juliette Achddou et.al.|[2310.17385](http://arxiv.org/abs/2310.17385)|null|
 |**2023-10-25**|**Privately Aligning Language Models with Reinforcement Learning**|Fan Wu et.al.|[2310.16960](http://arxiv.org/abs/2310.16960)|null|
 |**2023-10-25**|**Private Estimation and Inference in High-Dimensional Regression with FDR Control**|Zhanrui Cai et.al.|[2310.16260](http://arxiv.org/abs/2310.16260)|null|
@@ -2081,6 +2082,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**One Model Fits All: Cross-Region Taxi-Demand Forecasting**|Ren Ozeki et.al.|[2310.18215](http://arxiv.org/abs/2310.18215)|null|
+|**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152](http://arxiv.org/abs/2310.18152)|null|
+|**2023-10-26**|**Graph Neural Networkrs for Enhanced Decoding of Quantum LDPC Codes**|Anqi Gong et.al.|[2310.17758](http://arxiv.org/abs/2310.17758)|null|
+|**2023-10-26**|**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**|Ramin Giahi et.al.|[2310.17732](http://arxiv.org/abs/2310.17732)|null|
+|**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
+|**2023-10-26**|**Spatio-Temporal Meta Contrastive Learning**|Jiabin Tang et.al.|[2310.17678](http://arxiv.org/abs/2310.17678)|**[link](https://github.com/hkuds/cl4st)**|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
 |**2023-10-26**|**BLIS-Net: Classifying and Analyzing Signals on Graphs**|Charles Xu et.al.|[2310.17579](http://arxiv.org/abs/2310.17579)|null|
 |**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493](http://arxiv.org/abs/2310.17493)|null|
