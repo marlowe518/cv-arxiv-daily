@@ -2037,12 +2037,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**On the accuracy and efficiency of group-wise clipping in differentially private optimization**|Zhiqi Bu et.al.|[2310.19215](http://arxiv.org/abs/2310.19215)|null|
+|**2023-10-29**|**Differentially Private Permutation Tests: Applications to Kernel Methods**|Ilmun Kim et.al.|[2310.19043](http://arxiv.org/abs/2310.19043)|null|
+|**2023-10-27**|**The Bayesian Stability Zoo**|Shay Moran et.al.|[2310.18428](http://arxiv.org/abs/2310.18428)|null|
 |**2023-10-27**|**DP-SGD with weight clipping**|Antoine Barczewski et.al.|[2310.18001](http://arxiv.org/abs/2310.18001)|null|
 |**2023-10-26**|**Multitask Online Learning: Listen to the Neighborhood Buzz**|Juliette Achddou et.al.|[2310.17385](http://arxiv.org/abs/2310.17385)|null|
 |**2023-10-25**|**Privately Aligning Language Models with Reinforcement Learning**|Fan Wu et.al.|[2310.16960](http://arxiv.org/abs/2310.16960)|null|
 |**2023-10-25**|**Private Estimation and Inference in High-Dimensional Regression with FDR Control**|Zhanrui Cai et.al.|[2310.16260](http://arxiv.org/abs/2310.16260)|null|
 |**2023-10-24**|**Locally Differentially Private Document Generation Using Zero Shot Prompting**|Saiteja Utpala et.al.|[2310.16111](http://arxiv.org/abs/2310.16111)|null|
-|**2023-10-24**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
+|**2023-10-29**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
 |**2023-10-24**|**Privacy Amplification for Matrix Mechanisms**|Christopher A. Choquette-Choo et.al.|[2310.15526](http://arxiv.org/abs/2310.15526)|null|
 |**2023-10-24**|**On the Inherent Privacy Properties of Discrete Denoising Diffusion Models**|Rongzhe Wei et.al.|[2310.15524](http://arxiv.org/abs/2310.15524)|null|
 |**2023-10-23**|**Tractable MCMC for Private Learning with Pure and Gaussian Differential Privacy**|Yingyu Lin et.al.|[2310.14661](http://arxiv.org/abs/2310.14661)|null|
@@ -2106,15 +2109,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
+|**2023-10-29**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006](http://arxiv.org/abs/2310.19006)|null|
+|**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918](http://arxiv.org/abs/2310.18918)|null|
+|**2023-10-29**|**Topological, or Non-topological? A Deep Learning Based Prediction**|Ashiqur Rasul et.al.|[2310.18907](http://arxiv.org/abs/2310.18907)|null|
+|**2023-10-28**|**Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**|Divin Yan et.al.|[2310.18765](http://arxiv.org/abs/2310.18765)|**[link](https://github.com/yanliang3612/revar)**|
+|**2023-10-28**|**Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First**|Zheng Zhang et.al.|[2310.18735](http://arxiv.org/abs/2310.18735)|**[link](https://github.com/rollingstonezz/curriculum_learning_for_gnns)**|
+|**2023-10-28**|**Maximum Independent Set: Self-Training through Dynamic Programming**|Lorenzo Brusca et.al.|[2310.18672](http://arxiv.org/abs/2310.18672)|null|
 |**2023-10-27**|**One Model Fits All: Cross-Region Taxi-Demand Forecasting**|Ren Ozeki et.al.|[2310.18215](http://arxiv.org/abs/2310.18215)|null|
 |**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152](http://arxiv.org/abs/2310.18152)|null|
-|**2023-10-26**|**Graph Neural Networkrs for Enhanced Decoding of Quantum LDPC Codes**|Anqi Gong et.al.|[2310.17758](http://arxiv.org/abs/2310.17758)|null|
+|**2023-10-26**|**Graph Neural Networkrs for Enhanced Decoding of Quantum LDPC Codes**|Anqi Gong et.al.|[2310.17758](http://arxiv.org/abs/2310.17758)|**[link](https://github.com/gongaa/feedback-gnn)**|
 |**2023-10-26**|**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**|Ramin Giahi et.al.|[2310.17732](http://arxiv.org/abs/2310.17732)|null|
 |**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
 |**2023-10-26**|**Spatio-Temporal Meta Contrastive Learning**|Jiabin Tang et.al.|[2310.17678](http://arxiv.org/abs/2310.17678)|**[link](https://github.com/hkuds/cl4st)**|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
 |**2023-10-26**|**BLIS-Net: Classifying and Analyzing Signals on Graphs**|Charles Xu et.al.|[2310.17579](http://arxiv.org/abs/2310.17579)|null|
-|**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493](http://arxiv.org/abs/2310.17493)|null|
+|**2023-10-30**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493](http://arxiv.org/abs/2310.17493)|null|
 |**2023-10-26**|**Circuit as Set of Points**|Jialv Zou et.al.|[2310.17418](http://arxiv.org/abs/2310.17418)|**[link](https://github.com/hustvl/circuitformer)**|
 |**2023-10-26**|**Enhancing Graph Neural Networks with Structure-Based Prompt**|Qingqing Ge et.al.|[2310.17394](http://arxiv.org/abs/2310.17394)|null|
 |**2023-10-26**|**Network Intrusion Detection with Edge-Directed Graph Multi-Head Attention Networks**|Xiang Li et.al.|[2310.17348](http://arxiv.org/abs/2310.17348)|null|
