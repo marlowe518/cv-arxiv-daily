@@ -2037,6 +2037,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Compression with Exact Error Distribution for Federated Learning**|Mahmoud Hegazy et.al.|[2310.20682](http://arxiv.org/abs/2310.20682)|null|
+|**2023-10-31**|**Optimal Binary Differential Privacy via Graphs**|Sahel Torkamani et.al.|[2310.20486](http://arxiv.org/abs/2310.20486)|null|
+|**2023-10-31**|**Verification of Neural Networks Local Differential Classification Privacy**|Roie Reshef et.al.|[2310.20299](http://arxiv.org/abs/2310.20299)|null|
+|**2023-10-30**|**Decentralised, Scalable and Privacy-Preserving Synthetic Data Generation**|Vishal Ramesh et.al.|[2310.20062](http://arxiv.org/abs/2310.20062)|null|
+|**2023-10-30**|**Scaling Up Differentially Private LASSO Regularized Logistic Regression via Faster Frank-Wolfe Iterations**|Edward Raff et.al.|[2310.19978](http://arxiv.org/abs/2310.19978)|null|
+|**2023-10-30**|**Unified Enhancement of Privacy Bounds for Mixture Mechanisms via $f$ -Differential Privacy**|Chendi Wang et.al.|[2310.19973](http://arxiv.org/abs/2310.19973)|null|
+|**2023-10-30**|**Differentially Private Reward Estimation with Preference Feedback**|Sayak Ray Chowdhury et.al.|[2310.19733](http://arxiv.org/abs/2310.19733)|null|
+|**2023-10-30**|**Privacy-preserving Federated Primal-dual Learning for Non-convex and Non-smooth Problems with Model Sparsification**|Yiwei Li et.al.|[2310.19558](http://arxiv.org/abs/2310.19558)|null|
+|**2023-10-30**|**Privacy-Preserving Federated Learning over Vertically and Horizontally Partitioned Data for Financial Anomaly Detection**|Swanand Ravindra Kadhe et.al.|[2310.19304](http://arxiv.org/abs/2310.19304)|null|
+|**2023-10-30**|**Flow-based Distributionally Robust Optimization**|Chen Xu et.al.|[2310.19253](http://arxiv.org/abs/2310.19253)|null|
+|**2023-10-30**|**Assessment of Differentially Private Synthetic Data for Utility and Fairness in End-to-End Machine Learning Pipelines for Tabular Data**|Mayana Pereira et.al.|[2310.19250](http://arxiv.org/abs/2310.19250)|null|
 |**2023-10-30**|**On the accuracy and efficiency of group-wise clipping in differentially private optimization**|Zhiqi Bu et.al.|[2310.19215](http://arxiv.org/abs/2310.19215)|null|
 |**2023-10-29**|**Differentially Private Permutation Tests: Applications to Kernel Methods**|Ilmun Kim et.al.|[2310.19043](http://arxiv.org/abs/2310.19043)|null|
 |**2023-10-27**|**The Bayesian Stability Zoo**|Shay Moran et.al.|[2310.18428](http://arxiv.org/abs/2310.18428)|null|
@@ -2109,6 +2120,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Stochastic Gradient Descent for Gaussian Processes Done Right**|Jihao Andreas Lin et.al.|[2310.20581](http://arxiv.org/abs/2310.20581)|null|
+|**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
+|**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
+|**2023-10-31**|**Collaborative Decision-Making Using Spatiotemporal Graphs in Connected Autonomy**|Peng Gao et.al.|[2310.20491](http://arxiv.org/abs/2310.20491)|null|
+|**2023-10-31**|**Distil the informative essence of loop detector data set: Is network-level traffic forecasting hungry for more data?**|Guopeng Li et.al.|[2310.20366](http://arxiv.org/abs/2310.20366)|**[link](https://github.com/romainlitud/uncertainty-aware-traffic-speed-flow-demand-prediction)**|
+|**2023-10-30**|**On the data-driven description of lattice materials mechanics**|Ismael Ben-Yelun et.al.|[2310.20056](http://arxiv.org/abs/2310.20056)|null|
+|**2023-10-30**|**Interpretable Prototype-based Graph Information Bottleneck**|Sangwoo Seo et.al.|[2310.19906](http://arxiv.org/abs/2310.19906)|**[link](https://github.com/sang-woo-seo/pgib)**|
+|**2023-10-30**|**Autoregressive Renaissance in Neural PDE Solvers**|Yolanne Yi Ran Lee et.al.|[2310.19763](http://arxiv.org/abs/2310.19763)|null|
+|**2023-10-30**|**Modeling Dynamics over Meshes with Gauge Equivariant Nonlinear Message Passing**|Jung Yeon Park et.al.|[2310.19589](http://arxiv.org/abs/2310.19589)|null|
+|**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500](http://arxiv.org/abs/2310.19500)|null|
+|**2023-10-30**|**LightSAGE: Graph Neural Networks for Large Scale Item Retrieval in Shopee's Advertisement Recommendation**|Dang Minh Nguyen et.al.|[2310.19394](http://arxiv.org/abs/2310.19394)|null|
+|**2023-10-30**|**TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery**|Jialin Chen et.al.|[2310.19324](http://arxiv.org/abs/2310.19324)|**[link](https://github.com/graph-and-geometric-learning/tempme)**|
+|**2023-10-30**|**D4Explainer: In-Distribution GNN Explanations via Discrete Denoising Diffusion**|Jialin Chen et.al.|[2310.19321](http://arxiv.org/abs/2310.19321)|**[link](https://github.com/graph-and-geometric-learning/d4explainer)**|
+|**2023-10-30**|**Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes**|Cai Zhou et.al.|[2310.19285](http://arxiv.org/abs/2310.19285)|**[link](https://github.com/zhouc20/hodgerandomwalk)**|
+|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274](http://arxiv.org/abs/2310.19274)|null|
+|**2023-10-30**|**A Metadata-Driven Approach to Understand Graph Neural Networks**|Ting Wei Li et.al.|[2310.19263](http://arxiv.org/abs/2310.19263)|null|
 |**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
 |**2023-10-29**|**The Weisfeiler-Leman Dimension of Existential Conjunctive Queries**|Andreas Göbel et.al.|[2310.19006](http://arxiv.org/abs/2310.19006)|null|
 |**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918](http://arxiv.org/abs/2310.18918)|null|
