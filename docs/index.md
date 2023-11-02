@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2020,7 +2020,7 @@ layout: default
 |**2023-10-31**|**Verification of Neural Networks Local Differential Classification Privacy**|Roie Reshef et.al.|[2310.20299](http://arxiv.org/abs/2310.20299)|null|
 |**2023-10-30**|**Decentralised, Scalable and Privacy-Preserving Synthetic Data Generation**|Vishal Ramesh et.al.|[2310.20062](http://arxiv.org/abs/2310.20062)|null|
 |**2023-10-30**|**Scaling Up Differentially Private LASSO Regularized Logistic Regression via Faster Frank-Wolfe Iterations**|Edward Raff et.al.|[2310.19978](http://arxiv.org/abs/2310.19978)|null|
-|**2023-10-30**|**Unified Enhancement of Privacy Bounds for Mixture Mechanisms via $f$ -Differential Privacy**|Chendi Wang et.al.|[2310.19973](http://arxiv.org/abs/2310.19973)|null|
+|**2023-11-01**|**Unified Enhancement of Privacy Bounds for Mixture Mechanisms via $f$ -Differential Privacy**|Chendi Wang et.al.|[2310.19973](http://arxiv.org/abs/2310.19973)|null|
 |**2023-10-30**|**Differentially Private Reward Estimation with Preference Feedback**|Sayak Ray Chowdhury et.al.|[2310.19733](http://arxiv.org/abs/2310.19733)|null|
 |**2023-10-30**|**Privacy-preserving Federated Primal-dual Learning for Non-convex and Non-smooth Problems with Model Sparsification**|Yiwei Li et.al.|[2310.19558](http://arxiv.org/abs/2310.19558)|null|
 |**2023-10-30**|**Privacy-Preserving Federated Learning over Vertically and Horizontally Partitioned Data for Financial Anomaly Detection**|Swanand Ravindra Kadhe et.al.|[2310.19304](http://arxiv.org/abs/2310.19304)|null|
