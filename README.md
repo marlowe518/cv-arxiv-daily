@@ -2037,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Total Variation Meets Differential Privacy**|Elena Ghazi et.al.|[2311.01553](http://arxiv.org/abs/2311.01553)|null|
 |**2023-11-02**|**Local differential privacy in survival analysis using private failure indicators**|Egea Maxime et.al.|[2311.01303](http://arxiv.org/abs/2311.01303)|null|
 |**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295](http://arxiv.org/abs/2311.01295)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
 |**2023-11-01**|**Adversarially Robust Distributed Count Tracking via Partial Differential Privacy**|Zhongzheng Xiong et.al.|[2311.00346](http://arxiv.org/abs/2311.00346)|null|
@@ -2123,6 +2124,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials**|Xiaoxiao Wang et.al.|[2311.01987](http://arxiv.org/abs/2311.01987)|null|
+|**2023-11-03**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928](http://arxiv.org/abs/2311.01928)|**[link](https://github.com/yukw777/temporal-discrete-graph-updater)**|
+|**2023-11-03**|**Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs**|Yeyuan Chen et.al.|[2311.01647](http://arxiv.org/abs/2311.01647)|**[link](https://github.com/hdmmblz/multi-graph)**|
+|**2023-11-02**|**Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs**|Debolina Halder Lina et.al.|[2311.01591](http://arxiv.org/abs/2311.01591)|null|
+|**2023-11-02**|**Domain Adaptive Graph Neural Networks for Constraining Cosmological Parameters Across Multiple Data Sets**|Andrea Roncoli et.al.|[2311.01588](http://arxiv.org/abs/2311.01588)|null|
+|**2023-11-02**|**ATGNN: Audio Tagging Graph Neural Network**|Shubhr Singh et.al.|[2311.01526](http://arxiv.org/abs/2311.01526)|null|
 |**2023-11-02**|**Long-Range Neural Atom Learning for Molecular Graphs**|Xuan Li et.al.|[2311.01276](http://arxiv.org/abs/2311.01276)|null|
 |**2023-11-02**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go Indifferent**|Lorenz Kummer et.al.|[2311.01205](http://arxiv.org/abs/2311.01205)|null|
 |**2023-11-02**|**Combating Bilateral Edge Noise for Robust Link Prediction**|Zhanke Zhou et.al.|[2311.01196](http://arxiv.org/abs/2311.01196)|**[link](https://github.com/tmlr-group/rgib)**|
