@@ -2015,6 +2015,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Preserving Privacy in GANs Against Membership Inference Attack**|Mohammadhadi Shateri et.al.|[2311.03172](http://arxiv.org/abs/2311.03172)|null|
+|**2023-11-06**|**An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata**|David Sánchez et.al.|[2311.03171](http://arxiv.org/abs/2311.03171)|null|
+|**2023-11-06**|**SoK: Memorisation in machine learning**|Dmitrii Usynin et.al.|[2311.03075](http://arxiv.org/abs/2311.03075)|null|
+|**2023-11-04**|**Bounded and Unbiased Composite Differential Privacy**|Kai Zhang et.al.|[2311.02324](http://arxiv.org/abs/2311.02324)|null|
+|**2023-11-04**|**On the Robustness, Connectivity and Giant Component Size of Random K-out Graphs**|Eray Can Elumar et.al.|[2311.02319](http://arxiv.org/abs/2311.02319)|null|
 |**2023-11-02**|**Total Variation Meets Differential Privacy**|Elena Ghazi et.al.|[2311.01553](http://arxiv.org/abs/2311.01553)|null|
 |**2023-11-02**|**Local differential privacy in survival analysis using private failure indicators**|Egea Maxime et.al.|[2311.01303](http://arxiv.org/abs/2311.01303)|null|
 |**2023-11-02**|**DP-Mix: Mixup-based Data Augmentation for Differentially Private Learning**|Wenxuan Bao et.al.|[2311.01295](http://arxiv.org/abs/2311.01295)|**[link](https://github.com/wenxuan-bao/dp-mix)**|
@@ -2100,6 +2105,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Exploiting Latent Attribute Interaction with Transformer on Heterogeneous Information Networks**|Zeyuan Zhao et.al.|[2311.03275](http://arxiv.org/abs/2311.03275)|null|
+|**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260](http://arxiv.org/abs/2311.03260)|null|
+|**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
+|**2023-11-06**|**Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks**|Savannah Thais et.al.|[2311.03094](http://arxiv.org/abs/2311.03094)|null|
+|**2023-11-06**|**Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation**|Fuyun Wang et.al.|[2311.02938](http://arxiv.org/abs/2311.02938)|null|
+|**2023-11-06**|**Edge2Node: Reducing Edge Prediction to Node Classification**|Zahed Rahmati et.al.|[2311.02921](http://arxiv.org/abs/2311.02921)|**[link](https://github.com/arahmatiiii/E2N)**|
+|**2023-11-06**|**Distributed Matrix-Based Sampling for Graph Neural Network Training**|Alok Tripathy et.al.|[2311.02909](http://arxiv.org/abs/2311.02909)|null|
+|**2023-11-06**|**Lightweight equivariant interaction graph neural network for accurate and efficient interatomic potential and force predictions**|Ziduo Yang et.al.|[2311.02869](http://arxiv.org/abs/2311.02869)|null|
+|**2023-11-06**|**Prioritized Propagation in Graph Neural Networks**|Yao Cheng et.al.|[2311.02832](http://arxiv.org/abs/2311.02832)|null|
+|**2023-11-05**|**ELEGANT: Certified Defense on the Fairness of Graph Neural Networks**|Yushun Dong et.al.|[2311.02757](http://arxiv.org/abs/2311.02757)|**[link](https://github.com/yushundong/elegant)**|
+|**2023-11-05**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657](http://arxiv.org/abs/2311.02657)|null|
+|**2023-11-05**|**Automated Camera Calibration via Homography Estimation with GNNs**|Giacomo D'Amicantonio et.al.|[2311.02598](http://arxiv.org/abs/2311.02598)|null|
+|**2023-11-05**|**KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy**|Qianxiong Xu et.al.|[2311.02565](http://arxiv.org/abs/2311.02565)|null|
+|**2023-11-04**|**Entropy Aware Training for Fast and Accurate Distributed GNN**|Dhruv Deshmukh et.al.|[2311.02399](http://arxiv.org/abs/2311.02399)|null|
+|**2023-11-04**|**MATA*: Combining Learnable Node Matching with A* Algorithm for Approximate Graph Edit Distance Computation**|Junfeng Liu et.al.|[2311.02356](http://arxiv.org/abs/2311.02356)|null|
+|**2023-11-03**|**Towards model-free RL algorithms that scale well with unstructured data**|Joseph Modayil et.al.|[2311.02215](http://arxiv.org/abs/2311.02215)|null|
+|**2023-11-03**|**Pairing-based graph neural network for simulating quantum materials**|Di Luo et.al.|[2311.02143](http://arxiv.org/abs/2311.02143)|null|
+|**2023-11-03**|**A Systematic Review of Deep Graph Neural Networks: Challenges, Classification, Architectures, Applications & Potential Utility in Bioinformatics**|Adil Mudasir Malla et.al.|[2311.02127](http://arxiv.org/abs/2311.02127)|null|
 |**2023-11-03**|**Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials**|Xiaoxiao Wang et.al.|[2311.01987](http://arxiv.org/abs/2311.01987)|null|
 |**2023-11-03**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928](http://arxiv.org/abs/2311.01928)|**[link](https://github.com/yukw777/temporal-discrete-graph-updater)**|
 |**2023-11-03**|**Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs**|Yeyuan Chen et.al.|[2311.01647](http://arxiv.org/abs/2311.01647)|**[link](https://github.com/hdmmblz/multi-graph)**|
