@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2115,10 +2115,10 @@ layout: default
 |**2023-11-06**|**Lightweight equivariant interaction graph neural network for accurate and efficient interatomic potential and force predictions**|Ziduo Yang et.al.|[2311.02869](http://arxiv.org/abs/2311.02869)|null|
 |**2023-11-06**|**Prioritized Propagation in Graph Neural Networks**|Yao Cheng et.al.|[2311.02832](http://arxiv.org/abs/2311.02832)|null|
 |**2023-11-05**|**ELEGANT: Certified Defense on the Fairness of Graph Neural Networks**|Yushun Dong et.al.|[2311.02757](http://arxiv.org/abs/2311.02757)|**[link](https://github.com/yushundong/elegant)**|
-|**2023-11-05**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657](http://arxiv.org/abs/2311.02657)|null|
+|**2023-11-05**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657](http://arxiv.org/abs/2311.02657)|**[link](https://github.com/farzad1132/GSC)**|
 |**2023-11-05**|**Automated Camera Calibration via Homography Estimation with GNNs**|Giacomo D'Amicantonio et.al.|[2311.02598](http://arxiv.org/abs/2311.02598)|null|
 |**2023-11-05**|**KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy**|Qianxiong Xu et.al.|[2311.02565](http://arxiv.org/abs/2311.02565)|null|
-|**2023-11-04**|**Entropy Aware Training for Fast and Accurate Distributed GNN**|Dhruv Deshmukh et.al.|[2311.02399](http://arxiv.org/abs/2311.02399)|null|
+|**2023-11-04**|**Entropy Aware Training for Fast and Accurate Distributed GNN**|Dhruv Deshmukh et.al.|[2311.02399](http://arxiv.org/abs/2311.02399)|**[link](https://github.com/anirban600/eat-distgnn)**|
 |**2023-11-04**|**MATA*: Combining Learnable Node Matching with A* Algorithm for Approximate Graph Edit Distance Computation**|Junfeng Liu et.al.|[2311.02356](http://arxiv.org/abs/2311.02356)|null|
 |**2023-11-03**|**Towards model-free RL algorithms that scale well with unstructured data**|Joseph Modayil et.al.|[2311.02215](http://arxiv.org/abs/2311.02215)|null|
 |**2023-11-03**|**Pairing-based graph neural network for simulating quantum materials**|Di Luo et.al.|[2311.02143](http://arxiv.org/abs/2311.02143)|null|
