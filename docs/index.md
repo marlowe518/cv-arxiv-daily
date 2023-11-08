@@ -2015,6 +2015,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**|Haoran Li et.al.|[2311.04044](http://arxiv.org/abs/2311.04044)|null|
+|**2023-11-07**|**Causal Discovery Under Local Privacy**|Rūta Binkytė et.al.|[2311.04037](http://arxiv.org/abs/2311.04037)|null|
+|**2023-11-07**|**User-level Differentially Private Stochastic Convex Optimization: Efficient Algorithms with Optimal Rates**|Hilal Asi et.al.|[2311.03797](http://arxiv.org/abs/2311.03797)|null|
+|**2023-11-06**|**DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering**|Huifa Li et.al.|[2311.03410](http://arxiv.org/abs/2311.03410)|null|
+|**2023-11-05**|**Differentially Private Pre-Trained Model Fusion using Decentralized Federated Graph Matching**|Qian Chen et.al.|[2311.03396](http://arxiv.org/abs/2311.03396)|null|
 |**2023-11-06**|**Preserving Privacy in GANs Against Membership Inference Attack**|Mohammadhadi Shateri et.al.|[2311.03172](http://arxiv.org/abs/2311.03172)|null|
 |**2023-11-06**|**An Examination of the Alleged Privacy Threats of Confidence-Ranked Reconstruction of Census Microdata**|David Sánchez et.al.|[2311.03171](http://arxiv.org/abs/2311.03171)|null|
 |**2023-11-06**|**SoK: Memorisation in machine learning**|Dmitrii Usynin et.al.|[2311.03075](http://arxiv.org/abs/2311.03075)|null|
@@ -2105,6 +2110,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Spatio-Temporal Anomaly Detection with Graph Networks for Data Quality Monitoring of the Hadron Calorimeter**|Mulugeta Weldezgina Asres et.al.|[2311.04190](http://arxiv.org/abs/2311.04190)|null|
+|**2023-11-07**|**Graph Neural Networks for Power Grid Operational Risk Assessment**|Yadong Zhang et.al.|[2311.03661](http://arxiv.org/abs/2311.03661)|null|
+|**2023-11-07**|**GNN-Based Beamforming for Sum-Rate Maximization in MU-MISO Networks**|Yuhang Li et.al.|[2311.03659](http://arxiv.org/abs/2311.03659)|null|
+|**2023-11-06**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520](http://arxiv.org/abs/2311.03520)|null|
+|**2023-11-06**|**PowerFlowNet: Leveraging Message Passing GNNs for Improved Power Flow Approximation**|Nan Lin et.al.|[2311.03415](http://arxiv.org/abs/2311.03415)|null|
 |**2023-11-06**|**Exploiting Latent Attribute Interaction with Transformer on Heterogeneous Information Networks**|Zeyuan Zhao et.al.|[2311.03275](http://arxiv.org/abs/2311.03275)|null|
 |**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260](http://arxiv.org/abs/2311.03260)|null|
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118](http://arxiv.org/abs/2311.03118)|null|
