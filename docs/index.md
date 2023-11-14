@@ -2015,6 +2015,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
+|**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888](http://arxiv.org/abs/2311.06888)|null|
+|**2023-11-12**|**Inference and Interference: The Role of Clipping, Pruning and Loss Landscapes in Differentially Private Stochastic Gradient Descent**|Lauren Watson et.al.|[2311.06839](http://arxiv.org/abs/2311.06839)|null|
 |**2023-11-10**|**Does Differential Privacy Prevent Backdoor Attacks in Practice?**|Fereshteh Razmi et.al.|[2311.06227](http://arxiv.org/abs/2311.06227)|null|
 |**2023-11-10**|**Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated Graph Learning**|Wenjie Fu et.al.|[2311.06049](http://arxiv.org/abs/2311.06049)|**[link](https://github.com/wjfu99/fl-epidemic)**|
 |**2023-11-08**|**Local Differential Privacy for Smart Meter Data Sharing**|Yashothara Shanmugarasa et.al.|[2311.04544](http://arxiv.org/abs/2311.04544)|null|
@@ -2114,6 +2117,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
+|**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
+|**2023-11-13**|**ADAMM: Anomaly Detection of Attributed Multi-graphs with Metadata: A Unified Neural Network Approach**|Konstantinos Sotiropoulos et.al.|[2311.07355](http://arxiv.org/abs/2311.07355)|**[link](https://github.com/konsotirop/adamm)**|
+|**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321](http://arxiv.org/abs/2311.07321)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
+|**2023-11-13**|**Optical Quantum Sensing for Agnostic Environments via Deep Learning**|Zeqiao Zhou et.al.|[2311.07203](http://arxiv.org/abs/2311.07203)|null|
+|**2023-11-13**|**Untargeted Black-box Attacks for Social Recommendations**|Wenqi Fan et.al.|[2311.07127](http://arxiv.org/abs/2311.07127)|null|
+|**2023-11-13**|**Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network**|Qingquan Lin et.al.|[2311.07105](http://arxiv.org/abs/2311.07105)|null|
+|**2023-11-12**|**Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks**|Moshe Eliasof et.al.|[2311.06942](http://arxiv.org/abs/2311.06942)|null|
+|**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888](http://arxiv.org/abs/2311.06888)|null|
+|**2023-11-12**|**GraNNDis: Efficient Unified Distributed Training Framework for Deep GNNs on Large Clusters**|Jaeyong Song et.al.|[2311.06837](http://arxiv.org/abs/2311.06837)|null|
+|**2023-11-11**|**Identification of vortex in unstructured mesh with graph neural networks**|Lianfa Wang et.al.|[2311.06557](http://arxiv.org/abs/2311.06557)|null|
+|**2023-11-11**|**Graph ODE with Factorized Prototypes for Modeling Complicated Interacting Dynamics**|Xiao Luo et.al.|[2311.06554](http://arxiv.org/abs/2311.06554)|null|
+|**2023-11-11**|**Asymmetric Contrastive Multimodal Learning for Advancing Chemical Understanding**|Hao Xu et.al.|[2311.06456](http://arxiv.org/abs/2311.06456)|null|
+|**2023-11-10**|**A Computationally Efficient Hybrid Neural Network Architecture for Porous Media: Integrating CNNs and GNNs for Improved Permeability Prediction**|Qingqi Zhao et.al.|[2311.06418](http://arxiv.org/abs/2311.06418)|null|
+|**2023-11-10**|**Schema Graph-Guided Prompt for Multi-Domain Dialogue State Tracking**|Ruolin Su et.al.|[2311.06345](http://arxiv.org/abs/2311.06345)|null|
+|**2023-11-10**|**Reviewing Developments of Graph Convolutional Network Techniques for Recommendation Systems**|Haojun Zhu et.al.|[2311.06323](http://arxiv.org/abs/2311.06323)|null|
 |**2023-11-10**|**FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective**|Kun Yi et.al.|[2311.06190](http://arxiv.org/abs/2311.06190)|null|
 |**2023-11-10**|**Interpretable Graph Anomaly Detection using Gradient Attention Maps**|Yifei Yang et.al.|[2311.06153](http://arxiv.org/abs/2311.06153)|null|
 |**2023-11-10**|**Going beyond persistent homology using persistent homology**|Johanna Immonen et.al.|[2311.06152](http://arxiv.org/abs/2311.06152)|null|
