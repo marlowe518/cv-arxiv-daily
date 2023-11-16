@@ -2037,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200](http://arxiv.org/abs/2311.09200)|null|
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 |**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888](http://arxiv.org/abs/2311.06888)|null|
@@ -2046,7 +2047,7 @@
 |**2023-11-08**|**Local Differential Privacy for Smart Meter Data Sharing**|Yashothara Shanmugarasa et.al.|[2311.04544](http://arxiv.org/abs/2311.04544)|null|
 |**2023-11-07**|**Federated Experiment Design under Distributed Differential Privacy**|Wei-Ning Chen et.al.|[2311.04375](http://arxiv.org/abs/2311.04375)|null|
 |**2023-11-07**|**P-Bench: A Multi-level Privacy Evaluation Benchmark for Language Models**|Haoran Li et.al.|[2311.04044](http://arxiv.org/abs/2311.04044)|null|
-|**2023-11-07**|**Causal Discovery Under Local Privacy**|Rūta Binkytė et.al.|[2311.04037](http://arxiv.org/abs/2311.04037)|null|
+|**2023-11-15**|**Causal Discovery Under Local Privacy**|Rūta Binkytė et.al.|[2311.04037](http://arxiv.org/abs/2311.04037)|null|
 |**2023-11-07**|**User-level Differentially Private Stochastic Convex Optimization: Efficient Algorithms with Optimal Rates**|Hilal Asi et.al.|[2311.03797](http://arxiv.org/abs/2311.03797)|null|
 |**2023-11-06**|**DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering**|Huifa Li et.al.|[2311.03410](http://arxiv.org/abs/2311.03410)|null|
 |**2023-11-05**|**Differentially Private Pre-Trained Model Fusion using Decentralized Federated Graph Matching**|Qian Chen et.al.|[2311.03396](http://arxiv.org/abs/2311.03396)|null|
@@ -2142,6 +2143,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Leaving No Branches Behind: Predicting Baryonic Properties of Galaxies from Merger Trees**|Chen-Yu Chuang et.al.|[2311.09162](http://arxiv.org/abs/2311.09162)|null|
+|**2023-11-15**|**X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks**|Farhad Rezazadeh et.al.|[2311.08798](http://arxiv.org/abs/2311.08798)|null|
+|**2023-11-15**|**Language Semantic Graph Guided Data-Efficient Learning**|Wenxuan Ma et.al.|[2311.08782](http://arxiv.org/abs/2311.08782)|null|
+|**2023-11-14**|**SceneScore: Learning a Cost Function for Object Arrangement**|Ivan Kapelyukh et.al.|[2311.08530](http://arxiv.org/abs/2311.08530)|null|
+|**2023-11-14**|**Uplift Modeling based on Graph Neural Network Combined with Causal Knowledge**|Haowen Wang et.al.|[2311.08434](http://arxiv.org/abs/2311.08434)|null|
 |**2023-11-14**|**Mobility-Induced Graph Learning for WiFi Positioning**|Kyuwon Han et.al.|[2311.08271](http://arxiv.org/abs/2311.08271)|null|
 |**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118](http://arxiv.org/abs/2311.08118)|**[link](https://github.com/ericssonresearch/gnn-neighbors-xai)**|
 |**2023-11-14**|**Higher-Order Expander Graph Propagation**|Thomas Christie et.al.|[2311.07966](http://arxiv.org/abs/2311.07966)|null|
