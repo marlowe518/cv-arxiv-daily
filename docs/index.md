@@ -2015,8 +2015,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
+|**2023-11-20**|**Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning**|Jiménez-López et.al.|[2311.11717](http://arxiv.org/abs/2311.11717)|**[link](https://github.com/xehartnort/dp-from-weights)**|
+|**2023-11-19**|**Optimal Locally Private Nonparametric Classification with Public Data**|Yuheng Ma et.al.|[2311.11369](http://arxiv.org/abs/2311.11369)|**[link](https://github.com/karlmyh/lpct)**|
 |**2023-11-17**|**Differentially private analysis of networks with covariates via a generalized $β$ -model**|Ting Yan et.al.|[2311.10279](http://arxiv.org/abs/2311.10279)|null|
-|**2023-11-09**|**Gaussian Differential Privacy on Riemannian Manifolds**|Yangdi Jiang et.al.|[2311.10101](http://arxiv.org/abs/2311.10101)|null|
+|**2023-11-09**|**Gaussian Differential Privacy on Riemannian Manifolds**|Yangdi Jiang et.al.|[2311.10101](http://arxiv.org/abs/2311.10101)|**[link](https://github.com/lei-ding07/gaussian-differential-privacy-on-riemannian-manifolds)**|
 |**2023-11-15**|**ExpM+NF: Differentially Private Machine Learning that Surpasses DPSGD**|Robert A. Bridges et.al.|[2311.09200](http://arxiv.org/abs/2311.09200)|null|
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
@@ -2121,6 +2124,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
+|**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782](http://arxiv.org/abs/2311.11782)|null|
+|**2023-11-20**|**Unveiling the Unseen Potential of Graph Learning through MLPs: Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.11759](http://arxiv.org/abs/2311.11759)|null|
+|**2023-11-20**|**CSGNN: Conquering Noisy Node labels via Dynamic Class-wise Selection**|Yifan Li et.al.|[2311.11473](http://arxiv.org/abs/2311.11473)|null|
+|**2023-11-19**|**Self-Supervised Pretraining for Heterogeneous Hypergraph Neural Networks**|Abdalgader Abubaker et.al.|[2311.11368](http://arxiv.org/abs/2311.11368)|null|
+|**2023-11-19**|**Local environment-based machine learning for molecular adsorption energy prediction**|Yifan Li et.al.|[2311.11364](http://arxiv.org/abs/2311.11364)|null|
+|**2023-11-19**|**A Universal Framework for Accurate and Efficient Geometric Deep Learning of Molecular Systems**|Shuo Zhang et.al.|[2311.11228](http://arxiv.org/abs/2311.11228)|**[link](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)**|
+|**2023-11-18**|**Benchmarking Machine Learning Models for Quantum Error Correction**|Tim Fu et.al.|[2311.11167](http://arxiv.org/abs/2311.11167)|null|
+|**2023-11-18**|**Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization**|Haonan Yuan et.al.|[2311.11114](http://arxiv.org/abs/2311.11114)|**[link](https://github.com/ringbdstack/eagle)**|
+|**2023-11-17**|**Multiparameter Persistent Homology for Molecular Property Prediction**|Andac Demir et.al.|[2311.10808](http://arxiv.org/abs/2311.10808)|null|
 |**2023-11-17**|**TacFR-Gripper: A Reconfigurable Fin Ray-Based Compliant Robotic Gripper with Tactile Skin for In-Hand Manipulation**|Qingzheng Cong et.al.|[2311.10611](http://arxiv.org/abs/2311.10611)|null|
 |**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
 |**2023-11-17**|**Graph Sparsifications using Neural Network Assisted Monte Carlo Tree Search**|Alvin Chiu et.al.|[2311.10316](http://arxiv.org/abs/2311.10316)|**[link](https://github.com/abureyanahmed/gnn-msts-sparsification)**|
