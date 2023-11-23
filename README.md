@@ -2037,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates**|Michael Menart et.al.|[2311.13447](http://arxiv.org/abs/2311.13447)|null|
 |**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
 |**2023-11-20**|**Can we infer the presence of Differential Privacy in Deep Learning models' weights? Towards more secure Deep Learning**|Jiménez-López et.al.|[2311.11717](http://arxiv.org/abs/2311.11717)|**[link](https://github.com/xehartnort/dp-from-weights)**|
 |**2023-11-21**|**Optimal Locally Private Nonparametric Classification with Public Data**|Yuheng Ma et.al.|[2311.11369](http://arxiv.org/abs/2311.11369)|**[link](https://github.com/karlmyh/lpct)**|
@@ -2148,6 +2149,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490](http://arxiv.org/abs/2311.13490)|null|
+|**2023-11-22**|**Complexity-Guided Curriculum Learning for Text Graphs**|Nidhi Vakil et.al.|[2311.13472](http://arxiv.org/abs/2311.13472)|null|
+|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|null|
+|**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|null|
+|**2023-11-22**|**Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective**|Hao Yuan et.al.|[2311.13279](http://arxiv.org/abs/2311.13279)|null|
+|**2023-11-22**|**Hard Label Black Box Node Injection Attack on Graph Neural Networks**|Yu Zhou et.al.|[2311.13244](http://arxiv.org/abs/2311.13244)|null|
+|**2023-11-22**|**NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments**|Xin Ai et.al.|[2311.13225](http://arxiv.org/abs/2311.13225)|null|
+|**2023-11-21**|**Neural Graph Control Barrier Functions Guided Distributed Collision-avoidance Multi-agent Control**|Songyuan Zhang et.al.|[2311.13014](http://arxiv.org/abs/2311.13014)|null|
 |**2023-11-21**|**Content Augmented Graph Neural Networks**|Fatemeh Gholamzadeh Nasrabadi et.al.|[2311.12741](http://arxiv.org/abs/2311.12741)|**[link](https://github.com/fatemehgholamzadeh/augss-gnn)**|
 |**2023-11-21**|**Carbohydrate NMR chemical shift predictions using E(3) equivariant graph neural networks**|Maria Bånkestad et.al.|[2311.12657](http://arxiv.org/abs/2311.12657)|**[link](https://github.com/mariabankestad/geqshift)**|
 |**2023-11-21**|**Careful Selection and Thoughtful Discarding: Graph Explicit Pooling Utilizing Discarded Nodes**|Chuang Liu et.al.|[2311.12644](http://arxiv.org/abs/2311.12644)|null|
