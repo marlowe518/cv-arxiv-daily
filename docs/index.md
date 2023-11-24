@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.23
+## Updated on 2023.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2139,7 +2139,7 @@ layout: default
 |**2023-11-21**|**Hierarchical Joint Graph Learning and Multivariate Time Series Forecasting**|Juhyeon Kim et.al.|[2311.12630](http://arxiv.org/abs/2311.12630)|null|
 |**2023-11-21**|**DeepTreeGAN: Fast Generation of High Dimensional Point Clouds**|Moritz Alfons Wilhelm Scham et.al.|[2311.12616](http://arxiv.org/abs/2311.12616)|null|
 |**2023-11-21**|**Distilling particle knowledge for fast reconstruction at high-energy physics experiments**|Aritra Bal et.al.|[2311.12551](http://arxiv.org/abs/2311.12551)|null|
-|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399](http://arxiv.org/abs/2311.12399)|null|
+|**2023-11-21**|**A Survey of Graph Meets Large Language Model: Progress and Future Directions**|Yuhan Li et.al.|[2311.12399](http://arxiv.org/abs/2311.12399)|**[link](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)**|
 |**2023-11-21**|**Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**|Yuhan Chen et.al.|[2311.12314](http://arxiv.org/abs/2311.12314)|null|
 |**2023-11-21**|**Power grid operational risk assessment using graph neural network surrogates**|Yadong Zhang et.al.|[2311.12309](http://arxiv.org/abs/2311.12309)|null|
 |**2023-11-21**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289](http://arxiv.org/abs/2311.12289)|null|
