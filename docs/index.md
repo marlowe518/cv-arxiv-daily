@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.26
+## Updated on 2023.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2143,7 +2143,7 @@ layout: default
 |**2023-11-21**|**Demystifying Graph Sparsification Algorithms in Graph Properties Preservation**|Yuhan Chen et.al.|[2311.12314](http://arxiv.org/abs/2311.12314)|**[link](https://github.com/yuhanchan/sparsification)**|
 |**2023-11-21**|**Power grid operational risk assessment using graph neural network surrogates**|Yadong Zhang et.al.|[2311.12309](http://arxiv.org/abs/2311.12309)|null|
 |**2023-11-21**|**ATLANTIC: Structure-Aware Retrieval-Augmented Language Model for Interdisciplinary Science**|Sai Munikoti et.al.|[2311.12289](http://arxiv.org/abs/2311.12289)|null|
-|**2023-11-21**|**Exploring Time Granularity on Temporal Graphs for Dynamic Link Prediction in Real-world Networks**|Xiangjian Jiang et.al.|[2311.12255](http://arxiv.org/abs/2311.12255)|**[link](https://github.com/silencex12138/time-granularity-on-temporal-graphs)**|
+|**2023-11-22**|**Exploring Time Granularity on Temporal Graphs for Dynamic Link Prediction in Real-world Networks**|Xiangjian Jiang et.al.|[2311.12255](http://arxiv.org/abs/2311.12255)|**[link](https://github.com/silencex12138/time-granularity-on-temporal-graphs)**|
 |**2023-11-20**|**Node classification in random trees**|Wouter W. L. Nuijten et.al.|[2311.12167](http://arxiv.org/abs/2311.12167)|**[link](https://github.com/wouterwln/neuralfactortrees)**|
 |**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
 |**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782](http://arxiv.org/abs/2311.11782)|null|
