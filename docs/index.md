@@ -2015,6 +2015,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory**|Xiaochen Li et.al.|[2311.16062](http://arxiv.org/abs/2311.16062)|null|
+|**2023-11-27**|**Using Decentralized Aggregation for Federated Learning with Differential Privacy**|Hadeel Abd El-Kareem et.al.|[2311.16008](http://arxiv.org/abs/2311.16008)|null|
+|**2023-11-27**|**Rethinking Privacy in Machine Learning Pipelines from an Information Flow Control Perspective**|Lukas Wutschitz et.al.|[2311.15792](http://arxiv.org/abs/2311.15792)|null|
+|**2023-11-12**|**Ethics and Responsible AI Deployment**|Petar Radanliev et.al.|[2311.14705](http://arxiv.org/abs/2311.14705)|null|
 |**2023-11-24**|**Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach**|Xinwei Zhang et.al.|[2311.14632](http://arxiv.org/abs/2311.14632)|null|
 |**2023-11-24**|**Shifted Composition I: Harnack and Reverse Transport Inequalities**|Jason M. Altschuler et.al.|[2311.14520](http://arxiv.org/abs/2311.14520)|null|
 |**2023-11-24**|**DP-NMT: Scalable Differentially-Private Machine Translation**|Timour Igamberdiev et.al.|[2311.14465](http://arxiv.org/abs/2311.14465)|**[link](https://github.com/trusthlt/dp-nmt)**|
@@ -2131,6 +2135,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation**|Jiachen Li et.al.|[2311.16091](http://arxiv.org/abs/2311.16091)|null|
+|**2023-11-27**|**Soil Organic Carbon Estimation from Climate-related Features with Graph Neural Network**|Weiying Zhao et.al.|[2311.15979](http://arxiv.org/abs/2311.15979)|null|
+|**2023-11-27**|**Over-Squashing in Riemannian Graph Neural Networks**|Julia Balla et.al.|[2311.15945](http://arxiv.org/abs/2311.15945)|null|
+|**2023-11-27**|**Multi-Agent Reinforcement Learning for Power Control in Wireless Networks via Adaptive Graphs**|Lorenzo Mario Amorosa et.al.|[2311.15858](http://arxiv.org/abs/2311.15858)|null|
+|**2023-11-27**|**A Social-aware Gaussian Pre-trained Model for Effective Cold-start Recommendation**|Siwei Liu et.al.|[2311.15790](http://arxiv.org/abs/2311.15790)|null|
+|**2023-11-27**|**Attend Who is Weak: Enhancing Graph Condensation via Cross-Free Adversarial Training**|Xinglin Li et.al.|[2311.15772](http://arxiv.org/abs/2311.15772)|null|
+|**2023-11-27**|**Out-of-Distribution Generalized Dynamic Graph Neural Network for Human Albumin Prediction**|Zeyang Zhang et.al.|[2311.15545](http://arxiv.org/abs/2311.15545)|null|
+|**2023-11-26**|**Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs**|Xingtong Yu et.al.|[2311.15317](http://arxiv.org/abs/2311.15317)|**[link](https://github.com/gmcmt/graph_prompt_extension)**|
+|**2023-11-26**|**Low-Complexity Joint Beamforming for RIS-Assisted MU-MISO Systems Based on Model-Driven Deep Learning**|Weijie Jin et.al.|[2311.15313](http://arxiv.org/abs/2311.15313)|null|
+|**2023-11-26**|**Solve Large-scale Unit Commitment Problems by Physics-informed Graph Learning**|Jingtao Qin et.al.|[2311.15216](http://arxiv.org/abs/2311.15216)|null|
+|**2023-11-26**|**Efficient interpolation of molecular properties across chemical compound space with low-dimensional descriptors**|Yun-Wen Mao et.al.|[2311.15207](http://arxiv.org/abs/2311.15207)|null|
+|**2023-11-25**|**Everybody Needs a Little HELP: Explaining Graphs via Hierarchical Concepts**|Jonas Jürß et.al.|[2311.15112](http://arxiv.org/abs/2311.15112)|null|
+|**2023-11-25**|**Accurate and interpretable drug-drug interaction prediction enabled by knowledge subgraph learning**|Yaqing Wang et.al.|[2311.15056](http://arxiv.org/abs/2311.15056)|**[link](https://github.com/lars-research/knowddi)**|
+|**2023-11-25**|**Exploring Causal Learning through Graph Neural Networks: An In-depth Review**|Simi Job et.al.|[2311.14994](http://arxiv.org/abs/2311.14994)|null|
+|**2023-11-25**|**Robust Graph Neural Networks via Unbiased Aggregation**|Ruiqi Feng et.al.|[2311.14934](http://arxiv.org/abs/2311.14934)|null|
+|**2023-11-25**|**HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communication-optimized CPU data offloading)**|Qiange Wang et.al.|[2311.14898](http://arxiv.org/abs/2311.14898)|null|
+|**2023-11-24**|**Advancing Fluid-Based Thermal Management Systems Design: Leveraging Graph Neural Networks for Graph Regression and Efficient Enumeration Reduction**|Saeid Bayat et.al.|[2311.14874](http://arxiv.org/abs/2311.14874)|null|
+|**2023-11-24**|**Effective Structural Encodings via Local Curvature Profiles**|Lukas Fesser et.al.|[2311.14864](http://arxiv.org/abs/2311.14864)|null|
+|**2023-11-24**|**READS-V: Real-time Automated Detection of Epileptic Seizures from Surveillance Videos via Skeleton-based Spatiotemporal ViG**|Yankun Xu et.al.|[2311.14775](http://arxiv.org/abs/2311.14775)|null|
 |**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469](http://arxiv.org/abs/2311.14469)|null|
 |**2023-11-24**|**Finite Volume Features, Global Geometry Representations, and Residual Training for Deep Learning-based CFD Simulation**|Loh Sher En Jessica et.al.|[2311.14464](http://arxiv.org/abs/2311.14464)|null|
 |**2023-11-24**|**BHGNN-RT: Network embedding for directed heterogeneous graphs**|Xiyang Sun et.al.|[2311.14404](http://arxiv.org/abs/2311.14404)|**[link](https://github.com/albertlordsun/bhgnn-rt)**|
