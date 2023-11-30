@@ -2037,6 +2037,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**The Symmetric alpha-Stable Privacy Mechanism**|Christopher Zawacki et.al.|[2311.17789](http://arxiv.org/abs/2311.17789)|null|
 |**2023-11-28**|**FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2311.16940](http://arxiv.org/abs/2311.16940)|null|
 |**2023-11-27**|**Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory**|Xiaochen Li et.al.|[2311.16062](http://arxiv.org/abs/2311.16062)|null|
 |**2023-11-27**|**Using Decentralized Aggregation for Federated Learning with Differential Privacy**|Hadeel Abd El-Kareem et.al.|[2311.16008](http://arxiv.org/abs/2311.16008)|null|
@@ -2046,7 +2047,7 @@
 |**2023-11-24**|**Shifted Composition I: Harnack and Reverse Transport Inequalities**|Jason M. Altschuler et.al.|[2311.14520](http://arxiv.org/abs/2311.14520)|null|
 |**2023-11-24**|**DP-NMT: Scalable Differentially-Private Machine Translation**|Timour Igamberdiev et.al.|[2311.14465](http://arxiv.org/abs/2311.14465)|**[link](https://github.com/trusthlt/dp-nmt)**|
 |**2023-11-23**|**Privacy-Preserving Algorithmic Recourse**|Sikha Pentyala et.al.|[2311.14137](http://arxiv.org/abs/2311.14137)|null|
-|**2023-11-23**|**DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release**|Jie Fu et.al.|[2311.14056](http://arxiv.org/abs/2311.14056)|**[link](https://github.com/jefffffffu/dpsur)**|
+|**2023-11-29**|**DPSUR: Accelerating Differentially Private Stochastic Gradient Descent Using Selective Update and Release**|Jie Fu et.al.|[2311.14056](http://arxiv.org/abs/2311.14056)|**[link](https://github.com/jefffffffu/dpsur)**|
 |**2023-11-22**|**A Theoretical Insight into Attack and Defense of Gradient Leakage in Transformer**|Chenyang Li et.al.|[2311.13624](http://arxiv.org/abs/2311.13624)|null|
 |**2023-11-22**|**Differentially Private Non-Convex Optimization under the KL Condition with Optimal Rates**|Michael Menart et.al.|[2311.13447](http://arxiv.org/abs/2311.13447)|null|
 |**2023-11-20**|**Zero redundancy distributed learning with differential privacy**|Zhiqi Bu et.al.|[2311.11822](http://arxiv.org/abs/2311.11822)|null|
@@ -2160,6 +2161,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Reconstruction of electromagnetic showers in calorimeters using Deep Learning**|Polina Simkina et.al.|[2311.17914](http://arxiv.org/abs/2311.17914)|null|
+|**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847](http://arxiv.org/abs/2311.17847)|null|
+|**2023-11-29**|**Propagate & Distill: Towards Effective Graph Learners Using Propagation-Embracing MLPs**|Yong-Min Shin et.al.|[2311.17781](http://arxiv.org/abs/2311.17781)|null|
+|**2023-11-29**|**CrimeGNN: Harnessing the Power of Graph Neural Networks for Community Detection in Criminal Networks**|Chen Yang et.al.|[2311.17479](http://arxiv.org/abs/2311.17479)|null|
+|**2023-11-29**|**GNNFlow: A Distributed Framework for Continuous Temporal GNN Learning on Dynamic Graphs**|Yuchen Zhong et.al.|[2311.17410](http://arxiv.org/abs/2311.17410)|**[link](https://github.com/jasperzhong/GNNFlow)**|
+|**2023-11-29**|**The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation**|Yuchang Zhu et.al.|[2311.17373](http://arxiv.org/abs/2311.17373)|**[link](https://github.com/zzoomd/fairgkd)**|
+|**2023-11-29**|**How does spatial structure affect psychological restoration? A method based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361](http://arxiv.org/abs/2311.17361)|null|
+|**2023-11-28**|**\texttt{GlycoNMR}: Dataset and benchmarks for NMR chemical shift prediction of carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134](http://arxiv.org/abs/2311.17134)|null|
 |**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856](http://arxiv.org/abs/2311.16856)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
 |**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670](http://arxiv.org/abs/2311.16670)|**[link](https://github.com/graphpku/pygho)**|
