@@ -48,6 +48,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682](http://arxiv.org/abs/2312.03682)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
+|**2023-12-06**|**Augmenting optimization-based molecular design with graph neural networks**|Shiqiang Zhang et.al.|[2312.03613](http://arxiv.org/abs/2312.03613)|null|
+|**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
+|**2023-12-06**|**Enhancing Molecular Property Prediction via Mixture of Collaborative Experts**|Xu Yao et.al.|[2312.03292](http://arxiv.org/abs/2312.03292)|**[link](https://github.com/Hyacinth-YX/mixture-of-collaborative-experts)**|
+|**2023-12-06**|**Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets**|Jiale Yan et.al.|[2312.03236](http://arxiv.org/abs/2312.03236)|**[link](https://github.com/louivalley/slt-gnn)**|
+|**2023-12-05**|**Protein Language Model-Powered 3D Ligand Binding Site Prediction from Protein Sequence**|Shuo Zhang et.al.|[2312.03016](http://arxiv.org/abs/2312.03016)|null|
 |**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702](http://arxiv.org/abs/2312.02702)|null|
 |**2023-12-05**|**On the Initialization of Graph Neural Networks**|Jiahang Li et.al.|[2312.02622](http://arxiv.org/abs/2312.02622)|**[link](https://github.com/lspongebobjh/virgo_icml2023)**|
 |**2023-12-05**|**A Neural Receiver for 5G NR Multi-user MIMO**|Sebastian Cammerer et.al.|[2312.02601](http://arxiv.org/abs/2312.02601)|null|
