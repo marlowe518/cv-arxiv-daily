@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
+|**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|null|
+|**2023-12-06**|**PCDP-SGD: Improving the Convergence of Differentially Private SGD via Projection in Advance**|Haichao Sha et.al.|[2312.03792](http://arxiv.org/abs/2312.03792)|null|
+|**2023-11-27**|**DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer**|Junyuan Hong et.al.|[2312.03724](http://arxiv.org/abs/2312.03724)|null|
 |**2023-12-05**|**Privacy-Aware Data Acquisition under Data Similarity in Regression Markets**|Shashi Raj Pandey et.al.|[2312.02611](http://arxiv.org/abs/2312.02611)|null|
 |**2023-12-02**|**PAC Privacy Preserving Diffusion Models**|Qipan Xu et.al.|[2312.01201](http://arxiv.org/abs/2312.01201)|null|
 |**2023-11-21**|**Privacy-Preserving Load Forecasting via Personalized Model Obfuscation**|Shourya Bose et.al.|[2312.00036](http://arxiv.org/abs/2312.00036)|null|
@@ -48,6 +52,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501](http://arxiv.org/abs/2312.04501)|null|
+|**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479](http://arxiv.org/abs/2312.04479)|null|
+|**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423](http://arxiv.org/abs/2312.04423)|null|
+|**2023-12-07**|**Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms**|Bowen Jing et.al.|[2312.04323](http://arxiv.org/abs/2312.04323)|**[link](https://github.com/bjing2016/scalar-fields)**|
+|**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
+|**2023-12-07**|**Simulating the Air Quality Impact of Prescribed Fires Using a Graph Neural Network-Based PM $_{2.5}$ Emissions Forecasting System**|Kyleen Liao et.al.|[2312.04291](http://arxiv.org/abs/2312.04291)|null|
+|**2023-12-07**|**An Improved Scheduling with Advantage Actor-Critic for Storm Workloads**|Gaoqiang Dong et.al.|[2312.04126](http://arxiv.org/abs/2312.04126)|null|
+|**2023-12-07**|**Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification**|Henan Sun et.al.|[2312.04111](http://arxiv.org/abs/2312.04111)|null|
+|**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
+|**2023-12-06**|**Adaptive Dependency Learning Graph Neural Networks**|Abishek Sriramulu et.al.|[2312.03903](http://arxiv.org/abs/2312.03903)|**[link](https://github.com/abisheksriramulu/adlgnn)**|
+|**2023-12-06**|**Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graphs**|Kacper Kapuśniak et.al.|[2312.03865](http://arxiv.org/abs/2312.03865)|**[link](https://github.com/ratschlab/genomic-gnn)**|
+|**2023-12-06**|**Geometry Matching for Multi-Embodiment Grasping**|Maria Attarian et.al.|[2312.03864](http://arxiv.org/abs/2312.03864)|null|
+|**2023-12-06**|**High Pileup Particle Tracking with Object Condensation**|Kilian Lieret et.al.|[2312.03823](http://arxiv.org/abs/2312.03823)|null|
 |**2023-12-06**|**What Planning Problems Can A Relational Neural Network Solve?**|Jiayuan Mao et.al.|[2312.03682](http://arxiv.org/abs/2312.03682)|**[link](https://github.com/concepts-ai/goal-regression-width)**|
 |**2023-12-06**|**Augmenting optimization-based molecular design with graph neural networks**|Shiqiang Zhang et.al.|[2312.03613](http://arxiv.org/abs/2312.03613)|null|
 |**2023-12-06**|**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**|Haowen Wang et.al.|[2312.03345](http://arxiv.org/abs/2312.03345)|null|
