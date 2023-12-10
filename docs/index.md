@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
-|**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|null|
+|**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|**[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)**|
 |**2023-12-06**|**PCDP-SGD: Improving the Convergence of Differentially Private SGD via Projection in Advance**|Haichao Sha et.al.|[2312.03792](http://arxiv.org/abs/2312.03792)|null|
 |**2023-11-27**|**DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer**|Junyuan Hong et.al.|[2312.03724](http://arxiv.org/abs/2312.03724)|null|
 |**2023-12-05**|**Privacy-Aware Data Acquisition under Data Similarity in Regression Markets**|Shashi Raj Pandey et.al.|[2312.02611](http://arxiv.org/abs/2312.02611)|null|
