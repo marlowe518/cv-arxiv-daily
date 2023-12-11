@@ -14,8 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248](http://arxiv.org/abs/2312.05248)|null|
+|**2023-12-08**|**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data''**|Georgi Ganev et.al.|[2312.05114](http://arxiv.org/abs/2312.05114)|null|
+|**2023-12-08**|**Differential privacy statistical inference for a directed graph network model with covariates**|Jing Luo et.al.|[2312.04903](http://arxiv.org/abs/2312.04903)|null|
+|**2023-12-07**|**DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming**|Shuya Feng et.al.|[2312.04738](http://arxiv.org/abs/2312.04738)|null|
+|**2023-12-05**|**Reconciling AI Performance and Data Reconstruction Resilience for Medical Imaging**|Alexander Ziller et.al.|[2312.04590](http://arxiv.org/abs/2312.04590)|null|
 |**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
-|**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|**[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)**|
+|**2023-12-08**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|Karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|**[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)**|
 |**2023-12-06**|**PCDP-SGD: Improving the Convergence of Differentially Private SGD via Projection in Advance**|Haichao Sha et.al.|[2312.03792](http://arxiv.org/abs/2312.03792)|null|
 |**2023-11-27**|**DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer**|Junyuan Hong et.al.|[2312.03724](http://arxiv.org/abs/2312.03724)|**[link](https://github.com/vita-group/dp-opt)**|
 |**2023-12-05**|**Privacy-Aware Data Acquisition under Data Similarity in Regression Markets**|Shashi Raj Pandey et.al.|[2312.02611](http://arxiv.org/abs/2312.02611)|null|
@@ -46,6 +51,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815](http://arxiv.org/abs/2312.04815)|null|
+|**2023-12-07**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737](http://arxiv.org/abs/2312.04737)|null|
+|**2023-12-07**|**GraphMETRO: Mitigating Complex Distribution Shifts in GNNs via Mixture of Aligned Experts**|Shirley Wu et.al.|[2312.04693](http://arxiv.org/abs/2312.04693)|null|
+|**2023-12-07**|**Constraints on the trilinear and quartic Higgs couplings from triple Higgs production at the LHC and beyond**|Panagiotis Stylianou et.al.|[2312.04646](http://arxiv.org/abs/2312.04646)|null|
+|**2023-12-07**|**Relational Deep Learning: Graph Representation Learning on Relational Databases**|Matthias Fey et.al.|[2312.04615](http://arxiv.org/abs/2312.04615)|null|
 |**2023-12-07**|**Graph Metanetworks for Processing Diverse Neural Architectures**|Derek Lim et.al.|[2312.04501](http://arxiv.org/abs/2312.04501)|null|
 |**2023-12-07**|**GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction**|Zhongchang Luo et.al.|[2312.04479](http://arxiv.org/abs/2312.04479)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423](http://arxiv.org/abs/2312.04423)|null|
