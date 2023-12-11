@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -17,7 +17,7 @@ layout: default
 |**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
 |**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|**[link](https://github.com/karimamakhlouf/impact_of_ldp_on_fairness)**|
 |**2023-12-06**|**PCDP-SGD: Improving the Convergence of Differentially Private SGD via Projection in Advance**|Haichao Sha et.al.|[2312.03792](http://arxiv.org/abs/2312.03792)|null|
-|**2023-11-27**|**DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer**|Junyuan Hong et.al.|[2312.03724](http://arxiv.org/abs/2312.03724)|null|
+|**2023-11-27**|**DP-OPT: Make Large Language Model Your Privacy-Preserving Prompt Engineer**|Junyuan Hong et.al.|[2312.03724](http://arxiv.org/abs/2312.03724)|**[link](https://github.com/vita-group/dp-opt)**|
 |**2023-12-05**|**Privacy-Aware Data Acquisition under Data Similarity in Regression Markets**|Shashi Raj Pandey et.al.|[2312.02611](http://arxiv.org/abs/2312.02611)|null|
 |**2023-12-02**|**PAC Privacy Preserving Diffusion Models**|Qipan Xu et.al.|[2312.01201](http://arxiv.org/abs/2312.01201)|null|
 |**2023-11-21**|**Privacy-Preserving Load Forecasting via Personalized Model Obfuscation**|Shourya Bose et.al.|[2312.00036](http://arxiv.org/abs/2312.00036)|null|
