@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Mean estimation in the add-remove model of differential privacy**|Alex Kulesza et.al.|[2312.06658](http://arxiv.org/abs/2312.06658)|null|
+|**2023-12-10**|**QMGeo: Differentially Private Federated Learning via Stochastic Quantization with Mixed Truncated Geometric Distribution**|Zixi Wang et.al.|[2312.05761](http://arxiv.org/abs/2312.05761)|null|
+|**2023-12-09**|**Optimal Unbiased Randomizers for Regression with Label Differential Privacy**|Ashwinkumar Badanidiyuru et.al.|[2312.05659](http://arxiv.org/abs/2312.05659)|null|
+|**2023-12-09**|**Sample-Optimal Locally Private Hypothesis Selection and the Provable Benefits of Interactivity**|Alireza F. Pour et.al.|[2312.05645](http://arxiv.org/abs/2312.05645)|null|
+|**2023-12-05**|**All Rivers Run to the Sea: Private Learning with Asymmetric Flows**|Yue Niu et.al.|[2312.05264](http://arxiv.org/abs/2312.05264)|null|
 |**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248](http://arxiv.org/abs/2312.05248)|null|
 |**2023-12-08**|**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data''**|Georgi Ganev et.al.|[2312.05114](http://arxiv.org/abs/2312.05114)|null|
 |**2023-12-08**|**Differential privacy statistical inference for a directed graph network model with covariates**|Jing Luo et.al.|[2312.04903](http://arxiv.org/abs/2312.04903)|null|
@@ -57,6 +62,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings**|Kushal Bose et.al.|[2312.06576](http://arxiv.org/abs/2312.06576)|**[link](https://github.com/kushalbose92/hype-gt)**|
+|**2023-12-11**|**Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets**|Subhajit Dutta Chowdhury et.al.|[2312.06568](http://arxiv.org/abs/2312.06568)|null|
+|**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|null|
+|**2023-12-11**|**A GAN Approach for Node Embedding in Heterogeneous Graphs Using Subgraph Sampling**|Hung Chun Hsu et.al.|[2312.06519](http://arxiv.org/abs/2312.06519)|null|
+|**2023-12-11**|**Revisiting Graph-based Fraud Detection in Sight of Heterophily and Spectrum**|Fan Xu et.al.|[2312.06441](http://arxiv.org/abs/2312.06441)|null|
+|**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342](http://arxiv.org/abs/2312.06342)|null|
+|**2023-12-11**|**Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations**|Tao Meng et.al.|[2312.06337](http://arxiv.org/abs/2312.06337)|null|
+|**2023-12-11**|**Pipeline for performance evaluation of flavour tagging dedicated Graph Neural Network algorithms**|Greta Brianti et.al.|[2312.06245](http://arxiv.org/abs/2312.06245)|null|
+|**2023-12-10**|**TransGlow: Attention-augmented Transduction model based on Graph Neural Networks for Water Flow Forecasting**|Naghmeh Shafiee Roudbari et.al.|[2312.05961](http://arxiv.org/abs/2312.05961)|null|
+|**2023-12-10**|**Improving Subgraph-GNNs via Edge-Level Ego-Network Encodings**|Nurudin Alvarez-Gonzalez et.al.|[2312.05905](http://arxiv.org/abs/2312.05905)|**[link](https://github.com/nur-ag/elene)**|
+|**2023-12-10**|**Deep Learning for Joint Design of Pilot, Channel Feedback, and Hybrid Beamforming in FDD Massive MIMO-OFDM Systems**|Junyi Yang et.al.|[2312.05786](http://arxiv.org/abs/2312.05786)|null|
+|**2023-12-10**|**Towards Human-like Perception: Learning Structural Causal Model in Heterogeneous Graph**|Tianqianjin Lin et.al.|[2312.05757](http://arxiv.org/abs/2312.05757)|null|
+|**2023-12-10**|**ASWT-SGNN: Adaptive Spectral Wavelet Transform-based Self-Supervised Graph Neural Network**|Ruyue Liu et.al.|[2312.05736](http://arxiv.org/abs/2312.05736)|null|
+|**2023-12-09**|**Towards a Graph Neural Network-Based Approach for Estimating Hidden States in Cyber Attack Simulations**|Pontus Johnson et.al.|[2312.05666](http://arxiv.org/abs/2312.05666)|null|
+|**2023-12-09**|**JITSPMM: Just-in-Time Instruction Generation for Accelerated Sparse Matrix-Matrix Multiplication**|Qiang Fu et.al.|[2312.05639](http://arxiv.org/abs/2312.05639)|null|
+|**2023-12-09**|**Triplet Edge Attention for Algorithmic Reasoning**|Yeonjoon Jung et.al.|[2312.05611](http://arxiv.org/abs/2312.05611)|null|
+|**2023-12-09**|**Factorized Explainer for Graph Neural Networks**|Rundong Huang et.al.|[2312.05596](http://arxiv.org/abs/2312.05596)|null|
+|**2023-12-09**|**Reinforcement Neighborhood Selection for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2312.05526](http://arxiv.org/abs/2312.05526)|null|
+|**2023-12-09**|**Isomorphic-Consistent Variational Graph Auto-Encoders for Multi-Level Graph Representation Learning**|Hanxuan Yang et.al.|[2312.05519](http://arxiv.org/abs/2312.05519)|null|
+|**2023-12-09**|**Poisoning $\times$ Evasion: Symbiotic Adversarial Robustness for Graph Neural Networks**|Ege Erdogan et.al.|[2312.05502](http://arxiv.org/abs/2312.05502)|null|
 |**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
 |**2023-12-08**|**Not All Negatives AreWorth Attending to: Meta-Bootstrapping Negative Sampling Framework for Link Prediction**|Yakun Wang et.al.|[2312.04815](http://arxiv.org/abs/2312.04815)|null|
 |**2023-12-07**|**Efficient Large Language Models Fine-Tuning On Graphs**|Rui Xue et.al.|[2312.04737](http://arxiv.org/abs/2312.04737)|null|
