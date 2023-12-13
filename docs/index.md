@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Practical considerations on using private sampling for synthetic data**|Clément Pierquin et.al.|[2312.07139](http://arxiv.org/abs/2312.07139)|null|
+|**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060](http://arxiv.org/abs/2312.07060)|null|
+|**2023-12-12**|**Communication Cost Reduction for Subgraph Counting under Local Differential Privacy via Hash Functions**|Quentin Hillebrand et.al.|[2312.07055](http://arxiv.org/abs/2312.07055)|**[link](https://github.com/gericko/grouprandomizedresponse)**|
 |**2023-12-11**|**Mean estimation in the add-remove model of differential privacy**|Alex Kulesza et.al.|[2312.06658](http://arxiv.org/abs/2312.06658)|null|
 |**2023-12-10**|**QMGeo: Differentially Private Federated Learning via Stochastic Quantization with Mixed Truncated Geometric Distribution**|Zixi Wang et.al.|[2312.05761](http://arxiv.org/abs/2312.05761)|null|
 |**2023-12-09**|**Optimal Unbiased Randomizers for Regression with Label Differential Privacy**|Ashwinkumar Badanidiyuru et.al.|[2312.05659](http://arxiv.org/abs/2312.05659)|null|
@@ -56,6 +59,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems**|Alexandre Duval et.al.|[2312.07511](http://arxiv.org/abs/2312.07511)|null|
+|**2023-12-12**|**Cost Aware Untargeted Poisoning Attack against Graph Neural Networks,**|Yuwei Han et.al.|[2312.07158](http://arxiv.org/abs/2312.07158)|null|
+|**2023-12-12**|**Neural Reasoning About Agents' Goals, Preferences, and Actions**|Matteo Bortoletto et.al.|[2312.07122](http://arxiv.org/abs/2312.07122)|null|
+|**2023-12-12**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2312.06940](http://arxiv.org/abs/2312.06940)|null|
+|**2023-12-11**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877](http://arxiv.org/abs/2312.06877)|null|
+|**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|null|
 |**2023-12-11**|**HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings**|Kushal Bose et.al.|[2312.06576](http://arxiv.org/abs/2312.06576)|**[link](https://github.com/kushalbose92/hype-gt)**|
 |**2023-12-11**|**Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets**|Subhajit Dutta Chowdhury et.al.|[2312.06568](http://arxiv.org/abs/2312.06568)|null|
 |**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|**[link](https://github.com/vmtenorio/robust_gnn)**|
