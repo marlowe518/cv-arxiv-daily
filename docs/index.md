@@ -20,7 +20,7 @@ layout: default
 |**2023-12-12**|**Differentially private projection-depth-based medians**|Kelly Ramsay et.al.|[2312.07792](http://arxiv.org/abs/2312.07792)|**[link](https://github.com/12ramsake/ptr-pd-median)**|
 |**2023-12-12**|**Near-Optimal Differentially Private k-Core Decomposition**|Laxman Dhulipala et.al.|[2312.07706](http://arxiv.org/abs/2312.07706)|null|
 |**2023-12-11**|**Classification with Partially Private Features**|Zeyu Shen et.al.|[2312.07583](http://arxiv.org/abs/2312.07583)|null|
-|**2023-12-12**|**Practical considerations on using private sampling for synthetic data**|Clément Pierquin et.al.|[2312.07139](http://arxiv.org/abs/2312.07139)|null|
+|**2023-12-12**|**Practical considerations on using private sampling for synthetic data**|Clément Pierquin et.al.|[2312.07139](http://arxiv.org/abs/2312.07139)|**[link](https://github.com/craft-ai/private-sampling)**|
 |**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060](http://arxiv.org/abs/2312.07060)|null|
 |**2023-12-12**|**Communication Cost Reduction for Subgraph Counting under Local Differential Privacy via Hash Functions**|Quentin Hillebrand et.al.|[2312.07055](http://arxiv.org/abs/2312.07055)|**[link](https://github.com/gericko/grouprandomizedresponse)**|
 |**2023-12-11**|**Mean estimation in the add-remove model of differential privacy**|Alex Kulesza et.al.|[2312.06658](http://arxiv.org/abs/2312.06658)|null|
@@ -69,7 +69,7 @@ layout: default
 |**2023-12-13**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356](http://arxiv.org/abs/2312.08356)|null|
 |**2023-12-13**|**On the verification of Embeddings using Hybrid Markov Logic**|Anup Shakya et.al.|[2312.08287](http://arxiv.org/abs/2312.08287)|null|
 |**2023-12-13**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223](http://arxiv.org/abs/2312.08223)|null|
-|**2023-12-13**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221](http://arxiv.org/abs/2312.08221)|null|
+|**2023-12-14**|**Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs**|Jin Li et.al.|[2312.08221](http://arxiv.org/abs/2312.08221)|**[link](https://github.com/jslijin/research-paper-codes)**|
 |**2023-12-13**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181](http://arxiv.org/abs/2312.08181)|null|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification**|Bang Wu et.al.|[2312.07870](http://arxiv.org/abs/2312.07870)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2023-12-12**|**Neural Reasoning About Agents' Goals, Preferences, and Actions**|Matteo Bortoletto et.al.|[2312.07122](http://arxiv.org/abs/2312.07122)|null|
 |**2023-12-12**|**Benchmarking Deep Learning Classifiers for SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2312.06940](http://arxiv.org/abs/2312.06940)|null|
 |**2023-12-11**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877](http://arxiv.org/abs/2312.06877)|null|
-|**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|null|
+|**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|**[link](https://github.com/cgsavard/triton_multiuser_benchmarks)**|
 |**2023-12-11**|**HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings**|Kushal Bose et.al.|[2312.06576](http://arxiv.org/abs/2312.06576)|**[link](https://github.com/kushalbose92/hype-gt)**|
 |**2023-12-11**|**Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets**|Subhajit Dutta Chowdhury et.al.|[2312.06568](http://arxiv.org/abs/2312.06568)|null|
 |**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|**[link](https://github.com/vmtenorio/robust_gnn)**|
