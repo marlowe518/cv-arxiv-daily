@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789](http://arxiv.org/abs/2312.10789)|null|
+|**2023-12-16**|**Certified Minimax Unlearning with Generalization Rates and Deletion Capacity**|Jiaqi Liu et.al.|[2312.10336](http://arxiv.org/abs/2312.10336)|null|
+|**2023-12-15**|**Privacy-Aware Document Visual Question Answering**|Rubèn Tito et.al.|[2312.10108](http://arxiv.org/abs/2312.10108)|null|
+|**2023-12-10**|**No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation**|Nimesh Agrawal et.al.|[2312.10080](http://arxiv.org/abs/2312.10080)|null|
 |**2023-12-13**|**Privacy Constrained Fairness Estimation for Decision Trees**|Florian van der Steen et.al.|[2312.08413](http://arxiv.org/abs/2312.08413)|null|
 |**2023-12-13**|**Differentially Private Gradient Flow based on the Sliced Wasserstein Distance for Non-Parametric Generative Modeling**|Ilana Sebag et.al.|[2312.08227](http://arxiv.org/abs/2312.08227)|null|
 |**2023-12-13**|**Differential Privacy Preserving Quantum Computing via Projection Operator Measurements**|Yuqing Li et.al.|[2312.08210](http://arxiv.org/abs/2312.08210)|null|
@@ -66,6 +70,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808](http://arxiv.org/abs/2312.10808)|**[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)**|
+|**2023-12-17**|**p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models**|Haoyuan Wu et.al.|[2312.10613](http://arxiv.org/abs/2312.10613)|**[link](https://github.com/wuhy68/p-adapter)**|
+|**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561](http://arxiv.org/abs/2312.10561)|null|
+|**2023-12-16**|**Degree-based stratification of nodes in Graph Neural Networks**|Ameen Ali et.al.|[2312.10458](http://arxiv.org/abs/2312.10458)|null|
+|**2023-12-16**|**scBiGNN: Bilevel Graph Representation Learning for Cell Type Classification from Single-cell RNA Sequencing Data**|Rui Yang et.al.|[2312.10310](http://arxiv.org/abs/2312.10310)|null|
+|**2023-12-16**|**Inductive Link Prediction in Knowledge Graphs using Path-based Neural Networks**|Canlin Zhang et.al.|[2312.10293](http://arxiv.org/abs/2312.10293)|null|
+|**2023-12-16**|**A charge-preserving method for solving graph neural diffusion networks**|Lidia Aceto et.al.|[2312.10279](http://arxiv.org/abs/2312.10279)|null|
 |**2023-12-15**|**Concept Prerequisite Relation Prediction by Using Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802](http://arxiv.org/abs/2312.09802)|null|
 |**2023-12-15**|**Bridging the Semantic-Numerical Gap: A Numerical Reasoning Method of Cross-modal Knowledge Graph for Material Property Prediction**|Guangxuan Song et.al.|[2312.09744](http://arxiv.org/abs/2312.09744)|null|
 |**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708](http://arxiv.org/abs/2312.09708)|null|
@@ -78,7 +89,7 @@ layout: default
 |**2023-12-14**|**Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking**|Yan Gao et.al.|[2312.08951](http://arxiv.org/abs/2312.08951)|null|
 |**2023-12-14**|**Heterogeneous Graph Neural Architecture Search with GPT-4**|Haoyuan Dong et.al.|[2312.08680](http://arxiv.org/abs/2312.08680)|null|
 |**2023-12-14**|**Uplifting the Expressive Power of Graph Neural Networks through Graph Partitioning**|Asela Hevapathige et.al.|[2312.08671](http://arxiv.org/abs/2312.08671)|null|
-|**2023-12-14**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
+|**2023-12-18**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
 |**2023-12-14**|**Towards Inductive Robustness: Distilling and Fostering Wave-induced Resonance in Transductive GCNs Against Graph Adversarial Attacks**|Ao Liu et.al.|[2312.08651](http://arxiv.org/abs/2312.08651)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
 |**2023-12-13**|**CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics**|Milad Rezaei Hajidehi et.al.|[2312.08356](http://arxiv.org/abs/2312.08356)|null|
