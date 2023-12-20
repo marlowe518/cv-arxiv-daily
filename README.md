@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183](http://arxiv.org/abs/2312.12183)|null|
+|**2023-12-18**|**A Simple and Practical Method for Reducing the Disparate Impact of Differential Privacy**|Lucas Rosenblatt et.al.|[2312.11712](http://arxiv.org/abs/2312.11712)|null|
+|**2023-12-18**|**Protect Your Score: Contact Tracing With Differential Privacy Guarantees**|Rob Romijnders et.al.|[2312.11581](http://arxiv.org/abs/2312.11581)|null|
+|**2023-12-15**|**Improved Differentially Private and Lazy Online Convex Optimization**|Naman Agarwal et.al.|[2312.11534](http://arxiv.org/abs/2312.11534)|null|
+|**2023-12-18**|**Harnessing Inherent Noises for Privacy Preservation in Quantum Machine Learning**|Keyi Ju et.al.|[2312.11126](http://arxiv.org/abs/2312.11126)|null|
 |**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789](http://arxiv.org/abs/2312.10789)|null|
 |**2023-12-16**|**Certified Minimax Unlearning with Generalization Rates and Deletion Capacity**|Jiaqi Liu et.al.|[2312.10336](http://arxiv.org/abs/2312.10336)|null|
 |**2023-12-15**|**Privacy-Aware Document Visual Question Answering**|Rubèn Tito et.al.|[2312.10108](http://arxiv.org/abs/2312.10108)|null|
@@ -76,6 +81,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Chasing Fairness in Graphs: A GNN Architecture Perspective**|Zhimeng Jiang et.al.|[2312.12369](http://arxiv.org/abs/2312.12369)|**[link](https://github.com/zhimengj0326/fmp)**|
+|**2023-12-19**|**Poincaré Differential Privacy for Hierarchy-aware Graph Embedding**|Yuecen Wei et.al.|[2312.12183](http://arxiv.org/abs/2312.12183)|null|
+|**2023-12-19**|**Hierarchical and Incremental Structural Entropy Minimization for Unsupervised Social Event Detection**|Yuwei Cao et.al.|[2312.11891](http://arxiv.org/abs/2312.11891)|**[link](https://github.com/selgroup/hisevent)**|
+|**2023-12-19**|**SimCalib: Graph Neural Network Calibration based on Similarity between Nodes**|Boshi Tang et.al.|[2312.11858](http://arxiv.org/abs/2312.11858)|null|
+|**2023-12-18**|**Stronger Graph Transformer with Regularized Attention Scores**|Eugene Ku et.al.|[2312.11730](http://arxiv.org/abs/2312.11730)|null|
+|**2023-12-18**|**Reinforcement Learning Based Quantum Circuit Optimization via ZX-Calculus**|Jordi Riu et.al.|[2312.11597](http://arxiv.org/abs/2312.11597)|null|
+|**2023-12-16**|**A Unified Pre-training and Adaptation Framework for Combinatorial Optimization on Graphs**|Ruibin Zeng et.al.|[2312.11547](http://arxiv.org/abs/2312.11547)|null|
+|**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229](http://arxiv.org/abs/2312.11229)|null|
+|**2023-12-18**|**Signed Graph Neural Ordinary Differential Equation for Modeling Continuous-time Dynamics**|Lanlan Chen et.al.|[2312.11198](http://arxiv.org/abs/2312.11198)|null|
+|**2023-12-18**|**Learning Domain-Independent Heuristics for Grounded and Lifted Planning**|Dillon Z. Chen et.al.|[2312.11143](http://arxiv.org/abs/2312.11143)|null|
+|**2023-12-18**|**Graph Invariant Learning with Subgraph Co-mixup for Out-Of-Distribution Generalization**|Tianrui Jia et.al.|[2312.10988](http://arxiv.org/abs/2312.10988)|null|
+|**2023-12-18**|**Robust Node Representation Learning via Graph Variational Diffusion Networks**|Jun Zhuang et.al.|[2312.10903](http://arxiv.org/abs/2312.10903)|null|
 |**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808](http://arxiv.org/abs/2312.10808)|**[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)**|
 |**2023-12-17**|**p-Laplacian Adaptation for Generative Pre-trained Vision-Language Models**|Haoyuan Wu et.al.|[2312.10613](http://arxiv.org/abs/2312.10613)|**[link](https://github.com/wuhy68/p-adapter)**|
 |**2023-12-16**|**Enabling Accelerators for Graph Computing**|Kaustubh Shivdikar et.al.|[2312.10561](http://arxiv.org/abs/2312.10561)|null|
