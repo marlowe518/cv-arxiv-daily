@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2023-12-22**|**On rate-optimal classification from non-private and from private data**|Balázs Csanád Csáji et.al.|[2312.14889](http://arxiv.org/abs/2312.14889)|null|
 |**2023-12-22**|**Tuning Quantum Computing Privacy through Quantum Error Correction**|Hui Zhong et.al.|[2312.14521](http://arxiv.org/abs/2312.14521)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
-|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|null|
+|**2023-12-21**|**DP-AdamBC: Your DP-Adam Is Actually DP-SGD (Unless You Apply Bias Correction)**|Qiaoyue Tang et.al.|[2312.14334](http://arxiv.org/abs/2312.14334)|**[link](https://github.com/ubc-systopia/DP-AdamBC)**|
 |**2023-12-20**|**Noisy Measurements Are Important, the Design of Census Products Is Much More Important**|John M. Abowd et.al.|[2312.14191](http://arxiv.org/abs/2312.14191)|null|
 |**2023-12-21**|**Rényi Pufferfish Privacy: General Additive Noise Mechanisms and Privacy Amplification by Iteration**|Clément Pierquin et.al.|[2312.13985](http://arxiv.org/abs/2312.13985)|null|
 |**2023-12-21**|**Conciliating Privacy and Utility in Data Releases via Individual Differential Privacy and Microaggregation**|Jordi Soria-Comas et.al.|[2312.13712](http://arxiv.org/abs/2312.13712)|null|
@@ -85,7 +85,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -95,7 +95,7 @@
 |**2023-12-22**|**Learning Lagrangian Multipliers for the Travelling Salesman Problem**|Augustin Parjadis et.al.|[2312.14836](http://arxiv.org/abs/2312.14836)|null|
 |**2023-12-22**|**Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification**|Minghui Liao et.al.|[2312.14518](http://arxiv.org/abs/2312.14518)|**[link](https://github.com/whuminghui/neunet)**|
 |**2023-12-21**|**Behaviour Modelling of Social Animals via Causal Structure Discovery and Graph Neural Networks**|Gaël Gendron et.al.|[2312.14333](http://arxiv.org/abs/2312.14333)|null|
-|**2023-12-21**|**Social Recommendation through Heterogeneous Graph Modeling of the Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306](http://arxiv.org/abs/2312.14306)|null|
+|**2023-12-21**|**Social Recommendation through Heterogeneous Graph Modeling of the Long-term and Short-term Preference Defined by Dynamic Periods**|Behafarid Mohammad Jafari et.al.|[2312.14306](http://arxiv.org/abs/2312.14306)|**[link](https://github.com/BehafaridMjf/Social-Recommendation-System)**|
 |**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583](http://arxiv.org/abs/2312.13583)|**[link](https://github.com/zjunet/G-Tuning)**|
 |**2023-12-21**|**Domain Adaptive Graph Classification**|Siyang Luo et.al.|[2312.13536](http://arxiv.org/abs/2312.13536)|null|
 |**2023-12-21**|**Molecular Hypergraph Neural Networks**|Junwu Chen et.al.|[2312.13136](http://arxiv.org/abs/2312.13136)|**[link](https://github.com/schwallergroup/mhnn)**|
@@ -243,7 +243,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20231225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
