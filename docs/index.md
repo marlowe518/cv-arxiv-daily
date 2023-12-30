@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.29
+## Updated on 2023.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-27**|**A Theoretical Analysis of Efficiency Constrained Utility-Privacy Bi-Objective Optimization in Federated Learning**|Hanlin Gu et.al.|[2312.16554](http://arxiv.org/abs/2312.16554)|null|
+|**2023-12-27**|**Nearly Tight Bounds For Differentially Private Min $s$-$t$ and Multiway Cut**|Mina Dalirrooyfard et.al.|[2312.16370](http://arxiv.org/abs/2312.16370)|null|
 |**2023-12-24**|**Leveraging Public Representations for Private Transfer Learning**|Pratiksha Thaker et.al.|[2312.15551](http://arxiv.org/abs/2312.15551)|null|
 |**2023-12-24**|**An Empirical Study of Efficiency and Privacy of Federated Learning Algorithms**|Sofia Zahri et.al.|[2312.15375](http://arxiv.org/abs/2312.15375)|null|
 |**2023-12-22**|**On rate-optimal classification from non-private and from private data**|Balázs Csanád Csáji et.al.|[2312.14889](http://arxiv.org/abs/2312.14889)|null|
@@ -87,6 +89,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
+|**2023-12-28**|**Learning Scalable Structural Representations for Link Prediction with Bloom Signatures**|Tianyi Zhang et.al.|[2312.16784](http://arxiv.org/abs/2312.16784)|null|
+|**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
+|**2023-12-27**|**Performance Comparison of Session-based Recommendation Algorithms based on GNNs**|Faisal Shehzad et.al.|[2312.16695](http://arxiv.org/abs/2312.16695)|null|
+|**2023-12-27**|**FALCON: Feature-Label Constrained Graph Net Collapse for Memory Efficient GNNs**|Christopher Adnel et.al.|[2312.16542](http://arxiv.org/abs/2312.16542)|null|
+|**2023-12-27**|**MolSets: Molecular Graph Deep Sets Learning for Mixture Property Modeling**|Hengrui Zhang et.al.|[2312.16473](http://arxiv.org/abs/2312.16473)|null|
+|**2023-12-27**|**Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting**|Minbo Ma et.al.|[2312.16403](http://arxiv.org/abs/2312.16403)|null|
 |**2023-12-26**|**BalMCTS: Balancing Objective Function and Search Nodes in MCTS for Constraint Optimization Problems**|Yingkai Xiao et.al.|[2312.15864](http://arxiv.org/abs/2312.15864)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825](http://arxiv.org/abs/2312.15825)|null|
 |**2023-12-24**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training**|Charles Dickens et.al.|[2312.15520](http://arxiv.org/abs/2312.15520)|**[link](https://github.com/amazon-science/convolution-matching)**|
