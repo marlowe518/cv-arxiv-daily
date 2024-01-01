@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
 |**2023-12-27**|**A Theoretical Analysis of Efficiency Constrained Utility-Privacy Bi-Objective Optimization in Federated Learning**|Hanlin Gu et.al.|[2312.16554](http://arxiv.org/abs/2312.16554)|null|
 |**2023-12-27**|**Nearly Tight Bounds For Differentially Private Min $s$-$t$ and Multiway Cut**|Mina Dalirrooyfard et.al.|[2312.16370](http://arxiv.org/abs/2312.16370)|null|
 |**2023-12-24**|**Leveraging Public Representations for Private Transfer Learning**|Pratiksha Thaker et.al.|[2312.15551](http://arxiv.org/abs/2312.15551)|null|
@@ -95,6 +96,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Physics-informed Graphical Neural Network for Power System State Estimation**|Quang-Ha Ngo et.al.|[2312.17738](http://arxiv.org/abs/2312.17738)|null|
+|**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
+|**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506](http://arxiv.org/abs/2312.17506)|null|
+|**2023-12-28**|**Explainability-Based Adversarial Attack on Graphs Through Edge Perturbation**|Dibaloke Chanda et.al.|[2312.17301](http://arxiv.org/abs/2312.17301)|null|
 |**2023-12-28**|**Molecular Property Prediction Based on Graph Structure Learning**|Bangyi Zhao et.al.|[2312.16855](http://arxiv.org/abs/2312.16855)|null|
 |**2023-12-28**|**Learning Scalable Structural Representations for Link Prediction with Bloom Signatures**|Tianyi Zhang et.al.|[2312.16784](http://arxiv.org/abs/2312.16784)|null|
 |**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
