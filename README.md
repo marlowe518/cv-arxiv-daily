@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -95,7 +95,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240105>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -103,17 +103,17 @@
 |---|---|---|---|---|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869](http://arxiv.org/abs/2401.01869)|null|
-|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**A quatum inspired neural network for geometric modeling**|Weitao Du et.al.|[2401.01801](http://arxiv.org/abs/2401.01801)|null|
 |**2024-01-03**|**MLPs Compass: What is learned when MLPs are combined with PLMs?**|Li Zhou et.al.|[2401.01667](http://arxiv.org/abs/2401.01667)|null|
 |**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
-|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|null|
+|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|**[link](https://github.com/yassinmihemedi/strong-transitivity-relations-and-graph-neural-network)**|
 |**2024-01-02**|**Graph Elimination Networks**|Shuo Wang et.al.|[2401.01233](http://arxiv.org/abs/2401.01233)|null|
 |**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232](http://arxiv.org/abs/2401.01232)|**[link](https://github.com/riemanngraph/motifrgc)**|
 |**2023-12-30**|**Balanced Graph Structure Information for Brain Disease Detection**|Falih Gozi Febrinanto et.al.|[2401.00876](http://arxiv.org/abs/2401.00876)|**[link](https://github.com/falihgoz/bargrain)**|
 |**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755](http://arxiv.org/abs/2401.00755)|null|
 |**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
-|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633](http://arxiv.org/abs/2401.00633)|null|
+|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633](http://arxiv.org/abs/2401.00633)|**[link](https://github.com/alirezadizaji/graphroar)**|
 |**2023-12-31**|**Generating High-Precision Force Fields for Molecular Dynamics Simulations to Study Chemical Reaction Mechanisms using Molecular Configuration Transformer**|Sihao Yuan et.al.|[2401.00499](http://arxiv.org/abs/2401.00499)|null|
 |**2023-12-31**|**Deeper and Wider Networks for Performance Metrics Prediction in Communication Networks**|Aijia Liu et.al.|[2401.00429](http://arxiv.org/abs/2401.00429)|null|
 |**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388](http://arxiv.org/abs/2401.00388)|null|
@@ -287,7 +287,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
