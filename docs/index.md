@@ -14,11 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
+|**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
 |**2024-01-05**|**Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning**|Zhifeng Jiang et.al.|[2401.02880](http://arxiv.org/abs/2401.02880)|**[link](https://github.com/samuelgong/lotto)**|
 |**2024-01-04**|**Adaptive Differential Privacy in Federated Learning: A Priority-Based Approach**|Mahtab Talaei et.al.|[2401.02453](http://arxiv.org/abs/2401.02453)|null|
 |**2024-01-03**|**Locally Differentially Private Embedding Models in Distributed Fraud Prevention Systems**|Iker Perez et.al.|[2401.02450](http://arxiv.org/abs/2401.02450)|null|
 |**2024-01-02**|**Efficient Sparse Least Absolute Deviation Regression with Differential Privacy**|Weidong Liu et.al.|[2401.01294](http://arxiv.org/abs/2401.01294)|null|
-|**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204](http://arxiv.org/abs/2401.01204)|null|
+|**2024-01-08**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204](http://arxiv.org/abs/2401.01204)|null|
 |**2024-01-01**|**Facebook Report on Privacy of fNIRS data**|Md Imran Hossen et.al.|[2401.00973](http://arxiv.org/abs/2401.00973)|null|
 |**2023-12-30**|**Teach Large Language Models to Forget Privacy**|Ran Yan et.al.|[2401.00870](http://arxiv.org/abs/2401.00870)|null|
 |**2023-12-31**|**Improving the Privacy and Practicality of Objective Perturbation for Differentially Private Linear Learners**|Rachel Redberg et.al.|[2401.00583](http://arxiv.org/abs/2401.00583)|null|
@@ -98,6 +100,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**A Primer on Temporal Graph Learning**|Aniq Ur Rahman et.al.|[2401.03988](http://arxiv.org/abs/2401.03988)|null|
+|**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790](http://arxiv.org/abs/2401.03790)|null|
+|**2024-01-08**|**Joint Power Allocation and User Scheduling in Integrated Satellite-Terrestrial Cell-Free Massive MIMO IoT Systems**|Trinh Van Chien et.al.|[2401.03754](http://arxiv.org/abs/2401.03754)|null|
+|**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
+|**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
+|**2024-01-07**|**Few-Shot Causal Representation Learning for Out-of-Distribution Generalization on Heterogeneous Graphs**|Pengfei Ding et.al.|[2401.03597](http://arxiv.org/abs/2401.03597)|null|
+|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|null|
+|**2024-01-07**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2401.03350](http://arxiv.org/abs/2401.03350)|null|
+|**2024-01-06**|**TelTrans: Applying Multi-Type Telecom Data to Transportation Evaluation and Prediction via Multifaceted Graph Modeling**|ChungYi Lin et.al.|[2401.03138](http://arxiv.org/abs/2401.03138)|null|
+|**2024-01-06**|**GLISP: A Scalable GNN Learning System by Exploiting Inherent Structural Properties of Graphs**|Zhongshu Zhu et.al.|[2401.03114](http://arxiv.org/abs/2401.03114)|null|
+|**2024-01-05**|**A Topology-aware Graph Coarsening Framework for Continual Graph Learning**|Xiaoxue Han et.al.|[2401.03077](http://arxiv.org/abs/2401.03077)|null|
 |**2024-01-05**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949](http://arxiv.org/abs/2401.02949)|null|
 |**2024-01-05**|**H2G2-Net: A Hierarchical Heterogeneous Graph Generative Network Framework for Discovery of Multi-Modal Physiological Responses**|Haidong Gu et.al.|[2401.02905](http://arxiv.org/abs/2401.02905)|null|
 |**2024-01-05**|**DocGraphLM: Documental Graph Language Model for Information Extraction**|Dongsheng Wang et.al.|[2401.02823](http://arxiv.org/abs/2401.02823)|null|
