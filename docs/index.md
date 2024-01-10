@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
+|**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
+|**2024-01-09**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
+|**2024-01-09**|**Private Truly-Everlasting Robust-Prediction**|Uri Stemmer et.al.|[2401.04311](http://arxiv.org/abs/2401.04311)|null|
+|**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
 |**2024-01-08**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
 |**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
 |**2024-01-05**|**Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning**|Zhifeng Jiang et.al.|[2401.02880](http://arxiv.org/abs/2401.02880)|**[link](https://github.com/samuelgong/lotto)**|
@@ -100,7 +105,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-08**|**A Primer on Temporal Graph Learning**|Aniq Ur Rahman et.al.|[2401.03988](http://arxiv.org/abs/2401.03988)|null|
+|**2024-01-09**|**Coupling Graph Neural Networks with Fractional Order Continuous Dynamics: A Robustness Study**|Qiyu Kang et.al.|[2401.04331](http://arxiv.org/abs/2401.04331)|null|
+|**2024-01-08**|**Explaining the Power of Topological Data Analysis in Graph Machine Learning**|Funmilola Mary Taiwo et.al.|[2401.04250](http://arxiv.org/abs/2401.04250)|**[link](https://github.com/phunmey/xtda-paper)**|
+|**2024-01-07**|**Global-Aware Enhanced Spatial-Temporal Graph Recurrent Networks: A New Framework For Traffic Flow Prediction**|Haiyang Liu et.al.|[2401.04135](http://arxiv.org/abs/2401.04135)|null|
+|**2024-01-07**|**SynHIN: Generating Synthetic Heterogeneous Information Network for Explainable AI**|Ming-Yi Hong et.al.|[2401.04133](http://arxiv.org/abs/2401.04133)|null|
+|**2024-01-09**|**A Primer on Temporal Graph Learning**|Aniq Ur Rahman et.al.|[2401.03988](http://arxiv.org/abs/2401.03988)|null|
 |**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790](http://arxiv.org/abs/2401.03790)|null|
 |**2024-01-08**|**Joint Power Allocation and User Scheduling in Integrated Satellite-Terrestrial Cell-Free Massive MIMO IoT Systems**|Trinh Van Chien et.al.|[2401.03754](http://arxiv.org/abs/2401.03754)|null|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
@@ -111,7 +120,7 @@ layout: default
 |**2024-01-06**|**TelTrans: Applying Multi-Type Telecom Data to Transportation Evaluation and Prediction via Multifaceted Graph Modeling**|ChungYi Lin et.al.|[2401.03138](http://arxiv.org/abs/2401.03138)|null|
 |**2024-01-06**|**GLISP: A Scalable GNN Learning System by Exploiting Inherent Structural Properties of Graphs**|Zhongshu Zhu et.al.|[2401.03114](http://arxiv.org/abs/2401.03114)|null|
 |**2024-01-05**|**A Topology-aware Graph Coarsening Framework for Continual Graph Learning**|Xiaoxue Han et.al.|[2401.03077](http://arxiv.org/abs/2401.03077)|null|
-|**2024-01-05**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949](http://arxiv.org/abs/2401.02949)|null|
+|**2024-01-09**|**Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving**|Jason Rute et.al.|[2401.02949](http://arxiv.org/abs/2401.02949)|null|
 |**2024-01-05**|**H2G2-Net: A Hierarchical Heterogeneous Graph Generative Network Framework for Discovery of Multi-Modal Physiological Responses**|Haidong Gu et.al.|[2401.02905](http://arxiv.org/abs/2401.02905)|null|
 |**2024-01-05**|**DocGraphLM: Documental Graph Language Model for Information Extraction**|Dongsheng Wang et.al.|[2401.02823](http://arxiv.org/abs/2401.02823)|null|
 |**2024-01-05**|**Powerformer: A Section-adaptive Transformer for Power Flow Adjustment**|Kaixuan Chen et.al.|[2401.02771](http://arxiv.org/abs/2401.02771)|null|
