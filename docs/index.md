@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-12**|**A proposal to increase data utility on Global Differential Privacy data based on data use predictions**|Henry C. Nunes et.al.|[2401.06601](http://arxiv.org/abs/2401.06601)|null|
-|**2024-01-11**|**Qrlew: Rewriting SQL into Differentially Private SQL**|Nicolas Grislain et.al.|[2401.06273](http://arxiv.org/abs/2401.06273)|null|
+|**2024-01-11**|**Qrlew: Rewriting SQL into Differentially Private SQL**|Nicolas Grislain et.al.|[2401.06273](http://arxiv.org/abs/2401.06273)|**[link](https://github.com/qrlew/qrlew)**|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
 |**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
 |**2024-01-10**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
