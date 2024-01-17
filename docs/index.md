@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
+|**2024-01-16**|**Differentially Private Estimation of CATE in Adaptive Experiment**|Jiachun Li et.al.|[2401.08224](http://arxiv.org/abs/2401.08224)|null|
+|**2024-01-16**|**Differentially Private Sliced Inverse Regression: Minimax Optimality and Algorithm**|Xintao Xia et.al.|[2401.08150](http://arxiv.org/abs/2401.08150)|null|
+|**2024-01-15**|**Predominant Aspects on Security for Quantum Machine Learning: Literature Review**|Nicola Franco et.al.|[2401.07774](http://arxiv.org/abs/2401.07774)|null|
 |**2024-01-12**|**A proposal to increase data utility on Global Differential Privacy data based on data use predictions**|Henry C. Nunes et.al.|[2401.06601](http://arxiv.org/abs/2401.06601)|null|
 |**2024-01-11**|**Qrlew: Rewriting SQL into Differentially Private SQL**|Nicolas Grislain et.al.|[2401.06273](http://arxiv.org/abs/2401.06273)|**[link](https://github.com/qrlew/qrlew)**|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
@@ -21,7 +25,7 @@ layout: default
 |**2024-01-10**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
 |**2024-01-09**|**Private Truly-Everlasting Robust-Prediction**|Uri Stemmer et.al.|[2401.04311](http://arxiv.org/abs/2401.04311)|null|
 |**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
-|**2024-01-08**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
+|**2024-01-15**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
 |**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
 |**2024-01-05**|**Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning**|Zhifeng Jiang et.al.|[2401.02880](http://arxiv.org/abs/2401.02880)|**[link](https://github.com/samuelgong/lotto)**|
 |**2024-01-04**|**Adaptive Differential Privacy in Federated Learning: A Priority-Based Approach**|Mahtab Talaei et.al.|[2401.02453](http://arxiv.org/abs/2401.02453)|null|
@@ -107,6 +111,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220](http://arxiv.org/abs/2401.08220)|null|
+|**2024-01-16**|**Structure-based out-of-distribution (OOD) materials property prediction: a benchmark study**|Sadman Sadeed Omee et.al.|[2401.08032](http://arxiv.org/abs/2401.08032)|null|
+|**2024-01-15**|**Integrate Any Omics: Towards genome-wide data integration for patient stratification**|Shihao Ma et.al.|[2401.07937](http://arxiv.org/abs/2401.07937)|**[link](https://github.com/bowang-lab/integrao)**|
+|**2024-01-15**|**Multimodal Language and Graph Learning of Adsorption Configuration in Catalysis**|Janghoon Ock et.al.|[2401.07408](http://arxiv.org/abs/2401.07408)|null|
+|**2024-01-13**|**Graph Language Models**|Moritz Plenz et.al.|[2401.07105](http://arxiv.org/abs/2401.07105)|**[link](https://github.com/heidelberg-nlp/graphlanguagemodels)**|
+|**2024-01-13**|**Reinforcement Learning for Scalable Train Timetable Rescheduling with Graph Representation**|Peng Yue et.al.|[2401.06952](http://arxiv.org/abs/2401.06952)|null|
+|**2024-01-12**|**Accelerating Neural Networks for Large Language Models and Graph Processing with Silicon Photonics**|Salma Afifi et.al.|[2401.06885](http://arxiv.org/abs/2401.06885)|null|
+|**2024-01-10**|**Hierarchical Knowledge Distillation on Text Graph for Data-limited Attribute Inference**|Quan Li et.al.|[2401.06802](http://arxiv.org/abs/2401.06802)|null|
 |**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559](http://arxiv.org/abs/2401.06559)|null|
 |**2024-01-12**|**Treatment-Aware Hyperbolic Representation Learning for Causal Effect Estimation with Social Networks**|Ziqiang Cui et.al.|[2401.06557](http://arxiv.org/abs/2401.06557)|null|
 |**2024-01-10**|**GOODAT: Towards Test-time Graph Out-of-Distribution Detection**|Luzhi Wang et.al.|[2401.06176](http://arxiv.org/abs/2401.06176)|**[link](https://github.com/ee1s/goodat)**|
