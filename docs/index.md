@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Differentially Private Approval-Based Committee Voting**|Zhechen Li et.al.|[2401.10122](http://arxiv.org/abs/2401.10122)|null|
 |**2024-01-17**|**Fixed-Budget Differentially Private Best Arm Identification**|Zhirui Chen et.al.|[2401.09073](http://arxiv.org/abs/2401.09073)|null|
 |**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723](http://arxiv.org/abs/2401.08723)|null|
 |**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
@@ -113,8 +114,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**A novel hybrid time-varying graph neural network for traffic flow forecasting**|Ben Ao Dai et.al.|[2401.10155](http://arxiv.org/abs/2401.10155)|**[link](https://github.com/DaibenaoZSTU/HTVGNN)**|
+|**2024-01-18**|**Through the Dual-Prism: A Spectral Perspective on Graph Data Augmentation for Graph Classification**|Yutong Xia et.al.|[2401.09953](http://arxiv.org/abs/2401.09953)|null|
+|**2024-01-18**|**HGAttack: Transferable Heterogeneous Graph Adversarial Attack**|He Zhao et.al.|[2401.09945](http://arxiv.org/abs/2401.09945)|null|
+|**2024-01-18**|**Infinite-Horizon Graph Filters: Leveraging Power Series to Enhance Sparse Information Aggregation**|Ruizhe Zhang et.al.|[2401.09943](http://arxiv.org/abs/2401.09943)|**[link](https://github.com/GPFN-Anonymous/GPFN)**|
+|**2024-01-18**|**Crystal Transformer Based Universal Atomic Embedding for Accurate and Transferable Prediction of Materials Properties**|Luozhijie Jin et.al.|[2401.09755](http://arxiv.org/abs/2401.09755)|null|
+|**2024-01-18**|**Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**|Yulin Zhu et.al.|[2401.09754](http://arxiv.org/abs/2401.09754)|null|
+|**2024-01-18**|**Predicting Viral Rumors and Vulnerable Users for Infodemic Surveillance**|Xuan Zhang et.al.|[2401.09724](http://arxiv.org/abs/2401.09724)|**[link](https://github.com/jadecurl/predicting-viral-rumors-and-vulnerable-users)**|
+|**2024-01-18**|**EfficientRec an unlimited user-item scale recommendation system based on clustering and users interaction embedding profile**|Vu Hong Quan et.al.|[2401.09693](http://arxiv.org/abs/2401.09693)|**[link](https://github.com/quanvu0996/efficientrec)**|
 |**2024-01-17**|**BENO: Boundary-embedded Neural Operators for Elliptic PDEs**|Haixin Wang et.al.|[2401.09323](http://arxiv.org/abs/2401.09323)|**[link](https://github.com/ai4science-westlakeu/beno)**|
-|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|null|
+|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|**[link](https://github.com/gdl-unive/histogram-intersection-kernel)**|
 |**2024-01-17**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125](http://arxiv.org/abs/2401.09125)|null|
 |**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071](http://arxiv.org/abs/2401.09071)|null|
 |**2024-01-16**|**Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness**|Bohang Zhang et.al.|[2401.08514](http://arxiv.org/abs/2401.08514)|**[link](https://github.com/subgraph23/homomorphism-expressivity)**|
