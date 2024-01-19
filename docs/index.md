@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -17,7 +17,7 @@ layout: default
 |**2024-01-17**|**Fixed-Budget Differentially Private Best Arm Identification**|Zhirui Chen et.al.|[2401.09073](http://arxiv.org/abs/2401.09073)|null|
 |**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723](http://arxiv.org/abs/2401.08723)|null|
 |**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
-|**2024-01-16**|**Differentially Private Estimation of CATE in Adaptive Experiment**|Jiachun Li et.al.|[2401.08224](http://arxiv.org/abs/2401.08224)|null|
+|**2024-01-17**|**Differentially Private Estimation of CATE in Adaptive Experiment**|Jiachun Li et.al.|[2401.08224](http://arxiv.org/abs/2401.08224)|null|
 |**2024-01-16**|**Differentially Private Sliced Inverse Regression: Minimax Optimality and Algorithm**|Xintao Xia et.al.|[2401.08150](http://arxiv.org/abs/2401.08150)|null|
 |**2024-01-15**|**Predominant Aspects on Security for Quantum Machine Learning: Literature Review**|Nicola Franco et.al.|[2401.07774](http://arxiv.org/abs/2401.07774)|null|
 |**2024-01-12**|**A proposal to increase data utility on Global Differential Privacy data based on data use predictions**|Henry C. Nunes et.al.|[2401.06601](http://arxiv.org/abs/2401.06601)|null|
