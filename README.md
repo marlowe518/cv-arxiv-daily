@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-01-11**|**Qrlew: Rewriting SQL into Differentially Private SQL**|Nicolas Grislain et.al.|[2401.06273](http://arxiv.org/abs/2401.06273)|**[link](https://github.com/qrlew/qrlew)**|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
 |**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
-|**2024-01-10**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
+|**2024-01-19**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
 |**2024-01-09**|**Private Truly-Everlasting Robust-Prediction**|Uri Stemmer et.al.|[2401.04311](http://arxiv.org/abs/2401.04311)|null|
 |**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
 |**2024-01-15**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
@@ -114,7 +114,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240122>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -371,7 +371,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

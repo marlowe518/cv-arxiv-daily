@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.21
+## Updated on 2024.01.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -25,7 +25,7 @@ layout: default
 |**2024-01-11**|**Qrlew: Rewriting SQL into Differentially Private SQL**|Nicolas Grislain et.al.|[2401.06273](http://arxiv.org/abs/2401.06273)|**[link](https://github.com/qrlew/qrlew)**|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
 |**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
-|**2024-01-10**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
+|**2024-01-19**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
 |**2024-01-09**|**Private Truly-Everlasting Robust-Prediction**|Uri Stemmer et.al.|[2401.04311](http://arxiv.org/abs/2401.04311)|null|
 |**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
 |**2024-01-15**|**The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias**|Peter Müllner et.al.|[2401.03883](http://arxiv.org/abs/2401.03883)|**[link](https://github.com/pmuellner/impactofdp)**|
