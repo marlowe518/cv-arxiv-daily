@@ -18,8 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-21**|**Differential Privacy in Hierarchical Federated Learning: A Formal Analysis and Evaluation**|Frank Po-Chen Lin et.al.|[2401.11592](http://arxiv.org/abs/2401.11592)|null|
+|**2024-01-20**|**Protecting Personalized Trajectory with Differential Privacy under Temporal Correlations**|Mingge Cao et.al.|[2401.11225](http://arxiv.org/abs/2401.11225)|null|
+|**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089](http://arxiv.org/abs/2401.11089)|**[link](https://github.com/ttliu98/fedrkg)**|
+|**2024-01-20**|**Learning from Aggregate responses: Instance Level versus Bag Level Loss Functions**|Adel Javanmard et.al.|[2401.11081](http://arxiv.org/abs/2401.11081)|null|
 |**2024-01-18**|**Differentially Private and Adversarially Robust Machine Learning: An Empirical Evaluation**|Janvi Thakkar et.al.|[2401.10405](http://arxiv.org/abs/2401.10405)|null|
-|**2024-01-18**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
+|**2024-01-22**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
 |**2024-01-18**|**Differentially Private Approval-Based Committee Voting**|Zhechen Li et.al.|[2401.10122](http://arxiv.org/abs/2401.10122)|null|
 |**2024-01-17**|**Fixed-Budget Differentially Private Best Arm Identification**|Zhirui Chen et.al.|[2401.09073](http://arxiv.org/abs/2401.09073)|null|
 |**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723](http://arxiv.org/abs/2401.08723)|null|
@@ -122,6 +126,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
+|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007](http://arxiv.org/abs/2401.12007)|null|
+|**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840](http://arxiv.org/abs/2401.11840)|null|
+|**2024-01-22**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798](http://arxiv.org/abs/2401.11798)|null|
+|**2024-01-22**|**Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective**|Feiyu Yao et.al.|[2401.11783](http://arxiv.org/abs/2401.11783)|null|
+|**2024-01-22**|**LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning**|Xunkai Li et.al.|[2401.11772](http://arxiv.org/abs/2401.11772)|**[link](https://github.com/xkli-allen/lightdic)**|
+|**2024-01-22**|**ADA-GNN: Atom-Distance-Angle Graph Neural Network for Crystal Material Property Prediction**|Jiao Huang et.al.|[2401.11768](http://arxiv.org/abs/2401.11768)|null|
+|**2024-01-22**|**Integrated Sensing, Communication, and Computing: An Information-oriented Resource Transaction Mechanism**|Ning Chen et.al.|[2401.11759](http://arxiv.org/abs/2401.11759)|null|
+|**2024-01-22**|**AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity**|Xunkai Li et.al.|[2401.11750](http://arxiv.org/abs/2401.11750)|null|
+|**2024-01-22**|**Graph Condensation: A Survey**|Xinyi Gao et.al.|[2401.11720](http://arxiv.org/abs/2401.11720)|null|
+|**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
+|**2024-01-21**|**PlasmoData.jl -- A Julia Framework for Modeling and Analyzing Complex Data as Graphs**|David L Cole et.al.|[2401.11404](http://arxiv.org/abs/2401.11404)|null|
+|**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089](http://arxiv.org/abs/2401.11089)|**[link](https://github.com/ttliu98/fedrkg)**|
+|**2024-01-20**|**On The Temporal Domain of Differential Equation Inspired Graph Neural Networks**|Moshe Eliasof et.al.|[2401.11074](http://arxiv.org/abs/2401.11074)|null|
+|**2024-01-19**|**Equivariant Graph Neural Operator for Modeling 3D Dynamics**|Minkai Xu et.al.|[2401.11037](http://arxiv.org/abs/2401.11037)|null|
+|**2024-01-19**|**Leveraging Domain Adaptation for Accurate Machine Learning Predictions of New Halide Perovskites**|Dipannoy Das Gupta et.al.|[2401.10998](http://arxiv.org/abs/2401.10998)|null|
 |**2024-01-19**|**Co-Pilot for Health: Personalized Algorithmic AI Nudging to Improve Health Outcomes**|Jodi Chiam et.al.|[2401.10816](http://arxiv.org/abs/2401.10816)|null|
 |**2024-01-19**|**Novel Representation Learning Technique using Graphs for Performance Analytics**|Tarek Ramadan et.al.|[2401.10799](http://arxiv.org/abs/2401.10799)|null|
 |**2024-01-19**|**BoolGebra: Attributed Graph-learning for Boolean Algebraic Manipulation**|Yingjie Li et.al.|[2401.10753](http://arxiv.org/abs/2401.10753)|null|
