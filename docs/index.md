@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Randomized Response with Gradual Release of Privacy Budget**|Mingen Pan et.al.|[2401.13952](http://arxiv.org/abs/2401.13952)|null|
 |**2024-01-24**|**Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**|Dong Han et.al.|[2401.13386](http://arxiv.org/abs/2401.13386)|null|
 |**2024-01-24**|**Generating Synthetic Health Sensor Data for Privacy-Preserving Wearable Stress Detection**|Lucas Lange et.al.|[2401.13327](http://arxiv.org/abs/2401.13327)|**[link](https://github.com/luckyos-code/privacy-preserving-smartwatch-health-data-generation-using-dp-gans)**|
 |**2024-01-23**|**Wasserstein Differential Privacy**|Chengyi Yang et.al.|[2401.12436](http://arxiv.org/abs/2401.12436)|**[link](https://github.com/hifipsysta/wdp)**|
@@ -124,6 +125,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs**|Martin Hanik et.al.|[2401.14381](http://arxiv.org/abs/2401.14381)|null|
+|**2024-01-25**|**Estimation of partially known Gaussian graphical models with score-based structural priors**|Martín Sevilla et.al.|[2401.14340](http://arxiv.org/abs/2401.14340)|**[link](https://github.com/tenceto/langevin_ggm)**|
+|**2024-01-25**|**Energy-Efficient Power Allocation in Cell-Free Massive MIMO via Graph Neural Networks**|Ramprasad Raghunath et.al.|[2401.14281](http://arxiv.org/abs/2401.14281)|null|
+|**2024-01-25**|**MTRGL:Effective Temporal Correlation Discerning through Multi-modal Temporal Relational Graph Learning**|Junwei Su et.al.|[2401.14199](http://arxiv.org/abs/2401.14199)|null|
+|**2024-01-25**|**Alleviating Structural Distribution Shift in Graph Anomaly Detection**|Yuan Gao et.al.|[2401.14155](http://arxiv.org/abs/2401.14155)|**[link](https://github.com/blacksingular/wsdm_gdn)**|
+|**2024-01-25**|**A Survey of Deep Learning and Foundation Models for Time Series Forecasting**|John A. Miller et.al.|[2401.13912](http://arxiv.org/abs/2401.13912)|null|
+|**2024-01-25**|**Edge Conditional Node Update Graph Neural Network for Multi-variate Time Series Anomaly Detection**|Hayoung Jo et.al.|[2401.13872](http://arxiv.org/abs/2401.13872)|null|
 |**2024-01-24**|**Multitask Active Learning for Graph Anomaly Detection**|Wenjing Chang et.al.|[2401.13210](http://arxiv.org/abs/2401.13210)|**[link](https://github.com/ahachang/mitigate)**|
 |**2024-01-24**|**Topology-aware Embedding Memory for Learning on Expanding Graphs**|Xikun Zhang et.al.|[2401.13200](http://arxiv.org/abs/2401.13200)|null|
 |**2024-01-23**|**Probabilistic Demand Forecasting with Graph Neural Networks**|Nikita Kozodoi et.al.|[2401.13096](http://arxiv.org/abs/2401.13096)|null|
@@ -135,7 +143,7 @@ layout: default
 |**2024-01-23**|**PolyCF: Towards the Optimal Spectral Graph Filters for Collaborative Filtering**|Yifang Qin et.al.|[2401.12590](http://arxiv.org/abs/2401.12590)|null|
 |**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362](http://arxiv.org/abs/2401.12362)|null|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
-|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007](http://arxiv.org/abs/2401.12007)|null|
+|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007](http://arxiv.org/abs/2401.12007)|**[link](https://github.com/taowen0309/ttg-nn)**|
 |**2024-01-22**|**Learning to Approximate Adaptive Kernel Convolution on Graphs**|Jaeyoon Sim et.al.|[2401.11840](http://arxiv.org/abs/2401.11840)|null|
 |**2024-01-23**|**Knowledge Distillation on Spatial-Temporal Graph Convolutional Network for Traffic Prediction**|Mohammad Izadi et.al.|[2401.11798](http://arxiv.org/abs/2401.11798)|null|
 |**2024-01-22**|**Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective**|Feiyu Yao et.al.|[2401.11783](http://arxiv.org/abs/2401.11783)|null|
