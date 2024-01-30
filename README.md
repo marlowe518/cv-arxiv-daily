@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
+|**2024-01-29**|**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**|V. Arvind Rameshwar et.al.|[2401.15906](http://arxiv.org/abs/2401.15906)|null|
+|**2024-01-28**|**The Discrepancy of Shortest Paths**|Greg Bodwin et.al.|[2401.15781](http://arxiv.org/abs/2401.15781)|null|
+|**2024-01-28**|**Integrating Differential Privacy and Contextual Integrity**|Sebastian Benthall et.al.|[2401.15774](http://arxiv.org/abs/2401.15774)|null|
+|**2024-01-27**|**Differentially Private Bayesian Tests**|Abhisek Chakraborty et.al.|[2401.15502](http://arxiv.org/abs/2401.15502)|null|
+|**2024-01-27**|**General Inferential Limits Under Differential and Pufferfish Privacy**|James Bailie et.al.|[2401.15491](http://arxiv.org/abs/2401.15491)|null|
+|**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369](http://arxiv.org/abs/2401.15369)|null|
+|**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
+|**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203](http://arxiv.org/abs/2401.15203)|null|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
 |**2024-01-26**|**PrivStream: An Algorithm for Streaming Differentially Private Data**|Girish Kumar et.al.|[2401.14577](http://arxiv.org/abs/2401.14577)|null|
 |**2024-01-25**|**Privacy-preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials**|Leon Yao et.al.|[2401.14549](http://arxiv.org/abs/2401.14549)|null|
@@ -134,6 +143,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|null|
+|**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
+|**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
+|**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
+|**2024-01-29**|**Combined track finding with GNN & CKF**|Lukas Heinrich et.al.|[2401.16016](http://arxiv.org/abs/2401.16016)|null|
+|**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964](http://arxiv.org/abs/2401.15964)|null|
+|**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894](http://arxiv.org/abs/2401.15894)|null|
+|**2024-01-28**|**Improving Expressive Power of Spectral Graph Neural Networks with Eigenvalue Correction**|Kangkang Lu et.al.|[2401.15603](http://arxiv.org/abs/2401.15603)|null|
+|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|null|
+|**2024-01-28**|**Efficient Tuning and Inference for Large Language Models on Textual Graphs**|Yun Zhu et.al.|[2401.15569](http://arxiv.org/abs/2401.15569)|null|
+|**2024-01-27**|**Product Manifold Representations for Learning on Biological Pathways**|Daniel McNeela et.al.|[2401.15478](http://arxiv.org/abs/2401.15478)|null|
+|**2024-01-27**|**Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment**|Zejia Lu et.al.|[2401.15477](http://arxiv.org/abs/2401.15477)|null|
+|**2024-01-27**|**Towards Causal Classification: A Comprehensive Study on Graph Neural Networks**|Simi Job et.al.|[2401.15444](http://arxiv.org/abs/2401.15444)|null|
+|**2024-01-27**|**Neutrino Reconstruction in TRIDENT Based on Graph Neural Network**|Cen Mo et.al.|[2401.15324](http://arxiv.org/abs/2401.15324)|null|
+|**2024-01-27**|**Localization of Dummy Data Injection Attacks in Power Systems Considering Incomplete Topological Information: A Spatio-Temporal Graph Wavelet Convolutional Neural Network Approach**|Zhaoyang Qu et.al.|[2401.15321](http://arxiv.org/abs/2401.15321)|null|
+|**2024-01-27**|**Adaptive Least Mean Squares Graph Neural Networks and Online Graph Signal Estimation**|Yi Yan et.al.|[2401.15304](http://arxiv.org/abs/2401.15304)|null|
+|**2024-01-27**|**SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2401.15299](http://arxiv.org/abs/2401.15299)|**[link](https://github.com/ciol-sust/supplygraph)**|
+|**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203](http://arxiv.org/abs/2401.15203)|null|
 |**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|null|
 |**2024-01-26**|**Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**|Sicong Cao et.al.|[2401.14886](http://arxiv.org/abs/2401.14886)|null|
 |**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
