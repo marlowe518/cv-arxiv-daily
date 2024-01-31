@@ -18,7 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-29**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
+|**2024-01-30**|**Personalized Differential Privacy for Ridge Regression**|Krishna Acharya et.al.|[2401.17127](http://arxiv.org/abs/2401.17127)|**[link](https://github.com/krishnacharya/pp-ridge)**|
+|**2024-01-30**|**Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks**|Lulu Xue et.al.|[2401.16687](http://arxiv.org/abs/2401.16687)|null|
+|**2024-01-29**|**On Channel Simulation with Causal Rejection Samplers**|Daniel Goc et.al.|[2401.16579](http://arxiv.org/abs/2401.16579)|null|
+|**2024-01-30**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
 |**2024-01-29**|**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**|V. Arvind Rameshwar et.al.|[2401.15906](http://arxiv.org/abs/2401.15906)|null|
 |**2024-01-28**|**The Discrepancy of Shortest Paths**|Greg Bodwin et.al.|[2401.15781](http://arxiv.org/abs/2401.15781)|null|
 |**2024-01-28**|**Integrating Differential Privacy and Contextual Integrity**|Sebastian Benthall et.al.|[2401.15774](http://arxiv.org/abs/2401.15774)|null|
@@ -143,6 +146,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914](http://arxiv.org/abs/2401.16914)|null|
+|**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800](http://arxiv.org/abs/2401.16800)|null|
+|**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784](http://arxiv.org/abs/2401.16784)|null|
+|**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611](http://arxiv.org/abs/2401.16611)|null|
+|**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565](http://arxiv.org/abs/2401.16565)|null|
 |**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|null|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
 |**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
