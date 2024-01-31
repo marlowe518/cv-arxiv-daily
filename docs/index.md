@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -155,7 +155,7 @@ layout: default
 |**2024-01-27**|**Adaptive Least Mean Squares Graph Neural Networks and Online Graph Signal Estimation**|Yi Yan et.al.|[2401.15304](http://arxiv.org/abs/2401.15304)|null|
 |**2024-01-27**|**SupplyGraph: A Benchmark Dataset for Supply Chain Planning using Graph Neural Networks**|Azmine Toushik Wasi et.al.|[2401.15299](http://arxiv.org/abs/2401.15299)|**[link](https://github.com/ciol-sust/supplygraph)**|
 |**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203](http://arxiv.org/abs/2401.15203)|null|
-|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|null|
+|**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|**[link](https://github.com/yuanchenbei/macgnn)**|
 |**2024-01-26**|**Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**|Sicong Cao et.al.|[2401.14886](http://arxiv.org/abs/2401.14886)|null|
 |**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
 |**2024-01-26**|**Design Your Own Universe: A Physics-Informed Agnostic Method for Enhancing Graph Neural Networks**|Dai Shi et.al.|[2401.14580](http://arxiv.org/abs/2401.14580)|null|
