@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,11 +27,11 @@
 |**2024-01-28**|**Integrating Differential Privacy and Contextual Integrity**|Sebastian Benthall et.al.|[2401.15774](http://arxiv.org/abs/2401.15774)|null|
 |**2024-01-27**|**Differentially Private Bayesian Tests**|Abhisek Chakraborty et.al.|[2401.15502](http://arxiv.org/abs/2401.15502)|null|
 |**2024-01-27**|**General Inferential Limits Under Differential and Pufferfish Privacy**|James Bailie et.al.|[2401.15491](http://arxiv.org/abs/2401.15491)|null|
-|**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369](http://arxiv.org/abs/2401.15369)|null|
+|**2024-01-27**|**Privacy-Preserving Cross-Domain Sequential Recommendation**|Zhaohao Lin et.al.|[2401.15369](http://arxiv.org/abs/2401.15369)|**[link](https://github.com/lachlanlin/pricdsr)**|
 |**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
 |**2024-01-26**|**FedGT: Federated Node Classification with Scalable Graph Transformer**|Zaixi Zhang et.al.|[2401.15203](http://arxiv.org/abs/2401.15203)|null|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
-|**2024-01-26**|**PrivStream: An Algorithm for Streaming Differentially Private Data**|Girish Kumar et.al.|[2401.14577](http://arxiv.org/abs/2401.14577)|null|
+|**2024-01-31**|**An Algorithm for Streaming Differentially Private Data**|Girish Kumar et.al.|[2401.14577](http://arxiv.org/abs/2401.14577)|null|
 |**2024-01-25**|**Privacy-preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials**|Leon Yao et.al.|[2401.14549](http://arxiv.org/abs/2401.14549)|null|
 |**2024-01-25**|**Randomized Response with Gradual Release of Privacy Budget**|Mingen Pan et.al.|[2401.13952](http://arxiv.org/abs/2401.13952)|null|
 |**2024-01-24**|**Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**|Dong Han et.al.|[2401.13386](http://arxiv.org/abs/2401.13386)|null|
@@ -140,7 +140,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -151,7 +151,7 @@
 |**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784](http://arxiv.org/abs/2401.16784)|null|
 |**2024-01-29**|**Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function**|Jason B. Gibson et.al.|[2401.16611](http://arxiv.org/abs/2401.16611)|null|
 |**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565](http://arxiv.org/abs/2401.16565)|null|
-|**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|null|
+|**2024-01-29**|**Enhancing Molecular Property Prediction with Auxiliary Learning and Task-Specific Adaptation**|Vishal Dey et.al.|[2401.16299](http://arxiv.org/abs/2401.16299)|**[link](https://github.com/vishaldeyiiest/graphta)**|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
 |**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
 |**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
@@ -159,9 +159,9 @@
 |**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964](http://arxiv.org/abs/2401.15964)|null|
 |**2024-01-29**|**A Gated MLP Architecture for Learning Topological Dependencies in Spatio-Temporal Graphs**|Yun Young Choi et.al.|[2401.15894](http://arxiv.org/abs/2401.15894)|null|
 |**2024-01-28**|**Improving Expressive Power of Spectral Graph Neural Networks with Eigenvalue Correction**|Kangkang Lu et.al.|[2401.15603](http://arxiv.org/abs/2401.15603)|null|
-|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|null|
+|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|**[link](https://github.com/jinluwang1002/dgnn)**|
 |**2024-01-28**|**Efficient Tuning and Inference for Large Language Models on Textual Graphs**|Yun Zhu et.al.|[2401.15569](http://arxiv.org/abs/2401.15569)|null|
-|**2024-01-27**|**Product Manifold Representations for Learning on Biological Pathways**|Daniel McNeela et.al.|[2401.15478](http://arxiv.org/abs/2401.15478)|null|
+|**2024-01-27**|**Product Manifold Representations for Learning on Biological Pathways**|Daniel McNeela et.al.|[2401.15478](http://arxiv.org/abs/2401.15478)|**[link](https://github.com/mcneela/mixed-curvature-pathways)**|
 |**2024-01-27**|**Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment**|Zejia Lu et.al.|[2401.15477](http://arxiv.org/abs/2401.15477)|null|
 |**2024-01-27**|**Towards Causal Classification: A Comprehensive Study on Graph Neural Networks**|Simi Job et.al.|[2401.15444](http://arxiv.org/abs/2401.15444)|null|
 |**2024-01-27**|**Neutrino Reconstruction in TRIDENT Based on Graph Neural Network**|Cen Mo et.al.|[2401.15324](http://arxiv.org/abs/2401.15324)|null|
@@ -468,7 +468,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
