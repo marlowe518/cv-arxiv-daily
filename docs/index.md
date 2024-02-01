@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
+|**2024-01-31**|**Evolving privacy: drift parameter estimation for discretely observed i.i.d. diffusion processes under LDP**|Chiara Amorino et.al.|[2401.17829](http://arxiv.org/abs/2401.17829)|null|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget**|Jiankai Jin et.al.|[2401.17628](http://arxiv.org/abs/2401.17628)|null|
 |**2024-01-30**|**Personalized Differential Privacy for Ridge Regression**|Krishna Acharya et.al.|[2401.17127](http://arxiv.org/abs/2401.17127)|**[link](https://github.com/krishnacharya/pp-ridge)**|
 |**2024-01-30**|**Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks**|Lulu Xue et.al.|[2401.16687](http://arxiv.org/abs/2401.16687)|null|
 |**2024-01-29**|**On Channel Simulation with Causal Rejection Samplers**|Daniel Goc et.al.|[2401.16579](http://arxiv.org/abs/2401.16579)|null|
@@ -140,6 +144,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Benchmarking Sensitivity of Continual Graph Learning for Skeleton-Based Action Recognition**|Wei Wei et.al.|[2401.18054](http://arxiv.org/abs/2401.18054)|null|
+|**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914](http://arxiv.org/abs/2401.17914)|null|
+|**2024-01-31**|**Graph Transformers without Positional Encodings**|Ayush Garg et.al.|[2401.17791](http://arxiv.org/abs/2401.17791)|null|
+|**2024-01-31**|**PF-GNN: Differentiable particle filtering based approximation of universal graph representations**|Mohammed Haroon Dupty et.al.|[2401.17752](http://arxiv.org/abs/2401.17752)|**[link](https://github.com/pfgnn/pf-gnn)**|
+|**2024-01-31**|**Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation**|Liang Qu et.al.|[2401.17630](http://arxiv.org/abs/2401.17630)|null|
+|**2024-01-31**|**IGCN: Integrative Graph Convolutional Networks for Multi-modal Data**|Cagri Ozdemir et.al.|[2401.17612](http://arxiv.org/abs/2401.17612)|null|
+|**2024-01-30**|**Timeseries Suppliers Allocation Risk Optimization via Deep Black Litterman Model**|Jiayuan Luo et.al.|[2401.17350](http://arxiv.org/abs/2401.17350)|null|
 |**2024-01-30**|**Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials**|Ivan Grega et.al.|[2401.16914](http://arxiv.org/abs/2401.16914)|null|
 |**2024-01-30**|**Online Algorithm for Node Feature Forecasting in Temporal Graphs**|Aniq Ur Rahman et.al.|[2401.16800](http://arxiv.org/abs/2401.16800)|null|
 |**2024-01-30**|**Graph Fairness Learning under Distribution Shifts**|Yibo Li et.al.|[2401.16784](http://arxiv.org/abs/2401.16784)|null|
