@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
 |**2024-01-31**|**Evolving privacy: drift parameter estimation for discretely observed i.i.d. diffusion processes under LDP**|Chiara Amorino et.al.|[2401.17829](http://arxiv.org/abs/2401.17829)|null|
-|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
 |**2024-01-31**|**Elephants Do Not Forget: Differential Privacy with State Continuity for Privacy Budget**|Jiankai Jin et.al.|[2401.17628](http://arxiv.org/abs/2401.17628)|null|
 |**2024-01-30**|**Personalized Differential Privacy for Ridge Regression**|Krishna Acharya et.al.|[2401.17127](http://arxiv.org/abs/2401.17127)|**[link](https://github.com/krishnacharya/pp-ridge)**|
 |**2024-01-30**|**Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks**|Lulu Xue et.al.|[2401.16687](http://arxiv.org/abs/2401.16687)|null|
