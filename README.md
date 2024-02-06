@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
+|**2024-02-03**|**Federated Learning with Differential Privacy**|Adrien Banse et.al.|[2402.02230](http://arxiv.org/abs/2402.02230)|null|
+|**2024-02-02**|**$L_q$ Lower Bounds on Distributed Estimation via Fisher Information**|Wei-Ning Chen et.al.|[2402.01895](http://arxiv.org/abs/2402.01895)|null|
+|**2024-02-02**|**Parametric Feature Transfer: One-shot Federated Learning with Foundation Models**|Mahdi Beitollahi et.al.|[2402.01862](http://arxiv.org/abs/2402.01862)|null|
 |**2024-02-02**|**Double-Dip: Thwarting Label-Only Membership Inference Attacks with Transfer Learning and Randomization**|Arezoo Rajabi et.al.|[2402.01114](http://arxiv.org/abs/2402.01114)|null|
 |**2024-02-01**|**Online Distribution Learning with Local Private Constraints**|Jin Sima et.al.|[2402.00315](http://arxiv.org/abs/2402.00315)|null|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
@@ -28,7 +32,7 @@
 |**2024-01-30**|**Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks**|Lulu Xue et.al.|[2401.16687](http://arxiv.org/abs/2401.16687)|null|
 |**2024-01-29**|**On Channel Simulation with Causal Rejection Samplers**|Daniel Goc et.al.|[2401.16579](http://arxiv.org/abs/2401.16579)|null|
 |**2024-01-30**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
-|**2024-01-29**|**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**|V. Arvind Rameshwar et.al.|[2401.15906](http://arxiv.org/abs/2401.15906)|null|
+|**2024-02-03**|**Mean Estimation with User-Level Privacy for Spatio-Temporal IoT Datasets**|V. Arvind Rameshwar et.al.|[2401.15906](http://arxiv.org/abs/2401.15906)|null|
 |**2024-01-28**|**The Discrepancy of Shortest Paths**|Greg Bodwin et.al.|[2401.15781](http://arxiv.org/abs/2401.15781)|null|
 |**2024-01-28**|**Integrating Differential Privacy and Contextual Integrity**|Sebastian Benthall et.al.|[2401.15774](http://arxiv.org/abs/2401.15774)|null|
 |**2024-01-27**|**Differentially Private Bayesian Tests**|Abhisek Chakraborty et.al.|[2401.15502](http://arxiv.org/abs/2401.15502)|null|
@@ -152,6 +156,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Graph Neural Machine: A New Model for Learning with Tabular Data**|Giannis Nikolentzos et.al.|[2402.02862](http://arxiv.org/abs/2402.02862)|null|
+|**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827](http://arxiv.org/abs/2402.02827)|null|
+|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692](http://arxiv.org/abs/2402.02692)|null|
+|**2024-02-05**|**GraphRT: A graph-based deep learning model for predicting the retention time of peptides**|Mark Drvodelic et.al.|[2402.02661](http://arxiv.org/abs/2402.02661)|null|
+|**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
+|**2024-02-04**|**Active Learning for Graphs with Noisy Structures**|Hongliang Chi et.al.|[2402.02321](http://arxiv.org/abs/2402.02321)|null|
+|**2024-02-03**|**SemPool: Simple, robust, and interpretable KG pooling for enhancing language models**|Costas Mavromatis et.al.|[2402.02289](http://arxiv.org/abs/2402.02289)|null|
+|**2024-02-03**|**Future Directions in Foundations of Graph Machine Learning**|Christopher Morris et.al.|[2402.02287](http://arxiv.org/abs/2402.02287)|null|
+|**2024-02-03**|**Neural Scaling Laws on Graphs**|Jingzhe Liu et.al.|[2402.02054](http://arxiv.org/abs/2402.02054)|null|
+|**2024-02-03**|**Interpreting Graph Neural Networks with In-Distributed Proxies**|Zhuomin Chen et.al.|[2402.02036](http://arxiv.org/abs/2402.02036)|null|
+|**2024-02-03**|**Topology-Informed Graph Transformer**|Yun Young Choi et.al.|[2402.02005](http://arxiv.org/abs/2402.02005)|null|
+|**2024-02-02**|**PhenoLinker: Phenotype-Gene Link Prediction and Explanation using Heterogeneous Graph Neural Networks**|Jose L. Mellina Andreu et.al.|[2402.01809](http://arxiv.org/abs/2402.01809)|null|
 |**2024-02-02**|**TEDDY: Trimming Edges with Degree-based Discrimination strategY**|Hyunjin Seo et.al.|[2402.01261](http://arxiv.org/abs/2402.01261)|null|
 |**2024-02-02**|**Two Heads Are Better Than One: Boosting Graph Sparse Training via Semantic and Topological Awareness**|Guibin Zhang et.al.|[2402.01242](http://arxiv.org/abs/2402.01242)|null|
 |**2024-02-02**|**Unveiling Delay Effects in Traffic Forecasting: A Perspective from Spatial-Temporal Delay Differential Equations**|Qingqing Long et.al.|[2402.01231](http://arxiv.org/abs/2402.01231)|null|
