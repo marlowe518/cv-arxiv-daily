@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private Stochastic Optimisation**|Ossi Räisä et.al.|[2402.03990](http://arxiv.org/abs/2402.03990)|null|
+|**2024-02-06**|**Differentially Private High Dimensional Bandits**|Apurv Shukla et.al.|[2402.03737](http://arxiv.org/abs/2402.03737)|null|
+|**2024-02-05**|**Regulation Games for Trustworthy Machine Learning**|Mohammad Yaghini et.al.|[2402.03540](http://arxiv.org/abs/2402.03540)|null|
+|**2024-02-05**|**Fairness and Privacy Guarantees in Federated Contextual Bandits**|Sambhav Solanki et.al.|[2402.03531](http://arxiv.org/abs/2402.03531)|null|
 |**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
 |**2024-02-03**|**Federated Learning with Differential Privacy**|Adrien Banse et.al.|[2402.02230](http://arxiv.org/abs/2402.02230)|null|
 |**2024-02-02**|**$L_q$ Lower Bounds on Distributed Estimation via Fisher Information**|Wei-Ning Chen et.al.|[2402.01895](http://arxiv.org/abs/2402.01895)|null|
@@ -156,6 +160,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235](http://arxiv.org/abs/2402.04235)|null|
+|**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062](http://arxiv.org/abs/2402.04062)|null|
+|**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
+|**2024-02-06**|**On dimensionality of feature vectors in MPNNs**|César Bravo et.al.|[2402.03966](http://arxiv.org/abs/2402.03966)|null|
+|**2024-02-06**|**Masked Graph Autoencoder with Non-discrete Bandwidths**|Ziwen Zhao et.al.|[2402.03814](http://arxiv.org/abs/2402.03814)|**[link](https://github.com/newiz430/bandana)**|
+|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789](http://arxiv.org/abs/2402.03789)|null|
+|**2024-02-06**|**ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor**|Yi-Chien Lin et.al.|[2402.03671](http://arxiv.org/abs/2402.03671)|null|
+|**2024-02-05**|**Path Signatures and Graph Neural Networks for Slow Earthquake Analysis: Better Together?**|Hans Riess et.al.|[2402.03558](http://arxiv.org/abs/2402.03558)|null|
+|**2024-02-05**|**Single-GPU GNN Systems: Traps and Pitfalls**|Yidong Gong et.al.|[2402.03548](http://arxiv.org/abs/2402.03548)|null|
+|**2024-02-05**|**Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact**|Mahdi Saleh et.al.|[2402.03466](http://arxiv.org/abs/2402.03466)|null|
 |**2024-02-05**|**Graph Neural Machine: A New Model for Learning with Tabular Data**|Giannis Nikolentzos et.al.|[2402.02862](http://arxiv.org/abs/2402.02862)|null|
 |**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827](http://arxiv.org/abs/2402.02827)|null|
 |**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692](http://arxiv.org/abs/2402.02692)|null|
