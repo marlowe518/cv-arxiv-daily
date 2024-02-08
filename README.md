@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses**|Adel Javanmard et.al.|[2402.04987](http://arxiv.org/abs/2402.04987)|null|
+|**2024-02-07**|**Towards Biologically Plausible and Private Gene Expression Data Generation**|Dingfan Chen et.al.|[2402.04912](http://arxiv.org/abs/2402.04912)|**[link](https://github.com/marieoestreich/pro-gene-gen)**|
+|**2024-02-07**|**Efficient Estimation of a Gaussian Mean with Local Differential Privacy**|Nikita Kalinin et.al.|[2402.04840](http://arxiv.org/abs/2402.04840)|null|
+|**2024-02-07**|**De-amplifying Bias from Differential Privacy in Language Model Fine-tuning**|Sanjari Srivastava et.al.|[2402.04489](http://arxiv.org/abs/2402.04489)|null|
+|**2024-02-06**|**Bounding the Excess Risk for Linear Models Trained on Marginal-Preserving, Differentially-Private, Synthetic Data**|Yvonne Zhou et.al.|[2402.04375](http://arxiv.org/abs/2402.04375)|null|
 |**2024-02-06**|**Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private Stochastic Optimisation**|Ossi Räisä et.al.|[2402.03990](http://arxiv.org/abs/2402.03990)|null|
 |**2024-02-06**|**Differentially Private High Dimensional Bandits**|Apurv Shukla et.al.|[2402.03737](http://arxiv.org/abs/2402.03737)|null|
 |**2024-02-05**|**Regulation Games for Trustworthy Machine Learning**|Mohammad Yaghini et.al.|[2402.03540](http://arxiv.org/abs/2402.03540)|null|
@@ -160,6 +165,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039](http://arxiv.org/abs/2402.05039)|null|
+|**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011](http://arxiv.org/abs/2402.05011)|null|
+|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915](http://arxiv.org/abs/2402.04915)|**[link](https://github.com/timd3/moco)**|
+|**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
+|**2024-02-07**|**Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710](http://arxiv.org/abs/2402.04710)|null|
+|**2024-02-07**|**Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621](http://arxiv.org/abs/2402.04621)|null|
+|**2024-02-06**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435](http://arxiv.org/abs/2402.04435)|null|
+|**2024-02-06**|**PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks**|Junwei Su et.al.|[2402.04284](http://arxiv.org/abs/2402.04284)|null|
 |**2024-02-06**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235](http://arxiv.org/abs/2402.04235)|null|
 |**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062](http://arxiv.org/abs/2402.04062)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
