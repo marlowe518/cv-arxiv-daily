@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
+|**2024-02-09**|**On Differentially Private Subspace Estimation Without Distributional Assumptions**|Eliad Tsfadia et.al.|[2402.06465](http://arxiv.org/abs/2402.06465)|null|
+|**2024-02-09**|**Barycentric and Pairwise Renyi Quantum Leakage**|Farhad Farokhi et.al.|[2402.06156](http://arxiv.org/abs/2402.06156)|null|
+|**2024-02-09**|**On the Privacy of Selection Mechanisms with Gaussian Noise**|Jonathan Lebensold et.al.|[2402.06137](http://arxiv.org/abs/2402.06137)|null|
 |**2024-02-08**|**Differentially Private Model-Based Offline Reinforcement Learning**|Alexandre Rio et.al.|[2402.05525](http://arxiv.org/abs/2402.05525)|null|
 |**2024-02-07**|**PriorBoost: An Adaptive Algorithm for Learning from Aggregate Responses**|Adel Javanmard et.al.|[2402.04987](http://arxiv.org/abs/2402.04987)|null|
 |**2024-02-07**|**Towards Biologically Plausible and Private Gene Expression Data Generation**|Dingfan Chen et.al.|[2402.04912](http://arxiv.org/abs/2402.04912)|**[link](https://github.com/marieoestreich/pro-gene-gen)**|
@@ -160,8 +164,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552](http://arxiv.org/abs/2402.06552)|**[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)**|
+|**2024-02-09**|**The Deep Equilibrium Algorithmic Reasoner**|Dobrik Georgiev et.al.|[2402.06445](http://arxiv.org/abs/2402.06445)|null|
+|**2024-02-09**|**Neural SPH: Improved Neural Modeling of Lagrangian Fluid Dynamics**|Artur P. Toshev et.al.|[2402.06275](http://arxiv.org/abs/2402.06275)|**[link](https://github.com/tumaer/neuralsph)**|
+|**2024-02-09**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network**|Thuan Pham et.al.|[2402.06226](http://arxiv.org/abs/2402.06226)|null|
+|**2024-02-09**|**Rethinking Node-wise Propagation for Large-scale Graph Learning**|Xunkai Li et.al.|[2402.06128](http://arxiv.org/abs/2402.06128)|**[link](https://github.com/xkli-allen/atp)**|
+|**2024-02-08**|**Deep Learning for Data-Driven Districting-and-Routing**|Arthur Ferraz et.al.|[2402.06040](http://arxiv.org/abs/2402.06040)|null|
+|**2024-02-08**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030](http://arxiv.org/abs/2402.06030)|null|
+|**2024-02-08**|**Anfinsen Goes Neural: a Graphical Model for Conditional Antibody Design**|Nayoung Kim et.al.|[2402.05982](http://arxiv.org/abs/2402.05982)|**[link](https://github.com/lkny123/agn)**|
 |**2024-02-08**|**Classifying Nodes in Graphs without GNNs**|Daniel Winter et.al.|[2402.05934](http://arxiv.org/abs/2402.05934)|**[link](https://github.com/dani3lwinter/cohop)**|
-|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
+|**2024-02-09**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
 |**2024-02-08**|**Rethinking Propagation for Unsupervised Graph Domain Adaptation**|Meihan Liu et.al.|[2402.05660](http://arxiv.org/abs/2402.05660)|**[link](https://github.com/meihan-liu/24aaai-a2gnn)**|
 |**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569](http://arxiv.org/abs/2402.05569)|null|
 |**2024-02-08**|**TASER: Temporal Adaptive Sampling for Fast and Accurate Dynamic Graph Representation Learning**|Gangda Deng et.al.|[2402.05396](http://arxiv.org/abs/2402.05396)|null|
@@ -169,7 +181,7 @@ layout: default
 |**2024-02-07**|**Graph Neural Networks as Fast and High-fidelity Emulators for Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291](http://arxiv.org/abs/2402.05291)|null|
 |**2024-02-07**|**PAC Learnability under Explanation-Preserving Graph Perturbations**|Xu Zheng et.al.|[2402.05039](http://arxiv.org/abs/2402.05039)|null|
 |**2024-02-07**|**Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching**|Yuchen Zhang et.al.|[2402.05011](http://arxiv.org/abs/2402.05011)|**[link](https://github.com/nus-hpc-ai-lab/geom)**|
-|**2024-02-07**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915](http://arxiv.org/abs/2402.04915)|**[link](https://github.com/timd3/moco)**|
+|**2024-02-09**|**Moco: A Learnable Meta Optimizer for Combinatorial Optimization**|Tim Dernedde et.al.|[2402.04915](http://arxiv.org/abs/2402.04915)|**[link](https://github.com/timd3/moco)**|
 |**2024-02-07**|**E(3)-Equivariant Mesh Neural Networks**|Thuan Trang et.al.|[2402.04821](http://arxiv.org/abs/2402.04821)|**[link](https://github.com/hysonlab/equimesh)**|
 |**2024-02-07**|**Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710](http://arxiv.org/abs/2402.04710)|null|
 |**2024-02-07**|**Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective**|Soo Yong Lee et.al.|[2402.04621](http://arxiv.org/abs/2402.04621)|null|
