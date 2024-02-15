@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -20,7 +20,7 @@ layout: default
 |**2024-02-12**|**Online Differentially Private Synthetic Data Generation**|Yiyun He et.al.|[2402.08012](http://arxiv.org/abs/2402.08012)|null|
 |**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818](http://arxiv.org/abs/2402.07818)|null|
 |**2024-02-12**|**Efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717](http://arxiv.org/abs/2402.07717)|null|
-|**2024-02-12**|**Privacy-Optimized Randomized Response for Sharing Multi-Attribute Data**|Akito Yamamoto et.al.|[2402.07584](http://arxiv.org/abs/2402.07584)|null|
+|**2024-02-12**|**Privacy-Optimized Randomized Response for Sharing Multi-Attribute Data**|Akito Yamamoto et.al.|[2402.07584](http://arxiv.org/abs/2402.07584)|**[link](https://github.com/ay0408/optimized-rr)**|
 |**2024-02-12**|**Differentially Private Decentralized Learning with Random Walks**|Edwige Cyffers et.al.|[2402.07471](http://arxiv.org/abs/2402.07471)|**[link](https://github.com/totilas/dprandomwalk)**|
 |**2024-02-11**|**Differentially Private Training of Mixture of Experts Models**|Pierre Tholoniat et.al.|[2402.07334](http://arxiv.org/abs/2402.07334)|null|
 |**2024-02-11**|**Resampling methods for Private Statistical Inference**|Karan Chadha et.al.|[2402.07131](http://arxiv.org/abs/2402.07131)|null|
