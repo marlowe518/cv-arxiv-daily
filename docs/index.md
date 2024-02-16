@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
+|**2024-02-15**|**Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications**|Zibo Wang et.al.|[2402.09736](http://arxiv.org/abs/2402.09736)|null|
+|**2024-02-15**|**DPBalance: Efficient and Fair Privacy Budget Scheduling for Federated Learning as a Service**|Yu Liu et.al.|[2402.09715](http://arxiv.org/abs/2402.09715)|null|
+|**2024-02-14**|**Why Does Differential Privacy with Large Epsilon Defend Against Practical Membership Inference Attacks?**|Andrew Lowy et.al.|[2402.09540](http://arxiv.org/abs/2402.09540)|null|
+|**2024-02-13**|**Oracle-Efficient Differentially Private Learning with Public Data**|Adam Block et.al.|[2402.09483](http://arxiv.org/abs/2402.09483)|null|
 |**2024-02-14**|**Auditing Private Prediction**|Karan Chadha et.al.|[2402.09403](http://arxiv.org/abs/2402.09403)|null|
 |**2024-02-14**|**Momentum Approximation in Asynchronous Private Federated Learning**|Tao Yu et.al.|[2402.09247](http://arxiv.org/abs/2402.09247)|null|
 |**2024-02-13**|**CaPS: Collaborative and Private Synthetic Data Generation from Distributed Sources**|Sikha Pentyala et.al.|[2402.08614](http://arxiv.org/abs/2402.08614)|null|
@@ -181,6 +186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
+|**2024-02-15**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149](http://arxiv.org/abs/2402.10149)|null|
+|**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
+|**2024-02-15**|**Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection**|Wenhao Zhuang et.al.|[2402.10071](http://arxiv.org/abs/2402.10071)|null|
+|**2024-02-15**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011](http://arxiv.org/abs/2402.10011)|**[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)**|
+|**2024-02-15**|**ViGEO: an Assessment of Vision GNNs in Earth Observation**|Luca Colomba et.al.|[2402.09962](http://arxiv.org/abs/2402.09962)|**[link](https://github.com/lccol/vig-eo)**|
+|**2024-02-15**|**Node Duplication Improves Cold-start Link Prediction**|Zhichun Guo et.al.|[2402.09711](http://arxiv.org/abs/2402.09711)|null|
+|**2024-02-15**|**Graph Neural Network-based Tracking as a Service**|Haoran Zhao et.al.|[2402.09633](http://arxiv.org/abs/2402.09633)|null|
+|**2024-02-14**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617](http://arxiv.org/abs/2402.09617)|null|
+|**2024-02-14**|**Low-Rank Graph Contrastive Learning for Node Classification**|Yancheng Wang et.al.|[2402.09600](http://arxiv.org/abs/2402.09600)|null|
 |**2024-02-14**|**Safe Distributed Control of Multi-Robot Systems with Communication Delays**|Luca Ballotta et.al.|[2402.09382](http://arxiv.org/abs/2402.09382)|null|
 |**2024-02-14**|**GraSSRep: Graph-Based Self-Supervised Learning for Repeat Detection in Metagenomic Assembly**|Ali Azizpour et.al.|[2402.09381](http://arxiv.org/abs/2402.09381)|**[link](https://github.com/aliaaz99/grassrep)**|
 |**2024-02-14**|**Uncertainty-Aware Transient Stability-Constrained Preventive Redispatch: A Distributional Reinforcement Learning Approach**|Zhengcheng Wang et.al.|[2402.09263](http://arxiv.org/abs/2402.09263)|null|
