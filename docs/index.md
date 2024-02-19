@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862](http://arxiv.org/abs/2402.10862)|null|
+|**2024-02-16**|**TernaryVote: Differentially Private, Communication Efficient, and Byzantine Resilient Distributed Optimization on Heterogeneous Data**|Richeng Jin et.al.|[2402.10816](http://arxiv.org/abs/2402.10816)|null|
+|**2024-02-16**|**Privacy for Fairness: Information Obfuscation for Fair Representation Learning with Local Differential Privacy**|Songjie Xie et.al.|[2402.10473](http://arxiv.org/abs/2402.10473)|null|
+|**2024-02-16**|**Connect the dots: Dataset Condensation, Differential Privacy, and Adversarial Uncertainty**|Kenneth Odoh et.al.|[2402.10423](http://arxiv.org/abs/2402.10423)|null|
 |**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
 |**2024-02-15**|**Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications**|Zibo Wang et.al.|[2402.09736](http://arxiv.org/abs/2402.09736)|null|
 |**2024-02-15**|**DPBalance: Efficient and Fair Privacy Budget Scheduling for Federated Learning as a Service**|Yu Liu et.al.|[2402.09715](http://arxiv.org/abs/2402.09715)|null|
@@ -23,7 +27,7 @@ layout: default
 |**2024-02-14**|**Momentum Approximation in Asynchronous Private Federated Learning**|Tao Yu et.al.|[2402.09247](http://arxiv.org/abs/2402.09247)|null|
 |**2024-02-13**|**CaPS: Collaborative and Private Synthetic Data Generation from Distributed Sources**|Sikha Pentyala et.al.|[2402.08614](http://arxiv.org/abs/2402.08614)|null|
 |**2024-02-13**|**Implicit Bias in Noisy-SGD: With Applications to Differentially Private Training**|Tom Sander et.al.|[2402.08344](http://arxiv.org/abs/2402.08344)|null|
-|**2024-02-13**|**Group Decision-Making among Privacy-Aware Agents**|Marios Papachristou et.al.|[2402.08156](http://arxiv.org/abs/2402.08156)|null|
+|**2024-02-15**|**Group Decision-Making among Privacy-Aware Agents**|Marios Papachristou et.al.|[2402.08156](http://arxiv.org/abs/2402.08156)|null|
 |**2024-02-12**|**Online Differentially Private Synthetic Data Generation**|Yiyun He et.al.|[2402.08012](http://arxiv.org/abs/2402.08012)|null|
 |**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818](http://arxiv.org/abs/2402.07818)|null|
 |**2024-02-12**|**Efficient reductions between some statistical models**|Mengqi Lou et.al.|[2402.07717](http://arxiv.org/abs/2402.07717)|null|
@@ -186,6 +190,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Masked Attention is All You Need for Graphs**|David Buterez et.al.|[2402.10793](http://arxiv.org/abs/2402.10793)|null|
+|**2024-02-16**|**Unlink to Unlearn: Simplifying Edge Unlearning in GNNs**|Jiajun Tan et.al.|[2402.10695](http://arxiv.org/abs/2402.10695)|null|
+|**2024-02-16**|**Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling**|Ivan Marisca et.al.|[2402.10634](http://arxiv.org/abs/2402.10634)|null|
+|**2024-02-16**|**Subgraph-level Universal Prompt Tuning**|Junhyun Lee et.al.|[2402.10380](http://arxiv.org/abs/2402.10380)|null|
+|**2024-02-15**|**Deep Spectral Meshes: Multi-Frequency Facial Mesh Processing with Graph Neural Networks**|Robert Kosk et.al.|[2402.10365](http://arxiv.org/abs/2402.10365)|null|
+|**2024-02-15**|**Can we soft prompt LLMs for graph learning tasks?**|Zheyuan Liu et.al.|[2402.10359](http://arxiv.org/abs/2402.10359)|null|
 |**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
 |**2024-02-15**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149](http://arxiv.org/abs/2402.10149)|null|
 |**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
