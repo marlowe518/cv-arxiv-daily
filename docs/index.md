@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-18**|**Measuring Privacy Loss in Distributed Spatio-Temporal Data**|Tatsuki Koga et.al.|[2402.11526](http://arxiv.org/abs/2402.11526)|null|
+|**2024-02-17**|**How to Make the Gradients Small Privately: Improved Rates for Differentially Private Non-Convex Optimization**|Andrew Lowy et.al.|[2402.11173](http://arxiv.org/abs/2402.11173)|null|
+|**2024-02-16**|**Private PAC Learning May be Harder than Online Learning**|Mark Bun et.al.|[2402.11119](http://arxiv.org/abs/2402.11119)|null|
 |**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862](http://arxiv.org/abs/2402.10862)|null|
 |**2024-02-16**|**TernaryVote: Differentially Private, Communication Efficient, and Byzantine Resilient Distributed Optimization on Heterogeneous Data**|Richeng Jin et.al.|[2402.10816](http://arxiv.org/abs/2402.10816)|null|
 |**2024-02-16**|**Privacy for Fairness: Information Obfuscation for Fair Representation Learning with Local Differential Privacy**|Songjie Xie et.al.|[2402.10473](http://arxiv.org/abs/2402.10473)|null|
@@ -190,6 +193,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs**|Kai Wang et.al.|[2402.11804](http://arxiv.org/abs/2402.11804)|null|
+|**2024-02-18**|**GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network**|Shuzhou Yuan et.al.|[2402.11709](http://arxiv.org/abs/2402.11709)|null|
+|**2024-02-18**|**Large Language Model-driven Meta-structure Discovery in Heterogeneous Information Network**|Lin Chen et.al.|[2402.11518](http://arxiv.org/abs/2402.11518)|null|
+|**2024-02-18**|**Graph Out-of-Distribution Generalization via Causal Intervention**|Qitian Wu et.al.|[2402.11494](http://arxiv.org/abs/2402.11494)|null|
+|**2024-02-18**|**DDIPrompt: Drug-Drug Interaction Event Prediction based on Graph Prompt Learning**|Yingying Wang et.al.|[2402.11472](http://arxiv.org/abs/2402.11472)|null|
+|**2024-02-17**|**Graph Neural Networks for Predicting Solubility in Diverse Solvents using MolMerger incorporating Solute-solvent Interactions**|Vansh Ramani et.al.|[2402.11340](http://arxiv.org/abs/2402.11340)|null|
+|**2024-02-17**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139](http://arxiv.org/abs/2402.11139)|null|
+|**2024-02-16**|**ASGEA: Exploiting Logic Rules from Align-Subgraphs for Entity Alignment**|Yangyifei Luo et.al.|[2402.11000](http://arxiv.org/abs/2402.11000)|null|
+|**2024-02-15**|**CHEMREASONER: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback**|Henry W. Sprueill et.al.|[2402.10980](http://arxiv.org/abs/2402.10980)|null|
 |**2024-02-16**|**Masked Attention is All You Need for Graphs**|David Buterez et.al.|[2402.10793](http://arxiv.org/abs/2402.10793)|null|
 |**2024-02-16**|**Unlink to Unlearn: Simplifying Edge Unlearning in GNNs**|Jiajun Tan et.al.|[2402.10695](http://arxiv.org/abs/2402.10695)|null|
 |**2024-02-16**|**Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling**|Ivan Marisca et.al.|[2402.10634](http://arxiv.org/abs/2402.10634)|null|
@@ -198,7 +210,7 @@ layout: default
 |**2024-02-15**|**Can we soft prompt LLMs for graph learning tasks?**|Zheyuan Liu et.al.|[2402.10359](http://arxiv.org/abs/2402.10359)|null|
 |**2024-02-15**|**Ising on the Graph: Task-specific Graph Subsampling via the Ising Model**|Maria Bånkestad et.al.|[2402.10206](http://arxiv.org/abs/2402.10206)|null|
 |**2024-02-15**|**Reconstruction of Short-Lived Particles using Graph-Hypergraph Representation Learning**|Callum Birch-Sykes et.al.|[2402.10149](http://arxiv.org/abs/2402.10149)|null|
-|**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
+|**2024-02-19**|**Class-Balanced and Reinforced Active Learning on Graphs**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
 |**2024-02-15**|**Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection**|Wenhao Zhuang et.al.|[2402.10071](http://arxiv.org/abs/2402.10071)|null|
 |**2024-02-15**|**Clifford Group Equivariant Simplicial Message Passing Networks**|Cong Liu et.al.|[2402.10011](http://arxiv.org/abs/2402.10011)|**[link](https://github.com/congliuuva/clifford-group-equivariant-simplicial-message-passing-networks)**|
 |**2024-02-15**|**ViGEO: an Assessment of Vision GNNs in Earth Observation**|Luca Colomba et.al.|[2402.09962](http://arxiv.org/abs/2402.09962)|**[link](https://github.com/lccol/vig-eo)**|
