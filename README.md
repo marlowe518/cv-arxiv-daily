@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Closed-Form Bounds for DP-SGD against Record-level Inference**|Giovanni Cherubin et.al.|[2402.14397](http://arxiv.org/abs/2402.14397)|null|
+|**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-21**|**Private Gradient Descent for Linear Regression: Tighter Error Bounds and Instance-Specific Uncertainty Estimation**|Gavin Brown et.al.|[2402.13531](http://arxiv.org/abs/2402.13531)|null|
 |**2024-02-20**|**How Does Selection Leak Privacy: Revisiting Private Selection and Improved Results for Hyper-parameter Tuning**|Zihang Xiang et.al.|[2402.13087](http://arxiv.org/abs/2402.13087)|null|
@@ -204,6 +206,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
+|**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708](http://arxiv.org/abs/2402.14708)|null|
+|**2024-02-22**|**Representation Learning for Frequent Subgraph Mining**|Rex Ying et.al.|[2402.14367](http://arxiv.org/abs/2402.14367)|null|
+|**2024-02-22**|**Velocity recostruction with graph neural networks**|Hideki Tanimura et.al.|[2402.14239](http://arxiv.org/abs/2402.14239)|null|
+|**2024-02-21**|**Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO**|Haoqi He et.al.|[2402.14036](http://arxiv.org/abs/2402.14036)|null|
+|**2024-02-21**|**VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**|Yongquan He et.al.|[2402.14033](http://arxiv.org/abs/2402.14033)|null|
 |**2024-02-21**|**A Simple and Yet Fairly Effective Defense for Graph Neural Networks**|Sofiane Ennadir et.al.|[2402.13987](http://arxiv.org/abs/2402.13987)|**[link](https://github.com/sennadir/noisygnn)**|
 |**2024-02-21**|**Linear-Time Graph Neural Networks for Scalable Recommendations**|Jiahao Zhang et.al.|[2402.13973](http://arxiv.org/abs/2402.13973)|**[link](https://github.com/qwq2000/thewebconf24-ltgnn-pytorch)**|
 |**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946](http://arxiv.org/abs/2402.13946)|null|
