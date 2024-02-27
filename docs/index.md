@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
+|**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028](http://arxiv.org/abs/2402.16028)|null|
+|**2024-02-24**|**Differentially Private Bayesian Persuasion**|Yuqi Pan et.al.|[2402.15872](http://arxiv.org/abs/2402.15872)|null|
+|**2024-02-24**|**Privacy-Preserving State Estimation in the Presence of Eavesdroppers: A Survey**|Xinhao Yan et.al.|[2402.15738](http://arxiv.org/abs/2402.15738)|null|
+|**2024-02-23**|**Differentially Private Fair Binary Classifications**|Hrad Ghoukasian et.al.|[2402.15603](http://arxiv.org/abs/2402.15603)|null|
 |**2024-02-22**|**Closed-Form Bounds for DP-SGD against Record-level Inference**|Giovanni Cherubin et.al.|[2402.14397](http://arxiv.org/abs/2402.14397)|null|
 |**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
@@ -200,6 +205,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
+|**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402](http://arxiv.org/abs/2402.16402)|null|
+|**2024-02-26**|**Boosting Graph Pooling with Persistent Homology**|Chaolong Ying et.al.|[2402.16346](http://arxiv.org/abs/2402.16346)|null|
+|**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240](http://arxiv.org/abs/2402.16240)|null|
+|**2024-02-25**|**HiGPT: Heterogeneous Graph Language Model**|Jiabin Tang et.al.|[2402.16024](http://arxiv.org/abs/2402.16024)|**[link](https://github.com/hkuds/higpt)**|
+|**2024-02-24**|**Pretraining Strategy for Neural Potentials**|Zehua Zhang et.al.|[2402.15921](http://arxiv.org/abs/2402.15921)|null|
 |**2024-02-23**|**Dual Encoder: Exploiting the Potential of Syntactic and Semantic for Aspect Sentiment Triplet Extraction**|Xiaowei Zhao et.al.|[2402.15370](http://arxiv.org/abs/2402.15370)|null|
 |**2024-02-23**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326](http://arxiv.org/abs/2402.15326)|null|
 |**2024-02-23**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259](http://arxiv.org/abs/2402.15259)|null|
