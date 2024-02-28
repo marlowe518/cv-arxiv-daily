@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence**|Ilyas Fatkhullin et.al.|[2402.17722](http://arxiv.org/abs/2402.17722)|null|
+|**2024-02-27**|**AI-Driven Anonymization: Protecting Personal Data Privacy While Leveraging Machine Learning**|Le Yang et.al.|[2402.17191](http://arxiv.org/abs/2402.17191)|null|
+|**2024-02-26**|**Synthesizing Tight Privacy and Accuracy Bounds via Weighted Model Counting**|Lisa Oakley et.al.|[2402.16982](http://arxiv.org/abs/2402.16982)|null|
+|**2024-02-26**|**On the Growth of Mistakes in Differentially Private Online Learning: A Lower Bound Perspective**|Daniil Dmitriev et.al.|[2402.16778](http://arxiv.org/abs/2402.16778)|null|
 |**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028](http://arxiv.org/abs/2402.16028)|null|
 |**2024-02-24**|**Differentially Private Bayesian Persuasion**|Yuqi Pan et.al.|[2402.15872](http://arxiv.org/abs/2402.15872)|null|
@@ -205,6 +209,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Predicting Instability in Complex Oscillator Networks: Limitations and Potentials of Network Measures and Machine Learning**|Christian Nauck et.al.|[2402.17500](http://arxiv.org/abs/2402.17500)|**[link](https://github.com/pik-icone/networkscienceml_paper-companion)**|
+|**2024-02-27**|**Fraud Detection with Binding Global and Local Relational Interaction**|Haolin Li et.al.|[2402.17472](http://arxiv.org/abs/2402.17472)|null|
+|**2024-02-27**|**A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics**|Emanuel Pfeffer et.al.|[2402.17386](http://arxiv.org/abs/2402.17386)|null|
+|**2024-02-27**|**A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2φ_1$ in $B^0 \to J/ψK^0_\text{S}$ decays**|Belle II Collaboration et.al.|[2402.17260](http://arxiv.org/abs/2402.17260)|null|
+|**2024-02-27**|**Prediction of the SYM-H Index Using a Bayesian Deep Learning Method with Uncertainty Quantification**|Yasser Abduallah et.al.|[2402.17196](http://arxiv.org/abs/2402.17196)|null|
+|**2024-02-26**|**One-Shot Graph Representation Learning Using Hyperdimensional Computing**|Abhishek Dalvi et.al.|[2402.17073](http://arxiv.org/abs/2402.17073)|null|
+|**2024-02-26**|**Minimize Control Inputs for Strong Structural Controllability Using Reinforcement Learning with Graph Neural Network**|Mengbang Zou et.al.|[2402.16925](http://arxiv.org/abs/2402.16925)|null|
+|**2024-02-26**|**Accelerating Graph Neural Networks on Real Processing-In-Memory Systems**|Christina Giannoula et.al.|[2402.16731](http://arxiv.org/abs/2402.16731)|null|
+|**2024-02-26**|**Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models**|Yifu Gao et.al.|[2402.16568](http://arxiv.org/abs/2402.16568)|null|
 |**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-26**|**Graph Learning with Distributional Edge Layouts**|Xinjian Zhao et.al.|[2402.16402](http://arxiv.org/abs/2402.16402)|null|
 |**2024-02-26**|**Boosting Graph Pooling with Persistent Homology**|Chaolong Ying et.al.|[2402.16346](http://arxiv.org/abs/2402.16346)|null|
@@ -214,7 +227,7 @@ layout: default
 |**2024-02-23**|**Dual Encoder: Exploiting the Potential of Syntactic and Semantic for Aspect Sentiment Triplet Extraction**|Xiaowei Zhao et.al.|[2402.15370](http://arxiv.org/abs/2402.15370)|null|
 |**2024-02-23**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326](http://arxiv.org/abs/2402.15326)|null|
 |**2024-02-23**|**Open Ad Hoc Teamwork with Cooperative Game Theory**|Jianhong Wang et.al.|[2402.15259](http://arxiv.org/abs/2402.15259)|null|
-|**2024-02-23**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183](http://arxiv.org/abs/2402.15183)|**[link](https://github.com/hkuds/graphedit)**|
+|**2024-02-27**|**GraphEdit: Large Language Models for Graph Structure Learning**|Zirui Guo et.al.|[2402.15183](http://arxiv.org/abs/2402.15183)|**[link](https://github.com/hkuds/graphedit)**|
 |**2024-02-23**|**MSPipe: Efficient Temporal GNN Training via Staleness-aware Pipeline**|Guangming Sheng et.al.|[2402.15113](http://arxiv.org/abs/2402.15113)|**[link](https://github.com/petersh6/mspipe)**|
 |**2024-02-23**|**Sampling-based Distributed Training with Message Passing Neural Network**|Priyesh Kakka et.al.|[2402.15106](http://arxiv.org/abs/2402.15106)|null|
 |**2024-02-22**|**Path Planning based on 2D Object Bounding-box**|Yanliang Huang et.al.|[2402.14933](http://arxiv.org/abs/2402.14933)|null|
