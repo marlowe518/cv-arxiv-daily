@@ -14,10 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Differentially Private Worst-group Risk Minimization**|Xinyu Zhou et.al.|[2402.19437](http://arxiv.org/abs/2402.19437)|null|
+|**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
+|**2024-02-29**|**On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?**|Shuqi Ke et.al.|[2402.18905](http://arxiv.org/abs/2402.18905)|null|
+|**2024-02-28**|**Pre-training Differentially Private Models with Limited Public Data**|Zhiqi Bu et.al.|[2402.18752](http://arxiv.org/abs/2402.18752)|null|
+|**2024-02-28**|**Unveiling Privacy, Memorization, and Input Curvature Links**|Deepak Ravikumar et.al.|[2402.18726](http://arxiv.org/abs/2402.18726)|null|
+|**2024-02-28**|**Bluebell: An Alliance of Relational Lifting and Independence For Probabilistic Reasoning**|Jialu Bao et.al.|[2402.18708](http://arxiv.org/abs/2402.18708)|null|
 |**2024-02-28**|**Tighter Bounds for Local Differentially Private Core Decomposition and Densest Subgraph**|Monika Henzinger et.al.|[2402.18020](http://arxiv.org/abs/2402.18020)|null|
 |**2024-02-27**|**Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence**|Ilyas Fatkhullin et.al.|[2402.17722](http://arxiv.org/abs/2402.17722)|null|
 |**2024-02-27**|**AI-Driven Anonymization: Protecting Personal Data Privacy While Leveraging Machine Learning**|Le Yang et.al.|[2402.17191](http://arxiv.org/abs/2402.17191)|null|
-|**2024-02-26**|**Synthesizing Tight Privacy and Accuracy Bounds via Weighted Model Counting**|Lisa Oakley et.al.|[2402.16982](http://arxiv.org/abs/2402.16982)|null|
+|**2024-02-29**|**Synthesizing Tight Privacy and Accuracy Bounds via Weighted Model Counting**|Lisa Oakley et.al.|[2402.16982](http://arxiv.org/abs/2402.16982)|null|
 |**2024-02-26**|**On the Growth of Mistakes in Differentially Private Online Learning: A Lower Bound Perspective**|Daniil Dmitriev et.al.|[2402.16778](http://arxiv.org/abs/2402.16778)|null|
 |**2024-02-26**|**LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification**|Yiping Song et.al.|[2402.16515](http://arxiv.org/abs/2402.16515)|null|
 |**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028](http://arxiv.org/abs/2402.16028)|null|
@@ -210,6 +216,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364](http://arxiv.org/abs/2402.19364)|null|
+|**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302](http://arxiv.org/abs/2402.19302)|**[link](https://github.com/iit-pavis/diffassemble)**|
+|**2024-02-29**|**Machine learning-enabled exploration of mesoscale architectures in amphiphilic-molecule self-assembly**|Takeo Sudo et.al.|[2402.19019](http://arxiv.org/abs/2402.19019)|null|
+|**2024-02-29**|**Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs**|Zhengyao Gu et.al.|[2402.18986](http://arxiv.org/abs/2402.18986)|null|
+|**2024-02-29**|**Benchmarking phonon anharmonicity in machine learning interatomic potentials**|Sasaank Bandi et.al.|[2402.18891](http://arxiv.org/abs/2402.18891)|null|
+|**2024-02-29**|**Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks**|Zhen Hao Wong et.al.|[2402.18875](http://arxiv.org/abs/2402.18875)|**[link](https://github.com/lars-research/clgnn)**|
+|**2024-02-28**|**GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks**|Amir Jalalirad et.al.|[2402.18630](http://arxiv.org/abs/2402.18630)|null|
+|**2024-02-28**|**HemaGraph: Breaking Barriers in Hematologic Single Cell Classification with Graph Attention**|Lorenzo Bini et.al.|[2402.18611](http://arxiv.org/abs/2402.18611)|null|
+|**2024-02-28**|**Why Attention Graphs Are All We Need: Pioneering Hierarchical Classification of Hematologic Cell Populations with LeukoGraph**|Fatemeh Nassajian Mojarrad et.al.|[2402.18610](http://arxiv.org/abs/2402.18610)|null|
 |**2024-02-28**|**Universal neural network potentials as descriptors: Towards scalable chemical property prediction using quantum and classical computers**|Tomoya Shiota et.al.|[2402.18433](http://arxiv.org/abs/2402.18433)|null|
 |**2024-02-28**|**CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots**|Zeqing Zhang et.al.|[2402.18420](http://arxiv.org/abs/2402.18420)|null|
 |**2024-02-28**|**Recursive GNNs for Learning Precoding Policies with Size-Generalizability**|Jia Guo et.al.|[2402.18332](http://arxiv.org/abs/2402.18332)|null|
