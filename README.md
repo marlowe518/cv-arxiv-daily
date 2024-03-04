@@ -35,7 +35,7 @@
 |**2024-02-24**|**Privacy-Preserving State Estimation in the Presence of Eavesdroppers: A Survey**|Xinhao Yan et.al.|[2402.15738](http://arxiv.org/abs/2402.15738)|null|
 |**2024-02-23**|**Differentially Private Fair Binary Classifications**|Hrad Ghoukasian et.al.|[2402.15603](http://arxiv.org/abs/2402.15603)|null|
 |**2024-02-22**|**Closed-Form Bounds for DP-SGD against Record-level Inference**|Giovanni Cherubin et.al.|[2402.14397](http://arxiv.org/abs/2402.14397)|null|
-|**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
+|**2024-03-01**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-21**|**Private Gradient Descent for Linear Regression: Tighter Error Bounds and Instance-Specific Uncertainty Estimation**|Gavin Brown et.al.|[2402.13531](http://arxiv.org/abs/2402.13531)|null|
 |**2024-02-20**|**How Does Selection Leak Privacy: Revisiting Private Selection and Improved Results for Hyper-parameter Tuning**|Zihang Xiang et.al.|[2402.13087](http://arxiv.org/abs/2402.13087)|null|
