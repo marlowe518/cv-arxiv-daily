@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268](http://arxiv.org/abs/2403.01268)|null|
+|**2024-03-01**|**Differentially Private Knowledge Distillation via Synthetic Text Generation**|James Flemings et.al.|[2403.00932](http://arxiv.org/abs/2403.00932)|null|
+|**2024-03-01**|**Shifted Interpolation for Differential Privacy**|Jinho Bok et.al.|[2403.00278](http://arxiv.org/abs/2403.00278)|**[link](https://github.com/jinhobok/shifted_interpolation_dp)**|
+|**2024-02-29**|**Privacy-Preserving Distributed Optimization and Learning**|Ziqin Chen et.al.|[2403.00157](http://arxiv.org/abs/2403.00157)|null|
+|**2024-02-28**|**GraphPub: Generation of Differential Privacy Graph with High Availability**|Wanghan Xu et.al.|[2403.00030](http://arxiv.org/abs/2403.00030)|null|
+|**2024-02-28**|**Lower Bounds for Differential Privacy Under Continual Observation and Online Threshold Queries**|Edith Cohen et.al.|[2403.00028](http://arxiv.org/abs/2403.00028)|null|
+|**2024-02-28**|**Auditable Homomorphic-based Decentralized Collaborative AI with Attribute-based Differential Privacy**|Lo-Yao Yeh et.al.|[2403.00023](http://arxiv.org/abs/2403.00023)|null|
 |**2024-02-29**|**Differentially Private Worst-group Risk Minimization**|Xinyu Zhou et.al.|[2402.19437](http://arxiv.org/abs/2402.19437)|null|
 |**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
 |**2024-02-29**|**On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?**|Shuqi Ke et.al.|[2402.18905](http://arxiv.org/abs/2402.18905)|null|
@@ -222,6 +229,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Less is More: Hop-Wise Graph Attention for Scalable and Generalizable Learning on Circuits**|Chenhui Deng et.al.|[2403.01317](http://arxiv.org/abs/2403.01317)|null|
+|**2024-03-02**|**Polynormer: Polynomial-Expressive Graph Transformer in Linear Time**|Chenhui Deng et.al.|[2403.01232](http://arxiv.org/abs/2403.01232)|**[link](https://github.com/cornell-zhang/polynormer)**|
+|**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091](http://arxiv.org/abs/2403.01091)|null|
+|**2024-03-02**|**Teaching MLP More Graph Information: A Three-stage Multitask Knowledge Distillation Framework**|Junxian Li et.al.|[2403.01079](http://arxiv.org/abs/2403.01079)|null|
+|**2024-03-01**|**An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce**|Nurendra Choudhary et.al.|[2403.00923](http://arxiv.org/abs/2403.00923)|null|
+|**2024-03-01**|**PowerFlowMultiNet: Multigraph Neural Networks for Unbalanced Three-Phase Distribution Systems**|Salah Ghamizi et.al.|[2403.00892](http://arxiv.org/abs/2403.00892)|null|
+|**2024-03-01**|**Subhomogeneous Deep Equilibrium Models**|Pietro Sittoni et.al.|[2403.00720](http://arxiv.org/abs/2403.00720)|null|
+|**2024-03-04**|**Toward Autonomous Cooperation in Heterogeneous Nanosatellite Constellations Using Dynamic Graph Neural Networks**|Guillem Casadesus-Vila et.al.|[2403.00692](http://arxiv.org/abs/2403.00692)|null|
+|**2024-03-01**|**Graph Theory and GNNs to Unravel the Topographical Organization of Brain Lesions in Variants of Alzheimer's Disease Progression**|Leopold Hebert-Stevens et.al.|[2403.00636](http://arxiv.org/abs/2403.00636)|null|
+|**2024-03-01**|**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**|Jiaqi Han et.al.|[2403.00485](http://arxiv.org/abs/2403.00485)|null|
+|**2024-03-01**|**Nonlinear Sheaf Diffusion in Graph Neural Networks**|Olga Zaghen et.al.|[2403.00337](http://arxiv.org/abs/2403.00337)|null|
+|**2024-03-01**|**Graph Construction with Flexible Nodes for Traffic Demand Prediction**|Jinyan Hou et.al.|[2403.00276](http://arxiv.org/abs/2403.00276)|**[link](https://github.com/houjinyan/hdpc-l-odinit)**|
+|**2024-02-29**|**Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems**|Zijie Huang et.al.|[2403.00178](http://arxiv.org/abs/2403.00178)|null|
+|**2024-02-28**|**GraphPub: Generation of Differential Privacy Graph with High Availability**|Wanghan Xu et.al.|[2403.00030](http://arxiv.org/abs/2403.00030)|null|
 |**2024-02-29**|**Arrow Matrix Decomposition: A Novel Approach for Communication-Efficient Sparse Matrix Multiplication**|Lukas Gianinazzi et.al.|[2402.19364](http://arxiv.org/abs/2402.19364)|**[link](https://github.com/spcl/arrow-matrix)**|
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302](http://arxiv.org/abs/2402.19302)|**[link](https://github.com/iit-pavis/diffassemble)**|
 |**2024-02-29**|**Machine learning-enabled exploration of mesoscale architectures in amphiphilic-molecule self-assembly**|Takeo Sudo et.al.|[2402.19019](http://arxiv.org/abs/2402.19019)|null|
