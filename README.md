@@ -18,6 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Design of Stochastic Quantizers for Privacy Preservation**|Le Liu et.al.|[2403.03048](http://arxiv.org/abs/2403.03048)|null|
+|**2024-03-05**|**Mirror Descent Algorithms with Nearly Dimension-Independent Rates for Differentially-Private Stochastic Saddle-Point Problems**|Tomás González et.al.|[2403.02912](http://arxiv.org/abs/2403.02912)|null|
+|**2024-03-05**|**DPAdapter: Improving Differentially Private Deep Learning through Noise Tolerance Pre-training**|Zihao Wang et.al.|[2403.02571](http://arxiv.org/abs/2403.02571)|null|
+|**2024-03-04**|**Differentially Private Representation Learning via Image Captioning**|Tom Sander et.al.|[2403.02506](http://arxiv.org/abs/2403.02506)|null|
+|**2024-03-04**|**Preserving Smart Grid Integrity: A Differential Privacy Framework for Secure Detection of False Data Injection Attacks in the Smart Grid**|Nikhil Ravi et.al.|[2403.02324](http://arxiv.org/abs/2403.02324)|null|
+|**2024-03-04**|**Differential Privacy of Noisy (S)GD under Heavy-Tailed Perturbations**|Umut Şimşekli et.al.|[2403.02051](http://arxiv.org/abs/2403.02051)|null|
+|**2024-03-04**|**K-stars LDP: A Novel Framework for (p, q)-clique Enumeration under Local Differential Privacy**|Henan Sun et.al.|[2403.01788](http://arxiv.org/abs/2403.01788)|null|
+|**2024-03-04**|**Differentially Private Synthetic Data via Foundation Model APIs 2: Text**|Chulin Xie et.al.|[2403.01749](http://arxiv.org/abs/2403.01749)|**[link](https://github.com/ai-secure/aug-pe)**|
+|**2024-03-03**|**Privacy-Preserving Collaborative Split Learning Framework for Smart Grid Load Forecasting**|Asif Iqbal et.al.|[2403.01438](http://arxiv.org/abs/2403.01438)|null|
+|**2024-03-03**|**Distributed Least-Squares Optimization Solvers with Differential Privacy**|Weijia Liu et.al.|[2403.01435](http://arxiv.org/abs/2403.01435)|null|
 |**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268](http://arxiv.org/abs/2403.01268)|null|
 |**2024-03-01**|**Differentially Private Knowledge Distillation via Synthetic Text Generation**|James Flemings et.al.|[2403.00932](http://arxiv.org/abs/2403.00932)|null|
 |**2024-03-01**|**Shifted Interpolation for Differential Privacy**|Jinho Bok et.al.|[2403.00278](http://arxiv.org/abs/2403.00278)|**[link](https://github.com/jinhobok/shifted_interpolation_dp)**|
@@ -229,6 +239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Semi-Supervised Graph Representation Learning with Human-centric Explanation for Predicting Fatty Liver Disease**|So Yeon Kim et.al.|[2403.02786](http://arxiv.org/abs/2403.02786)|null|
+|**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723](http://arxiv.org/abs/2403.02723)|null|
+|**2024-03-04**|**MPI Errors Detection using GNN Embedding and Vector Embedding over LLVM IR**|Jad El Karchi et.al.|[2403.02518](http://arxiv.org/abs/2403.02518)|null|
+|**2024-03-02**|**Spatio-Temporal Field Neural Networks for Air Quality Inference**|Yutong Feng et.al.|[2403.02354](http://arxiv.org/abs/2403.02354)|null|
+|**2024-03-04**|**Better Schedules for Low Precision Training of Deep Neural Networks**|Cameron R. Wolfe et.al.|[2403.02243](http://arxiv.org/abs/2403.02243)|null|
+|**2024-03-04**|**Mitigating Label Noise on Graph via Topological Sample Selection**|Yuhao Wu et.al.|[2403.01942](http://arxiv.org/abs/2403.01942)|null|
+|**2024-03-04**|**MaliGNNoma: GNN-Based Malicious Circuit Classifier for Secure Cloud FPGAs**|Lilas Alrahis et.al.|[2403.01860](http://arxiv.org/abs/2403.01860)|null|
+|**2024-03-04**|**Graph neural network for in-network placement of real-time metaverse tasks in next-generation network**|Sulaiman Muhammad Rashid et.al.|[2403.01780](http://arxiv.org/abs/2403.01780)|null|
+|**2024-03-03**|**Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network**|Renjie Xu et.al.|[2403.01501](http://arxiv.org/abs/2403.01501)|**[link](https://github.com/renj-xu/negsc)**|
+|**2024-03-03**|**Representation Learning on Heterophilic Graph with Directional Neighborhood Attention**|Qincheng Lu et.al.|[2403.01475](http://arxiv.org/abs/2403.01475)|null|
 |**2024-03-02**|**Less is More: Hop-Wise Graph Attention for Scalable and Generalizable Learning on Circuits**|Chenhui Deng et.al.|[2403.01317](http://arxiv.org/abs/2403.01317)|null|
 |**2024-03-02**|**Polynormer: Polynomial-Expressive Graph Transformer in Linear Time**|Chenhui Deng et.al.|[2403.01232](http://arxiv.org/abs/2403.01232)|**[link](https://github.com/cornell-zhang/polynormer)**|
 |**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091](http://arxiv.org/abs/2403.01091)|null|
