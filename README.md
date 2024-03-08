@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Time-Aware Projections: Truly Node-Private Graph Statistics under Continual Observation**|Palak Jain et.al.|[2403.04630](http://arxiv.org/abs/2403.04630)|null|
+|**2024-03-07**|**Privacy in Cloud Computing through Immersion-based Coding**|Haleh Hayati et.al.|[2403.04485](http://arxiv.org/abs/2403.04485)|null|
+|**2024-03-07**|**Membership Inference Attacks and Privacy in Topic Modeling**|Nico Manzonelli et.al.|[2403.04451](http://arxiv.org/abs/2403.04451)|**[link](https://github.com/nicomanzonelli/topic_model_attacks)**|
+|**2024-03-07**|**Privacy-preserving Fine-tuning of Large Language Models through Flatness**|Tiejin Chen et.al.|[2403.04124](http://arxiv.org/abs/2403.04124)|null|
 |**2024-03-06**|**Public-data Assisted Private Stochastic Optimization: Power and Limitations**|Enayat Ullah et.al.|[2403.03856](http://arxiv.org/abs/2403.03856)|null|
 |**2024-03-06**|**A Privacy-Preserving Framework with Multi-Modal Data for Cross-Domain Recommendation**|Li Wang et.al.|[2403.03600](http://arxiv.org/abs/2403.03600)|null|
 |**2024-03-05**|**Fine-Grained Privacy Guarantees for Coverage Problems**|Laxman Dhulipala et.al.|[2403.03337](http://arxiv.org/abs/2403.03337)|null|
@@ -242,6 +246,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747](http://arxiv.org/abs/2403.04747)|null|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636](http://arxiv.org/abs/2403.04636)|**[link](https://github.com/oliver-lemke/entropy_aware_message_passing)**|
+|**2024-03-07**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605](http://arxiv.org/abs/2403.04605)|null|
+|**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
+|**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504](http://arxiv.org/abs/2403.04504)|null|
+|**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482](http://arxiv.org/abs/2403.04482)|null|
+|**2024-03-07**|**A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges**|Wei Ju et.al.|[2403.04468](http://arxiv.org/abs/2403.04468)|null|
+|**2024-03-07**|**Performance Assessment of Universal Machine Learning Interatomic Potentials: Challenges and Directions for Materials' Surfaces**|Bruno Focassio et.al.|[2403.04217](http://arxiv.org/abs/2403.04217)|null|
 |**2024-03-06**|**Graph neural network outputs are almost surely asymptotically constant**|Sam Adam-Day et.al.|[2403.03880](http://arxiv.org/abs/2403.03880)|**[link](https://github.com/benfinkelshtein/gnn-asymptotically-constant)**|
 |**2024-03-06**|**Predicting the Temperature Dependence of Surfactant CMCs Using Graph Neural Networks**|Christoforos Brozos et.al.|[2403.03767](http://arxiv.org/abs/2403.03767)|null|
 |**2024-03-06**|**Intent-aware Recommendation via Disentangled Graph Contrastive Learning**|Yuling Wang et.al.|[2403.03714](http://arxiv.org/abs/2403.03714)|null|
