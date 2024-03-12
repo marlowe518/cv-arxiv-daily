@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**|Jonathan Will et.al.|[2403.05692](http://arxiv.org/abs/2403.05692)|null|
+|**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
+|**2024-03-07**|**Privacy Amplification for the Gaussian Mechanism via Bounded Support**|Shengyuan Hu et.al.|[2403.05598](http://arxiv.org/abs/2403.05598)|null|
 |**2024-03-08**|**Private Count Release: A Simple and Scalable Approach for Private Data Analytics**|Ryan Rogers et.al.|[2403.05073](http://arxiv.org/abs/2403.05073)|null|
 |**2024-03-07**|**Improved Lower Bound for Differentially Private Facility Location**|Pasin Manurangsi et.al.|[2403.04874](http://arxiv.org/abs/2403.04874)|null|
 |**2024-03-07**|**Group Privacy Amplification and Unified Amplification by Subsampling for Rényi Differential Privacy**|Jan Schuchardt et.al.|[2403.04867](http://arxiv.org/abs/2403.04867)|null|
@@ -243,6 +246,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817](http://arxiv.org/abs/2403.06817)|null|
+|**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687](http://arxiv.org/abs/2403.06687)|null|
+|**2024-03-11**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489](http://arxiv.org/abs/2403.06489)|null|
+|**2024-03-11**|**Financial Default Prediction via Motif-preserving Graph Neural Network with Curriculum Learning**|Daixin Wang et.al.|[2403.06482](http://arxiv.org/abs/2403.06482)|null|
+|**2024-03-11**|**Ensemble Quadratic Assignment Network for Graph Matching**|Haoru Tan et.al.|[2403.06457](http://arxiv.org/abs/2403.06457)|null|
+|**2024-03-11**|**Joint-Embedding Masked Autoencoder for Self-supervised Learning of Dynamic Functional Connectivity from the Human Brain**|Jungwon Choi et.al.|[2403.06432](http://arxiv.org/abs/2403.06432)|null|
+|**2024-03-11**|**A Differential Geometric View and Explainability of GNN on Evolving Graphs**|Yazheng Liu et.al.|[2403.06425](http://arxiv.org/abs/2403.06425)|null|
+|**2024-03-10**|**Cooperative Classification and Rationalization for Graph Generalization**|Linan Yue et.al.|[2403.06239](http://arxiv.org/abs/2403.06239)|null|
+|**2024-03-10**|**Local Vertex Colouring Graph Neural Networks**|Shouheng Li et.al.|[2403.06080](http://arxiv.org/abs/2403.06080)|**[link](https://github.com/seanli3/lvc)**|
+|**2024-03-10**|**Generalization of Graph Neural Networks through the Lens of Homomorphism**|Shouheng Li et.al.|[2403.06079](http://arxiv.org/abs/2403.06079)|null|
+|**2024-03-09**|**Towards a Generic Representation of Cominatorial Problems for Learning-Based Approaches**|Léo Boisvert et.al.|[2403.06026](http://arxiv.org/abs/2403.06026)|null|
+|**2024-03-09**|**Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark**|Xiaowei Qian et.al.|[2403.06017](http://arxiv.org/abs/2403.06017)|**[link](https://github.com/xweiq/benchmark-graphfairness)**|
+|**2024-03-09**|**Task-Oriented GNNs Training on Large Knowledge Graphs for Accurate and Efficient Modeling**|Hussein Abdallah et.al.|[2403.05752](http://arxiv.org/abs/2403.05752)|**[link](https://github.com/cods-gcs/kgtosa)**|
+|**2024-03-08**|**Systematic assessment of various universal machine-learning interatomic potentials**|Haochen Yu et.al.|[2403.05729](http://arxiv.org/abs/2403.05729)|null|
 |**2024-03-08**|**Advances of Deep Learning in Protein Science: A Comprehensive Survey**|Bozhen Hu et.al.|[2403.05314](http://arxiv.org/abs/2403.05314)|null|
 |**2024-03-08**|**Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks**|Marco De Nadai et.al.|[2403.05185](http://arxiv.org/abs/2403.05185)|null|
 |**2024-03-08**|**Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts**|Zeyang Zhang et.al.|[2403.05026](http://arxiv.org/abs/2403.05026)|null|
