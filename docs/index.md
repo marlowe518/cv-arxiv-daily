@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data**|Miguel Fuentes et.al.|[2403.07797](http://arxiv.org/abs/2403.07797)|**[link](https://github.com/miguel-fuentes/jam_aistats)**|
+|**2024-03-12**|**Privacy Guarantees in Posterior Sampling under Contamination**|Shenggang Hu et.al.|[2403.07772](http://arxiv.org/abs/2403.07772)|null|
+|**2024-03-12**|**Visual Privacy Auditing with Diffusion Models**|Kristian Schwethelm et.al.|[2403.07588](http://arxiv.org/abs/2403.07588)|null|
+|**2024-03-12**|**A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism**|Zhiyu Chen et.al.|[2403.07283](http://arxiv.org/abs/2403.07283)|null|
+|**2024-03-12**|**SoK: Can Trajectory Generation Combine Privacy and Utility?**|Erik Buchholz et.al.|[2403.07218](http://arxiv.org/abs/2403.07218)|**[link](https://github.com/erik-buchholz/SoK-TrajGen)**|
 |**2024-03-08**|**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**|Jonathan Will et.al.|[2403.05692](http://arxiv.org/abs/2403.05692)|null|
 |**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
 |**2024-03-07**|**Privacy Amplification for the Gaussian Mechanism via Bounded Support**|Shengyuan Hu et.al.|[2403.05598](http://arxiv.org/abs/2403.05598)|null|
@@ -246,6 +252,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849](http://arxiv.org/abs/2403.07849)|null|
+|**2024-03-12**|**OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**|Christos Koutras et.al.|[2403.07653](http://arxiv.org/abs/2403.07653)|null|
+|**2024-03-12**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478](http://arxiv.org/abs/2403.07478)|null|
+|**2024-03-12**|**One for All and All for One: GNN-based Control-Flow Attestation for Embedded Devices**|Marco Chilese et.al.|[2403.07465](http://arxiv.org/abs/2403.07465)|null|
+|**2024-03-12**|**Graph Unlearning with Efficient Partial Retraining**|Jiahao Zhang et.al.|[2403.07353](http://arxiv.org/abs/2403.07353)|null|
+|**2024-03-12**|**Graph Data Condensation via Self-expressive Graph Structure Reconstruction**|Zhanyu Liu et.al.|[2403.07294](http://arxiv.org/abs/2403.07294)|null|
+|**2024-03-11**|**Uncertainty in Graph Neural Networks: A Survey**|Fangxin Wang et.al.|[2403.07185](http://arxiv.org/abs/2403.07185)|null|
+|**2024-03-11**|**All in One: Multi-Task Prompting for Graph Neural Networks (Extended Abstract)**|Xiangguo Sun et.al.|[2403.07040](http://arxiv.org/abs/2403.07040)|null|
+|**2024-03-11**|**Leveraging graph neural networks for supporting Automatic Triage of Patients**|Annamaria Defilippo et.al.|[2403.07038](http://arxiv.org/abs/2403.07038)|null|
 |**2024-03-11**|**Are Targeted Messages More Effective?**|Martin Grohe et.al.|[2403.06817](http://arxiv.org/abs/2403.06817)|null|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687](http://arxiv.org/abs/2403.06687)|null|
 |**2024-03-11**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489](http://arxiv.org/abs/2403.06489)|null|
