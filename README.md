@@ -18,13 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**|Guy Amit et.al.|[2403.08481](http://arxiv.org/abs/2403.08481)|null|
+|**2024-03-13**|**Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees**|Dhrubajit Chowdhury et.al.|[2403.08181](http://arxiv.org/abs/2403.08181)|null|
+|**2024-03-12**|**Efficient Language Model Architectures for Differentially Private Federated Learning**|Jae Hun Ro et.al.|[2403.08100](http://arxiv.org/abs/2403.08100)|null|
+|**2024-03-12**|**System Design Approach for Control of Differentially Private Dynamical Systems**|Raman Goyal et.al.|[2403.08065](http://arxiv.org/abs/2403.08065)|null|
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data**|Miguel Fuentes et.al.|[2403.07797](http://arxiv.org/abs/2403.07797)|**[link](https://github.com/miguel-fuentes/jam_aistats)**|
 |**2024-03-12**|**Privacy Guarantees in Posterior Sampling under Contamination**|Shenggang Hu et.al.|[2403.07772](http://arxiv.org/abs/2403.07772)|null|
 |**2024-03-12**|**Visual Privacy Auditing with Diffusion Models**|Kristian Schwethelm et.al.|[2403.07588](http://arxiv.org/abs/2403.07588)|null|
 |**2024-03-12**|**A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism**|Zhiyu Chen et.al.|[2403.07283](http://arxiv.org/abs/2403.07283)|null|
 |**2024-03-12**|**SoK: Can Trajectory Generation Combine Privacy and Utility?**|Erik Buchholz et.al.|[2403.07218](http://arxiv.org/abs/2403.07218)|**[link](https://github.com/erik-buchholz/SoK-TrajGen)**|
-|**2024-03-08**|**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**|Jonathan Will et.al.|[2403.05692](http://arxiv.org/abs/2403.05692)|**[link](https://github.com/dos-group/pm-data-privacy)**|
+|**2024-03-13**|**Privacy-Preserving Sharing of Data Analytics Runtime Metrics for Performance Modeling**|Jonathan Will et.al.|[2403.05692](http://arxiv.org/abs/2403.05692)|**[link](https://github.com/dos-group/pm-data-privacy)**|
 |**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
 |**2024-03-07**|**Privacy Amplification for the Gaussian Mechanism via Bounded Support**|Shengyuan Hu et.al.|[2403.05598](http://arxiv.org/abs/2403.05598)|null|
 |**2024-03-08**|**Private Count Release: A Simple and Scalable Approach for Private Data Analytics**|Ryan Rogers et.al.|[2403.05073](http://arxiv.org/abs/2403.05073)|null|
@@ -258,6 +262,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Link Prediction for Social Networks using Representation Learning and Heuristic-based Features**|Samarth Khanna et.al.|[2403.08613](http://arxiv.org/abs/2403.08613)|null|
+|**2024-03-13**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438](http://arxiv.org/abs/2403.08438)|null|
+|**2024-03-13**|**Causal Graph Neural Networks for Wildfire Danger Prediction**|Shan Zhao et.al.|[2403.08414](http://arxiv.org/abs/2403.08414)|null|
+|**2024-03-13**|**Fast Inference of Removal-Based Node Influence**|Weikai Li et.al.|[2403.08333](http://arxiv.org/abs/2403.08333)|**[link](https://github.com/weikai-li/nora)**|
+|**2024-03-13**|**BG-HGNN: Toward Scalable and Efficient Heterogeneous Graph Neural Network**|Junwei Su et.al.|[2403.08207](http://arxiv.org/abs/2403.08207)|null|
+|**2024-03-12**|**Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach**|Keke Huang et.al.|[2403.07954](http://arxiv.org/abs/2403.07954)|null|
 |**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849](http://arxiv.org/abs/2403.07849)|null|
 |**2024-03-12**|**OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**|Christos Koutras et.al.|[2403.07653](http://arxiv.org/abs/2403.07653)|null|
 |**2024-03-12**|**Towards Graph Foundation Models for Personalization**|Andreas Damianou et.al.|[2403.07478](http://arxiv.org/abs/2403.07478)|null|
