@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps**|Ruixuan Liu et.al.|[2403.09562](http://arxiv.org/abs/2403.09562)|null|
+|**2024-03-14**|**LDPRecover: Recovering Frequencies from Poisoning Attacks against Local Differential Privacy**|Xinyue Sun et.al.|[2403.09351](http://arxiv.org/abs/2403.09351)|null|
+|**2024-03-14**|**Bridging Quantum Computing and Differential Privacy: A Survey on Quantum Computing Privacy**|Yusheng Zhao et.al.|[2403.09173](http://arxiv.org/abs/2403.09173)|null|
+|**2024-03-13**|**Efficiently Computing Similarities to Private Datasets**|Arturs Backurs et.al.|[2403.08917](http://arxiv.org/abs/2403.08917)|null|
 |**2024-03-13**|**SoK: Reducing the Vulnerability of Fine-tuned Language Models to Membership Inference Attacks**|Guy Amit et.al.|[2403.08481](http://arxiv.org/abs/2403.08481)|null|
 |**2024-03-13**|**Differential Privacy in Nonlinear Dynamical Systems with Tracking Performance Guarantees**|Dhrubajit Chowdhury et.al.|[2403.08181](http://arxiv.org/abs/2403.08181)|null|
 |**2024-03-12**|**Efficient Language Model Architectures for Differentially Private Federated Learning**|Jae Hun Ro et.al.|[2403.08100](http://arxiv.org/abs/2403.08100)|null|
@@ -262,6 +266,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507](http://arxiv.org/abs/2403.09507)|null|
+|**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|null|
+|**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|null|
+|**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
+|**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039](http://arxiv.org/abs/2403.09039)|null|
 |**2024-03-13**|**Link Prediction for Social Networks using Representation Learning and Heuristic-based Features**|Samarth Khanna et.al.|[2403.08613](http://arxiv.org/abs/2403.08613)|null|
 |**2024-03-13**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438](http://arxiv.org/abs/2403.08438)|null|
 |**2024-03-13**|**Causal Graph Neural Networks for Wildfire Danger Prediction**|Shan Zhao et.al.|[2403.08414](http://arxiv.org/abs/2403.08414)|null|
