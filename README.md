@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Interactive Trimming against Evasive Online Data Manipulation Attacks: A Game-Theoretic Approach**|Yue Fu et.al.|[2403.10313](http://arxiv.org/abs/2403.10313)|null|
+|**2024-03-15**|**Chernoff Information as a Privacy Constraint for Adversarial Classification**|Ayşe Ünsal et.al.|[2403.10307](http://arxiv.org/abs/2403.10307)|null|
+|**2024-03-15**|**Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy**|Wei Dong et.al.|[2403.10116](http://arxiv.org/abs/2403.10116)|null|
 |**2024-03-14**|**PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps**|Ruixuan Liu et.al.|[2403.09562](http://arxiv.org/abs/2403.09562)|null|
 |**2024-03-14**|**LDPRecover: Recovering Frequencies from Poisoning Attacks against Local Differential Privacy**|Xinyue Sun et.al.|[2403.09351](http://arxiv.org/abs/2403.09351)|null|
 |**2024-03-14**|**Bridging Quantum Computing and Differential Privacy: A Survey on Quantum Computing Privacy**|Yusheng Zhao et.al.|[2403.09173](http://arxiv.org/abs/2403.09173)|null|
@@ -266,6 +269,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339](http://arxiv.org/abs/2403.10339)|null|
+|**2024-03-15**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations**|Xinli Hao et.al.|[2403.10220](http://arxiv.org/abs/2403.10220)|**[link](https://github.com/xinlihao/aero)**|
+|**2024-03-15**|**HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for Decentralized Multi-Robot Crowd Navigation**|Xinyu Zhou et.al.|[2403.10083](http://arxiv.org/abs/2403.10083)|null|
+|**2024-03-15**|**Thermal Earth Model for the Conterminous United States Using an Interpolative Physics-Informed Graph Neural Network (InterPIGNN)**|Mohammad J. Aljubran et.al.|[2403.09961](http://arxiv.org/abs/2403.09961)|null|
+|**2024-03-14**|**Robust Subgraph Learning by Monitoring Early Training Representations**|Sepideh Neshatfar et.al.|[2403.09901](http://arxiv.org/abs/2403.09901)|null|
+|**2024-03-13**|**A Short Review on Novel Approaches for Maximum Clique Problem: from Classical algorithms to Graph Neural Networks and Quantum algorithms**|Raffaele Marino et.al.|[2403.09742](http://arxiv.org/abs/2403.09742)|null|
 |**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507](http://arxiv.org/abs/2403.09507)|null|
 |**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|null|
 |**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|null|
