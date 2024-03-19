@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Budget Recycling Differential Privacy**|Bo Jiang et.al.|[2403.11445](http://arxiv.org/abs/2403.11445)|null|
+|**2024-03-17**|**Federated Transfer Learning with Differential Privacy**|Mengchu Li et.al.|[2403.11343](http://arxiv.org/abs/2403.11343)|null|
+|**2024-03-17**|**Programming Frameworks for Differential Privacy**|Marco Gaboardi et.al.|[2403.11088](http://arxiv.org/abs/2403.11088)|null|
+|**2024-03-17**|**Double-Private Distributed Estimation Algorithm Using Differential Privacy and a Key-Like Proportionate Matrix with Its Performance Analysis**|Mehdi Korki et.al.|[2403.11064](http://arxiv.org/abs/2403.11064)|null|
+|**2024-03-16**|**Edge Private Graph Neural Networks with Singular Value Perturbation**|Tingting Tang et.al.|[2403.10995](http://arxiv.org/abs/2403.10995)|null|
+|**2024-03-14**|**Adaptive Hybrid Masking Strategy for Privacy-Preserving Face Recognition Against Model Inversion Attack**|Yuanqing Huang et.al.|[2403.10558](http://arxiv.org/abs/2403.10558)|null|
 |**2024-03-15**|**Interactive Trimming against Evasive Online Data Manipulation Attacks: A Game-Theoretic Approach**|Yue Fu et.al.|[2403.10313](http://arxiv.org/abs/2403.10313)|null|
 |**2024-03-15**|**Chernoff Information as a Privacy Constraint for Adversarial Classification**|Ayşe Ünsal et.al.|[2403.10307](http://arxiv.org/abs/2403.10307)|null|
 |**2024-03-15**|**Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy**|Wei Dong et.al.|[2403.10116](http://arxiv.org/abs/2403.10116)|null|
@@ -269,6 +275,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
+|**2024-03-18**|**Graph Partial Label Learning with Potential Cause Discovering**|Hang Gao et.al.|[2403.11449](http://arxiv.org/abs/2403.11449)|null|
+|**2024-03-18**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408](http://arxiv.org/abs/2403.11408)|null|
+|**2024-03-17**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370](http://arxiv.org/abs/2403.11370)|null|
+|**2024-03-17**|**Phonon predictions with E(3)-equivariant graph neural networks**|Shiang Fang et.al.|[2403.11347](http://arxiv.org/abs/2403.11347)|null|
+|**2024-03-17**|**Graph Neural Network based Double Machine Learning Estimator of Network Causal Effects**|Seyedeh Baharan Khatami et.al.|[2403.11332](http://arxiv.org/abs/2403.11332)|null|
+|**2024-03-17**|**Multi-Relational Graph Neural Network for Out-of-Domain Link Prediction**|Asma Sattar et.al.|[2403.11292](http://arxiv.org/abs/2403.11292)|null|
+|**2024-03-17**|**Jointly Optimizing Terahertz based Sensing and Communications in Vehicular Networks: A Dynamic Graph Neural Network Approach**|Xuefei Li et.al.|[2403.11102](http://arxiv.org/abs/2403.11102)|null|
+|**2024-03-16**|**Forward Learning of Graph Neural Networks**|Namyong Park et.al.|[2403.11004](http://arxiv.org/abs/2403.11004)|null|
+|**2024-03-16**|**Edge Private Graph Neural Networks with Singular Value Perturbation**|Tingting Tang et.al.|[2403.10995](http://arxiv.org/abs/2403.10995)|null|
+|**2024-03-16**|**CSI Transfer From Sub-6G to mmWave: Reduced-Overhead Multi-User Hybrid Beamforming**|Weicao Deng et.al.|[2403.10873](http://arxiv.org/abs/2403.10873)|null|
+|**2024-03-16**|**stMCDI: Masked Conditional Diffusion Model with Graph Neural Network for Spatial Transcriptomics Data Imputation**|Xiaoyu Li et.al.|[2403.10863](http://arxiv.org/abs/2403.10863)|null|
+|**2024-03-16**|**ECRC: Emotion-Causality Recognition in Korean Conversation for GCN**|J. K. Lee et.al.|[2403.10764](http://arxiv.org/abs/2403.10764)|null|
+|**2024-03-15**|**Discovering Invariant Neighborhood Patterns for Heterophilic Graphs**|Ruihao Zhang et.al.|[2403.10572](http://arxiv.org/abs/2403.10572)|null|
 |**2024-03-15**|**Generation is better than Modification: Combating High Class Homophily Variance in Graph Anomaly Detection**|Rui Zhang et.al.|[2403.10339](http://arxiv.org/abs/2403.10339)|null|
 |**2024-03-15**|**From Chaos to Clarity: Time Series Anomaly Detection in Astronomical Observations**|Xinli Hao et.al.|[2403.10220](http://arxiv.org/abs/2403.10220)|**[link](https://github.com/xinlihao/aero)**|
 |**2024-03-15**|**HeR-DRL:Heterogeneous Relational Deep Reinforcement Learning for Decentralized Multi-Robot Crowd Navigation**|Xinyu Zhou et.al.|[2403.10083](http://arxiv.org/abs/2403.10083)|null|
