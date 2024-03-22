@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428](http://arxiv.org/abs/2403.14428)|null|
+|**2024-03-21**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al.|[2403.14421](http://arxiv.org/abs/2403.14421)|null|
+|**2024-03-21**|**A Differentially Private Clustering Algorithm for Well-Clustered Graphs**|Weiqiang He et.al.|[2403.14332](http://arxiv.org/abs/2403.14332)|null|
+|**2024-03-18**|**Smooth Sensitivity for Learning Differentially-Private yet Accurate Rule Lists**|Timothée Ly et.al.|[2403.13848](http://arxiv.org/abs/2403.13848)|null|
 |**2024-03-20**|**Does Differentially Private Synthetic Data Lead to Synthetic Discoveries?**|Ileana Montoya Perez et.al.|[2403.13612](http://arxiv.org/abs/2403.13612)|null|
 |**2024-03-20**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
 |**2024-03-19**|**Provable Privacy with Non-Private Pre-Processing**|Yaxi Hu et.al.|[2403.13041](http://arxiv.org/abs/2403.13041)|null|
@@ -274,6 +278,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
+|**2024-03-20**|**Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning**|Yifeng Tian et.al.|[2403.14015](http://arxiv.org/abs/2403.14015)|null|
+|**2024-03-20**|**Considerations in the use of ML interaction potentials for free energy calculations**|Orlando A. Mendible et.al.|[2403.13952](http://arxiv.org/abs/2403.13952)|**[link](https://github.com/omendibleba/considerations_for_mlps_fes)**|
+|**2024-03-20**|**Graph Neural Network for Crawling Target Nodes in Social Networks**|Kirill Lukyanov et.al.|[2403.13865](http://arxiv.org/abs/2403.13865)|null|
 |**2024-03-20**|**Sparse Implementation of Versatile Graph-Informed Layers**|Francesco Della Santa et.al.|[2403.13781](http://arxiv.org/abs/2403.13781)|null|
 |**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268](http://arxiv.org/abs/2403.13268)|null|
 |**2024-03-20**|**A Comparative Study of Machine Learning Models Predicting Energetics of Interacting Defects**|Hao Yu et.al.|[2403.13243](http://arxiv.org/abs/2403.13243)|null|
