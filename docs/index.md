@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.21
+## Updated on 2024.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -279,7 +279,7 @@ layout: default
 |**2024-03-20**|**A Comparative Study of Machine Learning Models Predicting Energetics of Interacting Defects**|Hao Yu et.al.|[2403.13243](http://arxiv.org/abs/2403.13243)|null|
 |**2024-03-19**|**Improving tracking algorithms with machine learning: a case for line-segment tracking at the High Luminosity LHC**|Jonathan Guiang et.al.|[2403.13166](http://arxiv.org/abs/2403.13166)|null|
 |**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|null|
-|**2024-03-19**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821](http://arxiv.org/abs/2403.12821)|**[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)**|
+|**2024-03-21**|**FlowerFormer: Empowering Neural Architecture Encoding using a Flow-aware Graph Transformer**|Dongyeong Hwang et.al.|[2403.12821](http://arxiv.org/abs/2403.12821)|**[link](https://github.com/y0ngjaenius/cvpr2024_flowerformer)**|
 |**2024-03-19**|**Contextualized Messages Boost Graph Representations**|Brian Godwin Lim et.al.|[2403.12529](http://arxiv.org/abs/2403.12529)|null|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
 |**2024-03-19**|**STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**|Lincan Li et.al.|[2403.12418](http://arxiv.org/abs/2403.12418)|null|
