@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-03-21**|**A Differentially Private Clustering Algorithm for Well-Clustered Graphs**|Weiqiang He et.al.|[2403.14332](http://arxiv.org/abs/2403.14332)|null|
 |**2024-03-18**|**Smooth Sensitivity for Learning Differentially-Private yet Accurate Rule Lists**|Timothée Ly et.al.|[2403.13848](http://arxiv.org/abs/2403.13848)|null|
 |**2024-03-20**|**Does Differentially Private Synthetic Data Lead to Synthetic Discoveries?**|Ileana Montoya Perez et.al.|[2403.13612](http://arxiv.org/abs/2403.13612)|null|
-|**2024-03-20**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
+|**2024-03-22**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
 |**2024-03-19**|**Provable Privacy with Non-Private Pre-Processing**|Yaxi Hu et.al.|[2403.13041](http://arxiv.org/abs/2403.13041)|null|
 |**2024-03-18**|**Improving LoRA in Privacy-preserving Federated Learning**|Youbang Sun et.al.|[2403.12313](http://arxiv.org/abs/2403.12313)|null|
 |**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213](http://arxiv.org/abs/2403.12213)|null|
@@ -278,7 +278,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -930,7 +930,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

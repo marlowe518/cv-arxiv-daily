@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -19,7 +19,7 @@ layout: default
 |**2024-03-21**|**A Differentially Private Clustering Algorithm for Well-Clustered Graphs**|Weiqiang He et.al.|[2403.14332](http://arxiv.org/abs/2403.14332)|null|
 |**2024-03-18**|**Smooth Sensitivity for Learning Differentially-Private yet Accurate Rule Lists**|Timothée Ly et.al.|[2403.13848](http://arxiv.org/abs/2403.13848)|null|
 |**2024-03-20**|**Does Differentially Private Synthetic Data Lead to Synthetic Discoveries?**|Ileana Montoya Perez et.al.|[2403.13612](http://arxiv.org/abs/2403.13612)|null|
-|**2024-03-20**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
+|**2024-03-22**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
 |**2024-03-19**|**Provable Privacy with Non-Private Pre-Processing**|Yaxi Hu et.al.|[2403.13041](http://arxiv.org/abs/2403.13041)|null|
 |**2024-03-18**|**Improving LoRA in Privacy-preserving Federated Learning**|Youbang Sun et.al.|[2403.12313](http://arxiv.org/abs/2403.12313)|null|
 |**2024-03-18**|**Private graphon estimation via sum-of-squares**|Hongjie Chen et.al.|[2403.12213](http://arxiv.org/abs/2403.12213)|null|
