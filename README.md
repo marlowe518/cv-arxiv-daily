@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -287,7 +287,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240327>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -296,7 +296,7 @@
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-25**|**LSTTN: A Long-Short Term Transformer-based Spatio-temporal Neural Network for Traffic Flow Forecasting**|Qinyao Luo et.al.|[2403.16495](http://arxiv.org/abs/2403.16495)|null|
 |**2024-03-25**|**ChebMixer: Efficient Graph Representation Learning with MLP Mixer**|Xiaoyan Kui et.al.|[2403.16358](http://arxiv.org/abs/2403.16358)|null|
-|**2024-03-24**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206](http://arxiv.org/abs/2403.16206)|null|
+|**2024-03-26**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206](http://arxiv.org/abs/2403.16206)|null|
 |**2024-03-24**|**A Survey on Self-Supervised Pre-Training of Graph Foundation Models: A Knowledge-Based Perspective**|Ziwen Zhao et.al.|[2403.16137](http://arxiv.org/abs/2403.16137)|**[link](https://github.com/newiz430/pretext)**|
 |**2024-03-24**|**SSHPool: The Separated Subgraph-based Hierarchical Pooling**|Zhuo Xu et.al.|[2403.16133](http://arxiv.org/abs/2403.16133)|null|
 |**2024-03-24**|**Segment Anything Model for Road Network Graph Extraction**|Congrui Hetang et.al.|[2403.16051](http://arxiv.org/abs/2403.16051)|**[link](https://github.com/htcr/sam_road)**|
@@ -310,8 +310,8 @@
 |**2024-03-22**|**Graph neural network coarse-grain force field for the molecular crystal RDX**|Brian H. Lee et.al.|[2403.15266](http://arxiv.org/abs/2403.15266)|null|
 |**2024-03-22**|**GTAGCN: Generalized Topology Adaptive Graph Convolutional Networks**|Sukhdeep Singh et.al.|[2403.15077](http://arxiv.org/abs/2403.15077)|null|
 |**2024-03-22**|**Simple Graph Condensation**|Zhenbang Xiao et.al.|[2403.14951](http://arxiv.org/abs/2403.14951)|null|
-|**2024-03-21**|**iSpLib: A Library for Accelerating Graph Neural Networks using Auto-tuned Sparse Operations**|Md Saidul Hoque Anik et.al.|[2403.14853](http://arxiv.org/abs/2403.14853)|null|
-|**2024-03-21**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|null|
+|**2024-03-21**|**iSpLib: A Library for Accelerating Graph Neural Networks using Auto-tuned Sparse Operations**|Md Saidul Hoque Anik et.al.|[2403.14853](http://arxiv.org/abs/2403.14853)|**[link](https://github.com/hipgraph/isplib)**|
+|**2024-03-26**|**NaNa and MiGu: Semantic Data Augmentation Techniques to Enhance Protein Classification in Graph Neural Networks**|Yi-Shan Lan et.al.|[2403.14736](http://arxiv.org/abs/2403.14736)|**[link](https://github.com/r08b46009/code_for_migu_nana)**|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
 |**2024-03-20**|**Data-Driven Modeling of Dislocation Mobility from Atomistics using Physics-Informed Machine Learning**|Yifeng Tian et.al.|[2403.14015](http://arxiv.org/abs/2403.14015)|null|
 |**2024-03-20**|**Considerations in the use of ML interaction potentials for free energy calculations**|Orlando A. Mendible et.al.|[2403.13952](http://arxiv.org/abs/2403.13952)|**[link](https://github.com/omendibleba/considerations_for_mlps_fes)**|
@@ -958,7 +958,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240327>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
