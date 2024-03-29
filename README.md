@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks**|Xiaoguang Li et.al.|[2403.19510](http://arxiv.org/abs/2403.19510)|null|
 |**2024-03-27**|**Minimax density estimation in the adversarial framework under local differential privacy**|Mélisande Albert et.al.|[2403.18357](http://arxiv.org/abs/2403.18357)|null|
 |**2024-03-27**|**Differentially Private Dual Gradient Tracking for Distributed Resource Allocation**|Wei Huo et.al.|[2403.18275](http://arxiv.org/abs/2403.18275)|null|
 |**2024-03-27**|**Differentially Private Distributed Nonconvex Stochastic Optimization with Quantized Communications**|Jialong Chen et.al.|[2403.18254](http://arxiv.org/abs/2403.18254)|null|
@@ -25,7 +26,7 @@
 |**2024-03-26**|**How Private is DP-SGD?**|Lynn Chua et.al.|[2403.17673](http://arxiv.org/abs/2403.17673)|null|
 |**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572](http://arxiv.org/abs/2403.17572)|null|
 |**2024-03-26**|**Two Birds with One Stone: Differential Privacy by Low-power SRAM Memory**|Jianqing Liu et.al.|[2403.17303](http://arxiv.org/abs/2403.17303)|null|
-|**2024-03-25**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
+|**2024-03-28**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
 |**2024-03-25**|**Differentially Private Online Federated Learning with Correlated Noise**|Jiaojiao Zhang et.al.|[2403.16542](http://arxiv.org/abs/2403.16542)|null|
 |**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004](http://arxiv.org/abs/2403.16004)|null|
 |**2024-03-24**|**Near-Optimal differentially private low-rank trace regression with guaranteed private initialization**|Mengyue Zha et.al.|[2403.15999](http://arxiv.org/abs/2403.15999)|null|
@@ -300,7 +301,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
+|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474](http://arxiv.org/abs/2403.19474)|**[link](https://github.com/dfki-av/sg-pgm)**|
+|**2024-03-28**|**Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting**|Mandani Ntekouli et.al.|[2403.19442](http://arxiv.org/abs/2403.19442)|null|
+|**2024-03-28**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289](http://arxiv.org/abs/2403.19289)|null|
+|**2024-03-28**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143](http://arxiv.org/abs/2403.19143)|null|
+|**2024-03-26**|**Neural Attributed Community Search at Billion Scale**|Jianwei Wang et.al.|[2403.18874](http://arxiv.org/abs/2403.18874)|null|
+|**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
 |**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-28**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479](http://arxiv.org/abs/2403.18479)|**[link](https://github.com/xurong-liang/LEGCF)**|
 |**2024-03-27**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298](http://arxiv.org/abs/2403.18298)|null|
