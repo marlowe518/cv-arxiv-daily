@@ -27,7 +27,7 @@ layout: default
 |**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004](http://arxiv.org/abs/2403.16004)|null|
 |**2024-03-24**|**Near-Optimal differentially private low-rank trace regression with guaranteed private initialization**|Mengyue Zha et.al.|[2403.15999](http://arxiv.org/abs/2403.15999)|null|
 |**2024-03-23**|**TablePuppet: A Generic Framework for Relational Federated Learning**|Lijie Xu et.al.|[2403.15839](http://arxiv.org/abs/2403.15839)|**[link](https://github.com/jerrylead/tablepuppet)**|
-|**2024-03-22**|**Differentially Private Next-Token Prediction of Large Language Models**|James Flemings et.al.|[2403.15638](http://arxiv.org/abs/2403.15638)|null|
+|**2024-04-01**|**Differentially Private Next-Token Prediction of Large Language Models**|James Flemings et.al.|[2403.15638](http://arxiv.org/abs/2403.15638)|null|
 |**2024-03-22**|**Differentially Private Ad Conversion Measurement**|John Delaney et.al.|[2403.15224](http://arxiv.org/abs/2403.15224)|null|
 |**2024-03-22**|**DP-Dueling: Learning from Preference Feedback without Compromising User Privacy**|Aadirupa Saha et.al.|[2403.15045](http://arxiv.org/abs/2403.15045)|null|
 |**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905](http://arxiv.org/abs/2403.14905)|null|
