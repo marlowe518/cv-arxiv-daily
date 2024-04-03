@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Incentives in Private Collaborative Machine Learning**|Rachael Hwee Ling Sim et.al.|[2404.01676](http://arxiv.org/abs/2404.01676)|null|
+|**2024-04-02**|**AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation**|Fei Wei et.al.|[2404.01625](http://arxiv.org/abs/2404.01625)|null|
+|**2024-04-01**|**Decentralized Collaborative Learning Framework with External Privacy Leakage Analysis**|Tsuyoshi Idé et.al.|[2404.01270](http://arxiv.org/abs/2404.01270)|null|
+|**2024-04-01**|**SoK: A Review of Differentially Private Linear Models For High-Dimensional Data**|Amol Khanna et.al.|[2404.01141](http://arxiv.org/abs/2404.01141)|null|
+|**2024-03-30**|**Privacy Backdoors: Stealing Data with Corrupted Pretrained Models**|Shanglun Feng et.al.|[2404.00473](http://arxiv.org/abs/2404.00473)|null|
 |**2024-03-28**|**On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks**|Xiaoguang Li et.al.|[2403.19510](http://arxiv.org/abs/2403.19510)|null|
 |**2024-03-27**|**Minimax density estimation in the adversarial framework under local differential privacy**|Mélisande Albert et.al.|[2403.18357](http://arxiv.org/abs/2403.18357)|null|
 |**2024-03-27**|**Differentially Private Dual Gradient Tracking for Distributed Resource Allocation**|Wei Huo et.al.|[2403.18275](http://arxiv.org/abs/2403.18275)|null|
@@ -26,7 +31,7 @@
 |**2024-03-26**|**How Private is DP-SGD?**|Lynn Chua et.al.|[2403.17673](http://arxiv.org/abs/2403.17673)|null|
 |**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572](http://arxiv.org/abs/2403.17572)|null|
 |**2024-03-26**|**Two Birds with One Stone: Differential Privacy by Low-power SRAM Memory**|Jianqing Liu et.al.|[2403.17303](http://arxiv.org/abs/2403.17303)|null|
-|**2024-03-28**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
+|**2024-04-02**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
 |**2024-03-25**|**Differentially Private Online Federated Learning with Correlated Noise**|Jiaojiao Zhang et.al.|[2403.16542](http://arxiv.org/abs/2403.16542)|null|
 |**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004](http://arxiv.org/abs/2403.16004)|null|
 |**2024-03-24**|**Near-Optimal differentially private low-rank trace regression with guaranteed private initialization**|Mengyue Zha et.al.|[2403.15999](http://arxiv.org/abs/2403.15999)|null|
@@ -301,6 +306,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065](http://arxiv.org/abs/2404.02065)|null|
+|**2024-04-02**|**DSGNN: A Dual-View Supergrid-Aware Graph Neural Network for Regional Air Quality Estimation**|Xin Zhang et.al.|[2404.01975](http://arxiv.org/abs/2404.01975)|null|
+|**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
+|**2024-04-02**|**HeMeNet: Heterogeneous Multichannel Equivariant Network for Protein Multitask Learning**|Rong Han et.al.|[2404.01693](http://arxiv.org/abs/2404.01693)|null|
+|**2024-04-01**|**Machine Learning in High Energy Physics: A review of heavy-flavor jet tagging at the LHC**|Spandan Mondal et.al.|[2404.01071](http://arxiv.org/abs/2404.01071)|null|
+|**2024-04-01**|**Equivariant Local Reference Frames for Unsupervised Non-rigid Point Cloud Shape Correspondence**|Ling Wang et.al.|[2404.00959](http://arxiv.org/abs/2404.00959)|null|
+|**2024-03-31**|**PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning**|Weihua Hu et.al.|[2404.00776](http://arxiv.org/abs/2404.00776)|**[link](https://github.com/pyg-team/pytorch-frame)**|
+|**2024-03-30**|**DE-HNN: An effective neural model for Circuit Netlist representation**|Zhishang Luo et.al.|[2404.00477](http://arxiv.org/abs/2404.00477)|null|
+|**2024-03-30**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385](http://arxiv.org/abs/2404.00385)|null|
+|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209](http://arxiv.org/abs/2404.00209)|null|
 |**2024-03-29**|**Graph Neural Aggregation-diffusion with Metastability**|Kaiyuan Cui et.al.|[2403.20221](http://arxiv.org/abs/2403.20221)|null|
 |**2024-03-29**|**On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212](http://arxiv.org/abs/2403.20212)|null|
 |**2024-03-29**|**Na Vacancy Driven Phase Transformation and Fast Ion Conduction in W-doped Na $_3$SbS$_4$ from Machine Learning Force Fields**|Johan Klarbring et.al.|[2403.20138](http://arxiv.org/abs/2403.20138)|null|
