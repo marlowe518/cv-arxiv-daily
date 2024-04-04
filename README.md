@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Differentially Private Verification of Survey-Weighted Estimates**|Tong Lin et.al.|[2404.02519](http://arxiv.org/abs/2404.02519)|null|
+|**2024-04-03**|**A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2404.02462](http://arxiv.org/abs/2404.02462)|**[link](https://github.com/jiepku/partcrop)**|
+|**2024-04-02**|**Robust Constrained Consensus and Inequality-constrained Distributed Optimization with Guaranteed Differential Privacy and Accurate Convergence**|Yongqiang Wang et.al.|[2404.02327](http://arxiv.org/abs/2404.02327)|null|
 |**2024-04-02**|**Incentives in Private Collaborative Machine Learning**|Rachael Hwee Ling Sim et.al.|[2404.01676](http://arxiv.org/abs/2404.01676)|null|
 |**2024-04-03**|**AAA: an Adaptive Mechanism for Locally Differential Private Mean Estimation**|Fei Wei et.al.|[2404.01625](http://arxiv.org/abs/2404.01625)|null|
 |**2024-04-01**|**Decentralized Collaborative Learning Framework with External Privacy Leakage Analysis**|Tsuyoshi Idé et.al.|[2404.01270](http://arxiv.org/abs/2404.01270)|null|
@@ -306,6 +309,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810](http://arxiv.org/abs/2404.02810)|null|
+|**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527](http://arxiv.org/abs/2404.02527)|null|
+|**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
+|**2024-04-02**|**Virtual Sensor for Real-Time Bearing Load Prediction Using Heterogeneous Temporal Graph Neural Networks**|Mengjie Zhao et.al.|[2404.02304](http://arxiv.org/abs/2404.02304)|null|
+|**2024-04-02**|**CATGNN: Cost-Efficient and Scalable Distributed Training for Graph Neural Networks**|Xin Huang et.al.|[2404.02300](http://arxiv.org/abs/2404.02300)|null|
 |**2024-04-02**|**Multi-Level Label Correction by Distilling Proximate Patterns for Semi-supervised Semantic Segmentation**|Hui Xiao et.al.|[2404.02065](http://arxiv.org/abs/2404.02065)|null|
 |**2024-04-02**|**DSGNN: A Dual-View Supergrid-Aware Graph Neural Network for Regional Air Quality Estimation**|Xin Zhang et.al.|[2404.01975](http://arxiv.org/abs/2404.01975)|null|
 |**2024-04-02**|**Continuous Spiking Graph Neural Networks**|Nan Yin et.al.|[2404.01897](http://arxiv.org/abs/2404.01897)|null|
