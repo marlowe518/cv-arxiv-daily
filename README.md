@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
+|**2024-04-05**|**From Theory to Comprehension: A Comparative Study of Differential Privacy and $k$ -Anonymity**|Saskia Nuñez von Voigt et.al.|[2404.04006](http://arxiv.org/abs/2404.04006)|null|
+|**2024-04-05**|**PrivShape: Extracting Shapes in Time Series under User-Level Local Differential Privacy**|Yulian Mao et.al.|[2404.03873](http://arxiv.org/abs/2404.03873)|null|
 |**2024-04-04**|**Knowledge Distillation-Based Model Extraction Attack using Private Counterfactual Explanations**|Fatima Ezzeddine et.al.|[2404.03348](http://arxiv.org/abs/2404.03348)|null|
 |**2024-04-04**|**A Comparative Analysis of Word-Level Metric Differential Privacy: Benchmarking The Privacy-Utility Trade-off**|Stephen Meisenbacher et.al.|[2404.03324](http://arxiv.org/abs/2404.03324)|**[link](https://github.com/sjmeis/mldp)**|
 |**2024-04-03**|**Differentially Private Verification of Survey-Weighted Estimates**|Tong Lin et.al.|[2404.02519](http://arxiv.org/abs/2404.02519)|null|
@@ -311,6 +314,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777](http://arxiv.org/abs/2404.03777)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473](http://arxiv.org/abs/2404.03473)|null|
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
