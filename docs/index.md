@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-06**|**Advances in Differential Privacy and Differentially Private Machine Learning**|Saswat Das et.al.|[2404.04706](http://arxiv.org/abs/2404.04706)|null|
+|**2024-04-05**|**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**|Shanshan Wu et.al.|[2404.04360](http://arxiv.org/abs/2404.04360)|null|
 |**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
 |**2024-04-05**|**From Theory to Comprehension: A Comparative Study of Differential Privacy and $k$ -Anonymity**|Saskia Nuñez von Voigt et.al.|[2404.04006](http://arxiv.org/abs/2404.04006)|null|
 |**2024-04-05**|**PrivShape: Extracting Shapes in Time Series under User-Level Local Differential Privacy**|Yulian Mao et.al.|[2404.03873](http://arxiv.org/abs/2404.03873)|null|
@@ -308,6 +310,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Graph Neural Networks Automated Design and Deployment on Device-Edge Co-Inference Systems**|Ao Zhou et.al.|[2404.05605](http://arxiv.org/abs/2404.05605)|null|
+|**2024-04-08**|**Technical Report: The Graph Spectral Token -- Enhancing Graph Transformers with Spectral Information**|Zihan Pengmei et.al.|[2404.05604](http://arxiv.org/abs/2404.05604)|**[link](https://github.com/zpengmei/SubFormer-Spec)**|
+|**2024-04-08**|**Back to the Future: GNN-based NO $_2$ Forecasting via Future Covariates**|Antonio Giganti et.al.|[2404.05324](http://arxiv.org/abs/2404.05324)|null|
+|**2024-04-08**|**HOEG: A New Approach for Object-Centric Predictive Process Monitoring**|Tim K. Smit et.al.|[2404.05316](http://arxiv.org/abs/2404.05316)|**[link](https://github.com/tkforgeron/ocppm)**|
+|**2024-04-07**|**Temporal Generalization Estimation in Evolving Graphs**|Bin Lu et.al.|[2404.04969](http://arxiv.org/abs/2404.04969)|null|
+|**2024-04-07**|**Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions**|Ziheng Liu et.al.|[2404.04898](http://arxiv.org/abs/2404.04898)|null|
+|**2024-04-07**|**Graph Neural Networks for Binary Programming**|Moshe Eliasof et.al.|[2404.04874](http://arxiv.org/abs/2404.04874)|null|
+|**2024-04-07**|**GDR-HGNN: A Heterogeneous Graph Neural Networks Accelerator Frontend with Graph Decoupling and Recoupling**|Runzhen Xue et.al.|[2404.04792](http://arxiv.org/abs/2404.04792)|null|
+|**2024-04-06**|**Spectral Graph Pruning Against Over-Squashing and Over-Smoothing**|Adarsh Jamadandi et.al.|[2404.04612](http://arxiv.org/abs/2404.04612)|null|
+|**2024-04-06**|**Spectral GNN via Two-dimensional (2-D) Graph Convolution**|Guoming Li et.al.|[2404.04559](http://arxiv.org/abs/2404.04559)|null|
+|**2024-04-06**|**Towards Better Graph Neural Neural Network-based Fault Localization Through Enhanced Code Representation**|Md Nakhla Rafi et.al.|[2404.04496](http://arxiv.org/abs/2404.04496)|null|
 |**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777](http://arxiv.org/abs/2404.03777)|null|
 |**2024-04-04**|**Generalization Bounds for Message Passing Networks on Mixture of Graphons**|Sohir Maskey et.al.|[2404.03473](http://arxiv.org/abs/2404.03473)|null|
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
@@ -315,7 +328,7 @@ layout: default
 |**2024-04-04**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2404.03227](http://arxiv.org/abs/2404.03227)|null|
 |**2024-04-04**|**Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks**|Arjun Subramonian et.al.|[2404.03139](http://arxiv.org/abs/2404.03139)|**[link](https://github.com/arjunsubramonian/degree-bias-exploration)**|
 |**2024-04-03**|**First-order PDES for Graph Neural Networks: Advection And Burgers Equation Models**|Yifan Qu et.al.|[2404.03081](http://arxiv.org/abs/2404.03081)|null|
-|**2024-04-03**|**GeoT: Tensor Centric Library for Graph Neural Network via Efficient Segment Reduction on GPU**|Zhongming Yu et.al.|[2404.03019](http://arxiv.org/abs/2404.03019)|**[link](https://github.com/fishmingyu/geot)**|
+|**2024-04-08**|**GeoT: Tensor Centric Library for Graph Neural Network via Efficient Segment Reduction on GPU**|Zhongming Yu et.al.|[2404.03019](http://arxiv.org/abs/2404.03019)|**[link](https://github.com/fishmingyu/geot)**|
 |**2024-04-03**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810](http://arxiv.org/abs/2404.02810)|null|
 |**2024-04-03**|**Weakly-Supervised 3D Scene Graph Generation via Visual-Linguistic Assisted Pseudo-labeling**|Xu Wang et.al.|[2404.02527](http://arxiv.org/abs/2404.02527)|null|
 |**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
