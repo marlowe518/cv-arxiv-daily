@@ -17,8 +17,8 @@ layout: default
 |**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**Real-Time Trajectory Synthesis with Local Differential Privacy**|Yujia Hu et.al.|[2404.11450](http://arxiv.org/abs/2404.11450)|**[link](https://github.com/zju-daily/retrasyn)**|
 |**2024-04-16**|**Differentially Private Optimization with Sparse Gradients**|Badih Ghazi et.al.|[2404.10881](http://arxiv.org/abs/2404.10881)|null|
-|**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/federated-compute)**|
-|**2024-04-15**|**Synthetic Census Data Generation via Multidimensional Multiset Sum**|Cynthia Dwork et.al.|[2404.10095](http://arxiv.org/abs/2404.10095)|null|
+|**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|**[link](https://github.com/google-parfait/confidential-federated-compute)**|
+|**2024-04-15**|**Synthetic Census Data Generation via Multidimensional Multiset Sum**|Cynthia Dwork et.al.|[2404.10095](http://arxiv.org/abs/2404.10095)|**[link](https://github.com/mraghavan/synthetic-census)**|
 |**2024-04-15**|**Federated Learning on Riemannian Manifolds with Differential Privacy**|Zhenwei Huang et.al.|[2404.10029](http://arxiv.org/abs/2404.10029)|null|
 |**2024-04-15**|**FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity**|Kai Yi et.al.|[2404.09816](http://arxiv.org/abs/2404.09816)|null|
 |**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722](http://arxiv.org/abs/2404.09722)|null|
@@ -331,7 +331,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|null|
+|**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
 |**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
 |**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766](http://arxiv.org/abs/2404.11766)|null|
 |**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
