@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778](http://arxiv.org/abs/2404.12778)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
+|**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
 |**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**Real-Time Trajectory Synthesis with Local Differential Privacy**|Yujia Hu et.al.|[2404.11450](http://arxiv.org/abs/2404.11450)|**[link](https://github.com/zju-daily/retrasyn)**|
 |**2024-04-16**|**Differentially Private Optimization with Sparse Gradients**|Badih Ghazi et.al.|[2404.10881](http://arxiv.org/abs/2404.10881)|null|
@@ -331,6 +333,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626](http://arxiv.org/abs/2404.12626)|**[link](https://github.com/ipadli/grasper)**|
+|**2024-04-19**|**Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data**|Zhenzhong Wang et.al.|[2404.12569](http://arxiv.org/abs/2404.12569)|null|
 |**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
 |**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
 |**2024-04-17**|**End-to-End Mesh Optimization of a Hybrid Deep Learning Black-Box PDE Solver**|Shaocong Ma et.al.|[2404.11766](http://arxiv.org/abs/2404.11766)|null|
