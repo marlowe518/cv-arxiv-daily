@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process**|Nana Wang et.al.|[2404.14106](http://arxiv.org/abs/2404.14106)|null|
+|**2024-04-20**|**DNA: Differentially private Neural Augmentation for contact tracing**|Rob Romijnders et.al.|[2404.13381](http://arxiv.org/abs/2404.13381)|null|
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778](http://arxiv.org/abs/2404.12778)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
 |**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
@@ -339,6 +341,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
+|**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982](http://arxiv.org/abs/2404.13982)|null|
+|**2024-04-21**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph Convolution and Pooling**|Zehao Dong et.al.|[2404.13655](http://arxiv.org/abs/2404.13655)|null|
+|**2024-04-21**|**Unsupervised Social Bot Detection via Structural Information Theory**|Hao Peng et.al.|[2404.13595](http://arxiv.org/abs/2404.13595)|null|
+|**2024-04-21**|**Test-Time Training on Graphs with Large Language Models (LLMs)**|Jiaxin Zhang et.al.|[2404.13571](http://arxiv.org/abs/2404.13571)|null|
+|**2024-04-21**|**Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces**|Yue Jiang et.al.|[2404.13521](http://arxiv.org/abs/2404.13521)|null|
+|**2024-04-21**|**Authentic Emotion Mapping: Benchmarking Facial Expressions in Real News**|Qixuan Zhang et.al.|[2404.13493](http://arxiv.org/abs/2404.13493)|null|
+|**2024-04-20**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344](http://arxiv.org/abs/2404.13344)|null|
 |**2024-04-19**|**Grasper: A Generalist Pursuer for Pursuit-Evasion Problems**|Pengdeng Li et.al.|[2404.12626](http://arxiv.org/abs/2404.12626)|**[link](https://github.com/ipadli/grasper)**|
 |**2024-04-19**|**Multi-View Subgraph Neural Networks: Self-Supervised Learning with Scarce Labeled Data**|Zhenzhong Wang et.al.|[2404.12569](http://arxiv.org/abs/2404.12569)|null|
 |**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
