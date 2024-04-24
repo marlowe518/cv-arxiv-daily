@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Near-Universally-Optimal Differentially Private Minimum Spanning Trees**|Richard Hladík et.al.|[2404.15035](http://arxiv.org/abs/2404.15035)|null|
 |**2024-04-22**|**DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process**|Nana Wang et.al.|[2404.14106](http://arxiv.org/abs/2404.14106)|null|
 |**2024-04-20**|**DNA: Differentially private Neural Augmentation for contact tracing**|Rob Romijnders et.al.|[2404.13381](http://arxiv.org/abs/2404.13381)|null|
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778](http://arxiv.org/abs/2404.12778)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
@@ -341,6 +342,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225](http://arxiv.org/abs/2404.15225)|null|
+|**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065](http://arxiv.org/abs/2404.15065)|null|
+|**2024-04-23**|**Digital Twin of Industrial Networked Control System based on Value of Information**|Van-Phuc Bui et.al.|[2404.14960](http://arxiv.org/abs/2404.14960)|null|
+|**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941](http://arxiv.org/abs/2404.14941)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822](http://arxiv.org/abs/2404.14822)|null|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|null|
+|**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692](http://arxiv.org/abs/2404.14692)|null|
+|**2024-04-23**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642](http://arxiv.org/abs/2404.14642)|null|
 |**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
 |**2024-04-22**|**Liquid-Graph Time-Constant Network for Multi-Agent Systems Control**|Antonio Marino et.al.|[2404.13982](http://arxiv.org/abs/2404.13982)|null|
 |**2024-04-21**|**SPGNN: Recognizing Salient Subgraph Patterns via Enhanced Graph Convolution and Pooling**|Zehao Dong et.al.|[2404.13655](http://arxiv.org/abs/2404.13655)|null|
