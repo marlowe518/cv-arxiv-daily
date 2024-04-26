@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy**|Krishnamurthy et.al.|[2404.16706](http://arxiv.org/abs/2404.16706)|null|
+|**2024-04-25**|**Constructing Optimal Noise Channels for Enhanced Robustness in Quantum Machine Learning**|David Winderl et.al.|[2404.16417](http://arxiv.org/abs/2404.16417)|null|
+|**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
+|**2024-04-24**|**A Game-Theoretic Analysis of Auditing Differentially Private Algorithms with Epistemically Disparate Herd**|Ya-Ting Yang et.al.|[2404.16195](http://arxiv.org/abs/2404.16195)|null|
+|**2024-04-24**|**Asymptotically Fair and Truthful Allocation of Public Goods**|Pouya Kananian et.al.|[2404.15996](http://arxiv.org/abs/2404.15996)|null|
+|**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686](http://arxiv.org/abs/2404.15686)|null|
 |**2024-04-23**|**Insufficient Statistics Perturbation: Stable Estimators for Private Least Squares**|Gavin Brown et.al.|[2404.15409](http://arxiv.org/abs/2404.15409)|null|
 |**2024-04-23**|**Near-Universally-Optimal Differentially Private Minimum Spanning Trees**|Richard Hladík et.al.|[2404.15035](http://arxiv.org/abs/2404.15035)|null|
 |**2024-04-22**|**DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process**|Nana Wang et.al.|[2404.14106](http://arxiv.org/abs/2404.14106)|null|
@@ -337,6 +343,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|null|
+|**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366](http://arxiv.org/abs/2404.16366)|null|
+|**2024-04-24**|**Power Failure Cascade Prediction using Graph Neural Networks**|Sathwik Chadaga et.al.|[2404.16134](http://arxiv.org/abs/2404.16134)|**[link](https://github.com/sathwikchadaga/failure-cascade)**|
+|**2024-04-24**|**A General Black-box Adversarial Attack on Graph-based Fake News Detectors**|Peican Zhu et.al.|[2404.15744](http://arxiv.org/abs/2404.15744)|null|
+|**2024-04-24**|**Gradformer: Graph Transformer with Exponential Decay**|Chuang Liu et.al.|[2404.15729](http://arxiv.org/abs/2404.15729)|**[link](https://github.com/liuchuang0059/gradformer)**|
+|**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687](http://arxiv.org/abs/2404.15687)|**[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)**|
 |**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
 |**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
 |**2024-04-25**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|null|
