@@ -22,7 +22,7 @@
 |**2024-04-25**|**Constructing Optimal Noise Channels for Enhanced Robustness in Quantum Machine Learning**|David Winderl et.al.|[2404.16417](http://arxiv.org/abs/2404.16417)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
 |**2024-04-24**|**A Game-Theoretic Analysis of Auditing Differentially Private Algorithms with Epistemically Disparate Herd**|Ya-Ting Yang et.al.|[2404.16195](http://arxiv.org/abs/2404.16195)|null|
-|**2024-04-24**|**Asymptotically Fair and Truthful Allocation of Public Goods**|Pouya Kananian et.al.|[2404.15996](http://arxiv.org/abs/2404.15996)|null|
+|**2024-04-24**|**Asymptotically Fair and Truthful Allocation of Public Goods**|Pouya Kananian et.al.|[2404.15996](http://arxiv.org/abs/2404.15996)|**[link](https://github.com/uwaterloo-mast/ppga)**|
 |**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686](http://arxiv.org/abs/2404.15686)|null|
 |**2024-04-23**|**Insufficient Statistics Perturbation: Stable Estimators for Private Least Squares**|Gavin Brown et.al.|[2404.15409](http://arxiv.org/abs/2404.15409)|null|
 |**2024-04-23**|**Near-Universally-Optimal Differentially Private Minimum Spanning Trees**|Richard Hladík et.al.|[2404.15035](http://arxiv.org/abs/2404.15035)|null|
@@ -349,7 +349,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|null|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|**[link](https://github.com/aimat-lab/megan_global_explanations)**|
 |**2024-04-25**|**Guarding Graph Neural Networks for Unsupervised Graph Anomaly Detection**|Yuanchen Bei et.al.|[2404.16366](http://arxiv.org/abs/2404.16366)|null|
 |**2024-04-24**|**Power Failure Cascade Prediction using Graph Neural Networks**|Sathwik Chadaga et.al.|[2404.16134](http://arxiv.org/abs/2404.16134)|**[link](https://github.com/sathwikchadaga/failure-cascade)**|
 |**2024-04-24**|**A General Black-box Adversarial Attack on Graph-based Fake News Detectors**|Peican Zhu et.al.|[2404.15744](http://arxiv.org/abs/2404.15744)|null|
@@ -365,7 +365,7 @@
 |**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941](http://arxiv.org/abs/2404.14941)|null|
 |**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
 |**2024-04-23**|**CNN2GNN: How to Bridge CNN with GNN**|Ziheng Jiao et.al.|[2404.14822](http://arxiv.org/abs/2404.14822)|null|
-|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|null|
+|**2024-04-23**|**Source Code Vulnerability Detection: Combining Code Language Models and Code Property Graphs**|Ruitong Liu et.al.|[2404.14719](http://arxiv.org/abs/2404.14719)|**[link](https://github.com/vul-lmgnn/vul-lmggnn)**|
 |**2024-04-23**|**Deep Overlapping Community Search via Subspace Embedding**|Qing Sima et.al.|[2404.14692](http://arxiv.org/abs/2404.14692)|null|
 |**2024-04-23**|**Uncertainty Quantification on Graph Learning: A Survey**|Chao Chen et.al.|[2404.14642](http://arxiv.org/abs/2404.14642)|null|
 |**2024-04-25**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
