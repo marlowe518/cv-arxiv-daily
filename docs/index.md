@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,12 +15,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-26**|**Evaluations of Machine Learning Privacy Defenses are Misleading**|Michael Aerni et.al.|[2404.17399](http://arxiv.org/abs/2404.17399)|**[link](https://github.com/ethz-spylab/misleading-privacy-evals)**|
-|**2024-04-25**|**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy**|Krishnamurthy et.al.|[2404.16706](http://arxiv.org/abs/2404.16706)|null|
+|**2024-04-26**|**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy**|Krishnamurthy Dvijotham et.al.|[2404.16706](http://arxiv.org/abs/2404.16706)|null|
 |**2024-04-25**|**Constructing Optimal Noise Channels for Enhanced Robustness in Quantum Machine Learning**|David Winderl et.al.|[2404.16417](http://arxiv.org/abs/2404.16417)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
 |**2024-04-24**|**A Game-Theoretic Analysis of Auditing Differentially Private Algorithms with Epistemically Disparate Herd**|Ya-Ting Yang et.al.|[2404.16195](http://arxiv.org/abs/2404.16195)|null|
 |**2024-04-24**|**Asymptotically Fair and Truthful Allocation of Public Goods**|Pouya Kananian et.al.|[2404.15996](http://arxiv.org/abs/2404.15996)|**[link](https://github.com/uwaterloo-mast/ppga)**|
-|**2024-04-24**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686](http://arxiv.org/abs/2404.15686)|null|
+|**2024-04-27**|**Noise Variance Optimization in Differential Privacy: A Game-Theoretic Approach Through Per-Instance Differential Privacy**|Sehyun Ryu et.al.|[2404.15686](http://arxiv.org/abs/2404.15686)|null|
 |**2024-04-23**|**Insufficient Statistics Perturbation: Stable Estimators for Private Least Squares**|Gavin Brown et.al.|[2404.15409](http://arxiv.org/abs/2404.15409)|null|
 |**2024-04-23**|**Near-Universally-Optimal Differentially Private Minimum Spanning Trees**|Richard Hladík et.al.|[2404.15035](http://arxiv.org/abs/2404.15035)|null|
 |**2024-04-22**|**DPTraj-PM: Differentially Private Trajectory Synthesis Using Prefix Tree and Markov Process**|Nana Wang et.al.|[2404.14106](http://arxiv.org/abs/2404.14106)|null|
@@ -360,7 +360,7 @@ layout: default
 |**2024-04-24**|**Graph Neural Networks for Vulnerability Detection: A Counterfactual Explanation**|Zhaoyang Chu et.al.|[2404.15687](http://arxiv.org/abs/2404.15687)|**[link](https://github.com/Zhaoyang-Chu/counterfactual-vulnerability-detection)**|
 |**2024-04-24**|**FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search**|Haoming Zhang et.al.|[2404.15622](http://arxiv.org/abs/2404.15622)|**[link](https://github.com/emi-group/fr-nas)**|
 |**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
-|**2024-04-25**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|**[link](https://github.com/neurachip/neurachip)**|
+|**2024-04-26**|**NeuraChip: Accelerating GNN Computations with a Hash-based Decoupled Spatial Accelerator**|Kaustubh Shivdikar et.al.|[2404.15510](http://arxiv.org/abs/2404.15510)|**[link](https://github.com/neurachip/neurachip)**|
 |**2024-04-23**|**NMBEnet: Efficient Near-field mmWave Beam Training for Multiuser OFDM Systems Using Sub-6 GHz Pilots**|Wang Liu et.al.|[2404.15469](http://arxiv.org/abs/2404.15469)|null|
 |**2024-04-23**|**PHLP: Sole Persistent Homology for Link Prediction -- Interpretable Feature Extraction**|Junwon You et.al.|[2404.15225](http://arxiv.org/abs/2404.15225)|null|
 |**2024-04-23**|**Formal Verification of Graph Convolutional Networks with Uncertain Node Features and Uncertain Graph Structure**|Tobias Ladner et.al.|[2404.15065](http://arxiv.org/abs/2404.15065)|null|
