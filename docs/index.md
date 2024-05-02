@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Metric geometry of the privacy-utility tradeoff**|March Boedihardjo et.al.|[2405.00329](http://arxiv.org/abs/2405.00329)|null|
+|**2024-05-01**|**Differentially Private Release of Israel's National Registry of Live Births**|Shlomi Hod et.al.|[2405.00267](http://arxiv.org/abs/2405.00267)|null|
 |**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814](http://arxiv.org/abs/2404.18814)|null|
 |**2024-04-29**|**Private graph colouring with limited defectiveness**|Aleksander B. G. Christiansen et.al.|[2404.18692](http://arxiv.org/abs/2404.18692)|null|
 |**2024-04-29**|**SPECIAL: Synopsis Assisted Secure Collaborative Analytics**|Chenghong Wang et.al.|[2404.18388](http://arxiv.org/abs/2404.18388)|null|
@@ -347,12 +349,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577](http://arxiv.org/abs/2405.00577)|null|
+|**2024-05-01**|**WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**|Theodoros Theodoropoulos et.al.|[2405.00570](http://arxiv.org/abs/2405.00570)|null|
+|**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476](http://arxiv.org/abs/2405.00476)|null|
+|**2024-05-01**|**Message-Passing Interatomic Potentials Learn Non-Local Electrostatic Interactions**|Sungwoo Kang et.al.|[2405.00290](http://arxiv.org/abs/2405.00290)|null|
+|**2024-04-30**|**A Logic for Reasoning About Aggregate-Combine Graph Neural Networks**|Pierre Nunn et.al.|[2405.00205](http://arxiv.org/abs/2405.00205)|null|
+|**2024-04-30**|**Graph Neural Network Approach to Semantic Type Detection in Tables**|Ehsan Hoseinzade et.al.|[2405.00123](http://arxiv.org/abs/2405.00123)|**[link](https://github.com/hoseinzadeehsan/gait)**|
 |**2024-04-30**|**Generating Robust Counterfactual Witnesses for Graph Neural Networks**|Dazhuo Qiu et.al.|[2404.19519](http://arxiv.org/abs/2404.19519)|null|
 |**2024-04-30**|**EvGNN: An Event-driven Graph Neural Network Accelerator for Edge Vision**|Yufeng Yang et.al.|[2404.19489](http://arxiv.org/abs/2404.19489)|null|
 |**2024-04-30**|**Deep Learning Forecasts Caldera Collapse Events at Kīlauea Volcano**|Ian W. McBrearty et.al.|[2404.19351](http://arxiv.org/abs/2404.19351)|null|
 |**2024-04-30**|**Multi-Scale Heterogeneity-Aware Hypergraph Representation for Histopathology Whole Slide Images**|Minghao Han et.al.|[2404.19334](http://arxiv.org/abs/2404.19334)|**[link](https://github.com/hanminghao/h2gt)**|
 |**2024-04-30**|**Training-free Graph Neural Networks and the Power of Labels as Features**|Ryoma Sato et.al.|[2404.19288](http://arxiv.org/abs/2404.19288)|null|
-|**2024-05-01**|**The Shape of Money Laundering: Subgraph Representation Learning on the Blockchain with the Elliptic2 Dataset**|Claudio Bellei et.al.|[2404.19109](http://arxiv.org/abs/2404.19109)|null|
+|**2024-05-01**|**The Shape of Money Laundering: Subgraph Representation Learning on the Blockchain with the Elliptic2 Dataset**|Claudio Bellei et.al.|[2404.19109](http://arxiv.org/abs/2404.19109)|**[link](https://github.com/mitibmxgraph/elliptic2)**|
 |**2024-04-28**|**Multi-stage Attack Detection and Prediction Using Graph Neural Networks: An IoT Feasibility Study**|Hamdi Friji et.al.|[2404.18328](http://arxiv.org/abs/2404.18328)|null|
 |**2024-04-28**|**Parameter-Efficient Tuning Large Language Models for Graph Representation Learning**|Qi Zhu et.al.|[2404.18271](http://arxiv.org/abs/2404.18271)|null|
 |**2024-04-28**|**A survey of dynamic graph neural networks**|Yanping Zheng et.al.|[2404.18211](http://arxiv.org/abs/2404.18211)|null|
