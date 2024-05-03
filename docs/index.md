@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-01**|**Metric geometry of the privacy-utility tradeoff**|March Boedihardjo et.al.|[2405.00329](http://arxiv.org/abs/2405.00329)|null|
-|**2024-05-01**|**Differentially Private Release of Israel's National Registry of Live Births**|Shlomi Hod et.al.|[2405.00267](http://arxiv.org/abs/2405.00267)|null|
+|**2024-05-01**|**Differentially Private Release of Israel's National Registry of Live Births**|Shlomi Hod et.al.|[2405.00267](http://arxiv.org/abs/2405.00267)|**[link](https://github.com/shlomihod/synthflow)**|
 |**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814](http://arxiv.org/abs/2404.18814)|null|
 |**2024-04-29**|**Private graph colouring with limited defectiveness**|Aleksander B. G. Christiansen et.al.|[2404.18692](http://arxiv.org/abs/2404.18692)|null|
 |**2024-04-29**|**SPECIAL: Synopsis Assisted Secure Collaborative Analytics**|Chenghong Wang et.al.|[2404.18388](http://arxiv.org/abs/2404.18388)|null|
