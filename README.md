@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
+|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|null|
+|**2024-05-02**|**The Privacy Power of Correlated Noise in Decentralized Learning**|Youssef Allouah et.al.|[2405.01031](http://arxiv.org/abs/2405.01031)|null|
+|**2024-04-26**|**Federated Learning and Differential Privacy Techniques on Multi-hospital Population-scale Electrocardiogram Data**|Vikhyat Agrawal et.al.|[2405.00725](http://arxiv.org/abs/2405.00725)|null|
 |**2024-05-01**|**Metric geometry of the privacy-utility tradeoff**|March Boedihardjo et.al.|[2405.00329](http://arxiv.org/abs/2405.00329)|null|
 |**2024-05-01**|**Differentially Private Release of Israel's National Registry of Live Births**|Shlomi Hod et.al.|[2405.00267](http://arxiv.org/abs/2405.00267)|**[link](https://github.com/shlomihod/synthflow)**|
 |**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814](http://arxiv.org/abs/2404.18814)|null|
@@ -355,6 +359,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**GTX: A Transactional Graph Data System For HTAP Workloads**|Libin Zhou et.al.|[2405.01448](http://arxiv.org/abs/2405.01448)|null|
+|**2024-05-02**|**The Importance of Model Inspection for Better Understanding Performance Characteristics of Graph Neural Networks**|Nairouz Shehata et.al.|[2405.01270](http://arxiv.org/abs/2405.01270)|null|
+|**2024-05-02**|**IntraMix: Intra-Class Mixup Generation for Accurate Labels and Neighbors**|Shenghe Zheng et.al.|[2405.00957](http://arxiv.org/abs/2405.00957)|null|
+|**2024-05-01**|**Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing**|Stefanos Bakirtzis et.al.|[2405.00814](http://arxiv.org/abs/2405.00814)|null|
+|**2024-04-30**|**Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks**|Yi Li et.al.|[2405.00742](http://arxiv.org/abs/2405.00742)|null|
 |**2024-05-01**|**Discovering robust biomarkers of neurological disorders from functional MRI using graph neural networks: A Review**|Yi Hao Chan et.al.|[2405.00577](http://arxiv.org/abs/2405.00577)|null|
 |**2024-05-01**|**WEST GCN-LSTM: Weighted Stacked Spatio-Temporal Graph Neural Networks for Regional Traffic Forecasting**|Theodoros Theodoropoulos et.al.|[2405.00570](http://arxiv.org/abs/2405.00570)|null|
 |**2024-05-01**|**A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges**|ZhengZhao Feng et.al.|[2405.00476](http://arxiv.org/abs/2405.00476)|null|
