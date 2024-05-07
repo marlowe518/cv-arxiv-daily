@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516](http://arxiv.org/abs/2405.03516)|null|
+|**2024-05-06**|**Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games**|Wei Huo et.al.|[2405.03106](http://arxiv.org/abs/2405.03106)|null|
+|**2024-05-04**|**Metric Differential Privacy at the User-Level**|Jacob Imola et.al.|[2405.02665](http://arxiv.org/abs/2405.02665)|null|
+|**2024-05-04**|**PrivSGP-VR: Differentially Private Variance-Reduced Stochastic Gradient Push with Tight Utility Bounds**|Zehan Zhu et.al.|[2405.02638](http://arxiv.org/abs/2405.02638)|null|
+|**2024-05-04**|**Maximal Guesswork Leakage**|Gowtham R. Kurri et.al.|[2405.02585](http://arxiv.org/abs/2405.02585)|null|
+|**2024-05-03**|**FastLloyd: Federated, Accurate, Secure, and Tunable $k$ -Means Clustering with Differential Privacy**|Abdulrahman Diaa et.al.|[2405.02437](http://arxiv.org/abs/2405.02437)|null|
+|**2024-05-02**|**Improved Communication-Privacy Trade-offs in $L_2$ Mean Estimation under Streaming Differential Privacy**|Wei-Ning Chen et.al.|[2405.02341](http://arxiv.org/abs/2405.02341)|null|
 |**2024-05-02**|**ATTAXONOMY: Unpacking Differential Privacy Guarantees Against Practical Adversaries**|Rachel Cummings et.al.|[2405.01716](http://arxiv.org/abs/2405.01716)|null|
 |**2024-05-02**|**Privacy-aware Berrut Approximated Coded Computing for Federated Learning**|Xavier Martínez Luaña et.al.|[2405.01704](http://arxiv.org/abs/2405.01704)|null|
 |**2024-05-02**|**1-Diffractor: Efficient and Utility-Preserving Text Obfuscation Leveraging Word-Level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2405.01678](http://arxiv.org/abs/2405.01678)|**[link](https://github.com/sjmeis/diffractor)**|
@@ -356,6 +363,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680](http://arxiv.org/abs/2405.03680)|null|
+|**2024-05-06**|**Reinforcement Nash Equilibrium Solver**|Xinrun Wang et.al.|[2405.03518](http://arxiv.org/abs/2405.03518)|null|
+|**2024-05-06**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers**|Wenhao Zhu et.al.|[2405.03481](http://arxiv.org/abs/2405.03481)|null|
+|**2024-05-06**|**A method for quantifying the generalization capabilities of generative models for solving Ising models**|Qunlong Ma et.al.|[2405.03435](http://arxiv.org/abs/2405.03435)|null|
+|**2024-05-06**|**E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**|Xin Zhang et.al.|[2405.03401](http://arxiv.org/abs/2405.03401)|null|
+|**2024-05-06**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320](http://arxiv.org/abs/2405.03320)|null|
+|**2024-05-06**|**Coefficient Decomposition for Spectral Graph Convolution**|Feng Huang et.al.|[2405.03296](http://arxiv.org/abs/2405.03296)|null|
+|**2024-05-06**|**Active Sensing for Multiuser Beam Tracking with Reconfigurable Intelligent Surface**|Han Han et.al.|[2405.03129](http://arxiv.org/abs/2405.03129)|null|
+|**2024-05-05**|**Convolutional Learning on Directed Acyclic Graphs**|Samuel Rey et.al.|[2405.03056](http://arxiv.org/abs/2405.03056)|null|
+|**2024-05-05**|**E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods**|Şükrü Öztürk et.al.|[2405.02984](http://arxiv.org/abs/2405.02984)|null|
+|**2024-05-05**|**Robust Collaborative Perception without External Localization and Clock Devices**|Zixing Lei et.al.|[2405.02965](http://arxiv.org/abs/2405.02965)|null|
+|**2024-05-05**|**Graph as Point Set**|Xiyuan Wang et.al.|[2405.02795](http://arxiv.org/abs/2405.02795)|null|
+|**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
+|**2024-05-03**|**Protein binding affinity prediction under multiple substitutions applying eGNNs on Residue and Atomic graphs combined with Language model information: eGRAL**|Arturo Fiorellini-Bernardis et.al.|[2405.02374](http://arxiv.org/abs/2405.02374)|null|
+|**2024-05-03**|**CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-level Anomaly Detection**|Jindong Li et.al.|[2405.02359](http://arxiv.org/abs/2405.02359)|**[link](https://github.com/jindongli-ai/cvtgad)**|
 |**2024-05-03**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et.al.|[2405.02078](http://arxiv.org/abs/2405.02078)|null|
 |**2024-05-03**|**Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems**|Ha An Le et.al.|[2405.01979](http://arxiv.org/abs/2405.01979)|null|
 |**2024-05-03**|**Conservative semi-lagrangian finite difference scheme for transport simulations using graph neural networks**|Yongsheng Chen et.al.|[2405.01938](http://arxiv.org/abs/2405.01938)|null|
