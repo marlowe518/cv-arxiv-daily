@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition**|Chenxi Qiu et.al.|[2405.04344](http://arxiv.org/abs/2405.04344)|null|
+|**2024-05-07**|**Differentially Private Post-Processing for Fair Regression**|Ruicheng Xian et.al.|[2405.04034](http://arxiv.org/abs/2405.04034)|**[link](https://github.com/rxian/fair-regression)**|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-07**|**FedSC: Provable Federated Self-supervised Learning with Spectral Contrastive Objective over Non-i.i.d. Data**|Shusen Jing et.al.|[2405.03949](http://arxiv.org/abs/2405.03949)|null|
+|**2024-05-06**|**Unified Locational Differential Privacy Framework**|Aman Priyanshu et.al.|[2405.03903](http://arxiv.org/abs/2405.03903)|**[link](https://github.com/privacy-engineering-cmu/location-dp-framework)**|
 |**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516](http://arxiv.org/abs/2405.03516)|null|
 |**2024-05-06**|**Compression-based Privacy Preservation for Distributed Nash Equilibrium Seeking in Aggregative Games**|Wei Huo et.al.|[2405.03106](http://arxiv.org/abs/2405.03106)|null|
 |**2024-05-04**|**Metric Differential Privacy at the User-Level**|Jacob Imola et.al.|[2405.02665](http://arxiv.org/abs/2405.02665)|null|
@@ -363,6 +368,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
+|**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336](http://arxiv.org/abs/2405.04336)|null|
+|**2024-05-07**|**Acceleration Algorithms in GNNs: A Survey**|Lu Ma et.al.|[2405.04114](http://arxiv.org/abs/2405.04114)|**[link](https://github.com/PKU-DAIR/SGL)**|
+|**2024-05-07**|**Adaptive Least Mean pth Power Graph Neural Networks**|Changran Peng et.al.|[2405.04111](http://arxiv.org/abs/2405.04111)|null|
+|**2024-05-07**|**Binarized Simplicial Convolutional Neural Networks**|Yi Yan et.al.|[2405.04098](http://arxiv.org/abs/2405.04098)|null|
+|**2024-05-07**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009](http://arxiv.org/abs/2405.04009)|**[link](https://github.com/hahamyt/scc)**|
+|**2024-05-07**|**ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition**|Xupeng Zha et.al.|[2405.03960](http://arxiv.org/abs/2405.03960)|null|
+|**2024-05-07**|**Relating-Up: Advancing Graph Neural Networks through Inter-Graph Relationships**|Qi Zou et.al.|[2405.03950](http://arxiv.org/abs/2405.03950)|null|
+|**2024-05-07**|**Federated Graph Condensation with Information Bottleneck Principles**|Bo Yan et.al.|[2405.03911](http://arxiv.org/abs/2405.03911)|null|
+|**2024-05-06**|**Enhancing O-RAN Security: Evasion Attacks and Robust Defenses for Graph Reinforcement Learning-based Connection Management**|Ravikumar Balakrishnan et.al.|[2405.03891](http://arxiv.org/abs/2405.03891)|null|
+|**2024-05-06**|**SocialFormer: Social Interaction Modeling with Edge-enhanced Heterogeneous Graph Transformers for Trajectory Prediction**|Zixu Wang et.al.|[2405.03809](http://arxiv.org/abs/2405.03809)|null|
 |**2024-05-06**|**AtomGPT: Atomistic Generative Pre-trained Transformer for Forward and Inverse Materials Design**|Kamal Choudhary et.al.|[2405.03680](http://arxiv.org/abs/2405.03680)|null|
 |**2024-05-06**|**Reinforcement Nash Equilibrium Solver**|Xinrun Wang et.al.|[2405.03518](http://arxiv.org/abs/2405.03518)|null|
 |**2024-05-06**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers**|Wenhao Zhu et.al.|[2405.03481](http://arxiv.org/abs/2405.03481)|null|
