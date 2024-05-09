@@ -14,7 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-07**|**Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition**|Chenxi Qiu et.al.|[2405.04344](http://arxiv.org/abs/2405.04344)|null|
+|**2024-05-08**|**Inference With Combining Rules From Multiple Differentially Private Synthetic Datasets**|Leila Nombo et.al.|[2405.04769](http://arxiv.org/abs/2405.04769)|null|
+|**2024-05-08**|**Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence**|Xiaomeng Chen et.al.|[2405.04757](http://arxiv.org/abs/2405.04757)|null|
+|**2024-05-06**|**Differentially Private Synthetic Data with Private Density Estimation**|Nikolija Bojkovic et.al.|[2405.04554](http://arxiv.org/abs/2405.04554)|null|
+|**2024-05-06**|**Differentially Private Federated Learning without Noise Addition: When is it Possible?**|Jiang Zhang et.al.|[2405.04551](http://arxiv.org/abs/2405.04551)|null|
+|**2024-05-07**|**Enhancing Scalability of Metric Differential Privacy via Secret Dataset Partitioning and Benders Decomposition**|Chenxi Qiu et.al.|[2405.04344](http://arxiv.org/abs/2405.04344)|**[link](https://github.com/chenxiunt/MetricDP_BendersDecomposition)**|
 |**2024-05-07**|**Differentially Private Post-Processing for Fair Regression**|Ruicheng Xian et.al.|[2405.04034](http://arxiv.org/abs/2405.04034)|**[link](https://github.com/rxian/fair-regression)**|
 |**2024-05-08**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
 |**2024-05-07**|**FedSC: Provable Federated Self-supervised Learning with Spectral Contrastive Objective over Non-i.i.d. Data**|Shusen Jing et.al.|[2405.03949](http://arxiv.org/abs/2405.03949)|null|
@@ -368,6 +372,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**DiskGNN: Bridging I/O Efficiency and Model Accuracy for Out-of-Core GNN Training**|Renjie Liu et.al.|[2405.05231](http://arxiv.org/abs/2405.05231)|null|
+|**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
+|**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942](http://arxiv.org/abs/2405.04942)|null|
+|**2024-05-08**|**Empowering Wireless Networks with Artificial Intelligence Generated Graph**|Jiacheng Wang et.al.|[2405.04907](http://arxiv.org/abs/2405.04907)|null|
+|**2024-05-08**|**Imbalanced Graph Classification with Multi-scale Oversampling Graph Neural Networks**|Rongrong Ma et.al.|[2405.04903](http://arxiv.org/abs/2405.04903)|null|
+|**2024-05-08**|**A Novel Technique for Query Plan Representation Based on Graph Neural Networks**|Baoming Chang et.al.|[2405.04814](http://arxiv.org/abs/2405.04814)|null|
+|**2024-05-08**|**Hypergraph-enhanced Dual Semi-supervised Graph Classification**|Wei Ju et.al.|[2405.04773](http://arxiv.org/abs/2405.04773)|null|
+|**2024-05-08**|**Conditional Local Feature Encoding for Graph Neural Networks**|Yongze Wang et.al.|[2405.04755](http://arxiv.org/abs/2405.04755)|null|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
 |**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|**[link](https://github.com/Litianyu141/Gen-FVGN-steady)**|
 |**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
