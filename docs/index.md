@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299](http://arxiv.org/abs/2405.08299)|null|
+|**2024-05-13**|**HRNet: Differentially Private Hierarchical and Multi-Resolution Network for Human Mobility Data Synthesization**|Shun Takagi et.al.|[2405.08043](http://arxiv.org/abs/2405.08043)|null|
 |**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735](http://arxiv.org/abs/2405.07735)|null|
 |**2024-05-13**|**Local Mutual-Information Differential Privacy**|Khac-Hoang Ngo et.al.|[2405.07596](http://arxiv.org/abs/2405.07596)|null|
 |**2024-05-11**|**Adaptive Online Bayesian Estimation of Frequency Distributions with Local Differential Privacy**|Soner Aydin et.al.|[2405.07020](http://arxiv.org/abs/2405.07020)|**[link](https://github.com/soneraydin/adobest_ldp)**|
@@ -380,6 +382,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628](http://arxiv.org/abs/2405.08628)|null|
+|**2024-05-14**|**Improving the Real-Data Driven Network Evaluation Model for Digital Twin Networks**|Hyeju Shin et.al.|[2405.08473](http://arxiv.org/abs/2405.08473)|null|
+|**2024-05-13**|**Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation**|Shamminuj Aktar et.al.|[2405.08100](http://arxiv.org/abs/2405.08100)|null|
+|**2024-05-10**|**A Survey of Large Language Models for Graphs**|Xubin Ren et.al.|[2405.08011](http://arxiv.org/abs/2405.08011)|**[link](https://github.com/hkuds/awesome-llm4graph-papers)**|
 |**2024-05-13**|**KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**|Wansong Liu et.al.|[2405.07962](http://arxiv.org/abs/2405.07962)|null|
 |**2024-05-13**|**Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks**|Yuchen Lou et.al.|[2405.07915](http://arxiv.org/abs/2405.07915)|null|
 |**2024-05-13**|**All Nodes are created Not Equal: Node-Specific Layer Aggregation and Filtration for GNN**|Shilong Wang et.al.|[2405.07892](http://arxiv.org/abs/2405.07892)|null|
