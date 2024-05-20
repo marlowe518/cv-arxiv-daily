@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -19,7 +19,7 @@ layout: default
 |**2024-05-15**|**Words Blending Boxes. Obfuscating Queries in Information Retrieval using Differential Privacy**|Francesco Luigi De Faveri et.al.|[2405.09306](http://arxiv.org/abs/2405.09306)|**[link](https://github.com/Kekkodf/WBB-QueryObfuscation)**|
 |**2024-05-15**|**Enhancing Image Privacy in Semantic Communication over Wiretap Channels leveraging Differential Privacy**|Weixuan Chen et.al.|[2405.09234](http://arxiv.org/abs/2405.09234)|null|
 |**2024-05-16**|**Neural Collapse Meets Differential Privacy: Curious Behaviors of NoisyGD with Near-perfect Representation Learning**|Chendi Wang et.al.|[2405.08920](http://arxiv.org/abs/2405.08920)|null|
-|**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299](http://arxiv.org/abs/2405.08299)|null|
+|**2024-05-17**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299](http://arxiv.org/abs/2405.08299)|null|
 |**2024-05-13**|**HRNet: Differentially Private Hierarchical and Multi-Resolution Network for Human Mobility Data Synthesization**|Shun Takagi et.al.|[2405.08043](http://arxiv.org/abs/2405.08043)|**[link](https://github.com/tkgsn/priv_traj_gen)**|
 |**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735](http://arxiv.org/abs/2405.07735)|null|
 |**2024-05-13**|**Local Mutual-Information Differential Privacy**|Khac-Hoang Ngo et.al.|[2405.07596](http://arxiv.org/abs/2405.07596)|null|
