@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Rate Optimality and Phase Transition for User-Level Local Differential Privacy**|Alexander Kent et.al.|[2405.11923](http://arxiv.org/abs/2405.11923)|null|
+|**2024-05-20**|**Decentralized Privacy Preservation for Critical Connections in Graphs**|Conggai Li et.al.|[2405.11713](http://arxiv.org/abs/2405.11713)|null|
+|**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580](http://arxiv.org/abs/2405.11580)|null|
+|**2024-05-19**|**Sketches-based join size estimation under local differential privacy**|Meifan Zhang et.al.|[2405.11419](http://arxiv.org/abs/2405.11419)|null|
+|**2024-05-18**|**Parsimonious Optimal Dynamic Partial Order Reduction**|Parosh Aziz Abdulla et.al.|[2405.11128](http://arxiv.org/abs/2405.11128)|null|
+|**2024-05-16**|**"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2405.10994](http://arxiv.org/abs/2405.10994)|null|
 |**2024-05-17**|**Differentially Private Machine Learning-powered Combinatorial Auction Design**|Arash Jamshidi et.al.|[2405.10622](http://arxiv.org/abs/2405.10622)|null|
 |**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096](http://arxiv.org/abs/2405.10096)|null|
 |**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|null|
@@ -394,6 +400,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Conditional Shift-Robust Conformal Prediction for Graph Neural Network**|S. Akansha et.al.|[2405.11968](http://arxiv.org/abs/2405.11968)|null|
+|**2024-05-20**|**CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**|Yanran Tang et.al.|[2405.11791](http://arxiv.org/abs/2405.11791)|**[link](https://github.com/yanran-tang/casegnn)**|
+|**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
+|**2024-05-19**|**CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction**|Zijian Du et.al.|[2405.11502](http://arxiv.org/abs/2405.11502)|null|
+|**2024-05-18**|**Hierarchical Reinforcement Learning Empowered Task Offloading in V2I Networks**|Xinyu You et.al.|[2405.11352](http://arxiv.org/abs/2405.11352)|null|
+|**2024-05-18**|**Detecting Complex Multi-step Attacks with Explainable Graph Neural Network**|Wei Liu et.al.|[2405.11335](http://arxiv.org/abs/2405.11335)|null|
+|**2024-05-18**|**GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing**|Chengqing Yu et.al.|[2405.11333](http://arxiv.org/abs/2405.11333)|**[link](https://github.com/chengqingyu/ginar)**|
+|**2024-05-18**|**SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection**|Yingguang Yang et.al.|[2405.11225](http://arxiv.org/abs/2405.11225)|**[link](https://github.com/846468230/sebot)**|
+|**2024-05-17**|**GraSS: Combining Graph Neural Networks with Expert Knowledge for SAT Solver Selection**|Zhanguang Zhang et.al.|[2405.11024](http://arxiv.org/abs/2405.11024)|null|
+|**2024-05-16**|**Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation**|Guojun Liang et.al.|[2405.10995](http://arxiv.org/abs/2405.10995)|**[link](https://github.com/gorgen2020/hspgnn)**|
 |**2024-05-17**|**Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective**|Zhiwei Zhang et.al.|[2405.10757](http://arxiv.org/abs/2405.10757)|null|
 |**2024-05-17**|**Hi-GMAE: Hierarchical Graph Masked Autoencoders**|Chuang Liu et.al.|[2405.10642](http://arxiv.org/abs/2405.10642)|**[link](https://github.com/liuchuang0059/hi-gmae)**|
 |**2024-05-17**|**Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks**|Rongrong Ma et.al.|[2405.10633](http://arxiv.org/abs/2405.10633)|null|
