@@ -18,6 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**A Systematic and Formal Study of the Impact of Local Differential Privacy on Fairness: Preliminary Results**|Karima Makhlouf et.al.|[2405.14725](http://arxiv.org/abs/2405.14725)|null|
+|**2024-05-23**|**Efficient Algorithms for the Sensitivities of the Pearson Correlation Coefficient and Its Statistical Significance to Online Data**|Marc Harary et.al.|[2405.14686](http://arxiv.org/abs/2405.14686)|null|
+|**2024-05-23**|**Tighter Privacy Auditing of DP-SGD in the Hidden State Threat Model**|Tudor Cebere et.al.|[2405.14457](http://arxiv.org/abs/2405.14457)|null|
+|**2024-05-23**|**Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data**|Haoran Li et.al.|[2405.14212](http://arxiv.org/abs/2405.14212)|null|
+|**2024-05-23**|**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2405.14106](http://arxiv.org/abs/2405.14106)|null|
+|**2024-05-22**|**FLIPHAT: Joint Differential Privacy for High Dimensional Sparse Linear Bandits**|Sunrit Chakraborty et.al.|[2405.14038](http://arxiv.org/abs/2405.14038)|null|
+|**2024-05-22**|**Bayesian Inference Under Differential Privacy: Prior Selection Considerations with Application to Univariate Gaussian Data and Regression**|Zeki Kazan et.al.|[2405.13801](http://arxiv.org/abs/2405.13801)|null|
+|**2024-05-22**|**Banded Square Root Matrix Factorization for Differentially Private Model Training**|Nikita Kalinin et.al.|[2405.13763](http://arxiv.org/abs/2405.13763)|null|
+|**2024-05-22**|**Naturally Private Recommendations with Determinantal Point Processes**|Jack Fitzsimons et.al.|[2405.13677](http://arxiv.org/abs/2405.13677)|null|
+|**2024-05-22**|**Locally Private Estimation with Public Features**|Yuheng Ma et.al.|[2405.13481](http://arxiv.org/abs/2405.13481)|null|
+|**2024-05-22**|**A Huber Loss Minimization Approach to Mean Estimation under User-level Differential Privacy**|Puning Zhao et.al.|[2405.13453](http://arxiv.org/abs/2405.13453)|null|
+|**2024-05-22**|**Adaptive Data Analysis for Growing Data**|Neil G. Marchant et.al.|[2405.13375](http://arxiv.org/abs/2405.13375)|null|
 |**2024-05-21**|**Uncertainty quantification by block bootstrap for differentially private stochastic gradient descent**|Holger Dette et.al.|[2405.12553](http://arxiv.org/abs/2405.12553)|null|
 |**2024-05-20**|**Rate Optimality and Phase Transition for User-Level Local Differential Privacy**|Alexander Kent et.al.|[2405.11923](http://arxiv.org/abs/2405.11923)|null|
 |**2024-05-20**|**Decentralized Privacy Preservation for Critical Connections in Graphs**|Conggai Li et.al.|[2405.11713](http://arxiv.org/abs/2405.11713)|null|
@@ -401,6 +413,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Analysis of Atom-level pretraining with QM data for Graph Neural Networks Molecular property models**|Jose Arjona-Medina et.al.|[2405.14837](http://arxiv.org/abs/2405.14837)|null|
+|**2024-05-23**|**Development of a Gaussian Approximation Potential to Study Structure and Thermodynamics of Nickel Nanoclusters**|Suvo Banik et.al.|[2405.14683](http://arxiv.org/abs/2405.14683)|null|
+|**2024-05-23**|**Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats**|Veeti Ahvonen et.al.|[2405.14606](http://arxiv.org/abs/2405.14606)|null|
+|**2024-05-23**|**Gradient Transformation: Towards Efficient and Model-Agnostic Unlearning for Dynamic Graph Neural Networks**|He Zhang et.al.|[2405.14407](http://arxiv.org/abs/2405.14407)|null|
+|**2024-05-23**|**Explaining Graph Neural Networks via Structure-aware Interaction Index**|Ngoc Bui et.al.|[2405.14352](http://arxiv.org/abs/2405.14352)|null|
+|**2024-05-23**|**AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation**|Weigang Lu et.al.|[2405.14307](http://arxiv.org/abs/2405.14307)|null|
+|**2024-05-23**|**Similarity-Navigated Conformal Prediction for Graph Neural Networks**|Jianqing Song et.al.|[2405.14303](http://arxiv.org/abs/2405.14303)|null|
+|**2024-05-23**|**Graphcode: Learning from multiparameter persistent homology using graph neural networks**|Michael Kerber et.al.|[2405.14302](http://arxiv.org/abs/2405.14302)|null|
+|**2024-05-23**|**Graph Sparsification via Mixture of Graphs**|Guibin Zhang et.al.|[2405.14260](http://arxiv.org/abs/2405.14260)|null|
+|**2024-05-23**|**Automated Loss function Search for Class-imbalanced Node Classification**|Xinyu Guo et.al.|[2405.14133](http://arxiv.org/abs/2405.14133)|null|
+|**2024-05-22**|**DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs**|Xingtong Yu et.al.|[2405.13937](http://arxiv.org/abs/2405.13937)|null|
+|**2024-05-22**|**LOGIN: A Large Language Model Consulted Graph Neural Network Training Framework**|Yiran Qiao et.al.|[2405.13902](http://arxiv.org/abs/2405.13902)|null|
+|**2024-05-22**|**Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition**|Xinyi Gao et.al.|[2405.13707](http://arxiv.org/abs/2405.13707)|null|
+|**2024-05-22**|**GNN-based Anomaly Detection for Encoded Network Traffic**|Anasuya Chattopadhyay et.al.|[2405.13670](http://arxiv.org/abs/2405.13670)|null|
+|**2024-05-22**|**Bond Graphs for multi-physics informed Neural Networks for multi-variate time series**|Alexis-Raja Brachet et.al.|[2405.13586](http://arxiv.org/abs/2405.13586)|null|
+|**2024-05-22**|**Floor-Plan-aided Indoor Localization: Zero-Shot Learning Framework, Data Sets, and Prototype**|Haiyao Yu et.al.|[2405.13339](http://arxiv.org/abs/2405.13339)|null|
+|**2024-05-21**|**Enhancing Interaction Modeling with Agent Selection and Physical Methods for Trajectory Prediction**|Shiji Huang et.al.|[2405.13152](http://arxiv.org/abs/2405.13152)|null|
+|**2024-05-21**|**Cosmology from point clouds**|Atrideb Chatterjee et.al.|[2405.13119](http://arxiv.org/abs/2405.13119)|null|
+|**2024-05-21**|**Presentations are not always linear! GNN meets LLM for Document-to-Presentation Transformation with Attribution**|Himanshu Maheshwari et.al.|[2405.13095](http://arxiv.org/abs/2405.13095)|null|
 |**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868](http://arxiv.org/abs/2405.12868)|null|
 |**2024-05-21**|**Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654](http://arxiv.org/abs/2405.12654)|null|
 |**2024-05-21**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521](http://arxiv.org/abs/2405.12521)|null|
