@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580](http://arxiv.org/abs/2405.11580)|null|
 |**2024-05-19**|**Sketches-based join size estimation under local differential privacy**|Meifan Zhang et.al.|[2405.11419](http://arxiv.org/abs/2405.11419)|null|
 |**2024-05-18**|**Parsimonious Optimal Dynamic Partial Order Reduction**|Parosh Aziz Abdulla et.al.|[2405.11128](http://arxiv.org/abs/2405.11128)|null|
-|**2024-05-16**|**"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2405.10994](http://arxiv.org/abs/2405.10994)|null|
+|**2024-05-16**|**"What do you want from theory alone?" Experimenting with Tight Auditing of Differentially Private Synthetic Data Generation**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2405.10994](http://arxiv.org/abs/2405.10994)|**[link](https://github.com/spalabucr/synth-audit)**|
 |**2024-05-17**|**Differentially Private Machine Learning-powered Combinatorial Auction Design**|Arash Jamshidi et.al.|[2405.10622](http://arxiv.org/abs/2405.10622)|null|
 |**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096](http://arxiv.org/abs/2405.10096)|null|
 |**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|null|
@@ -407,7 +407,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -432,7 +432,7 @@
 |**2024-05-21**|**Enhancing Interaction Modeling with Agent Selection and Physical Methods for Trajectory Prediction**|Shiji Huang et.al.|[2405.13152](http://arxiv.org/abs/2405.13152)|null|
 |**2024-05-21**|**Cosmology from point clouds**|Atrideb Chatterjee et.al.|[2405.13119](http://arxiv.org/abs/2405.13119)|null|
 |**2024-05-21**|**Presentations are not always linear! GNN meets LLM for Document-to-Presentation Transformation with Attribution**|Himanshu Maheshwari et.al.|[2405.13095](http://arxiv.org/abs/2405.13095)|null|
-|**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868](http://arxiv.org/abs/2405.12868)|null|
+|**2024-05-21**|**Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics**|Liming Wu et.al.|[2405.12868](http://arxiv.org/abs/2405.12868)|**[link](https://github.com/ManlioWu/ESTAG)**|
 |**2024-05-21**|**Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654](http://arxiv.org/abs/2405.12654)|null|
 |**2024-05-21**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521](http://arxiv.org/abs/2405.12521)|null|
 |**2024-05-21**|**MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation**|Zhaoning Yu et.al.|[2405.12519](http://arxiv.org/abs/2405.12519)|null|
@@ -1373,7 +1373,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
