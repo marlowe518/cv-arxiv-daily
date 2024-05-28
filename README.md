@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Learning with User-Level Local Differential Privacy**|Puning Zhao et.al.|[2405.17079](http://arxiv.org/abs/2405.17079)|null|
+|**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|null|
+|**2024-05-25**|**LDPKiT: Recovering Utility in LDP Schemes by Training with Noise^2**|Kexin Li et.al.|[2405.16361](http://arxiv.org/abs/2405.16361)|null|
+|**2024-05-24**|**Scaling up the Banded Matrix Factorization Mechanism for Differentially Private ML**|Ryan McKenna et.al.|[2405.15913](http://arxiv.org/abs/2405.15913)|null|
 |**2024-05-24**|**Data Reconstruction: When You See It and When You Don't**|Edith Cohen et.al.|[2405.15753](http://arxiv.org/abs/2405.15753)|null|
 |**2024-05-24**|**Leakage-Resilient and Carbon-Neutral Aggregation Featuring the Federated AI-enabled Critical Infrastructure**|Zehang Deng et.al.|[2405.15258](http://arxiv.org/abs/2405.15258)|null|
 |**2024-05-24**|**Enhancing Learning with Label Differential Privacy by Vector Approximation**|Puning Zhao et.al.|[2405.15150](http://arxiv.org/abs/2405.15150)|null|
@@ -417,7 +421,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-27**|**Rethinking Independent Cross-Entropy Loss For Graph-Structured Data**|Rui Miao et.al.|[2405.15564](http://arxiv.org/abs/2405.15564)|null|
+|**2024-05-27**|**Spectral Greedy Coresets for Graph Neural Networks**|Mucong Ding et.al.|[2405.17404](http://arxiv.org/abs/2405.17404)|null|
+|**2024-05-27**|**Probabilistic Graph Rewiring via Virtual Nodes**|Chendi Qian et.al.|[2405.17311](http://arxiv.org/abs/2405.17311)|null|
+|**2024-05-27**|**Survey of Graph Neural Network for Internet of Things and NextG Networks**|Sabarish Krishna Moorthy et.al.|[2405.17309](http://arxiv.org/abs/2405.17309)|null|
+|**2024-05-27**|**R-ODE: Ricci Curvature Tells When You Will be Informed**|Li Sun et.al.|[2405.17282](http://arxiv.org/abs/2405.17282)|null|
+|**2024-05-27**|**Your decision path does matter in pre-training industrial recommenders with multi-source behaviors**|Chunjing Gan et.al.|[2405.17132](http://arxiv.org/abs/2405.17132)|null|
+|**2024-05-27**|**Graph Neural Networks on Quantum Computers**|Yidong Liao et.al.|[2405.17060](http://arxiv.org/abs/2405.17060)|null|
+|**2024-05-27**|**FUGNN: Harmonizing Fairness and Utility in Graph Neural Networks**|Renqiang Luo et.al.|[2405.17034](http://arxiv.org/abs/2405.17034)|null|
+|**2024-05-27**|**Graph Condensation for Open-World Graph Learning**|Xinyi Gao et.al.|[2405.17003](http://arxiv.org/abs/2405.17003)|null|
+|**2024-05-26**|**Graph neural networks with configuration cross-attention for tensor compilers**|Dmitrii Khizbullin et.al.|[2405.16623](http://arxiv.org/abs/2405.16623)|null|
+|**2024-05-26**|**Link Prediction on Textual Edge Graphs**|Chen Ling et.al.|[2405.16606](http://arxiv.org/abs/2405.16606)|null|
+|**2024-05-26**|**Integrating GNN and Neural ODEs for Estimating Two-Body Interactions in Mixed-Species Collective Motion**|Masahito Uwamichi et.al.|[2405.16503](http://arxiv.org/abs/2405.16503)|null|
+|**2024-05-26**|**Structure-aware Semantic Node Identifiers for Learning on Graphs**|Yuankai Luo et.al.|[2405.16435](http://arxiv.org/abs/2405.16435)|null|
+|**2024-05-26**|**Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level**|Runlin Lei et.al.|[2405.16405](http://arxiv.org/abs/2405.16405)|null|
+|**2024-05-25**|**GlycanML: A Multi-Task and Multi-Structure Benchmark for Glycan Machine Learning**|Minghao Xu et.al.|[2405.16206](http://arxiv.org/abs/2405.16206)|**[link](https://github.com/glycanml/glycanml)**|
+|**2024-05-25**|**Differentiable Cluster Graph Neural Network**|Yanfei Dong et.al.|[2405.16185](http://arxiv.org/abs/2405.16185)|null|
+|**2024-05-25**|**Graph Neural PDE Solvers with Conservation and Similarity-Equivariance**|Masanobu Horie et.al.|[2405.16183](http://arxiv.org/abs/2405.16183)|**[link](https://github.com/yellowshippo/fluxgnn-icml2024)**|
+|**2024-05-25**|**FedSheafHN: Personalized Federated Learning on Graph-structured Data**|Wenfei Liang et.al.|[2405.16056](http://arxiv.org/abs/2405.16056)|null|
+|**2024-05-27**|**Rethinking Independent Cross-Entropy Loss For Graph-Structured Data**|Rui Miao et.al.|[2405.15564](http://arxiv.org/abs/2405.15564)|**[link](https://github.com/mr9812/joint-cluster-supervised-learning)**|
 |**2024-05-24**|**Learning from Linear Algebra: A Graph Neural Network Approach to Preconditioner Design for Conjugate Gradient Solvers**|Vladislav Trifonov et.al.|[2405.15557](http://arxiv.org/abs/2405.15557)|null|
 |**2024-05-24**|**SATSense: Multi-Satellite Collaborative Framework for Spectrum Sensing**|Haoxuan Yuan et.al.|[2405.15542](http://arxiv.org/abs/2405.15542)|null|
 |**2024-05-24**|**E(n) Equivariant Topological Neural Networks**|Claudio Battiloro et.al.|[2405.15429](http://arxiv.org/abs/2405.15429)|null|
