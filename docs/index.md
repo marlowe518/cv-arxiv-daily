@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
+|**2024-05-27**|**P4: Towards private, personalized, and Peer-to-Peer learning**|Mohammad Mahdi Maheri et.al.|[2405.17697](http://arxiv.org/abs/2405.17697)|null|
+|**2024-05-27**|**Clip Body and Tail Separately: High Probability Guarantees for DPSGD with Heavy Tails**|Haichao Sha et.al.|[2405.17529](http://arxiv.org/abs/2405.17529)|null|
 |**2024-05-27**|**Learning with User-Level Local Differential Privacy**|Puning Zhao et.al.|[2405.17079](http://arxiv.org/abs/2405.17079)|null|
 |**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|null|
 |**2024-05-25**|**LDPKiT: Recovering Utility in LDP Schemes by Training with Noise^2**|Kexin Li et.al.|[2405.16361](http://arxiv.org/abs/2405.16361)|null|
@@ -415,6 +418,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Don't Forget to Connect! Improving RAG with Graph-based Reranking**|Jialin Dong et.al.|[2405.18414](http://arxiv.org/abs/2405.18414)|null|
+|**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260](http://arxiv.org/abs/2405.18260)|null|
+|**2024-05-28**|**Graph Coarsening with Message-Passing Guarantees**|Antonin Joly et.al.|[2405.18127](http://arxiv.org/abs/2405.18127)|null|
+|**2024-05-28**|**ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks**|Wanlin Cai et.al.|[2405.18036](http://arxiv.org/abs/2405.18036)|null|
+|**2024-05-28**|**Revisiting the Message Passing in Heterophilous Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.17768](http://arxiv.org/abs/2405.17768)|null|
+|**2024-05-28**|**Rethinking Pruning for Backdoor Mitigation: An Optimization Perspective**|Nan Li et.al.|[2405.17746](http://arxiv.org/abs/2405.17746)|null|
+|**2024-05-27**|**SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection**|Xiangyu Dong et.al.|[2405.17525](http://arxiv.org/abs/2405.17525)|null|
+|**2024-05-26**|**Enhancing Sustainable Urban Mobility Prediction with Telecom Data: A Spatio-Temporal Framework Approach**|ChungYi Lin et.al.|[2405.17507](http://arxiv.org/abs/2405.17507)|**[link](https://github.com/cy07gn/teltomob)**|
 |**2024-05-27**|**Spectral Greedy Coresets for Graph Neural Networks**|Mucong Ding et.al.|[2405.17404](http://arxiv.org/abs/2405.17404)|null|
 |**2024-05-27**|**Probabilistic Graph Rewiring via Virtual Nodes**|Chendi Qian et.al.|[2405.17311](http://arxiv.org/abs/2405.17311)|null|
 |**2024-05-27**|**Survey of Graph Neural Network for Internet of Things and NextG Networks**|Sabarish Krishna Moorthy et.al.|[2405.17309](http://arxiv.org/abs/2405.17309)|null|
