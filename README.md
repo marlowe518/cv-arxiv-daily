@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
+|**2024-05-29**|**Algorithmic Transparency and Participation through the Handoff Lens: Lessons Learned from the U.S. Census Bureau's Adoption of Differential Privacy**|Amina A. Abdu et.al.|[2405.19187](http://arxiv.org/abs/2405.19187)|null|
+|**2024-05-29**|**LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning (Large) Language Models**|Qin Yang et.al.|[2405.18776](http://arxiv.org/abs/2405.18776)|null|
+|**2024-05-29**|**Differentially-Private Distributed Model Predictive Control of Linear Discrete-Time Systems with Global Constraints**|Kaixiang Zhang et.al.|[2405.18690](http://arxiv.org/abs/2405.18690)|null|
+|**2024-05-29**|**Adapting Differentially Private Synthetic Data to Relational Databases**|Kaveh Alimohammadi et.al.|[2405.18670](http://arxiv.org/abs/2405.18670)|null|
 |**2024-05-29**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
 |**2024-05-27**|**P4: Towards private, personalized, and Peer-to-Peer learning**|Mohammad Mahdi Maheri et.al.|[2405.17697](http://arxiv.org/abs/2405.17697)|null|
 |**2024-05-27**|**Clip Body and Tail Separately: High Probability Guarantees for DPSGD with Heavy Tails**|Haichao Sha et.al.|[2405.17529](http://arxiv.org/abs/2405.17529)|null|
@@ -424,6 +429,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Valid Conformal Prediction for Dynamic GNNs**|Ed Davis et.al.|[2405.19230](http://arxiv.org/abs/2405.19230)|null|
+|**2024-05-29**|**Spatio-Spectral Graph Neural Networks**|Simon Geisler et.al.|[2405.19121](http://arxiv.org/abs/2405.19121)|null|
+|**2024-05-29**|**Can Graph Learning Improve Task Planning?**|Xixi Wu et.al.|[2405.19119](http://arxiv.org/abs/2405.19119)|null|
+|**2024-05-29**|**SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**|Lanting Fang et.al.|[2405.19062](http://arxiv.org/abs/2405.19062)|**[link](https://github.com/2024sig/sig)**|
+|**2024-05-29**|**Multiscale Spatio-Temporal Enhanced Short-term Load Forecasting of Electric Vehicle Charging Stations**|Zongbao Zhang et.al.|[2405.19053](http://arxiv.org/abs/2405.19053)|null|
+|**2024-05-29**|**CiliaGraph: Enabling Expression-enhanced Hyper-Dimensional Computation in Ultra-Lightweight and One-Shot Graph Classification on Edge**|Yuxi Han et.al.|[2405.19033](http://arxiv.org/abs/2405.19033)|null|
+|**2024-05-29**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhaoa et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
+|**2024-05-29**|**Inverse Design of Promising Alloys for Electrocatalytic CO $_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm**|Zhilong Song et.al.|[2405.18891](http://arxiv.org/abs/2405.18891)|null|
+|**2024-05-29**|**Spatiotemporal Forecasting Meets Efficiency: Causal Graph Process Neural Networks**|Aref Einizade et.al.|[2405.18879](http://arxiv.org/abs/2405.18879)|null|
+|**2024-05-29**|**Continuous Product Graph Neural Networks**|Aref Einizade et.al.|[2405.18877](http://arxiv.org/abs/2405.18877)|null|
+|**2024-05-29**|**Node Injection Attack Based on Label Propagation Against Graph Neural Network**|Peican Zhu et.al.|[2405.18824](http://arxiv.org/abs/2405.18824)|null|
+|**2024-05-29**|**DeepHGNN: Study of Graph Neural Network based Forecasting Methods for Hierarchically Related Multivariate Time Series**|Abishek Sriramulu et.al.|[2405.18693](http://arxiv.org/abs/2405.18693)|null|
+|**2024-05-28**|**D-CoRP: Differentiable Connectivity Refinement for Functional Brain Networks**|Haoyu Hu et.al.|[2405.18658](http://arxiv.org/abs/2405.18658)|null|
+|**2024-05-28**|**Unleashing the Potential of Text-attributed Graphs: Automatic Relation Decomposition via Large Language Models**|Hyunjin Seo et.al.|[2405.18581](http://arxiv.org/abs/2405.18581)|null|
+|**2024-05-28**|**Understanding Transformer Reasoning Capabilities via Graph Algorithms**|Clayton Sanford et.al.|[2405.18512](http://arxiv.org/abs/2405.18512)|null|
+|**2024-05-28**|**Injecting Hierarchical Biological Priors into Graph Neural Networks for Flow Cytometry Prediction**|Fatemeh Nassajian Mojarrad et.al.|[2405.18507](http://arxiv.org/abs/2405.18507)|null|
 |**2024-05-28**|**Don't Forget to Connect! Improving RAG with Graph-based Reranking**|Jialin Dong et.al.|[2405.18414](http://arxiv.org/abs/2405.18414)|null|
 |**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260](http://arxiv.org/abs/2405.18260)|null|
 |**2024-05-28**|**Graph Coarsening with Message-Passing Guarantees**|Antonin Joly et.al.|[2405.18127](http://arxiv.org/abs/2405.18127)|null|
