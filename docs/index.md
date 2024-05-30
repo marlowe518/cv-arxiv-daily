@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-28**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
+|**2024-05-29**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
 |**2024-05-27**|**P4: Towards private, personalized, and Peer-to-Peer learning**|Mohammad Mahdi Maheri et.al.|[2405.17697](http://arxiv.org/abs/2405.17697)|null|
 |**2024-05-27**|**Clip Body and Tail Separately: High Probability Guarantees for DPSGD with Heavy Tails**|Haichao Sha et.al.|[2405.17529](http://arxiv.org/abs/2405.17529)|null|
 |**2024-05-27**|**Learning with User-Level Local Differential Privacy**|Puning Zhao et.al.|[2405.17079](http://arxiv.org/abs/2405.17079)|null|
