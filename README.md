@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**|Zuyan Wang et.al.|[2405.20914](http://arxiv.org/abs/2405.20914)|null|
+|**2024-05-28**|**Universal Exact Compression of Differentially Private Mechanisms**|Yanxiao Liu et.al.|[2405.20782](http://arxiv.org/abs/2405.20782)|null|
+|**2024-05-27**|**Avoiding Pitfalls for Privacy Accounting of Subsampled Mechanisms under Composition**|Christian Janos Lebeda et.al.|[2405.20769](http://arxiv.org/abs/2405.20769)|null|
+|**2024-05-31**|**Federated Graph Analytics with Differential Privacy**|Shang Liu et.al.|[2405.20576](http://arxiv.org/abs/2405.20576)|null|
+|**2024-05-30**|**Differentially Private Boxplots**|Kelly Ramsay et.al.|[2405.20415](http://arxiv.org/abs/2405.20415)|null|
+|**2024-05-30**|**Private Mean Estimation with Person-Level Differential Privacy**|Sushant Agarwal et.al.|[2405.20405](http://arxiv.org/abs/2405.20405)|null|
 |**2024-05-30**|**Robust Kernel Hypothesis Testing under Data Corruption**|Antonin Schrab et.al.|[2405.19912](http://arxiv.org/abs/2405.19912)|**[link](https://github.com/antoninschrab/dckernel)**|
 |**2024-05-31**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831](http://arxiv.org/abs/2405.19831)|null|
 |**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
@@ -431,6 +437,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
+|**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
+|**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
+|**2024-05-31**|**Sign is Not a Remedy: Multiset-to-Multiset Message Passing for Learning on Heterophilic Graphs**|Langzhang Liang et.al.|[2405.20652](http://arxiv.org/abs/2405.20652)|null|
+|**2024-05-31**|**Heterophilous Distribution Propagation for Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.20640](http://arxiv.org/abs/2405.20640)|null|
+|**2024-05-31**|**Towards a General GNN Framework for Combinatorial Optimization**|Frederik Wenkel et.al.|[2405.20543](http://arxiv.org/abs/2405.20543)|null|
+|**2024-05-30**|**GraphAny: A Foundation Model for Node Classification on Any Graph**|Jianan Zhao et.al.|[2405.20445](http://arxiv.org/abs/2405.20445)|null|
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287](http://arxiv.org/abs/2405.20287)|**[link](https://github.com/mariabankestad/se2-gnn)**|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033](http://arxiv.org/abs/2405.20033)|null|
