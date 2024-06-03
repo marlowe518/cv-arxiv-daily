@@ -7,22 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-30**|**Robust Kernel Hypothesis Testing under Data Corruption**|Antonin Schrab et.al.|[2405.19912](http://arxiv.org/abs/2405.19912)|null|
-|**2024-05-30**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831](http://arxiv.org/abs/2405.19831)|null|
+|**2024-05-30**|**Robust Kernel Hypothesis Testing under Data Corruption**|Antonin Schrab et.al.|[2405.19912](http://arxiv.org/abs/2405.19912)|**[link](https://github.com/antoninschrab/dckernel)**|
+|**2024-05-31**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831](http://arxiv.org/abs/2405.19831)|null|
 |**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
 |**2024-05-29**|**Algorithmic Transparency and Participation through the Handoff Lens: Lessons Learned from the U.S. Census Bureau's Adoption of Differential Privacy**|Amina A. Abdu et.al.|[2405.19187](http://arxiv.org/abs/2405.19187)|null|
 |**2024-05-29**|**LMO-DP: Optimizing the Randomization Mechanism for Differentially Private Fine-Tuning (Large) Language Models**|Qin Yang et.al.|[2405.18776](http://arxiv.org/abs/2405.18776)|null|
 |**2024-05-29**|**Differentially-Private Distributed Model Predictive Control of Linear Discrete-Time Systems with Global Constraints**|Kaixiang Zhang et.al.|[2405.18690](http://arxiv.org/abs/2405.18690)|null|
 |**2024-05-29**|**Adapting Differentially Private Synthetic Data to Relational Databases**|Kaveh Alimohammadi et.al.|[2405.18670](http://arxiv.org/abs/2405.18670)|null|
 |**2024-05-29**|**Delving into Differentially Private Transformer**|Youlong Ding et.al.|[2405.18194](http://arxiv.org/abs/2405.18194)|null|
-|**2024-05-27**|**P4: Towards private, personalized, and Peer-to-Peer learning**|Mohammad Mahdi Maheri et.al.|[2405.17697](http://arxiv.org/abs/2405.17697)|null|
+|**2024-05-31**|**P4: Towards private, personalized, and Peer-to-Peer learning**|Mohammad Mahdi Maheri et.al.|[2405.17697](http://arxiv.org/abs/2405.17697)|null|
 |**2024-05-27**|**Clip Body and Tail Separately: High Probability Guarantees for DPSGD with Heavy Tails**|Haichao Sha et.al.|[2405.17529](http://arxiv.org/abs/2405.17529)|null|
 |**2024-05-27**|**Learning with User-Level Local Differential Privacy**|Puning Zhao et.al.|[2405.17079](http://arxiv.org/abs/2405.17079)|null|
 |**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|null|
@@ -31,9 +31,9 @@ layout: default
 |**2024-05-24**|**Data Reconstruction: When You See It and When You Don't**|Edith Cohen et.al.|[2405.15753](http://arxiv.org/abs/2405.15753)|null|
 |**2024-05-24**|**Leakage-Resilient and Carbon-Neutral Aggregation Featuring the Federated AI-enabled Critical Infrastructure**|Zehang Deng et.al.|[2405.15258](http://arxiv.org/abs/2405.15258)|null|
 |**2024-05-24**|**Enhancing Learning with Label Differential Privacy by Vector Approximation**|Puning Zhao et.al.|[2405.15150](http://arxiv.org/abs/2405.15150)|null|
-|**2024-05-23**|**Private Regression via Data-Dependent Sufficient Statistic Perturbation**|Cecilia Ferrando et.al.|[2405.15002](http://arxiv.org/abs/2405.15002)|null|
+|**2024-05-23**|**Private Regression via Data-Dependent Sufficient Statistic Perturbation**|Cecilia Ferrando et.al.|[2405.15002](http://arxiv.org/abs/2405.15002)|**[link](https://github.com/ceciliaferrando/DD-SSP)**|
 |**2024-05-23**|**A Systematic and Formal Study of the Impact of Local Differential Privacy on Fairness: Preliminary Results**|Karima Makhlouf et.al.|[2405.14725](http://arxiv.org/abs/2405.14725)|null|
-|**2024-05-26**|**Efficient Algorithms for the Sensitivities of the Pearson Correlation Coefficient and Its Statistical Significance to Online Data**|Marc Harary et.al.|[2405.14686](http://arxiv.org/abs/2405.14686)|null|
+|**2024-05-26**|**Efficient Algorithms for the Sensitivities of the Pearson Correlation Coefficient and Its Statistical Significance to Online Data**|Marc Harary et.al.|[2405.14686](http://arxiv.org/abs/2405.14686)|**[link](https://github.com/marc-harary/sensitivity)**|
 |**2024-05-23**|**Tighter Privacy Auditing of DP-SGD in the Hidden State Threat Model**|Tudor Cebere et.al.|[2405.14457](http://arxiv.org/abs/2405.14457)|null|
 |**2024-05-23**|**Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data**|Haoran Li et.al.|[2405.14212](http://arxiv.org/abs/2405.14212)|null|
 |**2024-05-23**|**Nearly Tight Black-Box Auditing of Differentially Private Machine Learning**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2405.14106](http://arxiv.org/abs/2405.14106)|null|
@@ -428,19 +428,19 @@ layout: default
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287](http://arxiv.org/abs/2405.20287)|**[link](https://github.com/mariabankestad/se2-gnn)**|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033](http://arxiv.org/abs/2405.20033)|null|
-|**2024-05-30**|**FlexiDrop: Theoretical Insights and Practical Advances in Random Dropout Method on GNNs**|Zhiheng Zhou et.al.|[2405.20012](http://arxiv.org/abs/2405.20012)|null|
+|**2024-05-30**|**FlexiDrop: Theoretical Insights and Practical Advances in Random Dropout Method on GNNs**|Zhiheng Zhou et.al.|[2405.20012](http://arxiv.org/abs/2405.20012)|**[link](https://github.com/Amihua/Flexi-Drop)**|
 |**2024-05-30**|**Combining physics-informed graph neural network and finite difference for solving forward and inverse spatiotemporal PDEs**|Hao Zhang et.al.|[2405.20000](http://arxiv.org/abs/2405.20000)|null|
 |**2024-05-30**|**Learning Latent Graph Structures and their Uncertainty**|Alessandro Manenti et.al.|[2405.19933](http://arxiv.org/abs/2405.19933)|null|
 |**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799](http://arxiv.org/abs/2405.19799)|null|
 |**2024-05-30**|**Few-shot fault diagnosis based on multi-scale graph convolution filtering for industry**|Mengjie Gan et.al.|[2405.19642](http://arxiv.org/abs/2405.19642)|null|
-|**2024-05-29**|**Network Analytics for Anti-Money Laundering -- A Systematic Literature Review and Experimental Evaluation**|Bruno Deprez et.al.|[2405.19383](http://arxiv.org/abs/2405.19383)|**[link](https://github.com/B-Deprez/AML_Network)**|
-|**2024-05-29**|**Valid Conformal Prediction for Dynamic GNNs**|Ed Davis et.al.|[2405.19230](http://arxiv.org/abs/2405.19230)|null|
+|**2024-05-31**|**Network Analytics for Anti-Money Laundering -- A Systematic Literature Review and Experimental Evaluation**|Bruno Deprez et.al.|[2405.19383](http://arxiv.org/abs/2405.19383)|**[link](https://github.com/B-Deprez/AML_Network)**|
+|**2024-05-29**|**Valid Conformal Prediction for Dynamic GNNs**|Ed Davis et.al.|[2405.19230](http://arxiv.org/abs/2405.19230)|**[link](https://github.com/edwarddavis1/valid_conformal_for_dynamic_gnn)**|
 |**2024-05-29**|**Spatio-Spectral Graph Neural Networks**|Simon Geisler et.al.|[2405.19121](http://arxiv.org/abs/2405.19121)|null|
 |**2024-05-29**|**Can Graph Learning Improve Task Planning?**|Xixi Wu et.al.|[2405.19119](http://arxiv.org/abs/2405.19119)|null|
 |**2024-05-29**|**SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**|Lanting Fang et.al.|[2405.19062](http://arxiv.org/abs/2405.19062)|**[link](https://github.com/2024sig/sig)**|
 |**2024-05-29**|**Multiscale Spatio-Temporal Enhanced Short-term Load Forecasting of Electric Vehicle Charging Stations**|Zongbao Zhang et.al.|[2405.19053](http://arxiv.org/abs/2405.19053)|null|
 |**2024-05-29**|**CiliaGraph: Enabling Expression-enhanced Hyper-Dimensional Computation in Ultra-Lightweight and One-Shot Graph Classification on Edge**|Yuxi Han et.al.|[2405.19033](http://arxiv.org/abs/2405.19033)|null|
-|**2024-05-29**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhaoa et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
+|**2024-05-31**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhao et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
 |**2024-05-29**|**Inverse Design of Promising Alloys for Electrocatalytic CO $_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm**|Zhilong Song et.al.|[2405.18891](http://arxiv.org/abs/2405.18891)|null|
 |**2024-05-29**|**Spatiotemporal Forecasting Meets Efficiency: Causal Graph Process Neural Networks**|Aref Einizade et.al.|[2405.18879](http://arxiv.org/abs/2405.18879)|null|
 |**2024-05-29**|**Continuous Product Graph Neural Networks**|Aref Einizade et.al.|[2405.18877](http://arxiv.org/abs/2405.18877)|null|
