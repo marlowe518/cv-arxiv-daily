@@ -431,20 +431,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-31**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
+|**2024-06-03**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
 |**2024-05-31**|**Sign is Not a Remedy: Multiset-to-Multiset Message Passing for Learning on Heterophilic Graphs**|Langzhang Liang et.al.|[2405.20652](http://arxiv.org/abs/2405.20652)|null|
 |**2024-05-31**|**Heterophilous Distribution Propagation for Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.20640](http://arxiv.org/abs/2405.20640)|null|
 |**2024-05-31**|**Towards a General GNN Framework for Combinatorial Optimization**|Frederik Wenkel et.al.|[2405.20543](http://arxiv.org/abs/2405.20543)|null|
-|**2024-05-30**|**GraphAny: A Foundation Model for Node Classification on Any Graph**|Jianan Zhao et.al.|[2405.20445](http://arxiv.org/abs/2405.20445)|null|
+|**2024-06-03**|**GraphAny: A Foundation Model for Node Classification on Any Graph**|Jianan Zhao et.al.|[2405.20445](http://arxiv.org/abs/2405.20445)|**[link](https://github.com/deepgraphlearning/graphany)**|
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287](http://arxiv.org/abs/2405.20287)|**[link](https://github.com/mariabankestad/se2-gnn)**|
 |**2024-05-30**|**GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning**|Costas Mavromatis et.al.|[2405.20139](http://arxiv.org/abs/2405.20139)|null|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033](http://arxiv.org/abs/2405.20033)|null|
 |**2024-05-30**|**FlexiDrop: Theoretical Insights and Practical Advances in Random Dropout Method on GNNs**|Zhiheng Zhou et.al.|[2405.20012](http://arxiv.org/abs/2405.20012)|**[link](https://github.com/Amihua/Flexi-Drop)**|
 |**2024-05-30**|**Combining physics-informed graph neural network and finite difference for solving forward and inverse spatiotemporal PDEs**|Hao Zhang et.al.|[2405.20000](http://arxiv.org/abs/2405.20000)|null|
 |**2024-05-30**|**Learning Latent Graph Structures and their Uncertainty**|Alessandro Manenti et.al.|[2405.19933](http://arxiv.org/abs/2405.19933)|null|
-|**2024-05-30**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799](http://arxiv.org/abs/2405.19799)|null|
+|**2024-06-03**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799](http://arxiv.org/abs/2405.19799)|**[link](https://github.com/jeff-sue/urt)**|
 |**2024-05-30**|**Few-shot fault diagnosis based on multi-scale graph convolution filtering for industry**|Mengjie Gan et.al.|[2405.19642](http://arxiv.org/abs/2405.19642)|null|
 |**2024-05-31**|**Network Analytics for Anti-Money Laundering -- A Systematic Literature Review and Experimental Evaluation**|Bruno Deprez et.al.|[2405.19383](http://arxiv.org/abs/2405.19383)|**[link](https://github.com/B-Deprez/AML_Network)**|
 |**2024-05-29**|**Valid Conformal Prediction for Dynamic GNNs**|Ed Davis et.al.|[2405.19230](http://arxiv.org/abs/2405.19230)|**[link](https://github.com/edwarddavis1/valid_conformal_for_dynamic_gnn)**|
