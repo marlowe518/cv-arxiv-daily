@@ -18,6 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Singular Subspace Perturbation Bounds via Rectangular Random Matrix Diffusions**|Peiyao Lai et.al.|[2406.02502](http://arxiv.org/abs/2406.02502)|null|
+|**2024-06-04**|**Click Without Compromise: Online Advertising Measurement via Per User Differential Privacy**|Yingtai Xiao et.al.|[2406.02463](http://arxiv.org/abs/2406.02463)|null|
+|**2024-06-04**|**Contextual Dynamic Pricing: Algorithms, Optimality, and Local Differential Privacy Constraints**|Zifeng Zhao et.al.|[2406.02424](http://arxiv.org/abs/2406.02424)|null|
+|**2024-06-04**|**Almost linear time differentially private release of synthetic graphs**|Jingcheng Liu et.al.|[2406.02156](http://arxiv.org/abs/2406.02156)|null|
+|**2024-06-04**|**Optimality of Matrix Mechanism on $\ell_p^p$ -metric**|Jingcheng Liu et.al.|[2406.02140](http://arxiv.org/abs/2406.02140)|null|
+|**2024-06-04**|**Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**|Priyanka Nanayakkara et.al.|[2406.01964](http://arxiv.org/abs/2406.01964)|null|
+|**2024-06-03**|**A Game-Theoretic Approach to Privacy-Utility Tradeoff in Sharing Genomic Summary Statistics**|Tao Zhang et.al.|[2406.01811](http://arxiv.org/abs/2406.01811)|null|
+|**2024-06-03**|**Differentially Private Tabular Data Synthesis using Large Language Models**|Toan V. Tran et.al.|[2406.01457](http://arxiv.org/abs/2406.01457)|null|
+|**2024-06-03**|**Differentially Private Fine-Tuning of Diffusion Models**|Yu-Lin Tsai et.al.|[2406.01355](http://arxiv.org/abs/2406.01355)|null|
+|**2024-06-03**|**Profile Reconstruction from Private Sketches**|Hao Wu et.al.|[2406.01158](http://arxiv.org/abs/2406.01158)|null|
+|**2024-06-03**|**Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients**|Weijun Li et.al.|[2406.00999](http://arxiv.org/abs/2406.00999)|null|
+|**2024-06-01**|**Over-the-Air Collaborative Inference with Feature Differential Privacy**|Mohamed Seif et.al.|[2406.00256](http://arxiv.org/abs/2406.00256)|null|
 |**2024-05-31**|**RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**|Zuyan Wang et.al.|[2405.20914](http://arxiv.org/abs/2405.20914)|null|
 |**2024-05-28**|**Universal Exact Compression of Differentially Private Mechanisms**|Yanxiao Liu et.al.|[2405.20782](http://arxiv.org/abs/2405.20782)|null|
 |**2024-05-27**|**Avoiding Pitfalls for Privacy Accounting of Subsampled Mechanisms under Composition**|Christian Janos Lebeda et.al.|[2405.20769](http://arxiv.org/abs/2405.20769)|null|
@@ -437,6 +449,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
+|**2024-06-04**|**Temporal Graph Rewiring with Expander Graphs**|Katarina Petrović et.al.|[2406.02362](http://arxiv.org/abs/2406.02362)|**[link](https://github.com/kpetrovicc/tgr)**|
+|**2024-06-04**|**AMOSL: Adaptive Modality-wise Structure Learning in Multi-view Graph Neural Networks For Enhanced Unified Representation**|Peiyu Liang et.al.|[2406.02348](http://arxiv.org/abs/2406.02348)|null|
+|**2024-06-04**|**Graph Neural Networks Do Not Always Oversmooth**|Bastian Epping et.al.|[2406.02269](http://arxiv.org/abs/2406.02269)|null|
+|**2024-06-04**|**DFA-GNN: Forward Learning of Graph Neural Networks by Direct Feedback Alignment**|Gongpei Zhao et.al.|[2406.02040](http://arxiv.org/abs/2406.02040)|null|
+|**2024-06-04**|**Bayesian Mesh Optimization for Graph Neural Networks to Enhance Engineering Performance Prediction**|Jangseop Park et.al.|[2406.01996](http://arxiv.org/abs/2406.01996)|null|
+|**2024-06-04**|**PDHG-Unrolled Learning-to-Optimize Method for Large-Scale Linear Programming**|Bingheng Li et.al.|[2406.01908](http://arxiv.org/abs/2406.01908)|null|
+|**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
+|**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
+|**2024-06-03**|**The Intelligible and Effective Graph Neural Additive Networks**|Maya Bechler-Speicher et.al.|[2406.01317](http://arxiv.org/abs/2406.01317)|null|
+|**2024-06-03**|**Continuous Geometry-Aware Graph Diffusion via Hyperbolic Neural PDE**|Jiaxu Liu et.al.|[2406.01282](http://arxiv.org/abs/2406.01282)|null|
+|**2024-06-03**|**Equivariant Machine Learning on Graphs with Nonlinear Spectral Filters**|Ya-Wei Eileen Lin et.al.|[2406.01249](http://arxiv.org/abs/2406.01249)|null|
+|**2024-06-03**|**Explore then Determine: A GNN-LLM Synergy Framework for Reasoning over Knowledge Graph**|Guangyi Liu et.al.|[2406.01145](http://arxiv.org/abs/2406.01145)|null|
+|**2024-06-03**|**Topology-Aware Dynamic Reweighting for Distribution Shifts on Graph**|Weihuang Zheng et.al.|[2406.01066](http://arxiv.org/abs/2406.01066)|null|
+|**2024-06-03**|**LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning**|Junjie Xu et.al.|[2406.01032](http://arxiv.org/abs/2406.01032)|null|
+|**2024-06-03**|**ADE-HGNN: Accelerating HGNNs through Attention Disparity Exploitation**|Dengke Han et.al.|[2406.00988](http://arxiv.org/abs/2406.00988)|null|
+|**2024-06-02**|**Graph Neural Preconditioners for Iterative Solutions of Sparse Linear Systems**|Jie Chen et.al.|[2406.00809](http://arxiv.org/abs/2406.00809)|null|
+|**2024-06-02**|**IENE: Identifying and Extrapolating the Node Environment for Out-of-Distribution Generalization on Graphs**|Haoran Yang et.al.|[2406.00764](http://arxiv.org/abs/2406.00764)|null|
+|**2024-06-02**|**Explore Internal and External Similarity for Single Image Deraining with Graph Neural Networks**|Cong Wang et.al.|[2406.00721](http://arxiv.org/abs/2406.00721)|**[link](https://github.com/supersupercong/msgnn)**|
+|**2024-06-01**|**Graph Neural Network Training Systems: A Performance Comparison of Full-Graph and Mini-Batch**|Saurabh Bajaj et.al.|[2406.00552](http://arxiv.org/abs/2406.00552)|null|
 |**2024-06-03**|**Graph External Attention Enhanced Transformer**|Jianqing Liang et.al.|[2405.21061](http://arxiv.org/abs/2405.21061)|**[link](https://github.com/icm1018/geaet)**|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
