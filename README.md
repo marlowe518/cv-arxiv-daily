@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766](http://arxiv.org/abs/2406.03766)|**[link](https://github.com/rajarshisaha95/private-collaborative-relaying)**|
 |**2024-06-06**|**NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human**|Shuo Huang et.al.|[2406.03749](http://arxiv.org/abs/2406.03749)|null|
 |**2024-06-05**|**Private Online Learning via Lazy Algorithms**|Hilal Asi et.al.|[2406.03620](http://arxiv.org/abs/2406.03620)|null|
-|**2024-06-05**|**Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning**|Saber Malekmohammadi et.al.|[2406.03519](http://arxiv.org/abs/2406.03519)|null|
+|**2024-06-05**|**Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning**|Saber Malekmohammadi et.al.|[2406.03519](http://arxiv.org/abs/2406.03519)|**[link](https://github.com/Saber-mm/HDPFL)**|
 |**2024-06-04**|**ST-DPGAN: A Privacy-preserving Framework for Spatiotemporal Data Generation**|Wei Shao et.al.|[2406.03404](http://arxiv.org/abs/2406.03404)|null|
 |**2024-06-05**|**PrE-Text: Training Language Models on Private Federated Data in the Age of LLMs**|Charlie Hou et.al.|[2406.02958](http://arxiv.org/abs/2406.02958)|**[link](https://github.com/houcharlie/pre-text)**|
 |**2024-06-04**|**Auditing Privacy Mechanisms via Label Inference Attacks**|Róbert István Busa-Fekete et.al.|[2406.02797](http://arxiv.org/abs/2406.02797)|null|
@@ -458,16 +458,16 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267](http://arxiv.org/abs/2406.04267)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043](http://arxiv.org/abs/2406.04043)|null|
 |**2024-06-06**|**Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks**|Duanyu Li et.al.|[2406.03833](http://arxiv.org/abs/2406.03833)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
@@ -476,9 +476,9 @@
 |**2024-06-05**|**Equivariant Graph Neural Networks for Prediction of Tensor Material Properties of Crystals**|Alex Heilman et.al.|[2406.03563](http://arxiv.org/abs/2406.03563)|null|
 |**2024-06-05**|**Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach**|Haoyu Han et.al.|[2406.03464](http://arxiv.org/abs/2406.03464)|null|
 |**2024-06-05**|**Learning Long Range Dependencies on Graphs via Random Walks**|Dexiong Chen et.al.|[2406.03386](http://arxiv.org/abs/2406.03386)|**[link](https://github.com/borgwardtlab/neuralwalker)**|
-|**2024-06-05**|**Using GNN property predictors as molecule generators**|Félix Therrien et.al.|[2406.03278](http://arxiv.org/abs/2406.03278)|null|
+|**2024-06-05**|**Using GNN property predictors as molecule generators**|Félix Therrien et.al.|[2406.03278](http://arxiv.org/abs/2406.03278)|**[link](https://github.com/ftherrien/inv-design)**|
 |**2024-06-06**|**Generating Explanations for Cellular Neural Networks**|Akshit Sinha et.al.|[2406.03253](http://arxiv.org/abs/2406.03253)|null|
-|**2024-06-05**|**Graph Neural Network Explanations are Fragile**|Jiate Li et.al.|[2406.03193](http://arxiv.org/abs/2406.03193)|null|
+|**2024-06-05**|**Graph Neural Network Explanations are Fragile**|Jiate Li et.al.|[2406.03193](http://arxiv.org/abs/2406.03193)|**[link](https://github.com/JetRichardLee/Attack-XGNN)**|
 |**2024-06-05**|**Topological Neural Networks go Persistent, Equivariant, and Continuous**|Yogesh Verma et.al.|[2406.03164](http://arxiv.org/abs/2406.03164)|null|
 |**2024-06-05**|**Aligning Transformers with Weisfeiler-Leman**|Luis Müller et.al.|[2406.03148](http://arxiv.org/abs/2406.03148)|**[link](https://github.com/luis-mueller/wl-transformers)**|
 |**2024-06-06**|**E(n) Equivariant Message Passing Cellular Networks**|Veljko Kovač et.al.|[2406.03145](http://arxiv.org/abs/2406.03145)|null|
@@ -1540,7 +1540,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
