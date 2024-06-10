@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Concept Drift Detection using Ensemble of Integrally Private Models**|Ayush K. Varshney et.al.|[2406.04903](http://arxiv.org/abs/2406.04903)|**[link](https://github.com/ayush-umu/concept-drift-detection-using-integrally-private-models)**|
+|**2024-06-07**|**Perturb-and-Project: Differentially Private Similarities and Marginals**|Vincent Cohen-Addad et.al.|[2406.04868](http://arxiv.org/abs/2406.04868)|null|
+|**2024-06-07**|**Black Box Differential Privacy Auditing Using Total Variation Distance**|Antti Koskela et.al.|[2406.04827](http://arxiv.org/abs/2406.04827)|null|
+|**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
+|**2024-06-07**|**Contrastive explainable clustering with differential privacy**|Dung Nguyen et.al.|[2406.04610](http://arxiv.org/abs/2406.04610)|null|
+|**2024-06-06**|**Tangent differential privacy**|Lexing Ying et.al.|[2406.04535](http://arxiv.org/abs/2406.04535)|null|
+|**2024-06-06**|**Bayesian Methods to Improve The Accuracy of Differentially Private Measurements of Constrained Parameters**|Ryan Janicki et.al.|[2406.04448](http://arxiv.org/abs/2406.04448)|null|
 |**2024-06-06**|**Continual Counting with Gradual Privacy Expiration**|Joel Daniel Andersson et.al.|[2406.03802](http://arxiv.org/abs/2406.03802)|null|
 |**2024-06-06**|**Count-mean Sketch as an Optimized Framework for Frequency Estimation with Local Differential Privacy**|Mingen Pan et.al.|[2406.03785](http://arxiv.org/abs/2406.03785)|null|
 |**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766](http://arxiv.org/abs/2406.03766)|**[link](https://github.com/rajarshisaha95/private-collaborative-relaying)**|
@@ -458,6 +465,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041](http://arxiv.org/abs/2406.05041)|null|
+|**2024-06-07**|**SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training**|Xizhi Gu et.al.|[2406.04938](http://arxiv.org/abs/2406.04938)|**[link](https://github.com/guxizhi/spangnn)**|
+|**2024-06-07**|**QAGCF: Graph Collaborative Filtering for Q&A Recommendation**|Changshuo Zhang et.al.|[2406.04828](http://arxiv.org/abs/2406.04828)|null|
+|**2024-06-07**|**Graph Mining under Data scarcity**|Appan Rakaraddi et.al.|[2406.04825](http://arxiv.org/abs/2406.04825)|null|
+|**2024-06-07**|**GENIE: Watermarking Graph Neural Networks for Link Prediction**|Venkata Sai Pranav Bachina et.al.|[2406.04805](http://arxiv.org/abs/2406.04805)|null|
+|**2024-06-07**|**Mobile Network Configuration Recommendation using Deep Generative Graph Neural Network**|Shirwan Piroti et.al.|[2406.04779](http://arxiv.org/abs/2406.04779)|null|
+|**2024-06-07**|**Probabilistic Weather Forecasting with Hierarchical Graph Neural Networks**|Joel Oskarsson et.al.|[2406.04759](http://arxiv.org/abs/2406.04759)|**[link](https://github.com/mllam/neural-lam)**|
+|**2024-06-07**|**Enhancing Size Generalization in Graph Neural Networks through Disentangled Representation Learning**|Zheng Huang et.al.|[2406.04601](http://arxiv.org/abs/2406.04601)|**[link](https://github.com/graphminddartmouth/disgen)**|
+|**2024-06-06**|**GNNAnatomy: Systematic Generation and Evaluation of Multi-Level Explanations for Graph Neural Networks**|Hsiao-Ying Lu et.al.|[2406.04548](http://arxiv.org/abs/2406.04548)|null|
+|**2024-06-06**|**Learning Optimal Linear Precoding for Cell-Free Massive MIMO with GNN**|Benjamin Parlier et.al.|[2406.04456](http://arxiv.org/abs/2406.04456)|null|
+|**2024-06-05**|**Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images**|Ruiwen Ding et.al.|[2406.04377](http://arxiv.org/abs/2406.04377)|null|
 |**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-07**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267](http://arxiv.org/abs/2406.04267)|null|
