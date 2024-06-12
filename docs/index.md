@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Private Geometric Median**|Mahdi Haghifam et.al.|[2406.07407](http://arxiv.org/abs/2406.07407)|null|
+|**2024-06-10**|**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints**|T. Tony Cai et.al.|[2406.06755](http://arxiv.org/abs/2406.06755)|null|
+|**2024-06-10**|**Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests**|T. Tony Cai et.al.|[2406.06749](http://arxiv.org/abs/2406.06749)|null|
 |**2024-06-10**|**Differentially Private Best-Arm Identification**|Achraf Azize et.al.|[2406.06408](http://arxiv.org/abs/2406.06408)|**[link](https://github.com/achraf-azize/DP-BAI)**|
 |**2024-06-10**|**Statistical Inference for Privatized Data with Unknown Sample Size**|Jordan Awan et.al.|[2406.06231](http://arxiv.org/abs/2406.06231)|null|
 |**2024-06-09**|**Comments on "Federated Learning with Differential Privacy: Algorithms and Performance Analysis"**|Mahtab Talaei et.al.|[2406.05858](http://arxiv.org/abs/2406.05858)|null|
@@ -470,6 +473,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
+|**2024-06-11**|**Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective**|De Li et.al.|[2406.07314](http://arxiv.org/abs/2406.07314)|null|
+|**2024-06-11**|**Logical Distillation of Graph Neural Networks**|Alexander Pluska et.al.|[2406.07126](http://arxiv.org/abs/2406.07126)|**[link](https://github.com/lexpk/logicaldistillationofgnns)**|
+|**2024-06-11**|**CHARME: A chain-based reinforcement learning approach for the minor embedding problem**|Hoang M. Ngo et.al.|[2406.07124](http://arxiv.org/abs/2406.07124)|null|
+|**2024-06-11**|**On the Hölder Stability of Multiset and Graph Neural Networks**|Yair Davidson et.al.|[2406.06984](http://arxiv.org/abs/2406.06984)|null|
+|**2024-06-11**|**Non-autoregressive Personalized Bundle Generation**|Wenchuan Yang et.al.|[2406.06925](http://arxiv.org/abs/2406.06925)|null|
+|**2024-06-08**|**Transfer Entropy in Graph Convolutional Neural Networks**|Adrian Moldovan et.al.|[2406.06632](http://arxiv.org/abs/2406.06632)|null|
 |**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434](http://arxiv.org/abs/2406.06434)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417](http://arxiv.org/abs/2406.06417)|null|
 |**2024-06-10**|**Learning Physical Simulation with Message Passing Transformer**|Zeyi Xu et.al.|[2406.06060](http://arxiv.org/abs/2406.06060)|null|
@@ -480,7 +490,7 @@ layout: default
 |**2024-06-09**|**Distributed Combinatorial Optimization of Downlink User Assignment in mmWave Cell-free Massive MIMO Using Graph Neural Networks**|Bile Peng et.al.|[2406.05652](http://arxiv.org/abs/2406.05652)|null|
 |**2024-06-09**|**What is my quantum computer good for? Quantum capability learning with physics-aware neural networks**|Daniel Hothem et.al.|[2406.05636](http://arxiv.org/abs/2406.05636)|null|
 |**2024-06-08**|**Prioritizing Potential Wetland Areas via Region-to-Region Knowledge Transfer and Adaptive Propagation**|Yoonhyuk Choi et.al.|[2406.05578](http://arxiv.org/abs/2406.05578)|null|
-|**2024-06-11**|**Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks**|Yurui Lai et.al.|[2406.05482](http://arxiv.org/abs/2406.05482)|null|
+|**2024-06-11**|**Efficient Topology-aware Data Augmentation for High-Degree Graph Neural Networks**|Yurui Lai et.al.|[2406.05482](http://arxiv.org/abs/2406.05482)|**[link](https://github.com/hkbu-lagas/tada)**|
 |**2024-06-07**|**A Manifold Perspective on the Statistical Generalization of Graph Neural Networks**|Zhiyang Wang et.al.|[2406.05225](http://arxiv.org/abs/2406.05225)|null|
 |**2024-06-07**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041](http://arxiv.org/abs/2406.05041)|null|
 |**2024-06-07**|**SpanGNN: Towards Memory-Efficient Graph Neural Networks via Spanning Subgraph Training**|Xizhi Gu et.al.|[2406.04938](http://arxiv.org/abs/2406.04938)|**[link](https://github.com/guxizhi/spangnn)**|
