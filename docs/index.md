@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
+|**2024-06-17**|**Private Approximate Query over Horizontal Data Federation**|Ala Eddine Laouir et.al.|[2406.11421](http://arxiv.org/abs/2406.11421)|null|
+|**2024-06-17**|**Transparency, Privacy, and Fairness in Recommender Systems**|Dominik Kowald et.al.|[2406.11323](http://arxiv.org/abs/2406.11323)|null|
+|**2024-06-17**|**Retraining with Predicted Hard Labels Provably Increases Model Accuracy**|Rudrajit Das et.al.|[2406.11206](http://arxiv.org/abs/2406.11206)|null|
+|**2024-06-16**|**MemDPT: Differential Privacy for Memory Efficient Language Models**|Yanming Liu et.al.|[2406.11087](http://arxiv.org/abs/2406.11087)|null|
+|**2024-06-15**|**Privacy-Preserving Heterogeneous Federated Learning for Sensitive Healthcare Data**|Yukai Xu et.al.|[2406.10563](http://arxiv.org/abs/2406.10563)|null|
 |**2024-06-13**|**Is Diffusion Model Safe? Severe Data Leakage via Gradient-Guided Diffusion Model**|Jiayang Meng et.al.|[2406.09484](http://arxiv.org/abs/2406.09484)|null|
 |**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152](http://arxiv.org/abs/2406.09152)|null|
 |**2024-06-13**|**Beyond the Calibration Point: Mechanism Comparison in Differential Privacy**|Georgios Kaissis et.al.|[2406.08918](http://arxiv.org/abs/2406.08918)|null|
@@ -480,6 +486,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Composing Object Relations and Attributes for Image-Text Matching**|Khoi Pham et.al.|[2406.11820](http://arxiv.org/abs/2406.11820)|null|
+|**2024-06-17**|**Graph Neural Re-Ranking via Corpus Graph**|Andrea Giuseppe Di Francesco et.al.|[2406.11720](http://arxiv.org/abs/2406.11720)|null|
+|**2024-06-17**|**Scalable Expressiveness through Preprocessed Graph Perturbations**|Danial Saber et.al.|[2406.11714](http://arxiv.org/abs/2406.11714)|null|
+|**2024-06-17**|**On the Feasibility of Fidelity $^-$ for Graph Pruning**|Yong-Min Shin et.al.|[2406.11504](http://arxiv.org/abs/2406.11504)|null|
+|**2024-06-17**|**Attention-Based Deep Reinforcement Learning for Qubit Allocation in Modular Quantum Architectures**|Enrico Russo et.al.|[2406.11452](http://arxiv.org/abs/2406.11452)|null|
+|**2024-06-17**|**Analysing the Behaviour of Tree-Based Neural Networks in Regression Tasks**|Peter Samoaa et.al.|[2406.11437](http://arxiv.org/abs/2406.11437)|**[link](https://github.com/petersamoaa/tree_based_nn_error_analysis)**|
+|**2024-06-17**|**Dredge Word, Social Media, and Webgraph Networks for Unreliable Website Classification and Identification**|Evan M. Williams et.al.|[2406.11423](http://arxiv.org/abs/2406.11423)|null|
+|**2024-06-17**|**DeFiGuard: A Price Manipulation Detection Service in DeFi using Graph Neural Networks**|Dabao Wang et.al.|[2406.11157](http://arxiv.org/abs/2406.11157)|null|
+|**2024-06-16**|**Graph Neural Reaction Diffusion Models**|Moshe Eliasof et.al.|[2406.10871](http://arxiv.org/abs/2406.10871)|null|
+|**2024-06-16**|**Global-Local Graph Neural Networks for Node-Classification**|Moshe Eliasof et.al.|[2406.10863](http://arxiv.org/abs/2406.10863)|null|
+|**2024-06-15**|**Graph Neural Thompson Sampling**|Shuang Wu et.al.|[2406.10686](http://arxiv.org/abs/2406.10686)|null|
+|**2024-06-15**|**E-SAGE: Explainability-based Defense Against Backdoor Attacks on Graph Neural Networks**|Dingqiang Yuan et.al.|[2406.10655](http://arxiv.org/abs/2406.10655)|null|
+|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
+|**2024-06-15**|**Polytopal mesh agglomeration via geometrical deep learning for three-dimensional heterogeneous domains**|Paola F. Antonietti et.al.|[2406.10587](http://arxiv.org/abs/2406.10587)|null|
+|**2024-06-15**|**Graph Neural Backdoor: Fundamentals, Methodologies, Applications, and Future Directions**|Xiao Yang et.al.|[2406.10573](http://arxiv.org/abs/2406.10573)|null|
+|**2024-06-15**|**Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space**|Mohamed Amine Ketata et.al.|[2406.10513](http://arxiv.org/abs/2406.10513)|null|
+|**2024-06-15**|**Geodesic Distance Between Graphs: A Spectral Metric for Assessing the Stability of Graph Neural Networks**|Soumen Sikder Shuvo et.al.|[2406.10500](http://arxiv.org/abs/2406.10500)|null|
+|**2024-06-15**|**A Unified Graph Selective Prompt Learning for Graph Neural Networks**|Bo Jiang et.al.|[2406.10498](http://arxiv.org/abs/2406.10498)|null|
+|**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492](http://arxiv.org/abs/2406.10492)|null|
+|**2024-06-14**|**Towards Neural Scaling Laws for Foundation Models on Temporal Graphs**|Razieh Shirzadkhani et.al.|[2406.10426](http://arxiv.org/abs/2406.10426)|null|
 |**2024-06-14**|**Compressed Sensor Caching and Collaborative Sparse Data Recovery with Anchor Alignment**|Yi-Jen Yang et.al.|[2406.10137](http://arxiv.org/abs/2406.10137)|null|
 |**2024-06-14**|**Rule Based Learning with Dynamic (Graph) Neural Networks**|Florian Seiffarth et.al.|[2406.09954](http://arxiv.org/abs/2406.09954)|null|
 |**2024-06-14**|**Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks**|Zhiwei Zhang et.al.|[2406.09836](http://arxiv.org/abs/2406.09836)|null|
