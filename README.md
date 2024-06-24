@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**The Privacy-Utility Trade-off in the Topics API**|Mário S. Alvim et.al.|[2406.15309](http://arxiv.org/abs/2406.15309)|null|
+|**2024-06-20**|**Consistent community detection in multi-layer networks with heterogeneous differential privacy**|Yaoming Zhen et.al.|[2406.14772](http://arxiv.org/abs/2406.14772)|null|
 |**2024-06-20**|**Mind the Privacy Unit! User-Level Differential Privacy for Language Model Fine-Tuning**|Lynn Chua et.al.|[2406.14322](http://arxiv.org/abs/2406.14322)|null|
 |**2024-06-20**|**The Elusive Pursuit of Replicating PATE-GAN: Benchmarking, Auditing, Debugging**|Georgi Ganev et.al.|[2406.13985](http://arxiv.org/abs/2406.13985)|**[link](https://github.com/spalabucr/pategan-audit)**|
 |**2024-06-19**|**Privacy-Preserving ECG Data Analysis with Differential Privacy: A Literature Review and A Case Study**|Arin Ghazarian et.al.|[2406.13880](http://arxiv.org/abs/2406.13880)|null|
@@ -499,6 +501,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299](http://arxiv.org/abs/2406.15299)|null|
+|**2024-06-21**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283](http://arxiv.org/abs/2406.15283)|null|
+|**2024-06-21**|**Perks and Pitfalls of Faithfulness in Regular, Self-Explainable and Domain Invariant GNNs**|Steve Azzolin et.al.|[2406.15156](http://arxiv.org/abs/2406.15156)|null|
+|**2024-06-20**|**Younger: The First Dataset for Artificial Intelligence-Generated Neural Network Architecture**|Zhengxin Yang et.al.|[2406.15132](http://arxiv.org/abs/2406.15132)|null|
+|**2024-06-21**|**Towards General Negotiation Strategies with End-to-End Reinforcement Learning**|Bram M. Renting et.al.|[2406.15096](http://arxiv.org/abs/2406.15096)|null|
+|**2024-06-21**|**Efficient Graph Similarity Computation with Alignment Regularization**|Wei Zhuo et.al.|[2406.14929](http://arxiv.org/abs/2406.14929)|null|
+|**2024-06-20**|**Relational Reasoning On Graphs Using Opinion Dynamics**|Yulong Yang et.al.|[2406.14746](http://arxiv.org/abs/2406.14746)|null|
 |**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
 |**2024-06-20**|**Iterative Sizing Field Prediction for Adaptive Mesh Generation From Expert Demonstrations**|Niklas Freymuth et.al.|[2406.14161](http://arxiv.org/abs/2406.14161)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
 |**2024-06-20**|**Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs**|Michail Chatzianastasis et.al.|[2406.14142](http://arxiv.org/abs/2406.14142)|null|
