@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Protecting the 'Stop Using My Data' Right through Blockchain-assisted Evidence Generation**|Fan Zhang et.al.|[2406.17694](http://arxiv.org/abs/2406.17694)|null|
+|**2024-06-25**|**Robust Gray Codes Approaching the Optimal Rate**|Roni Con et.al.|[2406.17689](http://arxiv.org/abs/2406.17689)|null|
+|**2024-06-25**|**Capacity-Achieving Gray Codes**|Venkatesan Guruswami et.al.|[2406.17669](http://arxiv.org/abs/2406.17669)|null|
+|**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
+|**2024-06-25**|**Towards Efficient and Scalable Training of Differentially Private Deep Learning**|Sebastian Rodriguez Beltran et.al.|[2406.17298](http://arxiv.org/abs/2406.17298)|null|
+|**2024-06-24**|**Lomas: A Platform for Confidential Analysis of Private Data**|Damien Aymon et.al.|[2406.17087](http://arxiv.org/abs/2406.17087)|null|
 |**2024-06-24**|**On Computing Pairwise Statistics with Local Differential Privacy**|Badih Ghazi et.al.|[2406.16305](http://arxiv.org/abs/2406.16305)|null|
 |**2024-06-23**|**Privacy Preserving Machine Learning for Electronic Health Records using Federated Learning and Differential Privacy**|Naif A. Ganadily et.al.|[2406.15962](http://arxiv.org/abs/2406.15962)|null|
 |**2024-06-22**|**Credit Attribution and Stable Compression**|Roi Livni et.al.|[2406.15916](http://arxiv.org/abs/2406.15916)|null|
@@ -499,6 +505,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Compositional Models for Estimating Causal Effects**|Purva Pruthi et.al.|[2406.17714](http://arxiv.org/abs/2406.17714)|null|
+|**2024-06-25**|**Distributed Training of Large Graph Neural Networks with Variable Communication Rates**|Juan Cervino et.al.|[2406.17611](http://arxiv.org/abs/2406.17611)|null|
+|**2024-06-25**|**Joint Admission Control and Resource Allocation of Virtual Network Embedding via Hierarchical Deep Reinforcement Learning**|Tianfu Wang et.al.|[2406.17334](http://arxiv.org/abs/2406.17334)|**[link](https://github.com/geminilight/hrl-acra)**|
+|**2024-06-25**|**Distance Recomputator and Topology Reconstructor for Graph Neural Networks**|Dong Liu et.al.|[2406.17281](http://arxiv.org/abs/2406.17281)|null|
+|**2024-06-25**|**TopoGCL: Topological Graph Contrastive Learning**|Yuzhou Chen et.al.|[2406.17251](http://arxiv.org/abs/2406.17251)|**[link](https://github.com/topogclaaai24/topogcl)**|
+|**2024-06-24**|**Meta-GCN: A Dynamically Weighted Loss Minimization Method for Dealing with the Data Imbalance in Graph Neural Networks**|Mahdi Mohammadizadeh et.al.|[2406.17073](http://arxiv.org/abs/2406.17073)|null|
+|**2024-06-24**|**Make Graph Neural Networks Great Again: A Generic Integration Paradigm of Topology-Free Patterns for Traffic Speed Prediction**|Yicheng Zhou et.al.|[2406.16992](http://arxiv.org/abs/2406.16992)|**[link](https://github.com/ibizatomorrow/dcst)**|
+|**2024-06-22**|**Large Language Models for Link Stealing Attacks Against Graph Neural Networks**|Faqian Guan et.al.|[2406.16963](http://arxiv.org/abs/2406.16963)|null|
 |**2024-06-24**|**GC-Bench: A Benchmark Framework for Graph Condensation with New Insights**|Shengbo Gong et.al.|[2406.16715](http://arxiv.org/abs/2406.16715)|**[link](https://github.com/emory-melody/graphslim)**|
 |**2024-06-24**|**Link Prediction with Untrained Message Passing Layers**|Lisi Qarkaxhija et.al.|[2406.16687](http://arxiv.org/abs/2406.16687)|null|
 |**2024-06-24**|**Ensemble-Embedding Graph Neural Network for Direct Prediction of Optical Spectra from Crystal Structure**|Nguyen Tuan Hung et.al.|[2406.16654](http://arxiv.org/abs/2406.16654)|null|
