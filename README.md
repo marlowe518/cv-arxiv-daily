@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**On Convex Optimization with Semi-Sensitive Features**|Badih Ghazi et.al.|[2406.19040](http://arxiv.org/abs/2406.19040)|null|
+|**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|null|
+|**2024-06-27**|**Efficient Verifiable Differential Privacy with Input Authenticity in the Local and Shuffle Model**|Tariq Bontekoe et.al.|[2406.18940](http://arxiv.org/abs/2406.18940)|null|
+|**2024-06-26**|**A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data**|Vincent Guan et.al.|[2406.18671](http://arxiv.org/abs/2406.18671)|null|
+|**2024-06-26**|**Sample Complexity of Locally Differentially Private Quantum Hypothesis Testing**|Hao-Chung Cheng et.al.|[2406.18658](http://arxiv.org/abs/2406.18658)|null|
+|**2024-06-26**|**Contraction of Private Quantum Channels and Private Quantum Hypothesis Testing**|Theshani Nuradha et.al.|[2406.18651](http://arxiv.org/abs/2406.18651)|null|
 |**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
 |**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145](http://arxiv.org/abs/2406.18145)|null|
 |**2024-06-25**|**Distribution Learnability and Robustness**|Shai Ben-David et.al.|[2406.17814](http://arxiv.org/abs/2406.17814)|null|
@@ -514,6 +520,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258](http://arxiv.org/abs/2406.19258)|null|
+|**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249](http://arxiv.org/abs/2406.19249)|null|
+|**2024-06-27**|**Improving the Expressiveness of $K$ -hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244](http://arxiv.org/abs/2406.19244)|**[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)**|
+|**2024-06-27**|**Heterogeneous Causal Metapath Graph Neural Network for Gene-Microbe-Disease Association Prediction**|Kexin Zhang et.al.|[2406.19156](http://arxiv.org/abs/2406.19156)|null|
+|**2024-06-27**|**Constructing and Analyzing Different Density Graphs for Path Extrapolation in Wikipedia**|Martha Sotiroudi et.al.|[2406.19039](http://arxiv.org/abs/2406.19039)|null|
+|**2024-06-27**|**Amplify Graph Learning for Recommendation via Sparsity Completion**|Peng Yuan et.al.|[2406.18984](http://arxiv.org/abs/2406.18984)|null|
+|**2024-06-27**|**Federated Graph Semantic and Structural Learning**|Wenke Huang et.al.|[2406.18937](http://arxiv.org/abs/2406.18937)|**[link](https://github.com/guanchengwan/fgssl)**|
+|**2024-06-27**|**What Is Missing In Homophily? Disentangling Graph Homophily For Graph Neural Networks**|Yilun Zheng et.al.|[2406.18854](http://arxiv.org/abs/2406.18854)|**[link](https://github.com/zylmozart/disentangle_graphhom)**|
+|**2024-06-27**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845](http://arxiv.org/abs/2406.18845)|**[link](https://github.com/event-ahu/efv_event_classification)**|
+|**2024-06-27**|**MissionGNN: Hierarchical Multimodal GNN-based Weakly Supervised Video Anomaly Recognition with Mission-Specific Knowledge Graph Generation**|Sanggeon Yun et.al.|[2406.18815](http://arxiv.org/abs/2406.18815)|null|
+|**2024-06-26**|**Conformalized Link Prediction on Graph Neural Networks**|Tianyi Zhao et.al.|[2406.18763](http://arxiv.org/abs/2406.18763)|null|
 |**2024-06-26**|**Graph Neural Networks for Emulation of Finite-Element Ice Dynamics in Greenland and Antarctic Ice Sheets**|Younghyun Koo et.al.|[2406.18423](http://arxiv.org/abs/2406.18423)|null|
 |**2024-06-26**|**KAGNNs: Kolmogorov-Arnold Networks meet Graph Learning**|Roman Bresson et.al.|[2406.18380](http://arxiv.org/abs/2406.18380)|**[link](https://github.com/RomanBresson/KAGNN)**|
 |**2024-06-26**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354](http://arxiv.org/abs/2406.18354)|null|
