@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
+|**2024-06-27**|**Private Zeroth-Order Nonsmooth Nonconvex Optimization**|Qinzi Zhang et.al.|[2406.19579](http://arxiv.org/abs/2406.19579)|null|
+|**2024-06-27**|**Instance-Optimal Private Density Estimation in the Wasserstein Distance**|Vitaly Feldman et.al.|[2406.19566](http://arxiv.org/abs/2406.19566)|null|
+|**2024-06-27**|**Too Good to be True? Turn Any Model Differentially Private With DP-Weights**|David Zagardo et.al.|[2406.19507](http://arxiv.org/abs/2406.19507)|**[link](https://github.com/dzagardo/forgetnet)**|
+|**2024-06-27**|**Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols**|Wei Tong et.al.|[2406.19466](http://arxiv.org/abs/2406.19466)|null|
+|**2024-06-26**|**A Quantization-based Technique for Privacy Preserving Distributed Learning**|Maurizio Colombo et.al.|[2406.19418](http://arxiv.org/abs/2406.19418)|null|
 |**2024-06-27**|**On Convex Optimization with Semi-Sensitive Features**|Badih Ghazi et.al.|[2406.19040](http://arxiv.org/abs/2406.19040)|null|
 |**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|null|
 |**2024-06-27**|**Efficient Verifiable Differential Privacy with Input Authenticity in the Local and Shuffle Model**|Tariq Bontekoe et.al.|[2406.18940](http://arxiv.org/abs/2406.18940)|null|
@@ -514,6 +520,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/abs/2406.19800)|null|
+|**2024-06-28**|**SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction Network for Vessel Segmentation**|De-Xing Huang et.al.|[2406.19749](http://arxiv.org/abs/2406.19749)|**[link](https://github.com/dxhuang-casia/spironet)**|
 |**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258](http://arxiv.org/abs/2406.19258)|null|
 |**2024-06-27**|**NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification**|Jinsong Chen et.al.|[2406.19249](http://arxiv.org/abs/2406.19249)|null|
 |**2024-06-27**|**Improving the Expressiveness of $K$ -hop Message-Passing GNNs by Injecting Contextualized Substructure Information**|Tianjun Yao et.al.|[2406.19244](http://arxiv.org/abs/2406.19244)|**[link](https://github.com/tianyao-aka/expresive_k_hop_gnns)**|
