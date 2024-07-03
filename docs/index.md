@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|
+|**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776](http://arxiv.org/abs/2407.01776)|null|
+|**2024-07-01**|**SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures**|Oguzhan Baser et.al.|[2407.00913](http://arxiv.org/abs/2407.00913)|null|
+|**2024-07-01**|**Privacy-First Crowdsourcing: Blockchain and Local Differential Privacy in Crowdsourced Drone Services**|Junaid Akram et.al.|[2407.00873](http://arxiv.org/abs/2407.00873)|null|
+|**2024-06-30**|**Characterizing Stereotypical Bias from Privacy-preserving Pre-Training**|Stefan Arnold et.al.|[2407.00764](http://arxiv.org/abs/2407.00764)|null|
+|**2024-06-30**|**A Collocation-based Method for Addressing Challenges in Word-level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2407.00638](http://arxiv.org/abs/2407.00638)|null|
+|**2024-06-30**|**DP-MLM: Differentially Private Text Rewriting Using Masked Language Models**|Stephen Meisenbacher et.al.|[2407.00637](http://arxiv.org/abs/2407.00637)|null|
+|**2024-06-29**|**Obtaining $(ε,δ)$ -differential privacy guarantees when using a Poisson mechanism to synthesize contingency tables**|James Jackson et.al.|[2407.00417](http://arxiv.org/abs/2407.00417)|null|
+|**2024-06-28**|**Towards Secure and Efficient Data Scheduling for Vehicular Social Networks**|Youhua Xia et.al.|[2407.00141](http://arxiv.org/abs/2407.00141)|null|
 |**2024-06-28**|**Minimax And Adaptive Transfer Learning for Nonparametric Classification under Distributed Differential Privacy Constraints**|Arnab Auddy et.al.|[2406.20088](http://arxiv.org/abs/2406.20088)|null|
 |**2024-06-27**|**Private Zeroth-Order Nonsmooth Nonconvex Optimization**|Qinzi Zhang et.al.|[2406.19579](http://arxiv.org/abs/2406.19579)|null|
 |**2024-06-27**|**Instance-Optimal Private Density Estimation in the Wasserstein Distance**|Vitaly Feldman et.al.|[2406.19566](http://arxiv.org/abs/2406.19566)|null|
@@ -520,6 +529,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431](http://arxiv.org/abs/2407.02431)|null|
+|**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
+|**2024-07-02**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188](http://arxiv.org/abs/2407.02188)|null|
+|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|null|
+|**2024-07-02**|**CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling**|Zhuo Xu et.al.|[2407.02074](http://arxiv.org/abs/2407.02074)|null|
+|**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057](http://arxiv.org/abs/2407.02057)|**[link](https://github.com/yali-f/hc-glad)**|
+|**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013](http://arxiv.org/abs/2407.02013)|null|
+|**2024-07-02**|**Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**|Yuwen Wang et.al.|[2407.01979](http://arxiv.org/abs/2407.01979)|null|
+|**2024-07-01**|**Hadronic Top Quark Polarimetry with ParticleNet**|Zhongtian Dong et.al.|[2407.01663](http://arxiv.org/abs/2407.01663)|null|
+|**2024-06-30**|**Commute Graph Neural Networks**|Wei Zhuo et.al.|[2407.01635](http://arxiv.org/abs/2407.01635)|null|
+|**2024-07-01**|**GAT-Steiner: Rectilinear Steiner Minimal Tree Prediction Using GNNs**|Bugra Onal et.al.|[2407.01440](http://arxiv.org/abs/2407.01440)|null|
+|**2024-07-01**|**RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing**|Bo Ai et.al.|[2407.01418](http://arxiv.org/abs/2407.01418)|null|
+|**2024-07-01**|**Bridging Smoothness and Approximation: Theoretical Insights into Over-Smoothing in Graph Neural Networks**|Guangrui Yang et.al.|[2407.01281](http://arxiv.org/abs/2407.01281)|null|
+|**2024-07-01**|**SpectralKAN: Kolmogorov-Arnold Network for Hyperspectral Images Change Detection**|Yanheng Wang et.al.|[2407.00949](http://arxiv.org/abs/2407.00949)|null|
+|**2024-07-01**|**PointViG: A Lightweight GNN-based Model for Efficient Point Cloud Analysis**|Qiang Zheng et.al.|[2407.00921](http://arxiv.org/abs/2407.00921)|null|
+|**2024-06-30**|**Self-consistent Deep Geometric Learning for Heterogeneous Multi-source Spatial Point Data Prediction**|Dazhou Yu et.al.|[2407.00748](http://arxiv.org/abs/2407.00748)|**[link](https://github.com/dyu62/multisource-spatial-point-prediction)**|
+|**2024-06-30**|**Heterogeneous Graph Contrastive Learning with Spectral Augmentation**|Jing Zhang et.al.|[2407.00708](http://arxiv.org/abs/2407.00708)|null|
+|**2024-06-30**|**Graph in Graph Neural Network**|Jiongshu Wang et.al.|[2407.00696](http://arxiv.org/abs/2407.00696)|**[link](https://github.com/wangjs96/graph-in-graph-neural-network)**|
+|**2024-06-30**|**ESGNN: Towards Equivariant Scene Graph Neural Network for 3D Scene Understanding**|Quang P. M. Pham et.al.|[2407.00609](http://arxiv.org/abs/2407.00609)|null|
+|**2024-06-29**|**Graph Neural Networks Gone Hogwild**|Olga Solodova et.al.|[2407.00494](http://arxiv.org/abs/2407.00494)|null|
 |**2024-06-28**|**Modeling the Real World with High-Density Visual Particle Dynamics**|William F. Whitney et.al.|[2406.19800](http://arxiv.org/abs/2406.19800)|null|
 |**2024-06-28**|**SPIRONet: Spatial-Frequency Learning and Topological Channel Interaction Network for Vessel Segmentation**|De-Xing Huang et.al.|[2406.19749](http://arxiv.org/abs/2406.19749)|**[link](https://github.com/dxhuang-casia/spironet)**|
 |**2024-06-27**|**Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers**|Jinsong Chen et.al.|[2406.19258](http://arxiv.org/abs/2406.19258)|null|
