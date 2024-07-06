@@ -22,10 +22,10 @@
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237](http://arxiv.org/abs/2407.03237)|null|
 |**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|
 |**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776](http://arxiv.org/abs/2407.01776)|null|
-|**2024-07-01**|**SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures**|Oguzhan Baser et.al.|[2407.00913](http://arxiv.org/abs/2407.00913)|null|
+|**2024-07-01**|**SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures**|Oguzhan Baser et.al.|[2407.00913](http://arxiv.org/abs/2407.00913)|**[link](https://github.com/UTAustin-SwarmLab/SecureSpectra)**|
 |**2024-07-01**|**Privacy-First Crowdsourcing: Blockchain and Local Differential Privacy in Crowdsourced Drone Services**|Junaid Akram et.al.|[2407.00873](http://arxiv.org/abs/2407.00873)|null|
 |**2024-06-30**|**Characterizing Stereotypical Bias from Privacy-preserving Pre-Training**|Stefan Arnold et.al.|[2407.00764](http://arxiv.org/abs/2407.00764)|null|
-|**2024-06-30**|**A Collocation-based Method for Addressing Challenges in Word-level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2407.00638](http://arxiv.org/abs/2407.00638)|null|
+|**2024-06-30**|**A Collocation-based Method for Addressing Challenges in Word-level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2407.00638](http://arxiv.org/abs/2407.00638)|**[link](https://github.com/sjmeis/CLMLDP)**|
 |**2024-06-30**|**DP-MLM: Differentially Private Text Rewriting Using Masked Language Models**|Stephen Meisenbacher et.al.|[2407.00637](http://arxiv.org/abs/2407.00637)|null|
 |**2024-06-29**|**Obtaining $(ε,δ)$ -differential privacy guarantees when using a Poisson mechanism to synthesize contingency tables**|James Jackson et.al.|[2407.00417](http://arxiv.org/abs/2407.00417)|null|
 |**2024-06-28**|**Towards Secure and Efficient Data Scheduling for Vehicular Social Networks**|Youhua Xia et.al.|[2407.00141](http://arxiv.org/abs/2407.00141)|null|
@@ -36,7 +36,7 @@
 |**2024-06-27**|**Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols**|Wei Tong et.al.|[2406.19466](http://arxiv.org/abs/2406.19466)|null|
 |**2024-06-26**|**A Quantization-based Technique for Privacy Preserving Distributed Learning**|Maurizio Colombo et.al.|[2406.19418](http://arxiv.org/abs/2406.19418)|null|
 |**2024-06-27**|**On Convex Optimization with Semi-Sensitive Features**|Badih Ghazi et.al.|[2406.19040](http://arxiv.org/abs/2406.19040)|null|
-|**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|null|
+|**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|**[link](https://github.com/private-mechanism/verti_mrf)**|
 |**2024-06-27**|**Efficient Verifiable Differential Privacy with Input Authenticity in the Local and Shuffle Model**|Tariq Bontekoe et.al.|[2406.18940](http://arxiv.org/abs/2406.18940)|null|
 |**2024-06-26**|**A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data**|Vincent Guan et.al.|[2406.18671](http://arxiv.org/abs/2406.18671)|null|
 |**2024-06-26**|**Sample Complexity of Locally Differentially Private Quantum Hypothesis Testing**|Hao-Chung Cheng et.al.|[2406.18658](http://arxiv.org/abs/2406.18658)|null|
@@ -537,14 +537,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217](http://arxiv.org/abs/2407.03217)|null|
+|**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217](http://arxiv.org/abs/2407.03217)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
 |**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125](http://arxiv.org/abs/2407.03125)|null|
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762](http://arxiv.org/abs/2407.02762)|null|
 |**2024-07-02**|**Holistically-Nested Structure-Aware Graph Neural Network for Road Extraction**|Tinghuai Wang et.al.|[2407.02639](http://arxiv.org/abs/2407.02639)|null|
 |**2024-07-02**|**On the Robustness of Graph Reduction Against GNN Backdoor**|Yuxuan Zhu et.al.|[2407.02431](http://arxiv.org/abs/2407.02431)|null|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
 |**2024-07-02**|**Structure-Aware Consensus Network on Graphs with Few Labeled Nodes**|Shuaike Xu et.al.|[2407.02188](http://arxiv.org/abs/2407.02188)|null|
-|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|null|
+|**2024-07-02**|**Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection**|Chunjing Xiao et.al.|[2407.02143](http://arxiv.org/abs/2407.02143)|**[link](https://github.com/ChunjingXiao/CAGAD)**|
 |**2024-07-02**|**CGAP: Urban Region Representation Learning with Coarsened Graph Attention Pooling**|Zhuo Xu et.al.|[2407.02074](http://arxiv.org/abs/2407.02074)|null|
 |**2024-07-02**|**HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection**|Yali Fu et.al.|[2407.02057](http://arxiv.org/abs/2407.02057)|**[link](https://github.com/yali-f/hc-glad)**|
 |**2024-07-02**|**DiGRAF: Diffeomorphic Graph-Adaptive Activation Function**|Krishna Sri Ipsit Mantri et.al.|[2407.02013](http://arxiv.org/abs/2407.02013)|null|
