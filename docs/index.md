@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Differentially Private Inductive Miner**|Max Schulze et.al.|[2407.04595](http://arxiv.org/abs/2407.04595)|**[link](https://github.com/Schulze-M/DPIM)**|
+|**2024-07-04**|**An applied Perspective: Estimating the Differential Identifiability Risk of an Exemplary SOEP Data Set**|Jonas Allmann et.al.|[2407.04084](http://arxiv.org/abs/2407.04084)|null|
+|**2024-07-04**|**Collection, usage and privacy of mobility data in the enterprise and public administrations**|Alexandra Kapp et.al.|[2407.03732](http://arxiv.org/abs/2407.03732)|null|
+|**2024-07-03**|**Releasing Large-Scale Human Mobility Histograms with Differential Privacy**|Christopher Bian et.al.|[2407.03496](http://arxiv.org/abs/2407.03496)|null|
 |**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289](http://arxiv.org/abs/2407.03289)|null|
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237](http://arxiv.org/abs/2407.03237)|null|
 |**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|
@@ -531,6 +535,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials**|Klara Bonneau et.al.|[2407.04526](http://arxiv.org/abs/2407.04526)|null|
+|**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516](http://arxiv.org/abs/2407.04516)|null|
+|**2024-07-05**|**Wavelet-based Temporal Attention Improves Traffic Forecasting**|Yash Jakhmola et.al.|[2407.04440](http://arxiv.org/abs/2407.04440)|null|
+|**2024-07-05**|**Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**|Tong Wang et.al.|[2407.04359](http://arxiv.org/abs/2407.04359)|null|
+|**2024-07-05**|**SSP-GNN: Learning to Track via Bilevel Optimization**|Griffin Golias et.al.|[2407.04308](http://arxiv.org/abs/2407.04308)|null|
+|**2024-07-05**|**Graph Pooling via Ricci Flow**|Amy Feng et.al.|[2407.04236](http://arxiv.org/abs/2407.04236)|null|
+|**2024-07-04**|**Benchmark on Drug Target Interaction Modeling from a Structure Perspective**|Xinnan Zhang et.al.|[2407.04055](http://arxiv.org/abs/2407.04055)|**[link](https://github.com/justinwjl/gtb-dti)**|
+|**2024-07-04**|**Reduced-Order Neural Operators: Learning Lagrangian Dynamics on Highly Sparse Graphs**|Hrishikesh Viswanath et.al.|[2407.03925](http://arxiv.org/abs/2407.03925)|null|
+|**2024-07-04**|**GraphCNNpred: A stock market indices prediction using a Graph based deep learning system**|Yuhui Jin et.al.|[2407.03760](http://arxiv.org/abs/2407.03760)|null|
+|**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380](http://arxiv.org/abs/2407.03380)|null|
 |**2024-07-03**|**MHNet: Multi-view High-order Network for Diagnosing Neurodevelopmental Disorders Using Resting-state fMRI**|Yueyang Li et.al.|[2407.03217](http://arxiv.org/abs/2407.03217)|**[link](https://github.com/wayfear/brainnetworktransformer)**|
 |**2024-07-03**|**Foundations and Frontiers of Graph Learning Theory**|Yu Huang et.al.|[2407.03125](http://arxiv.org/abs/2407.03125)|null|
 |**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762](http://arxiv.org/abs/2407.02762)|null|
