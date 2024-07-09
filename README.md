@@ -18,6 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285](http://arxiv.org/abs/2407.05285)|null|
+|**2024-07-07**|**Privacy of the last iterate in cyclically-sampled DP-SGD on nonconvex composite losses**|Weiwei Kong et.al.|[2407.05237](http://arxiv.org/abs/2407.05237)|null|
+|**2024-07-07**|**Matrix perturbation bounds via contour bootstrapping**|Phuc Tran et.al.|[2407.05230](http://arxiv.org/abs/2407.05230)|null|
+|**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174](http://arxiv.org/abs/2407.05174)|null|
+|**2024-07-06**|**Smooth Sensitivity Revisited: Towards Optimality**|Richard Hladík et.al.|[2407.05067](http://arxiv.org/abs/2407.05067)|null|
+|**2024-07-06**|**GCON: Differentially Private Graph Convolutional Network via Objective Perturbation**|Jianxin Wei et.al.|[2407.05034](http://arxiv.org/abs/2407.05034)|null|
+|**2024-07-06**|**On Differentially Private U Statistics**|Kamalika Chaudhuri et.al.|[2407.04945](http://arxiv.org/abs/2407.04945)|null|
+|**2024-07-06**|**Nash Incentive-compatible Online Mechanism Learning via Weakly Differentially Private Online Learning**|Joon Suk Huh et.al.|[2407.04898](http://arxiv.org/abs/2407.04898)|null|
+|**2024-07-05**|**Differentially Private Convex Approximation of Two-Layer ReLU Networks**|Antti Koskela et.al.|[2407.04884](http://arxiv.org/abs/2407.04884)|null|
+|**2024-07-05**|**Agnostic Private Density Estimation via Stable List Decoding**|Mohammad Afzali et.al.|[2407.04783](http://arxiv.org/abs/2407.04783)|null|
+|**2024-07-05**|**Quantifying Privacy Risks of Public Statistics to Residents of Subsidized Housing**|Ryan Steed et.al.|[2407.04776](http://arxiv.org/abs/2407.04776)|null|
 |**2024-07-05**|**Differentially Private Inductive Miner**|Max Schulze et.al.|[2407.04595](http://arxiv.org/abs/2407.04595)|**[link](https://github.com/Schulze-M/DPIM)**|
 |**2024-07-04**|**An applied Perspective: Estimating the Differential Identifiability Risk of an Exemplary SOEP Data Set**|Jonas Allmann et.al.|[2407.04084](http://arxiv.org/abs/2407.04084)|null|
 |**2024-07-04**|**Collection, usage and privacy of mobility data in the enterprise and public administrations**|Alexandra Kapp et.al.|[2407.03732](http://arxiv.org/abs/2407.03732)|null|
@@ -541,6 +552,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-08**|**Enhancing the Prediction of Glass Dynamics by Incorporating the Direction of Deviation from Equilibrium Positions**|Xiao Jiang et.al.|[2407.06111](http://arxiv.org/abs/2407.06111)|null|
+|**2024-07-08**|**Graph Reasoning Networks**|Markus Zopf et.al.|[2407.05816](http://arxiv.org/abs/2407.05816)|null|
+|**2024-07-08**|**Graph Attention with Random Rewiring**|Tongzhou Liao et.al.|[2407.05649](http://arxiv.org/abs/2407.05649)|null|
+|**2024-07-08**|**MEEG and AT-DGNN: Advancing EEG Emotion Recognition with Music and Graph Learning**|Minghao Xiao et.al.|[2407.05550](http://arxiv.org/abs/2407.05550)|null|
+|**2024-07-07**|**PICA: Physics-Integrated Clothed Avatar**|Bo Peng et.al.|[2407.05324](http://arxiv.org/abs/2407.05324)|null|
+|**2024-07-07**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318](http://arxiv.org/abs/2407.05318)|null|
+|**2024-07-06**|**Leveraging Persistent Homology Features for Accurate Defect Formation Energy Predictions via Graph Neural Networks**|Zhenyao Fang et.al.|[2407.05204](http://arxiv.org/abs/2407.05204)|null|
+|**2024-07-06**|**A Generalized Transformer-based Radio Link Failure Prediction Framework in 5G RANs**|Kazi Hasan et.al.|[2407.05197](http://arxiv.org/abs/2407.05197)|null|
+|**2024-07-06**|**GCON: Differentially Private Graph Convolutional Network via Objective Perturbation**|Jianxin Wei et.al.|[2407.05034](http://arxiv.org/abs/2407.05034)|null|
+|**2024-07-06**|**Rethinking the Effectiveness of Graph Classification Datasets in Benchmarks for Assessing GNNs**|Zhengdao Li et.al.|[2407.04999](http://arxiv.org/abs/2407.04999)|null|
 |**2024-07-05**|**Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials**|Klara Bonneau et.al.|[2407.04526](http://arxiv.org/abs/2407.04526)|null|
 |**2024-07-05**|**G-Adaptive mesh refinement -- leveraging graph neural networks and differentiable finite element solvers**|James Rowbottom et.al.|[2407.04516](http://arxiv.org/abs/2407.04516)|null|
 |**2024-07-05**|**Wavelet-based Temporal Attention Improves Traffic Forecasting**|Yash Jakhmola et.al.|[2407.04440](http://arxiv.org/abs/2407.04440)|null|
