@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Defining 'Good': Evaluation Framework for Synthetic Smart Meter Data**|Sheng Chai et.al.|[2407.11785](http://arxiv.org/abs/2407.11785)|null|
+|**2024-07-15**|**Empirical Mean and Frequency Estimation Under Heterogeneous Privacy: A Worst-Case Analysis**|Syomantak Chaudhuri et.al.|[2407.11274](http://arxiv.org/abs/2407.11274)|null|
 |**2024-07-14**|**Low Sensitivity Hopsets**|Vikrant Ashvinkumar et.al.|[2407.10249](http://arxiv.org/abs/2407.10249)|null|
 |**2024-07-13**|**Preserving the Privacy of Reward Functions in MDPs through Deception**|Shashank Reddy Chirra et.al.|[2407.09809](http://arxiv.org/abs/2407.09809)|**[link](https://github.com/shshnkreddy/deceptiverl)**|
 |**2024-07-12**|**Private Heterogeneous Federated Learning Without a Trusted Server Revisited: Error-Optimal and Communication-Efficient Algorithms for Convex Losses**|Changyu Gao et.al.|[2407.09690](http://arxiv.org/abs/2407.09690)|null|
@@ -567,6 +569,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Tackling Oversmoothing in GNN via Graph Sparsification: A Truss-based Approach**|Tanvir Hossain et.al.|[2407.11928](http://arxiv.org/abs/2407.11928)|null|
+|**2024-07-16**|**GraphFM: A Scalable Framework for Multi-Graph Pretraining**|Divyansha Lachi et.al.|[2407.11907](http://arxiv.org/abs/2407.11907)|null|
+|**2024-07-16**|**Characterizing and Understanding HGNN Training on GPUs**|Dengke Han et.al.|[2407.11790](http://arxiv.org/abs/2407.11790)|null|
+|**2024-07-16**|**Relaxing Graph Transformers for Adversarial Attacks**|Philipp Foth et.al.|[2407.11764](http://arxiv.org/abs/2407.11764)|null|
+|**2024-07-16**|**$α$ -SGHN: A Robust Model for Learning Particle Interactions in Lattice Systems**|Yixian Gao et.al.|[2407.11684](http://arxiv.org/abs/2407.11684)|null|
+|**2024-07-16**|**Rethinking Fair Graph Neural Networks from Re-balancing**|Zhixun Li et.al.|[2407.11624](http://arxiv.org/abs/2407.11624)|**[link](https://github.com/zhixunlee/fairgb)**|
+|**2024-07-16**|**Graph Dimension Attention Networks for Enterprise Credit Assessment**|Shaopeng Wei et.al.|[2407.11615](http://arxiv.org/abs/2407.11615)|null|
+|**2024-07-16**|**HyperAggregation: Aggregating over Graph Edges with Hypernetworks**|Nicolas Lell et.al.|[2407.11596](http://arxiv.org/abs/2407.11596)|**[link](https://github.com/foisunt/hyperaggregation)**|
+|**2024-07-16**|**AU-vMAE: Knowledge-Guide Action Units Detection via Video Masked Autoencoder**|Qiaoqiao Jin et.al.|[2407.11468](http://arxiv.org/abs/2407.11468)|null|
+|**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407](http://arxiv.org/abs/2407.11407)|null|
+|**2024-07-16**|**Graph Structure Prompt Learning: A Novel Methodology to Improve Performance of Graph Neural Networks**|Zhenhua Huang et.al.|[2407.11361](http://arxiv.org/abs/2407.11361)|null|
+|**2024-07-16**|**SES: Bridging the Gap Between Explainability and Prediction of Graph Neural Networks**|Zhenhua Huang et.al.|[2407.11358](http://arxiv.org/abs/2407.11358)|null|
+|**2024-07-16**|**ApproxPilot: A GNN-based Accelerator Approximation Framework**|Qing Zhang et.al.|[2407.11324](http://arxiv.org/abs/2407.11324)|null|
+|**2024-07-15**|**DeepGate3: Towards Scalable Circuit Representation Learning**|Zhengyuan Shi et.al.|[2407.11095](http://arxiv.org/abs/2407.11095)|null|
 |**2024-07-15**|**Provable Robustness of (Graph) Neural Networks Against Data Poisoning and Backdoor Attacks**|Lukas Gosch et.al.|[2407.10867](http://arxiv.org/abs/2407.10867)|null|
 |**2024-07-15**|**Rotationally Invariant Latent Distances for Uncertainty Estimation of Relaxed Energy Predictions by Graph Neural Network Potentials**|Joseph Musielewicz et.al.|[2407.10844](http://arxiv.org/abs/2407.10844)|null|
 |**2024-07-15**|**Probability Passing for Graph Neural Networks: Graph Structure and Representations Joint Learning**|Ziyan Wang et.al.|[2407.10688](http://arxiv.org/abs/2407.10688)|null|
