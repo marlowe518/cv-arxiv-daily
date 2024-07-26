@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Enhanced Privacy Bound for Shuffle Model with Personalized Privacy**|Yixuan Liu et.al.|[2407.18157](http://arxiv.org/abs/2407.18157)|null|
+|**2024-07-25**|**Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review**|Adel ElZemity et.al.|[2407.18096](http://arxiv.org/abs/2407.18096)|null|
+|**2024-07-24**|**Explaining the Model, Protecting Your Data: Revealing and Mitigating the Data Privacy Risks of Post-Hoc Model Explanations via Membership Inference**|Catherine Huang et.al.|[2407.17663](http://arxiv.org/abs/2407.17663)|null|
+|**2024-07-24**|**The Power of Graph Sparsification in the Continual Release Model**|Alessandro Epasto et.al.|[2407.17619](http://arxiv.org/abs/2407.17619)|null|
 |**2024-07-24**|**A quantitative probabilistic relational Hoare logic**|Martin Avanzini et.al.|[2407.17127](http://arxiv.org/abs/2407.17127)|null|
 |**2024-07-23**|**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**|Huandong Wang et.al.|[2407.16729](http://arxiv.org/abs/2407.16729)|**[link](https://github.com/tsinghua-fib-lab/pategail)**|
 |**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
@@ -588,6 +592,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**|Chunan Liu et.al.|[2407.18184](http://arxiv.org/abs/2407.18184)|**[link](https://github.com/biochunan/asep-dataset)**|
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181](http://arxiv.org/abs/2407.18181)|null|
+|**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170](http://arxiv.org/abs/2407.18170)|null|
+|**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
+|**2024-07-25**|**Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network**|Sukwon Yun et.al.|[2407.17857](http://arxiv.org/abs/2407.17857)|null|
+|**2024-07-25**|**Your Graph Recommender is Provably a Single-view Graph Contrastive Learning**|Wenjie Yang et.al.|[2407.17723](http://arxiv.org/abs/2407.17723)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|null|
 |**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|**[link](https://github.com/erg0dic/gnn-sg)**|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/abs/2407.17219)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
