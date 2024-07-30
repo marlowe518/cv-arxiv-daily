@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise**|Yuhan Liu et.al.|[2407.20068](http://arxiv.org/abs/2407.20068)|null|
+|**2024-07-29**|**Segmented Private Data Aggregation in the Multi-message Shuffle Model**|Shaowei Wang et.al.|[2407.19639](http://arxiv.org/abs/2407.19639)|null|
+|**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428](http://arxiv.org/abs/2407.19428)|null|
+|**2024-07-28**|**Defogger: A Visual Analysis Approach for Data Exploration of Sensitive Data Protected by Differential Privacy**|Xumeng Wang et.al.|[2407.19364](http://arxiv.org/abs/2407.19364)|null|
+|**2024-07-27**|**On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps**|Mikko A. Heikkilä et.al.|[2407.19286](http://arxiv.org/abs/2407.19286)|null|
 |**2024-07-26**|**Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation**|Doan Nam Long Vu et.al.|[2407.18789](http://arxiv.org/abs/2407.18789)|null|
 |**2024-07-23**|**Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection**|Zhiwei Yang et.al.|[2407.18274](http://arxiv.org/abs/2407.18274)|null|
 |**2024-07-25**|**Enhanced Privacy Bound for Shuffle Model with Personalized Privacy**|Yixuan Liu et.al.|[2407.18157](http://arxiv.org/abs/2407.18157)|null|
@@ -588,6 +593,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**rLLM: Relational Table Learning with LLMs**|Weichen Li et.al.|[2407.20157](http://arxiv.org/abs/2407.20157)|**[link](https://github.com/rllm-project/rllm)**|
+|**2024-07-29**|**xAI-Drop: Don't Use What You Cannot Explain**|Vincenzo Marco De Luca et.al.|[2407.20067](http://arxiv.org/abs/2407.20067)|null|
+|**2024-07-29**|**RelBench: A Benchmark for Deep Learning on Relational Databases**|Joshua Robinson et.al.|[2407.20060](http://arxiv.org/abs/2407.20060)|**[link](https://github.com/snap-stanford/relbench)**|
+|**2024-07-29**|**Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation**|Shiyuan Li et.al.|[2407.19944](http://arxiv.org/abs/2407.19944)|null|
+|**2024-07-29**|**Aero-Nef: Neural Fields for Rapid Aircraft Aerodynamics Simulations**|Giovanni Catalani et.al.|[2407.19916](http://arxiv.org/abs/2407.19916)|null|
+|**2024-07-29**|**A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation**|Zixuan Yi et.al.|[2407.19886](http://arxiv.org/abs/2407.19886)|null|
+|**2024-07-28**|**Sharp Bounds for Poly-GNNs and the Effect of Graph Noise**|Luciano Vinas et.al.|[2407.19567](http://arxiv.org/abs/2407.19567)|null|
+|**2024-07-28**|**Interpretable Triplet Importance for Personalized Ranking**|Bowei He et.al.|[2407.19469](http://arxiv.org/abs/2407.19469)|**[link](https://github.com/bokwaiho/itipr)**|
+|**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428](http://arxiv.org/abs/2407.19428)|null|
+|**2024-07-28**|**IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks**|Yushun Dong et.al.|[2407.19398](http://arxiv.org/abs/2407.19398)|null|
+|**2024-07-28**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal Subgraph Inference**|Qibin Zhang et.al.|[2407.19376](http://arxiv.org/abs/2407.19376)|null|
+|**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338](http://arxiv.org/abs/2407.19338)|null|
+|**2024-07-27**|**Can Modifying Data Address Graph Domain Adaptation?**|Renhong Huang et.al.|[2407.19311](http://arxiv.org/abs/2407.19311)|null|
+|**2024-07-27**|**Alleviating Over-Smoothing via Aggregation over Compact Manifolds**|Dongzhuoran Zhou et.al.|[2407.19231](http://arxiv.org/abs/2407.19231)|**[link](https://github.com/dongzhuoranzhou/acm)**|
+|**2024-07-27**|**Decomposing heterogeneous dynamical systems with graph neural networks**|Cédric Allier et.al.|[2407.19160](http://arxiv.org/abs/2407.19160)|null|
+|**2024-07-27**|**Debiased Graph Poisoning Attack via Contrastive Surrogate Objective**|Kanghoon Yoon et.al.|[2407.19155](http://arxiv.org/abs/2407.19155)|null|
+|**2024-07-26**|**Comparison of Geometrical Layouts for Next-Generation Large-volume Cherenkov Neutrino Telescopes**|Tong Zhu et.al.|[2407.19010](http://arxiv.org/abs/2407.19010)|null|
 |**2024-07-26**|**Enhancing material property prediction with ensemble deep graph convolutional networks**|Chowdhury Mohammad Abid Rahman et.al.|[2407.18847](http://arxiv.org/abs/2407.18847)|null|
 |**2024-07-26**|**Robust Learning in Bayesian Parallel Branching Graph Neural Networks: The Narrow Width Limit**|Zechen Zhang et.al.|[2407.18807](http://arxiv.org/abs/2407.18807)|null|
 |**2024-07-26**|**Learning production functions for supply chains with graph neural networks**|Serina Chang et.al.|[2407.18772](http://arxiv.org/abs/2407.18772)|null|
