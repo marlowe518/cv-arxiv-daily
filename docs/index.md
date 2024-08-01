@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -611,7 +611,7 @@ layout: default
 |**2024-07-28**|**Interpretable Triplet Importance for Personalized Ranking**|Bowei He et.al.|[2407.19469](http://arxiv.org/abs/2407.19469)|**[link](https://github.com/bokwaiho/itipr)**|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428](http://arxiv.org/abs/2407.19428)|null|
 |**2024-07-28**|**IDEA: A Flexible Framework of Certified Unlearning for Graph Neural Networks**|Yushun Dong et.al.|[2407.19398](http://arxiv.org/abs/2407.19398)|null|
-|**2024-07-28**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal Subgraph Inference**|Qibin Zhang et.al.|[2407.19376](http://arxiv.org/abs/2407.19376)|null|
+|**2024-07-28**|**CIDER: Counterfactual-Invariant Diffusion-based GNN Explainer for Causal Subgraph Inference**|Qibin Zhang et.al.|[2407.19376](http://arxiv.org/abs/2407.19376)|**[link](https://github.com/zhangqib/CIDER)**|
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338](http://arxiv.org/abs/2407.19338)|null|
 |**2024-07-27**|**Can Modifying Data Address Graph Domain Adaptation?**|Renhong Huang et.al.|[2407.19311](http://arxiv.org/abs/2407.19311)|null|
 |**2024-07-27**|**Alleviating Over-Smoothing via Aggregation over Compact Manifolds**|Dongzhuoran Zhou et.al.|[2407.19231](http://arxiv.org/abs/2407.19231)|**[link](https://github.com/dongzhuoranzhou/acm)**|
