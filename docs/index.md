@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**RDP: Ranked Differential Privacy for Facial Feature Protection in Multiscale Sparsified Subspace**|Lu Ou et.al.|[2408.00294](http://arxiv.org/abs/2408.00294)|null|
 |**2024-07-31**|**Grid-Based Decompositions for Spatial Data under Local Differential Privacy**|Berkay Kemal Balioglu et.al.|[2407.21624](http://arxiv.org/abs/2407.21624)|null|
 |**2024-07-31**|**Differentially Private Block-wise Gradient Shuffle for Deep Learning**|David Zagardo et.al.|[2407.21347](http://arxiv.org/abs/2407.21347)|null|
 |**2024-07-29**|**Unleash the Power of Ellipsis: Accuracy-enhanced Sparse Vector Technique with Exponential Noise**|Yuhan Liu et.al.|[2407.20068](http://arxiv.org/abs/2407.20068)|null|
@@ -595,6 +596,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700](http://arxiv.org/abs/2408.00700)|null|
+|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
+|**2024-08-01**|**Contrastive Graph Representation Learning with Adversarial Cross-view Reconstruction and Information Bottleneck**|Yuntao Shou et.al.|[2408.00295](http://arxiv.org/abs/2408.00295)|null|
+|**2024-08-01**|**Multi-Modal Parameter-Efficient Fine-tuning via Graph Neural Network**|Bin Cheng et.al.|[2408.00290](http://arxiv.org/abs/2408.00290)|null|
+|**2024-08-01**|**CDFGNN: a Systematic Design of Cache-based Distributed Full-Batch Graph Neural Network Training with Communication Reduction**|Shuai Zhang et.al.|[2408.00232](http://arxiv.org/abs/2408.00232)|null|
+|**2024-07-31**|**Non-convolutional Graph Neural Networks**|Yuanqing Wang et.al.|[2408.00165](http://arxiv.org/abs/2408.00165)|null|
 |**2024-07-31**|**UMMAN: Unsupervised Multi-graph Merge Adversarial Network for Disease Prediction Based on Intestinal Flora**|Dingkun Liu et.al.|[2407.21714](http://arxiv.org/abs/2407.21714)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
 |**2024-07-31**|**MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images**|JongWoo Kim et.al.|[2407.21604](http://arxiv.org/abs/2407.21604)|null|
