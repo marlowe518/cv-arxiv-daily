@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060](http://arxiv.org/abs/2408.02060)|null|
+|**2024-08-03**|**Differentially Private Gomory-Hu Trees**|Anders Aamand et.al.|[2408.01798](http://arxiv.org/abs/2408.01798)|null|
+|**2024-08-03**|**Fed-RD: Privacy-Preserving Federated Learning for Financial Crime Detection**|Md. Saikat Islam Khan et.al.|[2408.01609](http://arxiv.org/abs/2408.01609)|null|
 |**2024-08-02**|**Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix**|Seungeun Oh et.al.|[2408.01040](http://arxiv.org/abs/2408.01040)|null|
 |**2024-08-01**|**RDP: Ranked Differential Privacy for Facial Feature Protection in Multiscale Sparsified Subspace**|Lu Ou et.al.|[2408.00294](http://arxiv.org/abs/2408.00294)|null|
 |**2024-07-31**|**Grid-Based Decompositions for Spatial Data under Local Differential Privacy**|Berkay Kemal Balioglu et.al.|[2407.21624](http://arxiv.org/abs/2407.21624)|null|
@@ -597,6 +600,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Understanding Deep Learning via Notions of Rank**|Noam Razin et.al.|[2408.02111](http://arxiv.org/abs/2408.02111)|null|
+|**2024-08-04**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969](http://arxiv.org/abs/2408.01969)|null|
+|**2024-08-04**|**Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification**|Honglin Gao et.al.|[2408.01964](http://arxiv.org/abs/2408.01964)|null|
+|**2024-08-04**|**Bilateral Trade Flow Prediction by Gravity-informed Graph Auto-encoder**|Naoto Minakawa et.al.|[2408.01938](http://arxiv.org/abs/2408.01938)|null|
+|**2024-08-04**|**A Comprehensive Survey on GNN Characterization**|Meng Wu et.al.|[2408.01902](http://arxiv.org/abs/2408.01902)|null|
+|**2024-08-03**|**Invariant Graph Learning Meets Information Bottleneck for Out-of-Distribution Generalization**|Wenyu Mao et.al.|[2408.01697](http://arxiv.org/abs/2408.01697)|null|
+|**2024-08-02**|**Efficient Graph Coloring with Neural Networks: A Physics-Inspired Approach for Large Graphs**|Lorenzo Colantonio et.al.|[2408.01503](http://arxiv.org/abs/2408.01503)|null|
 |**2024-08-02**|**Tailoring Graph Neural Network-based Flow-guided Localization to Individual Bloodstreams and Activities**|Pablo Galván et.al.|[2408.01239](http://arxiv.org/abs/2408.01239)|null|
 |**2024-08-02**|**HeteroMorpheus: Universal Control Based on Morphological Heterogeneity Modeling**|YiFan Hao et.al.|[2408.01230](http://arxiv.org/abs/2408.01230)|null|
 |**2024-08-02**|**GNN-MolKAN: Harnessing the Power of KAN to Advance Molecular Representation Learning with GNNs**|Ruifeng Li et.al.|[2408.01018](http://arxiv.org/abs/2408.01018)|null|
