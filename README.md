@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315](http://arxiv.org/abs/2408.04315)|null|
+|**2024-08-08**|**Better Locally Private Sparse Estimation Given Multiple Samples Per User**|Yuheng Ma et.al.|[2408.04313](http://arxiv.org/abs/2408.04313)|**[link](https://github.com/karlmyh/uldp-sl)**|
+|**2024-08-08**|**Trustworthy Semantic-Enabled 6G Communication: A Task-oriented and Privacy-preserving Perspective**|Shuaishuai Guo et.al.|[2408.04188](http://arxiv.org/abs/2408.04188)|null|
 |**2024-08-06**|**PGB: Benchmarking Differentially Private Synthetic Graph Generation Algorithms**|Shang Liu et.al.|[2408.02928](http://arxiv.org/abs/2408.02928)|null|
 |**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060](http://arxiv.org/abs/2408.02060)|null|
 |**2024-08-03**|**Differentially Private Gomory-Hu Trees**|Anders Aamand et.al.|[2408.01798](http://arxiv.org/abs/2408.01798)|null|
@@ -607,6 +610,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs**|Daniil A. Boiko et.al.|[2408.04520](http://arxiv.org/abs/2408.04520)|**[link](https://github.com/gomesgroup/simg)**|
+|**2024-08-08**|**Understanding and Modeling Job Marketplace with Pretrained Language Models**|Yaochen Zhu et.al.|[2408.04381](http://arxiv.org/abs/2408.04381)|null|
+|**2024-08-08**|**Uncertainty-Aware Crime Prediction With Spatial Temporal Multivariate Graph Neural Networks**|Zepu Wang et.al.|[2408.04193](http://arxiv.org/abs/2408.04193)|null|
+|**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174](http://arxiv.org/abs/2408.04174)|null|
+|**2024-08-07**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic Assignment**|Tong Liu et.al.|[2408.04131](http://arxiv.org/abs/2408.04131)|null|
+|**2024-08-07**|**Deep Generative Models for Subgraph Prediction**|Erfaneh Mahmoudzadeh et.al.|[2408.04053](http://arxiv.org/abs/2408.04053)|null|
 |**2024-08-07**|**Knowledge Probing for Graph Representation Learning**|Mingyu Zhao et.al.|[2408.03877](http://arxiv.org/abs/2408.03877)|null|
 |**2024-08-07**|**Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks**|Jie Peng et.al.|[2408.03669](http://arxiv.org/abs/2408.03669)|null|
 |**2024-08-06**|**A Study on Quantum Graph Neural Networks Applied to Molecular Physics**|Simone Piperno et.al.|[2408.03427](http://arxiv.org/abs/2408.03427)|null|
