@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -17,7 +17,7 @@ layout: default
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
 |**2024-08-16**|**A Multivocal Literature Review on Privacy and Fairness in Federated Learning**|Beatrice Balbierer et.al.|[2408.08666](http://arxiv.org/abs/2408.08666)|null|
 |**2024-08-16**|**The Power of Bias: Optimizing Client Selection in Federated Learning with Heterogeneous Differential Privacy**|Jiating Ma et.al.|[2408.08642](http://arxiv.org/abs/2408.08642)|null|
-|**2024-08-16**|**Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**|Mary Anne Smart et.al.|[2408.08475](http://arxiv.org/abs/2408.08475)|null|
+|**2024-08-19**|**Models Matter: Setting Accurate Privacy Expectations for Local and Central Differential Privacy**|Mary Anne Smart et.al.|[2408.08475](http://arxiv.org/abs/2408.08475)|null|
 |**2024-08-16**|**Fairness Issues and Mitigations in (Differentially Private) Socio-demographic Data Processes**|Joonhyuk Ko et.al.|[2408.08471](http://arxiv.org/abs/2408.08471)|null|
 |**2024-08-15**|**Communication-robust and Privacy-safe Distributed Estimation for Heterogeneous Community-level Behind-the-meter Solar Power Generation**|Jinglei Feng et.al.|[2408.08107](http://arxiv.org/abs/2408.08107)|null|
 |**2024-08-14**|**Practical Considerations for Differential Privacy**|Kareem Amin et.al.|[2408.07614](http://arxiv.org/abs/2408.07614)|null|
@@ -631,7 +631,7 @@ layout: default
 |**2024-08-16**|**An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484](http://arxiv.org/abs/2408.08484)|**[link](https://github.com/luckyseasalt/pioneer)**|
 |**2024-08-14**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726](http://arxiv.org/abs/2408.07726)|**[link](https://github.com/nikita6187/transportplanningdataset)**|
 |**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
-|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|null|
+|**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|**[link](https://github.com/hku-medai/mult-ehr)**|
 |**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340](http://arxiv.org/abs/2408.07340)|**[link](https://github.com/jypeng28/mse-gnn)**|
 |**2024-08-14**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331](http://arxiv.org/abs/2408.07331)|null|
 |**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233](http://arxiv.org/abs/2408.07233)|null|
