@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-08-22**|**Distributed quasi-Newton robust estimation under differential privacy**|Chuhan Wang et.al.|[2408.12353](http://arxiv.org/abs/2408.12353)|null|
 |**2024-08-21**|**Confounding Privacy and Inverse Composition**|Tao Zhang et.al.|[2408.12010](http://arxiv.org/abs/2408.12010)|null|
 |**2024-08-21**|**Private Counting of Distinct Elements in the Turnstile Model and Extensions**|Monika Henzinger et.al.|[2408.11637](http://arxiv.org/abs/2408.11637)|null|
-|**2024-08-20**|**Feature Selection from Differentially Private Correlations**|Ryan Swope et.al.|[2408.10862](http://arxiv.org/abs/2408.10862)|null|
+|**2024-08-23**|**Feature Selection from Differentially Private Correlations**|Ryan Swope et.al.|[2408.10862](http://arxiv.org/abs/2408.10862)|null|
 |**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|**[link](https://github.com/star-ailab/FSRDP)**|
 |**2024-08-19**|**Calibrating Noise for Group Privacy in Subsampled Mechanisms**|Yangfan Jiang et.al.|[2408.09943](http://arxiv.org/abs/2408.09943)|null|
 |**2024-08-19**|**Differential Private Stochastic Optimization with Heavy-tailed Data: Towards Optimal Rates**|Puning Zhao et.al.|[2408.09891](http://arxiv.org/abs/2408.09891)|null|
@@ -633,13 +633,13 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-22**|**Advanced atom-level representations for protein flexibility prediction utilizing graph neural networks**|Sina Sarparast et.al.|[2408.12519](http://arxiv.org/abs/2408.12519)|null|
 |**2024-08-22**|**Enhanced Expressivity in Graph Neural Networks with Lanczos-Based Linear Constraints**|Niloofar Azizi et.al.|[2408.12334](http://arxiv.org/abs/2408.12334)|null|
 |**2024-08-22**|**Fair Augmentation for Graph Collaborative Filtering**|Ludovico Boratto et.al.|[2408.12208](http://arxiv.org/abs/2408.12208)|**[link](https://github.com/jackmedda/fa4gcf)**|
@@ -2161,7 +2161,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
