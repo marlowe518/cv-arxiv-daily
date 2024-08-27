@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
+|**2024-08-24**|**Enabling Humanitarian Applications with Targeted Differential Privacy**|Nitin Kohli et.al.|[2408.13424](http://arxiv.org/abs/2408.13424)|null|
+|**2024-08-21**|**Randomization Techniques to Mitigate the Risk of Copyright Infringement**|Wei-Ning Chen et.al.|[2408.13278](http://arxiv.org/abs/2408.13278)|null|
+|**2024-08-20**|**An Information-Theoretic Approach to Generalization Theory**|Borja Rodríguez-Gálvez et.al.|[2408.13275](http://arxiv.org/abs/2408.13275)|null|
 |**2024-08-23**|**Differentially Private Spatiotemporal Trajectory Synthesis with Retained Data Utility**|Yuqing Ge et.al.|[2408.12842](http://arxiv.org/abs/2408.12842)|**[link](https://github.com/Etherious72/DP-STTS)**|
 |**2024-08-22**|**Sharper Bounds for Chebyshev Moment Matching with Applications to Differential Privacy and Beyond**|Cameron Musco et.al.|[2408.12385](http://arxiv.org/abs/2408.12385)|null|
 |**2024-08-22**|**Distributed quasi-Newton robust estimation under differential privacy**|Chuhan Wang et.al.|[2408.12353](http://arxiv.org/abs/2408.12353)|null|
@@ -640,6 +644,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks**|Gang Qu et.al.|[2408.14254](http://arxiv.org/abs/2408.14254)|null|
+|**2024-08-26**|**Exploring the Potential of Large Language Models for Heterophilic Graphs**|Yuxia Wu et.al.|[2408.14134](http://arxiv.org/abs/2408.14134)|null|
+|**2024-08-26**|**PAGE: Parametric Generative Explainer for Graph Neural Network**|Yang Qiu et.al.|[2408.14042](http://arxiv.org/abs/2408.14042)|null|
+|**2024-08-25**|**Optimizing Luxury Vehicle Dealership Networks: A Graph Neural Network Approach to Site Selection**|Luca Silvano Carocci et.al.|[2408.13961](http://arxiv.org/abs/2408.13961)|null|
+|**2024-08-25**|**Generalization of Graph Neural Networks is Robust to Model Mismatch**|Zhiyang Wang et.al.|[2408.13878](http://arxiv.org/abs/2408.13878)|null|
+|**2024-08-25**|**RoCP-GNN: Robust Conformal Prediction for Graph Neural Networks in Node-Classification**|S. Akansha et.al.|[2408.13825](http://arxiv.org/abs/2408.13825)|null|
+|**2024-08-24**|**GNN: Graph Neural Network and Large Language Model Based for Data Discovery**|Thomas Hoang et.al.|[2408.13609](http://arxiv.org/abs/2408.13609)|null|
+|**2024-08-24**|**Knowledge-Aware Conversation Derailment Forecasting Using Graph Convolutional Networks**|Enas Altarawneh et.al.|[2408.13440](http://arxiv.org/abs/2408.13440)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
 |**2024-08-23**|**Disentangling, Amplifying, and Debiasing: Learning Disentangled Representations for Fair Graph Neural Networks**|Yeon-Chang Lee et.al.|[2408.12875](http://arxiv.org/abs/2408.12875)|null|
 |**2024-08-23**|**HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices**|Ao Zhou et.al.|[2408.12840](http://arxiv.org/abs/2408.12840)|null|
