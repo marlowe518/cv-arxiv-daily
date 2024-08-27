@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -21,7 +21,7 @@ layout: default
 |**2024-08-21**|**Private Counting of Distinct Elements in the Turnstile Model and Extensions**|Monika Henzinger et.al.|[2408.11637](http://arxiv.org/abs/2408.11637)|null|
 |**2024-08-23**|**Feature Selection from Differentially Private Correlations**|Ryan Swope et.al.|[2408.10862](http://arxiv.org/abs/2408.10862)|null|
 |**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|**[link](https://github.com/star-ailab/FSRDP)**|
-|**2024-08-19**|**Calibrating Noise for Group Privacy in Subsampled Mechanisms**|Yangfan Jiang et.al.|[2408.09943](http://arxiv.org/abs/2408.09943)|null|
+|**2024-08-24**|**Calibrating Noise for Group Privacy in Subsampled Mechanisms**|Yangfan Jiang et.al.|[2408.09943](http://arxiv.org/abs/2408.09943)|null|
 |**2024-08-19**|**Differential Private Stochastic Optimization with Heavy-tailed Data: Towards Optimal Rates**|Puning Zhao et.al.|[2408.09891](http://arxiv.org/abs/2408.09891)|null|
 |**2024-08-18**|**Mitigating Noise Detriment in Differentially Private Federated Learning with Model Pre-training**|Huitong Jin et.al.|[2408.09478](http://arxiv.org/abs/2408.09478)|null|
 |**2024-08-13**|**An Adaptive Differential Privacy Method Based on Federated Learning**|Zhiqiang Wang et.al.|[2408.08909](http://arxiv.org/abs/2408.08909)|null|
