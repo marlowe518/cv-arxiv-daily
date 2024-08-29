@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621](http://arxiv.org/abs/2408.15621)|null|
 |**2024-08-27**|**Differentially Private Estimation of Weighted Average Treatment Effects for Binary Outcomes**|Sharmistha Guha et.al.|[2408.14766](http://arxiv.org/abs/2408.14766)|null|
 |**2024-08-27**|**Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation**|Bochao Liu et.al.|[2408.14738](http://arxiv.org/abs/2408.14738)|null|
 |**2024-08-27**|**PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework with Correlated Differential Privacy**|Xianzhi Zhang et.al.|[2408.14735](http://arxiv.org/abs/2408.14735)|null|
@@ -642,6 +643,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**The Role of Fibration Symmetries in Geometric Deep Learning**|Osvaldo Velarde et.al.|[2408.15894](http://arxiv.org/abs/2408.15894)|null|
+|**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750](http://arxiv.org/abs/2408.15750)|null|
+|**2024-08-28**|**Affordable HPC: Leveraging Small Clusters for Big Data and Graph Computing**|Ruilong Wu et.al.|[2408.15568](http://arxiv.org/abs/2408.15568)|null|
+|**2024-08-27**|**Understanding GNNs for Boolean Satisfiability through Approximation Algorithms**|Jan Hůla et.al.|[2408.15418](http://arxiv.org/abs/2408.15418)|null|
+|**2024-08-27**|**Temporal Graph Neural Network-Powered Paper Recommendation on Dynamic Citation Networks**|Junhao Shen et.al.|[2408.15371](http://arxiv.org/abs/2408.15371)|null|
+|**2024-08-27**|**Multi-domain Network Slice Partitioning: A Graph Neural Network Algorithm**|Zhouxiang Wu et.al.|[2408.15342](http://arxiv.org/abs/2408.15342)|null|
+|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294](http://arxiv.org/abs/2408.15294)|null|
 |**2024-08-27**|**SiHGNN: Leveraging Properties of Semantic Graphs for Efficient HGNN Acceleration**|Runzhen Xue et.al.|[2408.15089](http://arxiv.org/abs/2408.15089)|null|
 |**2024-08-27**|**Earth Observation Satellite Scheduling with Graph Neural Networks**|Antoine Jacquet et.al.|[2408.15041](http://arxiv.org/abs/2408.15041)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964](http://arxiv.org/abs/2408.14964)|null|
