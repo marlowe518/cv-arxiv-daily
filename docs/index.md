@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Learning Privacy-Preserving Student Networks via Discriminative-Generative Distillation**|Shiming Ge et.al.|[2409.02404](http://arxiv.org/abs/2409.02404)|null|
+|**2024-09-03**|**Differentially Private Kernel Density Estimation**|Erzhi Liu et.al.|[2409.01688](http://arxiv.org/abs/2409.01688)|null|
+|**2024-09-02**|**Assessing the Impact of Image Dataset Features on Privacy-Preserving Machine Learning**|Lucas Lange et.al.|[2409.01329](http://arxiv.org/abs/2409.01329)|null|
+|**2024-08-31**|**Demo: FedCampus: A Real-world Privacy-preserving Mobile Application for Smart Campus via Federated Learning & Analytics**|Jiaxiang Geng et.al.|[2409.00327](http://arxiv.org/abs/2409.00327)|null|
+|**2024-08-31**|**Differentially Private Synthetic High-dimensional Tabular Stream**|Girish Kumar et.al.|[2409.00322](http://arxiv.org/abs/2409.00322)|null|
 |**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|null|
 |**2024-08-29**|**Analyzing Inference Privacy Risks Through Gradients in Machine Learning**|Zhuohang Li et.al.|[2408.16913](http://arxiv.org/abs/2408.16913)|null|
 |**2024-08-24**|**Differentially Private Publication of Electricity Time Series Data in Smart Grids**|Sina Shaham et.al.|[2408.16017](http://arxiv.org/abs/2408.16017)|null|
@@ -646,6 +651,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Regional data-driven weather modeling with a global stretched-grid**|Thomas Nils Nipen et.al.|[2409.02891](http://arxiv.org/abs/2409.02891)|null|
+|**2024-09-04**|**Task-Oriented Communication for Graph Data: A Graph Information Bottleneck Approach**|Shujing Li et.al.|[2409.02728](http://arxiv.org/abs/2409.02728)|null|
+|**2024-09-02**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|null|
+|**2024-09-04**|**Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification**|Junyoung Lee et.al.|[2409.02481](http://arxiv.org/abs/2409.02481)|null|
+|**2024-09-03**|**A Lesion-aware Edge-based Graph Neural Network for Predicting Language Ability in Patients with Post-stroke Aphasia**|Zijian Chen et.al.|[2409.02303](http://arxiv.org/abs/2409.02303)|null|
+|**2024-09-03**|**Accelerating Graph Neural Networks with a Novel Matrix Compression Format**|João N. F. Alves et.al.|[2409.02208](http://arxiv.org/abs/2409.02208)|null|
+|**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
+|**2024-09-01**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126](http://arxiv.org/abs/2409.02126)|null|
+|**2024-09-03**|**Large-scale Urban Facility Location Selection with Knowledge-informed Reinforcement Learning**|Hongyuan Su et.al.|[2409.01588](http://arxiv.org/abs/2409.01588)|null|
+|**2024-09-02**|**VLSI Hypergraph Partitioning with Deep Learning**|Muhammad Hadir Khan et.al.|[2409.01387](http://arxiv.org/abs/2409.01387)|null|
+|**2024-09-02**|**Generating Packet-Level Header Traces Using GNN-powered GAN**|Zhen Xu et.al.|[2409.01265](http://arxiv.org/abs/2409.01265)|null|
+|**2024-09-02**|**Fitting trees to $\ell_1$ -hyperbolic distances**|Joon-Hyeok Yim et.al.|[2409.01010](http://arxiv.org/abs/2409.01010)|null|
+|**2024-09-02**|**Solving Integrated Process Planning and Scheduling Problem via Graph Neural Network Based Deep Reinforcement Learning**|Hongpei Li et.al.|[2409.00968](http://arxiv.org/abs/2409.00968)|null|
+|**2024-09-01**|**Curvy: A Parametric Cross-section based Surface Reconstruction**|Aradhya N. Mathur et.al.|[2409.00829](http://arxiv.org/abs/2409.00829)|null|
+|**2024-09-01**|**RTop-K: Ultra-Fast Row-Wise Top-K Algorithm and GPU Implementation for Neural Networks**|Xi Xie et.al.|[2409.00822](http://arxiv.org/abs/2409.00822)|null|
+|**2024-09-01**|**HopGNN: Boosting Distributed GNN Training Efficiency via Feature-Centric Model Migration**|Weijian Chen et.al.|[2409.00657](http://arxiv.org/abs/2409.00657)|null|
+|**2024-09-01**|**Roundabout Dilemma Zone Data Mining and Forecasting with Trajectory Prediction and Graph Neural Networks**|Manthan Chelenahalli Satish et.al.|[2409.00622](http://arxiv.org/abs/2409.00622)|null|
+|**2024-09-01**|**Spatio-spectral graph neural operator for solving computational mechanics problems on irregular domain and unstructured grid**|Subhankar Sarkar et.al.|[2409.00604](http://arxiv.org/abs/2409.00604)|null|
 |**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366](http://arxiv.org/abs/2408.17366)|null|
 |**2024-08-30**|**A Homogeneous Graph Neural Network for Precoding and Power Allocation in Scalable Wireless Networks**|Mingjun Sun et.al.|[2408.17252](http://arxiv.org/abs/2408.17252)|null|
 |**2024-08-30**|**Search for $t\bar{t}H/A \rightarrow t\bar{t}t\bar{t}$ production in proton-proton collisions at $\sqrt{s}=13$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2408.17164](http://arxiv.org/abs/2408.17164)|null|
