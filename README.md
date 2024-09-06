@@ -18,12 +18,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**A Different Level Text Protection Mechanism With Differential Privacy**|Qingwen Fu et.al.|[2409.03707](http://arxiv.org/abs/2409.03707)|null|
+|**2024-09-05**|**Privacy versus Emotion Preservation Trade-offs in Emotion-Preserving Speaker Anonymization**|Zexin Cai et.al.|[2409.03655](http://arxiv.org/abs/2409.03655)|null|
+|**2024-09-05**|**Rethinking Improved Privacy-Utility Trade-off with Pre-existing Knowledge for DP Training**|Yu Zheng et.al.|[2409.03344](http://arxiv.org/abs/2409.03344)|null|
+|**2024-09-05**|**Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning**|Huaxi Huang et.al.|[2409.03326](http://arxiv.org/abs/2409.03326)|null|
 |**2024-09-04**|**Learning Privacy-Preserving Student Networks via Discriminative-Generative Distillation**|Shiming Ge et.al.|[2409.02404](http://arxiv.org/abs/2409.02404)|null|
 |**2024-09-03**|**Differentially Private Kernel Density Estimation**|Erzhi Liu et.al.|[2409.01688](http://arxiv.org/abs/2409.01688)|null|
-|**2024-09-02**|**Assessing the Impact of Image Dataset Features on Privacy-Preserving Machine Learning**|Lucas Lange et.al.|[2409.01329](http://arxiv.org/abs/2409.01329)|null|
+|**2024-09-02**|**Assessing the Impact of Image Dataset Features on Privacy-Preserving Machine Learning**|Lucas Lange et.al.|[2409.01329](http://arxiv.org/abs/2409.01329)|**[link](https://github.com/luckyos-code/dataset-analysis-ppml)**|
 |**2024-08-31**|**Demo: FedCampus: A Real-world Privacy-preserving Mobile Application for Smart Campus via Federated Learning & Analytics**|Jiaxiang Geng et.al.|[2409.00327](http://arxiv.org/abs/2409.00327)|null|
 |**2024-08-31**|**Differentially Private Synthetic High-dimensional Tabular Stream**|Girish Kumar et.al.|[2409.00322](http://arxiv.org/abs/2409.00322)|null|
-|**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|null|
+|**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|**[link](https://github.com/mohammed-dawoud/differentially-private-set-based-estimation-using-zonotopes)**|
 |**2024-08-29**|**Analyzing Inference Privacy Risks Through Gradients in Machine Learning**|Zhuohang Li et.al.|[2408.16913](http://arxiv.org/abs/2408.16913)|null|
 |**2024-08-24**|**Differentially Private Publication of Electricity Time Series Data in Smart Grids**|Sina Shaham et.al.|[2408.16017](http://arxiv.org/abs/2408.16017)|null|
 |**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621](http://arxiv.org/abs/2408.15621)|null|
@@ -657,6 +661,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463](http://arxiv.org/abs/2409.03463)|**[link](https://github.com/msorbi/gnn-ma)**|
+|**2024-09-05**|**Efficient prediction of potential energy surface and physical properties with Kolmogorov-Arnold Networks**|Rui Wang et.al.|[2409.03430](http://arxiv.org/abs/2409.03430)|null|
+|**2024-09-04**|**Do We Trust What They Say or What They Do? A Multimodal User Embedding Provides Personalized Explanations**|Zhicheng Ren et.al.|[2409.02965](http://arxiv.org/abs/2409.02965)|null|
 |**2024-09-04**|**Regional data-driven weather modeling with a global stretched-grid**|Thomas Nils Nipen et.al.|[2409.02891](http://arxiv.org/abs/2409.02891)|null|
 |**2024-09-04**|**Task-Oriented Communication for Graph Data: A Graph Information Bottleneck Approach**|Shujing Li et.al.|[2409.02728](http://arxiv.org/abs/2409.02728)|null|
 |**2024-09-02**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|null|
@@ -664,7 +671,7 @@
 |**2024-09-03**|**A Lesion-aware Edge-based Graph Neural Network for Predicting Language Ability in Patients with Post-stroke Aphasia**|Zijian Chen et.al.|[2409.02303](http://arxiv.org/abs/2409.02303)|null|
 |**2024-09-03**|**Accelerating Graph Neural Networks with a Novel Matrix Compression Format**|João N. F. Alves et.al.|[2409.02208](http://arxiv.org/abs/2409.02208)|null|
 |**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
-|**2024-09-01**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126](http://arxiv.org/abs/2409.02126)|null|
+|**2024-09-01**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126](http://arxiv.org/abs/2409.02126)|**[link](https://github.com/Lollo0900/Plumbed_3-Manifolds)**|
 |**2024-09-03**|**Large-scale Urban Facility Location Selection with Knowledge-informed Reinforcement Learning**|Hongyuan Su et.al.|[2409.01588](http://arxiv.org/abs/2409.01588)|null|
 |**2024-09-02**|**VLSI Hypergraph Partitioning with Deep Learning**|Muhammad Hadir Khan et.al.|[2409.01387](http://arxiv.org/abs/2409.01387)|null|
 |**2024-09-02**|**Generating Packet-Level Header Traces Using GNN-powered GAN**|Zhen Xu et.al.|[2409.01265](http://arxiv.org/abs/2409.01265)|null|
