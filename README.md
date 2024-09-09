@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -655,7 +655,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -672,7 +672,7 @@
 |**2024-09-03**|**Accelerating Graph Neural Networks with a Novel Matrix Compression Format**|João N. F. Alves et.al.|[2409.02208](http://arxiv.org/abs/2409.02208)|null|
 |**2024-09-03**|**Optimal Power Grid Operations with Foundation Models**|Alban Puech et.al.|[2409.02148](http://arxiv.org/abs/2409.02148)|null|
 |**2024-09-01**|**Detecting Homeomorphic 3-manifolds via Graph Neural Networks**|Craig Lawrie et.al.|[2409.02126](http://arxiv.org/abs/2409.02126)|**[link](https://github.com/Lollo0900/Plumbed_3-Manifolds)**|
-|**2024-09-03**|**Large-scale Urban Facility Location Selection with Knowledge-informed Reinforcement Learning**|Hongyuan Su et.al.|[2409.01588](http://arxiv.org/abs/2409.01588)|null|
+|**2024-09-06**|**Large-scale Urban Facility Location Selection with Knowledge-informed Reinforcement Learning**|Hongyuan Su et.al.|[2409.01588](http://arxiv.org/abs/2409.01588)|null|
 |**2024-09-02**|**VLSI Hypergraph Partitioning with Deep Learning**|Muhammad Hadir Khan et.al.|[2409.01387](http://arxiv.org/abs/2409.01387)|null|
 |**2024-09-02**|**Generating Packet-Level Header Traces Using GNN-powered GAN**|Zhen Xu et.al.|[2409.01265](http://arxiv.org/abs/2409.01265)|null|
 |**2024-09-02**|**Fitting trees to $\ell_1$ -hyperbolic distances**|Joon-Hyeok Yim et.al.|[2409.01010](http://arxiv.org/abs/2409.01010)|null|
@@ -2249,7 +2249,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
