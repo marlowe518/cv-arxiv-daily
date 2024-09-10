@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**A Framework for Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2409.05623](http://arxiv.org/abs/2409.05623)|null|
+|**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249](http://arxiv.org/abs/2409.05249)|null|
+|**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972](http://arxiv.org/abs/2409.04972)|null|
+|**2024-09-06**|**Privacy-Preserving Race/Ethnicity Estimation for Algorithmic Bias Measurement in the U.S**|Saikrishna Badrinarayanan et.al.|[2409.04652](http://arxiv.org/abs/2409.04652)|null|
+|**2024-09-06**|**Notes on Sampled Gaussian Mechanism**|Nikita P. Kalinin et.al.|[2409.04636](http://arxiv.org/abs/2409.04636)|null|
 |**2024-09-06**|**Best Linear Unbiased Estimate from Privatized Histograms**|Jordan Awan et.al.|[2409.04387](http://arxiv.org/abs/2409.04387)|null|
 |**2024-09-06**|**A Generalization of Axiomatic Approach to Information Leakage**|Mohammad Amin Zarrabian et.al.|[2409.04108](http://arxiv.org/abs/2409.04108)|null|
 |**2024-09-06**|**Efficient Fault-Tolerant Quantum Protocol for Differential Privacy in the Shuffle Model**|Hassan Jameel Asghar et.al.|[2409.04026](http://arxiv.org/abs/2409.04026)|null|
@@ -664,6 +669,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Celcomen: spatial causal disentanglement for single-cell and tissue perturbation modeling**|Stathis Megas et.al.|[2409.05804](http://arxiv.org/abs/2409.05804)|null|
+|**2024-09-09**|**Are Heterophily-Specific GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks**|Sitao Luan et.al.|[2409.05755](http://arxiv.org/abs/2409.05755)|null|
+|**2024-09-09**|**Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation**|Bowen Zheng et.al.|[2409.05633](http://arxiv.org/abs/2409.05633)|null|
+|**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573](http://arxiv.org/abs/2409.05573)|null|
+|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
+|**2024-09-09**|**Graffin: Stand for Tails in Imbalanced Node Classification**|Xiaorui Qi et.al.|[2409.05339](http://arxiv.org/abs/2409.05339)|null|
+|**2024-09-09**|**Investigating Material Interface Diffusion Phenomena through Graph Neural Networks in Applied Materials**|Zirui Zhao et.al.|[2409.05306](http://arxiv.org/abs/2409.05306)|null|
+|**2024-09-08**|**Generalization of Geometric Graph Neural Networks**|Zhiyang Wang et.al.|[2409.05191](http://arxiv.org/abs/2409.05191)|null|
+|**2024-09-08**|**Learning polycrystal plasticity using mesh-based subgraph geometric deep learning**|Hanfeng Zhai et.al.|[2409.05169](http://arxiv.org/abs/2409.05169)|null|
+|**2024-09-08**|**MaxCutPool: differentiable feature-aware Maxcut for pooling in graph neural networks**|Carlo Abate et.al.|[2409.05100](http://arxiv.org/abs/2409.05100)|null|
+|**2024-09-08**|**Towards Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control**|Kang Wang et.al.|[2409.05037](http://arxiv.org/abs/2409.05037)|null|
+|**2024-09-07**|**Sequential Classification of Misinformation**|Daniel Toma et.al.|[2409.04860](http://arxiv.org/abs/2409.04860)|null|
+|**2024-09-07**|**Up-sampling-only and Adaptive Mesh-based GNN for Simulating Physical Systems**|Fu Lin et.al.|[2409.04740](http://arxiv.org/abs/2409.04740)|null|
+|**2024-09-07**|**CrysAtom: Distributed Representation of Atoms for Crystal Property Prediction**|Shrimon Mukherjee et.al.|[2409.04737](http://arxiv.org/abs/2409.04737)|null|
+|**2024-09-06**|**Solving Stochastic Orienteering Problems with Chance Constraints Using a GNN Powered Monte Carlo Tree Search**|Marcos Abel Zuzuárregui et.al.|[2409.04653](http://arxiv.org/abs/2409.04653)|null|
+|**2024-09-06**|**Detection of False Data Injection Attacks (FDIA) on Power Dynamical Systems With a State Prediction Method**|Abhijeet Sahu et.al.|[2409.04609](http://arxiv.org/abs/2409.04609)|null|
 |**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434](http://arxiv.org/abs/2409.04434)|**[link](https://github.com/samsungsailmontreal/nino)**|
 |**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183](http://arxiv.org/abs/2409.04183)|null|
 |**2024-09-06**|**CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks**|Clemens Damke et.al.|[2409.04159](http://arxiv.org/abs/2409.04159)|null|
