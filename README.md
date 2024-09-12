@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Is merging worth it? Securely evaluating the information gain for causal dataset acquisition**|Jake Fawkes et.al.|[2409.07215](http://arxiv.org/abs/2409.07215)|null|
+|**2024-09-11**|**A Simple Linear Space Data Structure for ANN with Application in Differential Privacy**|Martin Aumüller et.al.|[2409.07187](http://arxiv.org/abs/2409.07187)|null|
+|**2024-09-11**|**CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion**|Joshua Kazdan et.al.|[2409.07025](http://arxiv.org/abs/2409.07025)|null|
+|**2024-09-10**|**Understanding and Mitigating the Impacts of Differentially Private Census Data on State Level Redistricting**|Christian Cianfarani et.al.|[2409.06801](http://arxiv.org/abs/2409.06801)|null|
 |**2024-09-09**|**A Framework for Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2409.05623](http://arxiv.org/abs/2409.05623)|null|
 |**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249](http://arxiv.org/abs/2409.05249)|null|
 |**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972](http://arxiv.org/abs/2409.04972)|null|
@@ -669,6 +673,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
+|**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339](http://arxiv.org/abs/2409.07339)|null|
+|**2024-09-11**|**Recurrent Aggregators in Neural Algorithmic Reasoning**|Kaijia Xu et.al.|[2409.07154](http://arxiv.org/abs/2409.07154)|null|
+|**2024-09-11**|**Learning Personalized Scoping for Graph Neural Networks under Heterophily**|Gangda Deng et.al.|[2409.06998](http://arxiv.org/abs/2409.06998)|null|
+|**2024-09-10**|**Generative Hierarchical Materials Search**|Sherry Yang et.al.|[2409.06762](http://arxiv.org/abs/2409.06762)|null|
+|**2024-09-10**|**EasyST: A Simple Framework for Spatio-Temporal Prediction**|Jiabin Tang et.al.|[2409.06748](http://arxiv.org/abs/2409.06748)|null|
 |**2024-09-10**|**Seg-HGNN: Unsupervised and Light-Weight Image Segmentation with Hyperbolic Graph Neural Networks**|Debjyoti Mondal et.al.|[2409.06589](http://arxiv.org/abs/2409.06589)|null|
 |**2024-09-10**|**Learn2Aggregate: Supervised Generation of Chvátal-Gomory Cuts Using Graph Neural Networks**|Arnaud Deza et.al.|[2409.06559](http://arxiv.org/abs/2409.06559)|null|
 |**2024-09-10**|**Neural Laplacian Operator for 3D Point Clouds**|Bo Pang et.al.|[2409.06506](http://arxiv.org/abs/2409.06506)|null|
