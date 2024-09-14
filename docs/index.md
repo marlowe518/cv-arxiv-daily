@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.13
+## Updated on 2024.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -680,7 +680,7 @@ layout: default
 |**2024-09-12**|**Graph Neural Networks for Parkinsons Disease Detection**|Shakeel A. Sheikh et.al.|[2409.07884](http://arxiv.org/abs/2409.07884)|null|
 |**2024-09-12**|**Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks**|Shivam Barwey et.al.|[2409.07769](http://arxiv.org/abs/2409.07769)|null|
 |**2024-09-12**|**GRE^2-MDCL: Graph Representation Embedding Enhanced via Multidimensional Contrastive Learning**|Kaizhe Fan et.al.|[2409.07725](http://arxiv.org/abs/2409.07725)|null|
-|**2024-09-11**|**Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664](http://arxiv.org/abs/2409.07664)|null|
+|**2024-09-11**|**Rapid Assessment of Stable Crystal Structures in Single Phase High Entropy Alloys Via Graph Neural Network Based Surrogate Modelling**|Nicholas Beaver et.al.|[2409.07664](http://arxiv.org/abs/2409.07664)|**[link](https://github.com/nicholasjbeaver/HEA-Energy-Sampling)**|
 |**2024-09-11**|**Leveraging User-Generated Reviews for Recommender Systems with Dynamic Headers**|Shanu Vashishtha et.al.|[2409.07627](http://arxiv.org/abs/2409.07627)|null|
 |**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
 |**2024-09-11**|**Descriptors-free Collective Variables From Geometric Graph Neural Networks**|Jintu Zhang et.al.|[2409.07339](http://arxiv.org/abs/2409.07339)|null|
