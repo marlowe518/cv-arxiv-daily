@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Benchmarking Secure Sampling Protocols for Differential Privacy**|Yucheng Fu et.al.|[2409.10667](http://arxiv.org/abs/2409.10667)|null|
 |**2024-09-16**|**Privately Learning Smooth Distributions on the Hypercube by Projections**|Clément Lalanne et.al.|[2409.10083](http://arxiv.org/abs/2409.10083)|null|
 |**2024-09-15**|**Nebula: Efficient, Private and Accurate Histogram Estimation**|Ali Shahin Shamsabadi et.al.|[2409.09676](http://arxiv.org/abs/2409.09676)|null|
 |**2024-09-14**|**A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell's Theorem**|Weijie J. Su et.al.|[2409.09558](http://arxiv.org/abs/2409.09558)|null|
@@ -677,6 +678,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Uncertainty and Prediction Quality Estimation for Semantic Segmentation via Graph Neural Networks**|Edgar Heinert et.al.|[2409.11373](http://arxiv.org/abs/2409.11373)|null|
+|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
+|**2024-09-17**|**MI-HGNN: Morphology-Informed Heterogeneous Graph Neural Network for Legged Robot Contact Perception**|Daniel Butterfield et.al.|[2409.11146](http://arxiv.org/abs/2409.11146)|null|
+|**2024-09-17**|**Can Graph Reordering Speed Up Graph Neural Network Training? An Experimental Study**|Nikolai Merkel et.al.|[2409.11129](http://arxiv.org/abs/2409.11129)|**[link](https://github.com/nikolaimerkel/reordering)**|
+|**2024-09-17**|**GINTRIP: Interpretable Temporal Graph Regression using Information bottleneck and Prototype-based method**|Ali Royat et.al.|[2409.10996](http://arxiv.org/abs/2409.10996)|null|
+|**2024-09-17**|**Contrasformer: A Brain Network Contrastive Transformer for Neurodegenerative Condition Identification**|Jiaxing Xu et.al.|[2409.10944](http://arxiv.org/abs/2409.10944)|**[link](https://github.com/angusmonroe/contrasformer)**|
+|**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
+|**2024-09-16**|**Recurrent Graph Transformer Network for Multiple Fault Localization in Naval Shipboard Systems**|Quang-Ha Ngo et.al.|[2409.10792](http://arxiv.org/abs/2409.10792)|null|
 |**2024-09-16**|**Signed Graph Autoencoder for Explainable and Polarization-Aware Network Embeddings**|Nikolaos Nakis et.al.|[2409.10452](http://arxiv.org/abs/2409.10452)|null|
 |**2024-09-16**|**Hyperedge Modeling in Hypergraph Neural Networks by using Densest Overlapping Subgraphs**|Mehrad Soltani et.al.|[2409.10340](http://arxiv.org/abs/2409.10340)|null|
 |**2024-09-16**|**Deep Graph Anomaly Detection: A Survey and New Perspectives**|Hezhe Qiao et.al.|[2409.09957](http://arxiv.org/abs/2409.09957)|**[link](https://github.com/mala-lab/awesome-deep-graph-anomaly-detection)**|
