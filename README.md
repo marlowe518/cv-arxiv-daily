@@ -37,7 +37,7 @@
 |**2024-09-11**|**CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion**|Joshua Kazdan et.al.|[2409.07025](http://arxiv.org/abs/2409.07025)|null|
 |**2024-09-10**|**Understanding and Mitigating the Impacts of Differentially Private Census Data on State Level Redistricting**|Christian Cianfarani et.al.|[2409.06801](http://arxiv.org/abs/2409.06801)|null|
 |**2024-09-09**|**A Framework for Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2409.05623](http://arxiv.org/abs/2409.05623)|null|
-|**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249](http://arxiv.org/abs/2409.05249)|null|
+|**2024-09-08**|**NetDPSyn: Synthesizing Network Traces under Differential Privacy**|Danyu Sun et.al.|[2409.05249](http://arxiv.org/abs/2409.05249)|**[link](https://github.com/DanyuSun/NetDPSyn)**|
 |**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972](http://arxiv.org/abs/2409.04972)|null|
 |**2024-09-16**|**Privacy-Preserving Race/Ethnicity Estimation for Algorithmic Bias Measurement in the U.S**|Saikrishna Badrinarayanan et.al.|[2409.04652](http://arxiv.org/abs/2409.04652)|null|
 |**2024-09-06**|**Notes on Sampled Gaussian Mechanism**|Nikita P. Kalinin et.al.|[2409.04636](http://arxiv.org/abs/2409.04636)|null|
