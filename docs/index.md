@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**What to Consider When Considering Differential Privacy for Policy**|Priyanka Nanayakkara et.al.|[2409.11680](http://arxiv.org/abs/2409.11680)|null|
-|**2024-09-18**|**GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
+|**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
 |**2024-09-17**|**The Sample Complexity of Smooth Boosting and the Tightness of the Hardcore Theorem**|Guy Blanc et.al.|[2409.11597](http://arxiv.org/abs/2409.11597)|null|
 |**2024-09-16**|**Benchmarking Secure Sampling Protocols for Differential Privacy**|Yucheng Fu et.al.|[2409.10667](http://arxiv.org/abs/2409.10667)|null|
 |**2024-09-16**|**Privately Learning Smooth Distributions on the Hypercube by Projections**|Clément Lalanne et.al.|[2409.10083](http://arxiv.org/abs/2409.10083)|null|
 |**2024-09-15**|**Nebula: Efficient, Private and Accurate Histogram Estimation**|Ali Shahin Shamsabadi et.al.|[2409.09676](http://arxiv.org/abs/2409.09676)|null|
 |**2024-09-14**|**A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell's Theorem**|Weijie J. Su et.al.|[2409.09558](http://arxiv.org/abs/2409.09558)|null|
-|**2024-09-14**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
+|**2024-09-21**|**Ensuring System-Level Protection against Eavesdropping Adversaries in Distributed Dynamical Systems**|Dipankar Maity et.al.|[2409.09539](http://arxiv.org/abs/2409.09539)|null|
 |**2024-09-13**|**An Efficient Privacy-aware Split Learning Framework for Satellite Communications**|Jianfei Sun et.al.|[2409.08538](http://arxiv.org/abs/2409.08538)|null|
 |**2024-09-13**|**Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights**|Dixi Yao et.al.|[2409.08482](http://arxiv.org/abs/2409.08482)|null|
 |**2024-09-12**|**Guaranteed Feasibility in Differentially Private Linearly Constrained Convex Optimization**|Alexander Benvenuti et.al.|[2409.08364](http://arxiv.org/abs/2409.08364)|null|
