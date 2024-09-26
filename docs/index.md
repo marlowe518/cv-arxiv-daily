@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Differential Privacy Regularization: Protecting Training Data Through Loss Function Regularization**|Francisco Aguilera-Martínez et.al.|[2409.17144](http://arxiv.org/abs/2409.17144)|null|
+|**2024-09-25**|**Cycle Counting under Local Differential Privacy for Degeneracy-bounded Graphs**|Quentin Hillebrand et.al.|[2409.16688](http://arxiv.org/abs/2409.16688)|null|
 |**2024-09-22**|**The discrete analogue of the Gaussian**|Gautam Chinta et.al.|[2409.14344](http://arxiv.org/abs/2409.14344)|null|
 |**2024-09-21**|**Training Large ASR Encoders with Differential Privacy**|Geeticka Chauhan et.al.|[2409.13953](http://arxiv.org/abs/2409.13953)|null|
 |**2024-09-20**|**DP $^2$ -FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization**|Zhenxiao Zhang et.al.|[2409.13645](http://arxiv.org/abs/2409.13645)|null|
@@ -23,7 +25,7 @@ layout: default
 |**2024-09-18**|**What to Consider When Considering Differential Privacy for Policy**|Priyanka Nanayakkara et.al.|[2409.11680](http://arxiv.org/abs/2409.11680)|null|
 |**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
 |**2024-09-17**|**The Sample Complexity of Smooth Boosting and the Tightness of the Hardcore Theorem**|Guy Blanc et.al.|[2409.11597](http://arxiv.org/abs/2409.11597)|null|
-|**2024-09-16**|**Benchmarking Secure Sampling Protocols for Differential Privacy**|Yucheng Fu et.al.|[2409.10667](http://arxiv.org/abs/2409.10667)|null|
+|**2024-09-16**|**Benchmarking Secure Sampling Protocols for Differential Privacy**|Yucheng Fu et.al.|[2409.10667](http://arxiv.org/abs/2409.10667)|**[link](https://github.com/yuchengxj/Secure-sampling-benchmark)**|
 |**2024-09-16**|**Privately Learning Smooth Distributions on the Hypercube by Projections**|Clément Lalanne et.al.|[2409.10083](http://arxiv.org/abs/2409.10083)|null|
 |**2024-09-15**|**Nebula: Efficient, Private and Accurate Histogram Estimation**|Ali Shahin Shamsabadi et.al.|[2409.09676](http://arxiv.org/abs/2409.09676)|null|
 |**2024-09-14**|**A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell's Theorem**|Weijie J. Su et.al.|[2409.09558](http://arxiv.org/abs/2409.09558)|null|
@@ -687,6 +689,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder**|Sivaram Krishnan et.al.|[2409.17048](http://arxiv.org/abs/2409.17048)|null|
+|**2024-09-25**|**Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning**|Zhe-Rui Yang et.al.|[2409.16684](http://arxiv.org/abs/2409.16684)|null|
+|**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|null|
+|**2024-09-25**|**Pre-trained Graphformer-based Ranking at Web-scale Search (Extended Abstract)**|Yuchen Li et.al.|[2409.16590](http://arxiv.org/abs/2409.16590)|null|
 |**2024-09-24**|**AUGUR, A flexible and efficient optimization algorithm for identification of optimal adsorption sites**|Ioannis Kouroudis et.al.|[2409.16204](http://arxiv.org/abs/2409.16204)|null|
 |**2024-09-24**|**Symmetries and Expressive Requirements for Learning General Policies**|Dominik Drexler et.al.|[2409.15892](http://arxiv.org/abs/2409.15892)|null|
 |**2024-09-24**|**MGNN: Moment Graph Neural Network for Universal Molecular Potentials**|Jian Chang et.al.|[2409.15800](http://arxiv.org/abs/2409.15800)|null|
