@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-22**|**The discrete analogue of the Gaussian**|Gautam Chinta et.al.|[2409.14344](http://arxiv.org/abs/2409.14344)|null|
+|**2024-09-21**|**Training Large ASR Encoders with Differential Privacy**|Geeticka Chauhan et.al.|[2409.13953](http://arxiv.org/abs/2409.13953)|null|
+|**2024-09-20**|**DP $^2$ -FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization**|Zhenxiao Zhang et.al.|[2409.13645](http://arxiv.org/abs/2409.13645)|null|
+|**2024-09-20**|**Differentially Private Multimodal Laplacian Dropout (DP-MLD) for EEG Representative Learning**|Xiaowen Fu et.al.|[2409.13440](http://arxiv.org/abs/2409.13440)|null|
+|**2024-09-20**|**CorBin-FL: A Differentially Private Federated Learning Mechanism using Common Randomness**|Hojat Allah Salehi et.al.|[2409.13133](http://arxiv.org/abs/2409.13133)|null|
+|**2024-09-19**|**Privacy-Preserving Student Learning with Differentially Private Data-Free Distillation**|Bochao Liu et.al.|[2409.12384](http://arxiv.org/abs/2409.12384)|null|
 |**2024-09-18**|**What to Consider When Considering Differential Privacy for Policy**|Priyanka Nanayakkara et.al.|[2409.11680](http://arxiv.org/abs/2409.11680)|null|
 |**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
 |**2024-09-17**|**The Sample Complexity of Smooth Boosting and the Tightness of the Hardcore Theorem**|Guy Blanc et.al.|[2409.11597](http://arxiv.org/abs/2409.11597)|null|
@@ -681,6 +687,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**AUGUR, A flexible and efficient optimization algorithm for identification of optimal adsorption sites**|Ioannis Kouroudis et.al.|[2409.16204](http://arxiv.org/abs/2409.16204)|null|
+|**2024-09-24**|**Symmetries and Expressive Requirements for Learning General Policies**|Dominik Drexler et.al.|[2409.15892](http://arxiv.org/abs/2409.15892)|null|
+|**2024-09-24**|**MGNN: Moment Graph Neural Network for Universal Molecular Potentials**|Jian Chang et.al.|[2409.15800](http://arxiv.org/abs/2409.15800)|null|
+|**2024-09-24**|**GraphGI:A GNN Explanation Method using Game Interaction**|Xingping Xian et.al.|[2409.15698](http://arxiv.org/abs/2409.15698)|null|
+|**2024-09-24**|**Double-Path Adaptive-correlation Spatial-Temporal Inverted Transformer for Stock Time Series Forecasting**|Wenbo Yan et.al.|[2409.15662](http://arxiv.org/abs/2409.15662)|null|
+|**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219](http://arxiv.org/abs/2409.15219)|null|
+|**2024-09-23**|**MSARS: A Meta-Learning and Reinforcement Learning Framework for SLO Resource Allocation and Adaptive Scaling for Microservices**|Kan Hu et.al.|[2409.14953](http://arxiv.org/abs/2409.14953)|null|
+|**2024-09-23**|**FastGL: A GPU-Efficient Framework for Accelerating Sampling-Based GNN Training at Large Scale**|Zeyu Zhu et.al.|[2409.14939](http://arxiv.org/abs/2409.14939)|**[link](https://github.com/a1bc2def6g/fastgl-ae)**|
+|**2024-09-22**|**TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Features**|Gleb Bazhenov et.al.|[2409.14500](http://arxiv.org/abs/2409.14500)|null|
+|**2024-09-21**|**IPF-HMGNN: A novel integrative prediction framework for metro passenger flow**|Wenbo Lu et.al.|[2409.14104](http://arxiv.org/abs/2409.14104)|null|
+|**2024-09-21**|**Boolean Product Graph Neural Networks**|Ziyan Wang et.al.|[2409.14001](http://arxiv.org/abs/2409.14001)|null|
+|**2024-09-21**|**Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature**|Linxiao Wu et.al.|[2409.14000](http://arxiv.org/abs/2409.14000)|null|
+|**2024-09-21**|**One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs**|Krzysztof Olejniczak et.al.|[2409.13959](http://arxiv.org/abs/2409.13959)|null|
+|**2024-09-20**|**Learning to Simulate Aerosol Dynamics with Graph Neural Networks**|Fabiana Ferracina et.al.|[2409.13861](http://arxiv.org/abs/2409.13861)|null|
+|**2024-09-20**|**Learning Ordering in Crystalline Materials with Symmetry-Aware Graph Neural Networks**|Jiayu Peng et.al.|[2409.13851](http://arxiv.org/abs/2409.13851)|null|
+|**2024-09-20**|**A Generative Framework for Predictive Modeling of Multiple Chronic Conditions Using Graph Variational Autoencoder and Bandit-Optimized Graph Neural Network**|Julian Carvajal Rico et.al.|[2409.13671](http://arxiv.org/abs/2409.13671)|null|
+|**2024-09-20**|**Analysis of Gene Regulatory Networks from Gene Expression Using Graph Neural Networks**|Hakan T. Otal et.al.|[2409.13664](http://arxiv.org/abs/2409.13664)|null|
+|**2024-09-20**|**Graph Similarity Regularized Softmax for Semi-Supervised Node Classification**|Yiming Yang et.al.|[2409.13544](http://arxiv.org/abs/2409.13544)|null|
+|**2024-09-20**|**Higher-Order Message Passing for Glycan Representation Learning**|Roman Joeres et.al.|[2409.13467](http://arxiv.org/abs/2409.13467)|null|
+|**2024-09-20**|**Inductive Spatial Temporal Prediction Under Data Drift with Informative Graph Neural Network**|Jialun Zheng et.al.|[2409.13253](http://arxiv.org/abs/2409.13253)|null|
 |**2024-09-18**|**Topological Deep Learning with State-Space Models: A Mamba Approach for Simplicial Complexes**|Marco Montagna et.al.|[2409.12033](http://arxiv.org/abs/2409.12033)|null|
 |**2024-09-18**|**Metric-Semantic Factor Graph Generation based on Graph Neural Networks**|Jose Andres Millan-Romera et.al.|[2409.11972](http://arxiv.org/abs/2409.11972)|null|
 |**2024-09-18**|**Multi-Grid Graph Neural Networks with Self-Attention for Computational Mechanics**|Paul Garnier et.al.|[2409.11899](http://arxiv.org/abs/2409.11899)|**[link](https://github.com/donsetpg/multigrid-gnn)**|
