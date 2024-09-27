@@ -707,7 +707,7 @@
 |**2024-09-23**|**MotifDisco: Motif Causal Discovery For Time Series Motifs**|Josephine Lamp et.al.|[2409.15219](http://arxiv.org/abs/2409.15219)|null|
 |**2024-09-23**|**MSARS: A Meta-Learning and Reinforcement Learning Framework for SLO Resource Allocation and Adaptive Scaling for Microservices**|Kan Hu et.al.|[2409.14953](http://arxiv.org/abs/2409.14953)|null|
 |**2024-09-23**|**FastGL: A GPU-Efficient Framework for Accelerating Sampling-Based GNN Training at Large Scale**|Zeyu Zhu et.al.|[2409.14939](http://arxiv.org/abs/2409.14939)|**[link](https://github.com/a1bc2def6g/fastgl-ae)**|
-|**2024-09-26**|**TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features**|Gleb Bazhenov et.al.|[2409.14500](http://arxiv.org/abs/2409.14500)|null|
+|**2024-09-26**|**TabGraphs: A Benchmark and Strong Baselines for Learning on Graphs with Tabular Node Features**|Gleb Bazhenov et.al.|[2409.14500](http://arxiv.org/abs/2409.14500)|**[link](https://github.com/yandex-research/tabgraphs)**|
 |**2024-09-21**|**IPF-HMGNN: A novel integrative prediction framework for metro passenger flow**|Wenbo Lu et.al.|[2409.14104](http://arxiv.org/abs/2409.14104)|null|
 |**2024-09-21**|**Boolean Product Graph Neural Networks**|Ziyan Wang et.al.|[2409.14001](http://arxiv.org/abs/2409.14001)|null|
 |**2024-09-21**|**Graph Neural Network Framework for Sentiment Analysis Using Syntactic Feature**|Linxiao Wu et.al.|[2409.14000](http://arxiv.org/abs/2409.14000)|null|
