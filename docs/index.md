@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -20,7 +20,7 @@ layout: default
 |**2024-09-25**|**KIPPS: Knowledge infusion in Privacy Preserving Synthetic Data Generation**|Anantaa Kotal et.al.|[2409.17315](http://arxiv.org/abs/2409.17315)|null|
 |**2024-09-25**|**Immersion and Invariance-based Coding for Privacy-Preserving Federated Learning**|Haleh Hayati et.al.|[2409.17201](http://arxiv.org/abs/2409.17201)|null|
 |**2024-09-25**|**Differential Privacy Regularization: Protecting Training Data Through Loss Function Regularization**|Francisco Aguilera-Martínez et.al.|[2409.17144](http://arxiv.org/abs/2409.17144)|null|
-|**2024-09-25**|**Cycle Counting under Local Differential Privacy for Degeneracy-bounded Graphs**|Quentin Hillebrand et.al.|[2409.16688](http://arxiv.org/abs/2409.16688)|null|
+|**2024-09-27**|**Cycle Counting under Local Differential Privacy for Degeneracy-bounded Graphs**|Quentin Hillebrand et.al.|[2409.16688](http://arxiv.org/abs/2409.16688)|null|
 |**2024-09-22**|**The discrete analogue of the Gaussian**|Gautam Chinta et.al.|[2409.14344](http://arxiv.org/abs/2409.14344)|null|
 |**2024-09-21**|**Training Large ASR Encoders with Differential Privacy**|Geeticka Chauhan et.al.|[2409.13953](http://arxiv.org/abs/2409.13953)|null|
 |**2024-09-20**|**DP $^2$ -FedSAM: Enhancing Differentially Private Federated Learning Through Personalized Sharpness-Aware Minimization**|Zhenxiao Zhang et.al.|[2409.13645](http://arxiv.org/abs/2409.13645)|null|
