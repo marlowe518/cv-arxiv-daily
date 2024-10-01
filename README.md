@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-09-27**|**DP-SCC-PL:Differentially Private Decentralized Byzantine-Resilient Stochastic Optimization via Self-Centered Clipping Under Polyak-Łojasiewicz Condition**|Jinhui Hu et.al.|[2409.18632](http://arxiv.org/abs/2409.18632)|null|
 |**2024-09-27**|**Differentially Private Non Parametric Copulas: Generating synthetic data with non parametric copulas under privacy guarantees**|Pablo A. Osorio-Marulanda et.al.|[2409.18611](http://arxiv.org/abs/2409.18611)|null|
-|**2024-09-27**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
+|**2024-09-30**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
 |**2024-09-26**|**Trustworthy AI: Securing Sensitive Data in Large Language Models**|Georgios Feretzakis et.al.|[2409.18222](http://arxiv.org/abs/2409.18222)|null|
 |**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118](http://arxiv.org/abs/2409.18118)|null|
 |**2024-09-26**|**Fully Dynamic Graph Algorithms with Edge Differential Privacy**|Sofya Raskhodnikova et.al.|[2409.17623](http://arxiv.org/abs/2409.17623)|null|
@@ -698,7 +698,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -2406,7 +2406,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
