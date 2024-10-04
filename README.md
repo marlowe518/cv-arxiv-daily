@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Adaptively Private Next-Token Prediction of Large Language Models**|James Flemings et.al.|[2410.02016](http://arxiv.org/abs/2410.02016)|null|
+|**2024-10-02**|**Addressing Data Heterogeneity in Federated Learning with Adaptive Normalization-Free Feature Recalibration**|Vasilis Siomos et.al.|[2410.02006](http://arxiv.org/abs/2410.02006)|null|
+|**2024-10-02**|**Differentially Private Parameter-Efficient Fine-tuning for Large ASR Models**|Hongbin Liu et.al.|[2410.01948](http://arxiv.org/abs/2410.01948)|null|
 |**2024-10-01**|**Efficient and Private Marginal Reconstruction with Local Non-Negativity**|Brett Mullins et.al.|[2410.01091](http://arxiv.org/abs/2410.01091)|null|
 |**2024-10-01**|**Convergent Privacy Loss of Noisy-SGD without Convexity and Smoothness**|Eli Chien et.al.|[2410.01068](http://arxiv.org/abs/2410.01068)|null|
 |**2024-10-01**|**Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting**|Stephen Meisenbacher et.al.|[2410.00751](http://arxiv.org/abs/2410.00751)|null|
@@ -714,6 +717,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic Transforms**|Julius von Rohrscheidt et.al.|[2410.02622](http://arxiv.org/abs/2410.02622)|null|
+|**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
+|**2024-10-03**|**A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362](http://arxiv.org/abs/2410.02362)|**[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)**|
+|**2024-10-03**|**Language Models are Graph Learners**|Zhe Xu et.al.|[2410.02296](http://arxiv.org/abs/2410.02296)|null|
+|**2024-10-03**|**Model-Based GNN Enabled Energy-Efficient Beamforming for Ultra-Dense Wireless Networks**|Rongsheng Zhang et.al.|[2410.02289](http://arxiv.org/abs/2410.02289)|null|
+|**2024-10-03**|**GNN-Enabled Optimization of Placement and Transmission Design for UAV Communications**|Qinyu Wang et.al.|[2410.02277](http://arxiv.org/abs/2410.02277)|null|
+|**2024-10-03**|**ClassContrast: Bridging the Spatial and Contextual Gaps for Node Representations**|Md Joshem Uddin et.al.|[2410.02158](http://arxiv.org/abs/2410.02158)|null|
+|**2024-10-03**|**A Comprehensive Review of Propagation Models in Complex Networks: From Deterministic to Deep Learning Approaches**|Bin Wu et.al.|[2410.02118](http://arxiv.org/abs/2410.02118)|null|
+|**2024-10-02**|**FARM: Functional Group-Aware Representations for Small Molecules**|Thao Nguyen et.al.|[2410.02082](http://arxiv.org/abs/2410.02082)|null|
+|**2024-10-02**|**FLAG: Financial Long Document Classification via AMR-based GNN**|Bolun et.al.|[2410.02024](http://arxiv.org/abs/2410.02024)|**[link](https://github.com/namir0806/flag)**|
+|**2024-10-02**|**DeepProtein: Deep Learning Library and Benchmark for Protein Sequence Learning**|Jiaqing Xie et.al.|[2410.02023](http://arxiv.org/abs/2410.02023)|**[link](https://github.com/jiaqingxie/deepprotein)**|
+|**2024-10-02**|**Is uniform expressivity too restrictive? Towards efficient expressivity of graph neural networks**|Sammy Khalife et.al.|[2410.01910](http://arxiv.org/abs/2410.01910)|null|
+|**2024-10-02**|**Dynamic Portfolio Rebalancing: A Hybrid new Model Using GNNs and Pathfinding for Cost Efficiency**|Diego Vallarino et.al.|[2410.01864](http://arxiv.org/abs/2410.01864)|null|
 |**2024-10-02**|**PROXI: Challenging the GNNs for Link Prediction**|Astrit Tola et.al.|[2410.01802](http://arxiv.org/abs/2410.01802)|**[link](https://github.com/workrep20232/proxi)**|
 |**2024-10-02**|**Scalable and Consistent Graph Neural Networks for Distributed Mesh-based Data-driven Modeling**|Shivam Barwey et.al.|[2410.01657](http://arxiv.org/abs/2410.01657)|null|
 |**2024-10-02**|**Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis**|Brook Wander et.al.|[2410.01650](http://arxiv.org/abs/2410.01650)|null|
