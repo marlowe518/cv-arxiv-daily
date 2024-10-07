@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407](http://arxiv.org/abs/2410.03407)|null|
+|**2024-10-03**|**Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation**|Xianzhi Li et.al.|[2410.02912](http://arxiv.org/abs/2410.02912)|null|
 |**2024-10-02**|**Adaptively Private Next-Token Prediction of Large Language Models**|James Flemings et.al.|[2410.02016](http://arxiv.org/abs/2410.02016)|null|
 |**2024-10-02**|**Addressing Data Heterogeneity in Federated Learning with Adaptive Normalization-Free Feature Recalibration**|Vasilis Siomos et.al.|[2410.02006](http://arxiv.org/abs/2410.02006)|null|
 |**2024-10-02**|**Differentially Private Parameter-Efficient Fine-tuning for Large ASR Models**|Hongbin Liu et.al.|[2410.01948](http://arxiv.org/abs/2410.01948)|null|
@@ -717,6 +719,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Fine-Grained Expressive Power of Weisfeiler-Leman: A Homomorphism Counting Perspective**|Junru Zhou et.al.|[2410.03517](http://arxiv.org/abs/2410.03517)|null|
+|**2024-10-04**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434](http://arxiv.org/abs/2410.03434)|null|
+|**2024-10-04**|**Cayley Graph Propagation**|JJ Wilson et.al.|[2410.03424](http://arxiv.org/abs/2410.03424)|**[link](https://github.com/josephjwilson/cayley_graph_propagation)**|
+|**2024-10-03**|**LLMCO2: Advancing Accurate Carbon Footprint Prediction for LLM Inferences**|Zhenxiao Fu et.al.|[2410.02950](http://arxiv.org/abs/2410.02950)|null|
 |**2024-10-03**|**Diss-l-ECT: Dissecting Graph Data with local Euler Characteristic Transforms**|Julius von Rohrscheidt et.al.|[2410.02622](http://arxiv.org/abs/2410.02622)|null|
 |**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
 |**2024-10-03**|**A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond**|Shubhi Bansal et.al.|[2410.02362](http://arxiv.org/abs/2410.02362)|**[link](https://github.com/madhavaprasath23/awesome-mamba-papers-on-medical-domain)**|
@@ -733,7 +739,7 @@
 |**2024-10-02**|**PROXI: Challenging the GNNs for Link Prediction**|Astrit Tola et.al.|[2410.01802](http://arxiv.org/abs/2410.01802)|**[link](https://github.com/workrep20232/proxi)**|
 |**2024-10-02**|**Scalable and Consistent Graph Neural Networks for Distributed Mesh-based Data-driven Modeling**|Shivam Barwey et.al.|[2410.01657](http://arxiv.org/abs/2410.01657)|null|
 |**2024-10-02**|**Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis**|Brook Wander et.al.|[2410.01650](http://arxiv.org/abs/2410.01650)|null|
-|**2024-10-04**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|**[link](https://github.com/Erican-Ji/VGRL)**|
+|**2024-10-04**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|null|
 |**2024-10-02**|**Towards Dynamic Graph Neural Networks with Provably High-Order Expressive Power**|Zhe Wang et.al.|[2410.01367](http://arxiv.org/abs/2410.01367)|null|
 |**2024-10-02**|**Rethinking the Expressiveness of GNNs: A Computational Model Perspective**|Guanyu Cui et.al.|[2410.01308](http://arxiv.org/abs/2410.01308)|null|
 |**2024-10-02**|**"No Matter What You Do!": Mitigating Backdoor Attacks in Graph Neural Networks**|Jiale Zhang et.al.|[2410.01272](http://arxiv.org/abs/2410.01272)|**[link](https://github.com/graph-axis/gcleaner)**|
