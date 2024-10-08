@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**A Differentially Private Energy Trading Mechanism Approaching Social Optimum**|Yuji Cao et.al.|[2410.04787](http://arxiv.org/abs/2410.04787)|null|
+|**2024-10-04**|**DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction**|Xinwei Zhang et.al.|[2410.03883](http://arxiv.org/abs/2410.03883)|null|
 |**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407](http://arxiv.org/abs/2410.03407)|null|
 |**2024-10-03**|**Fine-Tuning Language Models with Differential Privacy through Adaptive Noise Allocation**|Xianzhi Li et.al.|[2410.02912](http://arxiv.org/abs/2410.02912)|null|
 |**2024-10-02**|**Adaptively Private Next-Token Prediction of Large Language Models**|James Flemings et.al.|[2410.02016](http://arxiv.org/abs/2410.02016)|null|
@@ -21,7 +23,7 @@ layout: default
 |**2024-10-02**|**Differentially Private Parameter-Efficient Fine-tuning for Large ASR Models**|Hongbin Liu et.al.|[2410.01948](http://arxiv.org/abs/2410.01948)|null|
 |**2024-10-01**|**Efficient and Private Marginal Reconstruction with Local Non-Negativity**|Brett Mullins et.al.|[2410.01091](http://arxiv.org/abs/2410.01091)|null|
 |**2024-10-01**|**Convergent Privacy Loss of Noisy-SGD without Convexity and Smoothness**|Eli Chien et.al.|[2410.01068](http://arxiv.org/abs/2410.01068)|null|
-|**2024-10-01**|**Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting**|Stephen Meisenbacher et.al.|[2410.00751](http://arxiv.org/abs/2410.00751)|null|
+|**2024-10-01**|**Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting**|Stephen Meisenbacher et.al.|[2410.00751](http://arxiv.org/abs/2410.00751)|**[link](https://github.com/sjmeis/DPNONDP)**|
 |**2024-10-01**|**Differentially Private Active Learning: Balancing Effective Data Selection and Privacy**|Kristian Schwethelm et.al.|[2410.00542](http://arxiv.org/abs/2410.00542)|null|
 |**2024-09-29**|**Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce**|Carl E. J. Brodzinski et.al.|[2410.00055](http://arxiv.org/abs/2410.00055)|null|
 |**2024-09-29**|**Differentially Private Bilevel Optimization**|Guy Kornowski et.al.|[2409.19800](http://arxiv.org/abs/2409.19800)|null|
@@ -713,6 +715,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Taming Gradient Oversmoothing and Expansion in Graph Neural Networks**|MoonJeong Park et.al.|[2410.04824](http://arxiv.org/abs/2410.04824)|null|
+|**2024-10-07**|**Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow**|Anna Varbella et.al.|[2410.04818](http://arxiv.org/abs/2410.04818)|null|
+|**2024-10-07**|**When GDD meets GNN: A Knowledge-driven Neural Connection for Effective Entity Resolution in Property Graphs**|Junwei Hu et.al.|[2410.04783](http://arxiv.org/abs/2410.04783)|null|
+|**2024-10-07**|**A Clifford Algebraic Approach to E(n)-Equivariant High-order Graph Neural Networks**|Hoang-Viet Tran et.al.|[2410.04692](http://arxiv.org/abs/2410.04692)|null|
+|**2024-10-06**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552](http://arxiv.org/abs/2410.04552)|null|
+|**2024-10-05**|**Unveiling the Impact of Local Homophily on GNN Fairness: In-Depth Analysis and New Benchmarks**|Donald Loveland et.al.|[2410.04287](http://arxiv.org/abs/2410.04287)|null|
+|**2024-10-05**|**Applying Hybrid Graph Neural Networks to Strengthen Credit Risk Analysis**|Mengfang Sun et.al.|[2410.04283](http://arxiv.org/abs/2410.04283)|null|
+|**2024-10-05**|**Enhancing Future Link Prediction in Quantum Computing Semantic Networks through LLM-Initiated Node Features**|Gilchan Park et.al.|[2410.04251](http://arxiv.org/abs/2410.04251)|null|
+|**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|null|
+|**2024-10-05**|**Improving Temporal Link Prediction via Temporal Walk Matrix Projection**|Xiaodong Lu et.al.|[2410.04013](http://arxiv.org/abs/2410.04013)|**[link](https://github.com/lxd99/tpnet)**|
+|**2024-10-04**|**Scaling Graph Neural Networks to Large Proteins**|Justin Airas et.al.|[2410.03921](http://arxiv.org/abs/2410.03921)|null|
+|**2024-10-04**|**Improving Efficiency of Sampling-based Motion Planning via Message-Passing Monte Carlo**|Makram Chahine et.al.|[2410.03909](http://arxiv.org/abs/2410.03909)|null|
+|**2024-10-04**|**Mesh-Informed Reduced Order Models for Aneurysm Rupture Risk Prediction**|Giuseppe Alessio D'Inverno et.al.|[2410.03802](http://arxiv.org/abs/2410.03802)|null|
+|**2024-10-03**|**Discovering Message Passing Hierarchies for Mesh-Based Physics Simulation**|Huayu Deng et.al.|[2410.03779](http://arxiv.org/abs/2410.03779)|null|
 |**2024-10-04**|**Fine-Grained Expressive Power of Weisfeiler-Leman: A Homomorphism Counting Perspective**|Junru Zhou et.al.|[2410.03517](http://arxiv.org/abs/2410.03517)|null|
 |**2024-10-04**|**Self-supervised Spatio-Temporal Graph Mask-Passing Attention Network for Perceptual Importance Prediction of Multi-point Tactility**|Dazhong He et.al.|[2410.03434](http://arxiv.org/abs/2410.03434)|null|
 |**2024-10-04**|**Cayley Graph Propagation**|JJ Wilson et.al.|[2410.03424](http://arxiv.org/abs/2410.03424)|**[link](https://github.com/josephjwilson/cayley_graph_propagation)**|
