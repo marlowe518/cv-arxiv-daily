@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Privately Counting Partially Ordered Data**|Matthew Joseph et.al.|[2410.06881](http://arxiv.org/abs/2410.06881)|null|
+|**2024-10-09**|**Noise is All You Need: Private Second-Order Convergence of Noisy SGD**|Dmitrii Avdiukhin et.al.|[2410.06878](http://arxiv.org/abs/2410.06878)|null|
+|**2024-10-08**|**The Last Iterate Advantage: Empirical Auditing and Principled Heuristic Analysis of Differentially Private SGD**|Thomas Steinke et.al.|[2410.06186](http://arxiv.org/abs/2410.06186)|null|
+|**2024-10-08**|**Improved Sample Complexity for Private Nonsmooth Nonconvex Optimization**|Guy Kornowski et.al.|[2410.05880](http://arxiv.org/abs/2410.05880)|null|
+|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733](http://arxiv.org/abs/2410.05733)|null|
+|**2024-10-08**|**KnowledgeSG: Privacy-Preserving Synthetic Text Generation with Knowledge Distillation from Server**|Wenhao Wang et.al.|[2410.05725](http://arxiv.org/abs/2410.05725)|null|
+|**2024-10-08**|**A Blockchain-Enhanced Framework for Privacy and Data Integrity in Crowdsourced Drone Services**|Junaid Akram et.al.|[2410.05653](http://arxiv.org/abs/2410.05653)|null|
+|**2024-10-07**|**Privacy Vulnerabilities in Marginals-based Synthetic Data**|Steven Golob et.al.|[2410.05506](http://arxiv.org/abs/2410.05506)|null|
+|**2024-10-07**|**Testing Credibility of Public and Private Surveys through the Lens of Regression**|Debabrota Basu et.al.|[2410.05458](http://arxiv.org/abs/2410.05458)|null|
 |**2024-10-07**|**A Differentially Private Energy Trading Mechanism Approaching Social Optimum**|Yuji Cao et.al.|[2410.04787](http://arxiv.org/abs/2410.04787)|null|
 |**2024-10-04**|**DiSK: Differentially Private Optimizer with Simplified Kalman Filter for Noise Reduction**|Xinwei Zhang et.al.|[2410.03883](http://arxiv.org/abs/2410.03883)|null|
 |**2024-10-04**|**Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy**|Shuangqing Xu et.al.|[2410.03407](http://arxiv.org/abs/2410.03407)|null|
@@ -715,6 +724,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091](http://arxiv.org/abs/2410.07091)|null|
+|**2024-10-09**|**Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning**|Zhengyu Hu et.al.|[2410.07074](http://arxiv.org/abs/2410.07074)|null|
+|**2024-10-09**|**AdaRC: Mitigating Graph Structure Shifts during Test-Time**|Wenxuan Bao et.al.|[2410.06976](http://arxiv.org/abs/2410.06976)|null|
+|**2024-10-09**|**DLGNet: Hyperedge Classification through Directed Line Graphs for Chemical Reactions**|Stefano Fiorini et.al.|[2410.06969](http://arxiv.org/abs/2410.06969)|null|
+|**2024-10-09**|**Faithful Interpretation for Graph Neural Networks**|Lijie Hu et.al.|[2410.06950](http://arxiv.org/abs/2410.06950)|null|
+|**2024-10-09**|**TopoTune : A Framework for Generalized Combinatorial Complex Neural Networks**|Mathilde Papillon et.al.|[2410.06530](http://arxiv.org/abs/2410.06530)|null|
+|**2024-10-09**|**A Benchmark on Directed Graph Representation Learning in Hardware Designs**|Haoyu Wang et.al.|[2410.06460](http://arxiv.org/abs/2410.06460)|null|
+|**2024-10-08**|**UnSeGArmaNet: Unsupervised Image Segmentation using Graph Neural Networks with Convolutional ARMA Filters**|Kovvuri Sai Gopal Reddy et.al.|[2410.06114](http://arxiv.org/abs/2410.06114)|**[link](https://github.com/ksgr5566/unsegarmanet)**|
+|**2024-10-08**|**TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models**|Javier Solís-García et.al.|[2410.05916](http://arxiv.org/abs/2410.05916)|null|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
+|**2024-10-08**|**Diffusing to the Top: Boost Graph Neural Networks with Minimal Hyperparameter Tuning**|Lequan Lin et.al.|[2410.05697](http://arxiv.org/abs/2410.05697)|**[link](https://github.com/lequanlin/gnn-diff)**|
+|**2024-10-08**|**When Graph Neural Networks Meet Dynamic Mode Decomposition**|Dai Shi et.al.|[2410.05593](http://arxiv.org/abs/2410.05593)|null|
+|**2024-10-07**|**Unitary convolutions for learning on graphs and groups**|Bobak T. Kiani et.al.|[2410.05499](http://arxiv.org/abs/2410.05499)|null|
+|**2024-10-07**|**Haste Makes Waste: A Simple Approach for Scaling Graph Neural Networks**|Rui Xue et.al.|[2410.05416](http://arxiv.org/abs/2410.05416)|null|
+|**2024-10-07**|**Interactive Event Sifting using Bayesian Graph Neural Networks**|José Nascimento et.al.|[2410.05359](http://arxiv.org/abs/2410.05359)|null|
+|**2024-10-07**|**BSG4Bot: Efficient Bot Detection based on Biased Heterogeneous Subgraphs**|Hao Miao et.al.|[2410.05356](http://arxiv.org/abs/2410.05356)|null|
 |**2024-10-07**|**Taming Gradient Oversmoothing and Expansion in Graph Neural Networks**|MoonJeong Park et.al.|[2410.04824](http://arxiv.org/abs/2410.04824)|null|
 |**2024-10-07**|**Physics-Informed GNN for non-linear constrained optimization: PINCO a solver for the AC-optimal power flow**|Anna Varbella et.al.|[2410.04818](http://arxiv.org/abs/2410.04818)|null|
 |**2024-10-07**|**When GDD meets GNN: A Knowledge-driven Neural Connection for Effective Entity Resolution in Property Graphs**|Junwei Hu et.al.|[2410.04783](http://arxiv.org/abs/2410.04783)|null|
