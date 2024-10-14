@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892](http://arxiv.org/abs/2410.08892)|null|
+|**2024-10-11**|**Privacy-Preserving Optimal State Estimation with Low Complexity via Cramér-Rao Lower Bound Approach**|Liping Guo et.al.|[2410.08756](http://arxiv.org/abs/2410.08756)|null|
+|**2024-10-11**|**Balancing Innovation and Privacy: Data Security Strategies in Natural Language Processing Applications**|Shaobo Liu et.al.|[2410.08553](http://arxiv.org/abs/2410.08553)|null|
+|**2024-10-10**|**Evaluating Differentially Private Synthetic Data Generation in High-Stakes Domains**|Krithika Ramesh et.al.|[2410.08327](http://arxiv.org/abs/2410.08327)|null|
+|**2024-10-10**|**Privately Learning from Graphs with Applications in Fine-tuning Large Language Models**|Haoteng Yin et.al.|[2410.08299](http://arxiv.org/abs/2410.08299)|null|
+|**2024-10-10**|**Federated Graph Learning for Cross-Domain Recommendation**|Ziqi Yang et.al.|[2410.08249](http://arxiv.org/abs/2410.08249)|null|
 |**2024-10-10**|**Private Language Models via Truncated Laplacian Mechanism**|Tianhao Huang et.al.|[2410.08027](http://arxiv.org/abs/2410.08027)|null|
 |**2024-10-10**|**Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning**|Jingyuan Zhang et.al.|[2410.07738](http://arxiv.org/abs/2410.07738)|null|
 |**2024-10-10**|**Adaptive Batch Size for Privately Finding Second-Order Stationary Points**|Daogao Liu et.al.|[2410.07502](http://arxiv.org/abs/2410.07502)|null|
@@ -728,6 +734,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**M $^3$ -Impute: Mask-guided Representation Learning for Missing Value Imputation**|Zhongyi Yu et.al.|[2410.08794](http://arxiv.org/abs/2410.08794)|**[link](https://github.com/alleinx/m3-impute)**|
+|**2024-10-11**|**Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis**|Zhifei Li et.al.|[2410.08759](http://arxiv.org/abs/2410.08759)|null|
+|**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560](http://arxiv.org/abs/2410.08560)|null|
+|**2024-10-11**|**IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks**|Junchao Lin et.al.|[2410.08524](http://arxiv.org/abs/2410.08524)|null|
+|**2024-10-10**|**KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data**|Andy Zhou et.al.|[2410.08390](http://arxiv.org/abs/2410.08390)|null|
+|**2024-10-09**|**NetDiff: Deep Graph Denoising Diffusion for Ad Hoc Network Topology Generation**|Félix Marcoccia et.al.|[2410.08238](http://arxiv.org/abs/2410.08238)|null|
 |**2024-10-10**|**Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection**|Moirangthem Tiken Singh et.al.|[2410.08121](http://arxiv.org/abs/2410.08121)|null|
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972](http://arxiv.org/abs/2410.07972)|null|
 |**2024-10-10**|**HeGraphAdapter: Tuning Multi-Modal Vision-Language Models with Heterogeneous Graph Adapter**|Yumiao Zhao et.al.|[2410.07854](http://arxiv.org/abs/2410.07854)|null|
