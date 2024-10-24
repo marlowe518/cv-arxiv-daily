@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -21,7 +21,7 @@ layout: default
 |**2024-10-20**|**Formalization of Differential Privacy in Isabelle/HOL**|Tetsuya Sato et.al.|[2410.15386](http://arxiv.org/abs/2410.15386)|null|
 |**2024-10-19**|**Adanonymizer: Interactively Navigating and Balancing the Duality of Privacy and Output Performance in Human-LLM Interaction**|Shuning Zhang et.al.|[2410.15044](http://arxiv.org/abs/2410.15044)|null|
 |**2024-10-18**|**Differentially Private Covariate Balancing Causal Inference**|Yuki Ohnishi et.al.|[2410.14789](http://arxiv.org/abs/2410.14789)|null|
-|**2024-10-18**|**Privacy for Free in the Over-Parameterized Regime**|Simone Bombari et.al.|[2410.14787](http://arxiv.org/abs/2410.14787)|null|
+|**2024-10-18**|**Privacy for Free in the Over-Parameterized Regime**|Simone Bombari et.al.|[2410.14787](http://arxiv.org/abs/2410.14787)|**[link](https://github.com/simone-bombari/privacy-for-free)**|
 |**2024-10-18**|**What's New in My Data? Novelty Exploration via Contrastive Generation**|Masaru Isonuma et.al.|[2410.14765](http://arxiv.org/abs/2410.14765)|null|
 |**2024-10-17**|**DPFedBank: Crafting a Privacy-Preserving Federated Learning Framework for Financial Institutions with Policy Pillars**|Peilin He et.al.|[2410.13753](http://arxiv.org/abs/2410.13753)|null|
 |**2024-10-16**|**Truthful High Dimensional Sparse Linear Regression**|Liyang Zhu et.al.|[2410.13046](http://arxiv.org/abs/2410.13046)|null|
@@ -775,7 +775,7 @@ layout: default
 |**2024-10-20**|**Conditional Uncertainty Quantification for Tensorized Topological Neural Networks**|Yujia Wu et.al.|[2410.15241](http://arxiv.org/abs/2410.15241)|null|
 |**2024-10-20**|**Conditional Prediction ROC Bands for Graph Classification**|Yujia Wu et.al.|[2410.15239](http://arxiv.org/abs/2410.15239)|null|
 |**2024-10-19**|**Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction**|Yinhan He et.al.|[2410.15165](http://arxiv.org/abs/2410.15165)|null|
-|**2024-10-19**|**Deep Equilibrium Algorithmic Reasoning**|Dobrik Georgiev et.al.|[2410.15059](http://arxiv.org/abs/2410.15059)|null|
+|**2024-10-19**|**Deep Equilibrium Algorithmic Reasoning**|Dobrik Georgiev et.al.|[2410.15059](http://arxiv.org/abs/2410.15059)|**[link](https://github.com/HekpoMaH/DEAR)**|
 |**2024-10-19**|**DST-TransitNet: A Dynamic Spatio-Temporal Deep Learning Model for Scalable and Efficient Network-Wide Prediction of Station-Level Transit Ridership**|Jiahao Wang et.al.|[2410.15013](http://arxiv.org/abs/2410.15013)|null|
 |**2024-10-19**|**Faster Inference Time for GNNs using coarsening**|Shubhajit Roy et.al.|[2410.15001](http://arxiv.org/abs/2410.15001)|**[link](https://github.com/Roy-Shubhajit/CoPart-GNN)**|
 |**2024-10-18**|**Convergence of Manifold Filter-Combine Networks**|David R. Johnson et.al.|[2410.14639](http://arxiv.org/abs/2410.14639)|**[link](https://github.com/dj408/mfcn)**|
