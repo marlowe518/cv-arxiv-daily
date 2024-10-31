@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**Exactly Minimax-Optimal Locally Differentially Private Sampling**|Hyun-Young Park et.al.|[2410.22699](http://arxiv.org/abs/2410.22699)|null|
+|**2024-10-30**|**Calibrating Practical Privacy Risks for Differentially Private Machine Learning**|Yuechun Gu et.al.|[2410.22673](http://arxiv.org/abs/2410.22673)|null|
+|**2024-10-30**|**FT-PrivacyScore: Personalized Privacy Scoring Service for Machine Learning Participation**|Yuechun Gu et.al.|[2410.22651](http://arxiv.org/abs/2410.22651)|**[link](https://github.com/rhincodone/demo_privacy_scoring)**|
+|**2024-10-29**|**Privacy-Preserving Dynamic Assortment Selection**|Young Hyun Cho et.al.|[2410.22488](http://arxiv.org/abs/2410.22488)|null|
 |**2024-10-29**|**Auditing $f$ -Differential Privacy in One Run**|Saeed Mahloujifar et.al.|[2410.22235](http://arxiv.org/abs/2410.22235)|null|
 |**2024-10-28**|**Differentially Private Learned Indexes**|Jianzhang Du et.al.|[2410.21164](http://arxiv.org/abs/2410.21164)|null|
 |**2024-10-27**|**Privacy-Enhanced Adaptive Authentication: User Profiling with Privacy Guarantees**|Yaser Baseri et.al.|[2410.20555](http://arxiv.org/abs/2410.20555)|null|
@@ -781,6 +786,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Conditional Forecasting of Margin Calls using Dynamic Graph Neural Networks**|Matteo Citterio et.al.|[2410.23275](http://arxiv.org/abs/2410.23275)|null|
+|**2024-10-30**|**NASM: Neural Anisotropic Surface Meshing**|Hongbo Li et.al.|[2410.23109](http://arxiv.org/abs/2410.23109)|null|
+|**2024-10-30**|**Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph Clustering**|Zichen Wen et.al.|[2410.22983](http://arxiv.org/abs/2410.22983)|null|
+|**2024-10-30**|**MassiveGNN: Efficient Training via Prefetching for Massively Connected Distributed Graphs**|Aishwarya Sarkar et.al.|[2410.22697](http://arxiv.org/abs/2410.22697)|null|
+|**2024-10-30**|**PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation**|Ryozo Masukawa et.al.|[2410.22623](http://arxiv.org/abs/2410.22623)|null|
+|**2024-10-29**|**A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification**|Flavio Corradini et.al.|[2410.22377](http://arxiv.org/abs/2410.22377)|null|
 |**2024-10-29**|**Subgraph Aggregation for Out-of-Distribution Generalization on Graphs**|Bowen Liu et.al.|[2410.22228](http://arxiv.org/abs/2410.22228)|null|
 |**2024-10-29**|**Vision Paper: Designing Graph Neural Networks in Compliance with the European Artificial Intelligence Act**|Barbara Hoffmann et.al.|[2410.22120](http://arxiv.org/abs/2410.22120)|null|
 |**2024-10-29**|**LogSHIELD: A Graph-based Real-time Anomaly Detection Framework using Frequency Analysis**|Krishna Chandra Roy et.al.|[2410.21936](http://arxiv.org/abs/2410.21936)|null|
