@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889](http://arxiv.org/abs/2411.07889)|**[link](https://github.com/justaguyalways/stochastic-federated-differentially-private-and-fair-learning)**|
+|**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
 |**2024-11-11**|**Differentially-Private Collaborative Online Personalized Mean Estimation**|Yauhen Yakimenka et.al.|[2411.07094](http://arxiv.org/abs/2411.07094)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
 |**2024-11-09**|**Federated Split Learning for Human Activity Recognition with Differential Privacy**|Josue Ndeko et.al.|[2411.06263](http://arxiv.org/abs/2411.06263)|null|
@@ -814,6 +816,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Rethinking Structure Learning For Graph Neural Networks**|Yilun Zheng et.al.|[2411.07672](http://arxiv.org/abs/2411.07672)|null|
+|**2024-11-12**|**Is Graph Convolution Always Beneficial For Every Feature?**|Yilun Zheng et.al.|[2411.07663](http://arxiv.org/abs/2411.07663)|null|
+|**2024-11-12**|**xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer**|Marvin Sextro et.al.|[2411.07643](http://arxiv.org/abs/2411.07643)|null|
+|**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608](http://arxiv.org/abs/2411.07608)|null|
+|**2024-11-12**|**Enhancing Link Prediction with Fuzzy Graph Attention Networks and Dynamic Negative Sampling**|Jinming Xing et.al.|[2411.07482](http://arxiv.org/abs/2411.07482)|null|
+|**2024-11-12**|**Machines and Mathematical Mutations: Using GNNs to Characterize Quiver Mutation Classes**|Jesse He et.al.|[2411.07467](http://arxiv.org/abs/2411.07467)|null|
+|**2024-11-09**|**Learning From Graph-Structured Data: Addressing Design Issues and Exploring Practical Applications in Graph Representation Learning**|Chenqing Hua et.al.|[2411.07269](http://arxiv.org/abs/2411.07269)|null|
 |**2024-11-11**|**General Geospatial Inference with a Population Dynamics Foundation Model**|Mohit Agarwal et.al.|[2411.07207](http://arxiv.org/abs/2411.07207)|null|
 |**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917](http://arxiv.org/abs/2411.06917)|null|
 |**2024-11-11**|**Predicting ionic conductivity in solids from the machine-learned potential energy landscape**|Artem Maevskiy et.al.|[2411.06804](http://arxiv.org/abs/2411.06804)|null|
