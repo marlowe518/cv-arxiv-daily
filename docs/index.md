@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -15,9 +15,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**Faster Differentially Private Top- $k$ Selection: A Joint Exponential Mechanism with Pruning**|Hao WU et.al.|[2411.09552](http://arxiv.org/abs/2411.09552)|null|
-|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|null|
+|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
 |**2024-11-14**|**Laplace Transform Interpretation of Differential Privacy**|Rishav Chourasia et.al.|[2411.09142](http://arxiv.org/abs/2411.09142)|null|
-|**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064](http://arxiv.org/abs/2411.09064)|null|
+|**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064](http://arxiv.org/abs/2411.09064)|**[link](https://github.com/Jong-Min-Moon/optimal-local-dp-two-sample)**|
 |**2024-11-13**|**Locally Private Sampling with Public Data**|Behnoosh Zamanlooy et.al.|[2411.08791](http://arxiv.org/abs/2411.08791)|null|
 |**2024-11-12**|**A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data**|Devansh Gupta et.al.|[2411.07889](http://arxiv.org/abs/2411.07889)|**[link](https://github.com/justaguyalways/stochastic-federated-differentially-private-and-fair-learning)**|
 |**2024-11-12**|**Federated Low-Rank Adaptation with Differential Privacy over Wireless Networks**|Tianqu Kang et.al.|[2411.07806](http://arxiv.org/abs/2411.07806)|null|
@@ -824,9 +824,9 @@ layout: default
 |**2024-11-13**|**Predictive Visuo-Tactile Interactive Perception Framework for Object Properties Inference**|Anirvan Dutta et.al.|[2411.09020](http://arxiv.org/abs/2411.09020)|null|
 |**2024-11-13**|**Flow reconstruction in time-varying geometries using graph neural networks**|Bogdan A. Danciu et.al.|[2411.08764](http://arxiv.org/abs/2411.08764)|null|
 |**2024-11-13**|**ScaleNet: Scale Invariance Learning in Directed Graphs**|Qin Jiang et.al.|[2411.08758](http://arxiv.org/abs/2411.08758)|**[link](https://github.com/qin87/scalenet)**|
-|**2024-11-13**|**Gaussian Mixture Models Based Augmentation Enhances GNN Generalization**|Yassine Abbahaddou et.al.|[2411.08638](http://arxiv.org/abs/2411.08638)|**[link](https://github.com/abbahaddou/GMM-GDA)**|
+|**2024-11-13**|**Gaussian Mixture Models Based Augmentation Enhances GNN Generalization**|Yassine Abbahaddou et.al.|[2411.08638](http://arxiv.org/abs/2411.08638)|null|
 |**2024-11-13**|**TDGCN-Based Mobile Multiuser Physical-Layer Authentication for EI-Enabled IIoT**|Rui Meng et.al.|[2411.08628](http://arxiv.org/abs/2411.08628)|null|
-|**2024-11-13**|**Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks**|Azmine Toushik Wasi et.al.|[2411.08550](http://arxiv.org/abs/2411.08550)|null|
+|**2024-11-13**|**Graph Neural Networks in Supply Chain Analytics and Optimization: Concepts, Perspectives, Dataset and Benchmarks**|Azmine Toushik Wasi et.al.|[2411.08550](http://arxiv.org/abs/2411.08550)|**[link](https://github.com/CIOL-SUST/SCG)**|
 |**2024-11-13**|**A Heterogeneous Graph Neural Network Fusing Functional and Structural Connectivity for MCI Diagnosis**|Feiyu Yin et.al.|[2411.08424](http://arxiv.org/abs/2411.08424)|null|
 |**2024-11-13**|**Federated Graph Learning with Graphless Clients**|Xingbo Fu et.al.|[2411.08374](http://arxiv.org/abs/2411.08374)|null|
 |**2024-11-12**|**Rethinking Structure Learning For Graph Neural Networks**|Yilun Zheng et.al.|[2411.07672](http://arxiv.org/abs/2411.07672)|null|
