@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-14**|**Faster Differentially Private Top- $k$ Selection: A Joint Exponential Mechanism with Pruning**|Hao WU et.al.|[2411.09552](http://arxiv.org/abs/2411.09552)|null|
-|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
+|**2024-11-16**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
 |**2024-11-14**|**Laplace Transform Interpretation of Differential Privacy**|Rishav Chourasia et.al.|[2411.09142](http://arxiv.org/abs/2411.09142)|null|
 |**2024-11-13**|**Minimax Optimal Two-Sample Testing under Local Differential Privacy**|Jongmin Mun et.al.|[2411.09064](http://arxiv.org/abs/2411.09064)|**[link](https://github.com/Jong-Min-Moon/optimal-local-dp-two-sample)**|
 |**2024-11-13**|**Locally Private Sampling with Public Data**|Behnoosh Zamanlooy et.al.|[2411.08791](http://arxiv.org/abs/2411.08791)|null|
@@ -815,7 +815,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -2829,7 +2829,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
