@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**$d_X$ -Privacy for Text and the Curse of Dimensionality**|Hassan Jameel Asghar et.al.|[2411.13784](http://arxiv.org/abs/2411.13784)|null|
+|**2024-11-20**|**Differentially Private Learning Beyond the Classical Dimensionality Regime**|Cynthia Dwork et.al.|[2411.13682](http://arxiv.org/abs/2411.13682)|null|
+|**2024-11-18**|**Preserving Expert-Level Privacy in Offline Reinforcement Learning**|Navodita Sharma et.al.|[2411.13598](http://arxiv.org/abs/2411.13598)|null|
 |**2024-11-19**|**Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice**|Flavio Hafner et.al.|[2411.12451](http://arxiv.org/abs/2411.12451)|null|
 |**2024-11-18**|**No-regret Exploration in Shuffle Private Reinforcement Learning**|Shaojie Bai et.al.|[2411.11647](http://arxiv.org/abs/2411.11647)|null|
 |**2024-11-18**|**Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions**|Robin Carpentier et.al.|[2411.11521](http://arxiv.org/abs/2411.11521)|**[link](https://github.com/inathwor/Preempting-Text-Sanitization)**|
@@ -820,14 +823,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
+|**2024-11-21**|**Learning Pore-scale Multi-phase Flow from Experimental Data with Graph Neural Network**|Yuxuan Gu et.al.|[2411.14192](http://arxiv.org/abs/2411.14192)|null|
+|**2024-11-21**|**Predicting rigidity and connectivity percolation in disordered particulate networks using graph neural networks**|D. A. Head et.al.|[2411.14159](http://arxiv.org/abs/2411.14159)|null|
+|**2024-11-21**|**GNN-MultiFix: Addressing the pitfalls for GNNs for multi-label node classification**|Tianqi Zhao et.al.|[2411.14094](http://arxiv.org/abs/2411.14094)|null|
+|**2024-11-21**|**Interpretable QSPR Modeling using Recursive Feature Machines and Multi-scale Fingerprints**|Jiaxuan Shen et.al.|[2411.14079](http://arxiv.org/abs/2411.14079)|null|
+|**2024-11-21**|**Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference**|Yunhui Liu et.al.|[2411.14035](http://arxiv.org/abs/2411.14035)|**[link](https://github.com/cloudy1225/hg2m)**|
+|**2024-11-21**|**Topology-Aware Popularity Debiasing via Simplicial Complexes**|Yanbiao Ji et.al.|[2411.13892](http://arxiv.org/abs/2411.13892)|null|
+|**2024-11-21**|**Heterophilic Graph Neural Networks Optimization with Causal Message-passing**|Botao Wang et.al.|[2411.13821](http://arxiv.org/abs/2411.13821)|null|
+|**2024-11-21**|**On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks**|Chenyang Wu et.al.|[2411.13805](http://arxiv.org/abs/2411.13805)|null|
+|**2024-11-20**|**Investigating Graph Neural Networks and Classical Feature-Extraction Techniques in Activity-Cliff and Molecular Property Prediction**|Markus Dablander et.al.|[2411.13688](http://arxiv.org/abs/2411.13688)|null|
+|**2024-11-20**|**Graph neural network framework for energy mapping of hybrid monte-carlo molecular dynamics simulations of Medium Entropy Alloys**|Mashaekh Tausif Ehsan et.al.|[2411.13670](http://arxiv.org/abs/2411.13670)|null|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|**[link](https://github.com/chapagaisa/transductive)**|
 |**2024-11-20**|**Advancing Heatwave Forecasting via Distribution Informed-Graph Neural Networks (DI-GNNs): Integrating Extreme Value Theory with GNNs**|Farrukh A. Chishtie et.al.|[2411.13496](http://arxiv.org/abs/2411.13496)|null|
-|**2024-11-20**|**Predicting Wall Thickness Changes in Cold Forging Processes: An Integrated FEM and Neural Network approach**|Sasa Ilic et.al.|[2411.13366](http://arxiv.org/abs/2411.13366)|null|
+|**2024-11-21**|**Predicting Wall Thickness Changes in Cold Forging Processes: An Integrated FEM and Neural Network approach**|Sasa Ilic et.al.|[2411.13366](http://arxiv.org/abs/2411.13366)|null|
 |**2024-11-20**|**Domain Adaptive Unfolded Graph Neural Networks**|Zepeng Zhang et.al.|[2411.13137](http://arxiv.org/abs/2411.13137)|null|
 |**2024-11-20**|**ORID: Organ-Regional Information Driven Framework for Radiology Report Generation**|Tiancheng Gu et.al.|[2411.13025](http://arxiv.org/abs/2411.13025)|null|
 |**2024-11-20**|**Epidemiology-informed Network for Robust Rumor Detection**|Wei Jiang et.al.|[2411.12949](http://arxiv.org/abs/2411.12949)|null|
 |**2024-11-19**|**MLDGG: Meta-Learning for Domain Generalization on Graphs**|Qin Tian et.al.|[2411.12913](http://arxiv.org/abs/2411.12913)|null|
-|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732](http://arxiv.org/abs/2411.12732)|**[link](https://github.com/ETH-DISCO/Benchmarking-PEs)**|
+|**2024-11-19**|**Benchmarking Positional Encodings for GNNs and Graph Transformers**|Florian Grötschla et.al.|[2411.12732](http://arxiv.org/abs/2411.12732)|null|
 |**2024-11-19**|**Estimating Dark Matter Halo Masses in Simulated Galaxy Clusters with Graph Neural Networks**|Nikhil Garuda et.al.|[2411.12629](http://arxiv.org/abs/2411.12629)|null|
 |**2024-11-19**|**GNNAS-Dock: Budget Aware Algorithm Selection with Graph Neural Networks for Molecular Docking**|Yiliang Yuan et.al.|[2411.12597](http://arxiv.org/abs/2411.12597)|null|
 |**2024-11-19**|**Bias Free Sentiment Analysis**|Hubert Plisiecki et.al.|[2411.12493](http://arxiv.org/abs/2411.12493)|null|
