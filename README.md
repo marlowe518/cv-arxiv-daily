@@ -18,6 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Wasserstein Markets for Differentially-Private Data**|Saurab Chhachhi et.al.|[2412.02609](http://arxiv.org/abs/2412.02609)|**[link](https://github.com/saurabac/Wasserstein-Data-Markets)**|
+|**2024-12-03**|**Private Linear Regression with Differential Privacy and PAC Privacy**|Hillary Yang et.al.|[2412.02578](http://arxiv.org/abs/2412.02578)|null|
+|**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
+|**2024-12-03**|**A privacy-preserving distributed credible evidence fusion algorithm for collective decision-making**|Chaoxiong Ma et.al.|[2412.02130](http://arxiv.org/abs/2412.02130)|null|
+|**2024-12-02**|**Adversarial Sample-Based Approach for Tighter Privacy Auditing in Final Model-Only Scenarios**|Sangyeon Yoon et.al.|[2412.01756](http://arxiv.org/abs/2412.01756)|null|
+|**2024-12-03**|**Verified Foundations for Differential Privacy**|Markus de Medeiros et.al.|[2412.01671](http://arxiv.org/abs/2412.01671)|null|
+|**2024-12-02**|**Review of Mathematical Optimization in Federated Learning**|Shusen Yang et.al.|[2412.01630](http://arxiv.org/abs/2412.01630)|null|
+|**2024-12-02**|**Effectiveness of L2 Regularization in Privacy-Preserving Machine Learning**|Nikolaos Chandrinos et.al.|[2412.01541](http://arxiv.org/abs/2412.01541)|null|
+|**2024-12-03**|**Symbolic Quantitative Information Flow for Probabilistic Programs**|Philipp Schröer et.al.|[2412.00907](http://arxiv.org/abs/2412.00907)|null|
+|**2024-12-01**|**Towards Privacy-Preserving Medical Imaging: Federated Learning with Differential Privacy and Secure Aggregation Using a Modified ResNet Architecture**|Mohamad Haj Fares et.al.|[2412.00687](http://arxiv.org/abs/2412.00687)|null|
+|**2024-12-01**|**TraCS: Trajectory Collection in Continuous Space under Local Differential Privacy**|Ye Zheng et.al.|[2412.00620](http://arxiv.org/abs/2412.00620)|null|
+|**2024-11-30**|**Distributed Differentially Private Data Analytics via Secure Sketching**|Jakob Burkhardt et.al.|[2412.00497](http://arxiv.org/abs/2412.00497)|null|
 |**2024-11-28**|**Aggregating Data for Optimal and Private Learning**|Sushant Agarwal et.al.|[2411.19045](http://arxiv.org/abs/2411.19045)|null|
 |**2024-11-27**|**Locally Differentially Private Online Federated Learning With Correlated Noise**|Jiaojiao Zhang et.al.|[2411.18752](http://arxiv.org/abs/2411.18752)|null|
 |**2024-11-27**|**Inference Privacy: Properties and Mechanisms**|Fengwei Tian et.al.|[2411.18746](http://arxiv.org/abs/2411.18746)|null|
@@ -839,6 +851,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601](http://arxiv.org/abs/2412.02601)|null|
+|**2024-12-03**|**Mobile Cell-Free Massive MIMO with Multi-Agent Reinforcement Learning: A Scalable Framework**|Ziheng Liu et.al.|[2412.02581](http://arxiv.org/abs/2412.02581)|null|
+|**2024-12-03**|**An Automated Data Mining Framework Using Autoencoders for Feature Extraction and Dimensionality Reduction**|Yaxin Liang et.al.|[2412.02211](http://arxiv.org/abs/2412.02211)|null|
+|**2024-12-03**|**Generalizing Weisfeiler-Lehman Kernels to Subgraphs**|Dongkwan Kim et.al.|[2412.02181](http://arxiv.org/abs/2412.02181)|**[link](https://github.com/dongkwan-kim/wlks)**|
+|**2024-12-03**|**GNN-based Auto-Encoder for Short Linear Block Codes: A DRL Approach**|Kou Tian et.al.|[2412.02053](http://arxiv.org/abs/2412.02053)|null|
+|**2024-12-02**|**Structure-Guided Input Graph for GNNs facing Heterophily**|Victor M. Tenorio et.al.|[2412.01757](http://arxiv.org/abs/2412.01757)|null|
+|**2024-12-02**|**A Survey on Deep Neural Networks in Collaborative Filtering Recommendation Systems**|Pang Li et.al.|[2412.01378](http://arxiv.org/abs/2412.01378)|null|
+|**2024-12-02**|**Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning**|Fengze Xie et.al.|[2412.01297](http://arxiv.org/abs/2412.01297)|**[link](https://github.com/lunarlab-gatech/morphsym-hgnn)**|
+|**2024-12-02**|**Superhypergraph Neural Networks and Plithogenic Graph Neural Networks: Theoretical Foundations**|Takaaki Fujita et.al.|[2412.01176](http://arxiv.org/abs/2412.01176)|null|
+|**2024-12-02**|**Lossless and Privacy-Preserving Graph Convolution Network for Federated Item Recommendation**|Guowei Wu et.al.|[2412.01141](http://arxiv.org/abs/2412.01141)|null|
+|**2024-12-01**|**A Cognac shot to forget bad memories: Corrective Unlearning in GNNs**|Varshita Kolipaka et.al.|[2412.00789](http://arxiv.org/abs/2412.00789)|null|
+|**2024-12-01**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2024-11-30**|**Exact Certification of (Graph) Neural Networks Against Label Poisoning**|Mahalakshmi Sabanayagam et.al.|[2412.00537](http://arxiv.org/abs/2412.00537)|null|
+|**2024-11-30**|**A Self-Explainable Heterogeneous GNN for Relational Deep Learning**|Francesco Ferrini et.al.|[2412.00521](http://arxiv.org/abs/2412.00521)|null|
+|**2024-11-30**|**Graph-to-SFILES: Control structure prediction from process topologies using generative artificial intelligence**|Lukas Schulze Balhorn et.al.|[2412.00508](http://arxiv.org/abs/2412.00508)|null|
+|**2024-11-30**|**Toward Fair Graph Neural Networks Via Dual-Teacher Knowledge Distillation**|Chengyu Li et.al.|[2412.00382](http://arxiv.org/abs/2412.00382)|null|
+|**2024-11-30**|**One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**|Jingzhe Liu et.al.|[2412.00315](http://arxiv.org/abs/2412.00315)|null|
+|**2024-11-29**|**Attribute-Enhanced Similarity Ranking for Sparse Link Prediction**|João Mattos et.al.|[2412.00261](http://arxiv.org/abs/2412.00261)|null|
+|**2024-11-29**|**Multigraph Message Passing with Bi-Directional Multi-Edge Aggregations**|H. Çağrı Bilgi et.al.|[2412.00241](http://arxiv.org/abs/2412.00241)|null|
+|**2024-11-29**|**Twisted Convolutional Networks (TCNs): Enhancing Feature Interactions for Non-Spatial Data Classification**|Junbo Jacob Lian et.al.|[2412.00238](http://arxiv.org/abs/2412.00238)|null|
 |**2024-11-29**|**SDR-GNN: Spectral Domain Reconstruction Graph Neural Network for Incomplete Multimodal Learning in Conversational Emotion Recognition**|Fangze Fu et.al.|[2411.19822](http://arxiv.org/abs/2411.19822)|null|
 |**2024-11-29**|**PerLA: Perceptive 3D Language Assistant**|Guofeng Mei et.al.|[2411.19774](http://arxiv.org/abs/2411.19774)|null|
 |**2024-11-29**|**Graph Neural Networks for Heart Failure Prediction on an EHR-Based Patient Similarity Graph**|Heloisa Oss Boll et.al.|[2411.19742](http://arxiv.org/abs/2411.19742)|**[link](https://github.com/hossboll/patient-gnn)**|
