@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2024-12-02**|**Effectiveness of L2 Regularization in Privacy-Preserving Machine Learning**|Nikolaos Chandrinos et.al.|[2412.01541](http://arxiv.org/abs/2412.01541)|null|
 |**2024-12-03**|**Symbolic Quantitative Information Flow for Probabilistic Programs**|Philipp Schröer et.al.|[2412.00907](http://arxiv.org/abs/2412.00907)|null|
 |**2024-12-01**|**Towards Privacy-Preserving Medical Imaging: Federated Learning with Differential Privacy and Secure Aggregation Using a Modified ResNet Architecture**|Mohamad Haj Fares et.al.|[2412.00687](http://arxiv.org/abs/2412.00687)|null|
-|**2024-12-01**|**TraCS: Trajectory Collection in Continuous Space under Local Differential Privacy**|Ye Zheng et.al.|[2412.00620](http://arxiv.org/abs/2412.00620)|null|
+|**2024-12-01**|**TraCS: Trajectory Collection in Continuous Space under Local Differential Privacy**|Ye Zheng et.al.|[2412.00620](http://arxiv.org/abs/2412.00620)|**[link](https://github.com/zhengyeah/tracs)**|
 |**2024-11-30**|**Distributed Differentially Private Data Analytics via Secure Sketching**|Jakob Burkhardt et.al.|[2412.00497](http://arxiv.org/abs/2412.00497)|null|
 |**2024-11-28**|**Aggregating Data for Optimal and Private Learning**|Sushant Agarwal et.al.|[2411.19045](http://arxiv.org/abs/2411.19045)|null|
 |**2024-11-27**|**Locally Differentially Private Online Federated Learning With Correlated Noise**|Jiaojiao Zhang et.al.|[2411.18752](http://arxiv.org/abs/2411.18752)|null|
@@ -849,7 +849,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -857,10 +857,10 @@
 |---|---|---|---|---|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|null|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
-|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|null|
+|**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Graph Neural Networks Need Cluster-Normalize-Activate Modules**|Arseny Skryagin et.al.|[2412.04064](http://arxiv.org/abs/2412.04064)|null|
 |**2024-12-05**|**Graph Disentangle Causal Model: Enhancing Causal Inference in Networked Observational Data**|Binbin Hu et.al.|[2412.03913](http://arxiv.org/abs/2412.03913)|null|
-|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864](http://arxiv.org/abs/2412.03864)|null|
+|**2024-12-05**|**Training MLPs on Graphs without Supervision**|Zehong Wang et.al.|[2412.03864](http://arxiv.org/abs/2412.03864)|**[link](https://github.com/zehong-wang/simmlp)**|
 |**2024-12-05**|**Expressivity of Representation Learning on Continuous-Time Dynamic Graphs: An Information-Flow Centric Review**|Sofiane Ennadir et.al.|[2412.03783](http://arxiv.org/abs/2412.03783)|null|
 |**2024-12-04**|**Language Model Meets Prototypes: Towards Interpretable Text Classification Models through Prototypical Networks**|Ximing Wen et.al.|[2412.03761](http://arxiv.org/abs/2412.03761)|null|
 |**2024-12-04**|**Explainable Malware Detection through Integrated Graph Reduction and Learning Techniques**|Hesamodin Mohammadian et.al.|[2412.03634](http://arxiv.org/abs/2412.03634)|null|
@@ -869,7 +869,7 @@
 |**2024-12-04**|**Node Classification With Integrated Reject Option**|Uday Bhaskar et.al.|[2412.03190](http://arxiv.org/abs/2412.03190)|null|
 |**2024-12-04**|**Semi-decentralized Training of Spatio-Temporal Graph Neural Networks for Traffic Prediction**|Ivan Kralj et.al.|[2412.03188](http://arxiv.org/abs/2412.03188)|null|
 |**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097](http://arxiv.org/abs/2412.03097)|null|
-|**2024-12-04**|**A Graph Neural Network Approach to Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|null|
+|**2024-12-04**|**A Graph Neural Network Approach to Dispersed Systems**|Aref Hashemi et.al.|[2412.02967](http://arxiv.org/abs/2412.02967)|**[link](https://github.com/rfjd/gns-dispersedsystems)**|
 |**2024-12-03**|**CuXASNet: Rapid and Accurate Prediction of Copper L-edge X-Ray Absorption Spectra Using Machine Learning**|Samuel P. Gleason et.al.|[2412.02916](http://arxiv.org/abs/2412.02916)|null|
 |**2024-12-03**|**Geographical Information Alignment Boosts Traffic Analysis via Transpose Cross-attention**|Xiangyu Jiang et.al.|[2412.02839](http://arxiv.org/abs/2412.02839)|null|
 |**2024-12-03**|**MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images**|Aniruddha Ganguly et.al.|[2412.02601](http://arxiv.org/abs/2412.02601)|null|
@@ -2979,7 +2979,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
