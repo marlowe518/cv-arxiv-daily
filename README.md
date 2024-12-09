@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**A Differentially Private Kaplan-Meier Estimator for Privacy-Preserving Survival Analysis**|Narasimha Raghavan Veeraragavan et.al.|[2412.05164](http://arxiv.org/abs/2412.05164)|null|
+|**2024-12-06**|**Information Flows for Athletes' Health and Performance Data**|Brad Stenger et.al.|[2412.05055](http://arxiv.org/abs/2412.05055)|null|
+|**2024-12-06**|**Differentially Private Random Feature Model**|Chunyang Liao et.al.|[2412.04785](http://arxiv.org/abs/2412.04785)|null|
+|**2024-12-06**|**Privacy-Preserving Retrieval Augmented Generation with Differential Privacy**|Tatsuki Koga et.al.|[2412.04697](http://arxiv.org/abs/2412.04697)|null|
 |**2024-12-05**|**Providing Differential Privacy for Federated Learning Over Wireless: A Cross-layer Framework**|Jiayu Mao et.al.|[2412.04408](http://arxiv.org/abs/2412.04408)|null|
 |**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924](http://arxiv.org/abs/2412.03924)|null|
 |**2024-12-04**|**BGTplanner: Maximizing Training Accuracy for Differentially Private Federated Recommenders via Strategic Privacy Budget Allocation**|Xianzhi Zhang et.al.|[2412.02934](http://arxiv.org/abs/2412.02934)|null|
@@ -855,6 +859,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**ROS: A GNN-based Relax-Optimize-and-Sample Framework for Max-k-Cut Problems**|Yeqing Qiu et.al.|[2412.05146](http://arxiv.org/abs/2412.05146)|null|
+|**2024-12-06**|**Unifying Dual-Space Embedding for Entity Alignment via Contrastive Learning**|Cunda Wang et.al.|[2412.05028](http://arxiv.org/abs/2412.05028)|**[link](https://github.com/wondercs1213/uniea)**|
+|**2024-12-06**|**GABAR: Graph Attention-Based Action Ranking for Relational Policy Learning**|Rajesh Mangannavar et.al.|[2412.04752](http://arxiv.org/abs/2412.04752)|null|
+|**2024-12-06**|**Code generation and runtime techniques for enabling data-efficient deep learning training on GPUs**|Kun Wu et.al.|[2412.04747](http://arxiv.org/abs/2412.04747)|null|
+|**2024-12-05**|**ProtBoost: protein function prediction with Py-Boost and Graph Neural Networks -- CAFA5 top2 solution**|Alexander Chervov et.al.|[2412.04529](http://arxiv.org/abs/2412.04529)|null|
 |**2024-12-05**|**PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters**|Hongyu Yan et.al.|[2412.04442](http://arxiv.org/abs/2412.04442)|**[link](https://github.com/TACC/PDMD)**|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
