@@ -14,13 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**A Joint Energy and Differentially-Private Smart Meter Data Market**|Saurab Chhachhi et.al.|[2412.07688](http://arxiv.org/abs/2412.07688)|null|
+|**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687](http://arxiv.org/abs/2412.07687)|null|
+|**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187](http://arxiv.org/abs/2412.07187)|**[link](https://github.com/pengxin-guo/hyperfl)**|
+|**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
 |**2024-12-09**|**Impact of Privacy Parameters on Deep Learning Models for Image Classification**|Basanta Chaulagain et.al.|[2412.06689](http://arxiv.org/abs/2412.06689)|null|
 |**2024-12-09**|**Optimal estimation in private distributed functional data analysis**|Gengyu Xue et.al.|[2412.06582](http://arxiv.org/abs/2412.06582)|null|
 |**2024-12-09**|**Numerical Estimation of Spatial Distributions under Differential Privacy**|Leilei Du et.al.|[2412.06541](http://arxiv.org/abs/2412.06541)|null|
 |**2024-12-09**|**Lightweight Federated Learning with Differential Privacy and Straggler Resilience**|Shu Hong et.al.|[2412.06120](http://arxiv.org/abs/2412.06120)|null|
 |**2024-12-09**|**Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions**|Guoshenghui Zhao et.al.|[2412.06113](http://arxiv.org/abs/2412.06113)|null|
 |**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|null|
-|**2024-12-08**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767](http://arxiv.org/abs/2412.05767)|null|
+|**2024-12-10**|**DeMem: Privacy-Enhanced Robust Adversarial Learning via De-Memorization**|Xiaoyu Luo et.al.|[2412.05767](http://arxiv.org/abs/2412.05767)|**[link](https://github.com/xiaoyuluoit97/DeMem)**|
 |**2024-12-07**|**Can large language models be privacy preserving and fair medical coders?**|Ali Dadsetan et.al.|[2412.05533](http://arxiv.org/abs/2412.05533)|null|
 |**2024-12-07**|**Upcycling Noise for Federated Unlearning**|Jianan Chen et.al.|[2412.05529](http://arxiv.org/abs/2412.05529)|null|
 |**2024-12-06**|**A Differentially Private Kaplan-Meier Estimator for Privacy-Preserving Survival Analysis**|Narasimha Raghavan Veeraragavan et.al.|[2412.05164](http://arxiv.org/abs/2412.05164)|null|
@@ -862,6 +866,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Fast Track to Winning Tickets: Repowering One-Shot Pruning for Graph Neural Networks**|Yanwei Yue et.al.|[2412.07605](http://arxiv.org/abs/2412.07605)|null|
+|**2024-12-10**|**GSM: A GNN-based Space-MIMO Framework for Direct-to-Cell Communications**|Sai Xu et.al.|[2412.07555](http://arxiv.org/abs/2412.07555)|null|
+|**2024-12-10**|**Statistical Precoder Design in Multi-User Systems via Graph Neural Networks and Generative Modeling**|Nurettin Turan et.al.|[2412.07519](http://arxiv.org/abs/2412.07519)|null|
+|**2024-12-10**|**AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468](http://arxiv.org/abs/2412.07468)|null|
+|**2024-12-10**|**Towards Graph Foundation Models: A Study on the Generalization of Positional and Structural Encodings**|Billy Joe Franks et.al.|[2412.07407](http://arxiv.org/abs/2412.07407)|null|
+|**2024-12-10**|**Temporal-Aware Evaluation and Learning for Temporal Graph Neural Networks**|Junwei Su et.al.|[2412.07273](http://arxiv.org/abs/2412.07273)|null|
+|**2024-12-10**|**A Dynamical Systems-Inspired Pruning Strategy for Addressing Oversmoothing in Graph Neural Networks**|Biswadeep Chakraborty et.al.|[2412.07243](http://arxiv.org/abs/2412.07243)|null|
+|**2024-12-10**|**Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective**|Yushun Dong et.al.|[2412.07188](http://arxiv.org/abs/2412.07188)|**[link](https://github.com/yushundong/spectral-benchmark)**|
+|**2024-12-10**|**Deep Learning-Enhanced Preconditioning for Efficient Conjugate Gradient Solvers in Large-Scale PDE Systems**|Rui Li et.al.|[2412.07127](http://arxiv.org/abs/2412.07127)|null|
+|**2024-12-10**|**Covered Forest: Fine-grained generalization analysis of graph neural networks**|Antonis Vasileiou et.al.|[2412.07106](http://arxiv.org/abs/2412.07106)|null|
+|**2024-12-09**|**Stock Type Prediction Model Based on Hierarchical Graph Neural Network**|Jianhua Yao et.al.|[2412.06862](http://arxiv.org/abs/2412.06862)|null|
+|**2024-12-08**|**GL-Fusion: Rethinking the Combination of Graph Neural Network and Large Language model**|Haotong Yang et.al.|[2412.06849](http://arxiv.org/abs/2412.06849)|null|
 |**2024-12-09**|**MISFEAT: Feature Selection for Subgroups with Systematic Missing Data**|Bar Genossar et.al.|[2412.06711](http://arxiv.org/abs/2412.06711)|null|
 |**2024-12-09**|**Cramér-Rao Bound Analysis and Beamforming Design for 3D Extended Target in ISAC: From Optimization to Learning Approaches**|Yiqiu Wang et.al.|[2412.06353](http://arxiv.org/abs/2412.06353)|null|
 |**2024-12-09**|**A Self-guided Multimodal Approach to Enhancing Graph Representation Learning for Alzheimer's Diseases**|Zhepeng Wang et.al.|[2412.06212](http://arxiv.org/abs/2412.06212)|null|
