@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -20,7 +20,7 @@ layout: default
 |**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
 |**2024-12-09**|**Impact of Privacy Parameters on Deep Learning Models for Image Classification**|Basanta Chaulagain et.al.|[2412.06689](http://arxiv.org/abs/2412.06689)|null|
 |**2024-12-09**|**Optimal estimation in private distributed functional data analysis**|Gengyu Xue et.al.|[2412.06582](http://arxiv.org/abs/2412.06582)|null|
-|**2024-12-09**|**Numerical Estimation of Spatial Distributions under Differential Privacy**|Leilei Du et.al.|[2412.06541](http://arxiv.org/abs/2412.06541)|null|
+|**2024-12-11**|**Numerical Estimation of Spatial Distributions under Differential Privacy**|Leilei Du et.al.|[2412.06541](http://arxiv.org/abs/2412.06541)|null|
 |**2024-12-09**|**Lightweight Federated Learning with Differential Privacy and Straggler Resilience**|Shu Hong et.al.|[2412.06120](http://arxiv.org/abs/2412.06120)|null|
 |**2024-12-09**|**Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions**|Guoshenghui Zhao et.al.|[2412.06113](http://arxiv.org/abs/2412.06113)|null|
 |**2024-12-08**|**Adversarially Robust Dense-Sparse Tradeoffs via Heavy-Hitters**|David P. Woodruff et.al.|[2412.05807](http://arxiv.org/abs/2412.05807)|null|
