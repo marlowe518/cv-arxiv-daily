@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.17
+## Updated on 2024.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -882,7 +882,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -901,7 +901,7 @@
 |**2024-12-15**|**Concept Learning in the Wild: Towards Algorithmic Understanding of Neural Networks**|Elad Shohama et.al.|[2412.11205](http://arxiv.org/abs/2412.11205)|null|
 |**2024-12-15**|**GNNs-to-MLPs by Teacher Injection and Dirichlet Energy Distillation**|Ziang Zhou et.al.|[2412.11180](http://arxiv.org/abs/2412.11180)|null|
 |**2024-12-15**|**Dynamic Graph Attention Networks for Travel Time Distribution Prediction in Urban Arterial Roads**|Nooshin Yousefzadeh et.al.|[2412.11095](http://arxiv.org/abs/2412.11095)|null|
-|**2024-12-14**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|**[link](https://github.com/lzyfischer/inductivest)**|
+|**2024-12-17**|**ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data**|Zhenyu Lei et.al.|[2412.10912](http://arxiv.org/abs/2412.10912)|**[link](https://github.com/lzyfischer/inductivest)**|
 |**2024-12-14**|**Multi-Class and Multi-Task Strategies for Neural Directed Link Prediction**|Claudio Moroni et.al.|[2412.10895](http://arxiv.org/abs/2412.10895)|null|
 |**2024-12-14**|**Improving Graph Neural Networks via Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.10850](http://arxiv.org/abs/2412.10850)|null|
 |**2024-12-14**|**Scaling Up Graph Propagation Computation on Large Graphs: A Local Chebyshev Approximation Approach**|Yichun Yang et.al.|[2412.10789](http://arxiv.org/abs/2412.10789)|null|
@@ -3087,7 +3087,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20241217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
