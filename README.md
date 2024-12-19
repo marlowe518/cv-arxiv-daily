@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Differentially Private Substring and Document Counting**|Giulia Bernardini et.al.|[2412.13813](http://arxiv.org/abs/2412.13813)|null|
+|**2024-12-18**|**Federated t-SNE and UMAP for Distributed Data Visualization**|Dong Qiao et.al.|[2412.13495](http://arxiv.org/abs/2412.13495)|null|
 |**2024-12-17**|**Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives**|Lucas Rosenblatt et.al.|[2412.13030](http://arxiv.org/abs/2412.13030)|null|
 |**2024-12-16**|**Differential Privacy Preserving Distributed Quantum Computing**|Hui Zhong et.al.|[2412.12387](http://arxiv.org/abs/2412.12387)|null|
 |**2024-12-16**|**Privacy in Metalearning and Multitask Learning: Modeling and Separations**|Maryam Aliakbarpour et.al.|[2412.12374](http://arxiv.org/abs/2412.12374)|null|
@@ -891,10 +893,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119](http://arxiv.org/abs/2412.14119)|null|
+|**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training**|Shuyin Xia et.al.|[2412.13842](http://arxiv.org/abs/2412.13842)|null|
+|**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283](http://arxiv.org/abs/2412.13283)|null|
+|**2024-12-17**|**Enhancing Internet of Things Security throughSelf-Supervised Graph Neural Networks**|Safa Ben Atitallah et.al.|[2412.13240](http://arxiv.org/abs/2412.13240)|null|
 |**2024-12-17**|**Cluster-guided Contrastive Class-imbalanced Graph Classification**|Wei Ju et.al.|[2412.12984](http://arxiv.org/abs/2412.12984)|null|
 |**2024-12-17**|**Towards Effective Graph Rationalization via Boosting Environment Diversity**|Yujie Wang et.al.|[2412.12880](http://arxiv.org/abs/2412.12880)|null|
 |**2024-12-17**|**A Multigrid Graph U-Net Framework for Simulating Multiphase Flow in Heterogeneous Porous Media**|Jiamin Jiang et.al.|[2412.12757](http://arxiv.org/abs/2412.12757)|null|
-|**2024-12-17**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483](http://arxiv.org/abs/2412.12483)|**[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)**|
+|**2024-12-18**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483](http://arxiv.org/abs/2412.12483)|**[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)**|
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
 |**2024-12-16**|**DeepSN: A Sheaf Neural Framework for Influence Maximization**|Asela Hevapathige et.al.|[2412.12416](http://arxiv.org/abs/2412.12416)|null|
 |**2024-12-16**|**Feasibility Study of Measuring $Λ^0\to nπ^{0}$ Using a High-Granularity Zero-Degree Calorimeter at the Future Electron-Ion Collider**|Sebouh J. Paul et.al.|[2412.12346](http://arxiv.org/abs/2412.12346)|null|
