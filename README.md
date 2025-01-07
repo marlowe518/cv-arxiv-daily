@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Characterizing the Accuracy-Communication-Privacy Trade-off in Distributed Stochastic Convex Optimization**|Sudeep Salgia et.al.|[2501.03222](http://arxiv.org/abs/2501.03222)|null|
+|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|null|
 |**2025-01-03**|**Advancing privacy in learning analytics using differential privacy**|Qinyi Liu et.al.|[2501.01786](http://arxiv.org/abs/2501.01786)|null|
 |**2025-01-01**|**Differentially Private Matchings**|Michael Dinitz et.al.|[2501.00926](http://arxiv.org/abs/2501.00926)|null|
 |**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842](http://arxiv.org/abs/2501.00842)|null|
@@ -918,6 +920,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113](http://arxiv.org/abs/2501.03113)|null|
+|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981](http://arxiv.org/abs/2501.02981)|null|
+|**2025-01-06**|**LOHA: Direct Graph Spectral Contrastive Learning Between Low-pass and High-pass Views**|Ziyun Zou et.al.|[2501.02969](http://arxiv.org/abs/2501.02969)|null|
+|**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808](http://arxiv.org/abs/2501.02808)|null|
+|**2025-01-06**|**GraphDART: Graph Distillation for Efficient Advanced Persistent Threat Detection**|Saba Fathi Rabooki et.al.|[2501.02796](http://arxiv.org/abs/2501.02796)|null|
+|**2025-01-06**|**Enhancing Trustworthiness of Graph Neural Networks with Rank-Based Conformal Training**|Ting Wang et.al.|[2501.02767](http://arxiv.org/abs/2501.02767)|**[link](https://github.com/cityu-t/rcp-gnn)**|
+|**2025-01-06**|**Are GNNs Effective for Multimodal Fault Diagnosis in Microservice Systems?**|Fei Gao et.al.|[2501.02766](http://arxiv.org/abs/2501.02766)|null|
+|**2025-01-06**|**Enhancing Robot Route Optimization in Smart Logistics with Transformer and GNN Integration**|Hao Luo et.al.|[2501.02749](http://arxiv.org/abs/2501.02749)|null|
+|**2025-01-06**|**OpenGU: A Comprehensive Benchmark for Graph Unlearning**|Bowen Fan et.al.|[2501.02728](http://arxiv.org/abs/2501.02728)|null|
+|**2025-01-05**|**Quantum Cognition-Inspired EEG-based Recommendation via Graph Neural Networks**|Jinkun Han et.al.|[2501.02671](http://arxiv.org/abs/2501.02671)|null|
+|**2025-01-05**|**Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation**|Jinkun Han et.al.|[2501.02666](http://arxiv.org/abs/2501.02666)|null|
+|**2025-01-05**|**Efficient Graph Condensation via Gaussian Process**|Lin Wang et.al.|[2501.02565](http://arxiv.org/abs/2501.02565)|null|
+|**2025-01-04**|**Graph-Aware Isomorphic Attention for Adaptive Dynamics in Transformers**|Markus J. Buehler et.al.|[2501.02393](http://arxiv.org/abs/2501.02393)|**[link](https://github.com/lamm-mit/graph-aware-transformers)**|
+|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|null|
+|**2025-01-04**|**DiffGraph: Heterogeneous Graph Diffusion Model**|Zongwei Li et.al.|[2501.02313](http://arxiv.org/abs/2501.02313)|**[link](https://github.com/hkuds/diffgraph)**|
 |**2025-01-03**|**A Probabilistic Model for Node Classification in Directed Graphs**|Diego Huerta et.al.|[2501.01630](http://arxiv.org/abs/2501.01630)|null|
 |**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203](http://arxiv.org/abs/2501.01203)|null|
 |**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773](http://arxiv.org/abs/2501.00773)|null|
