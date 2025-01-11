@@ -23,9 +23,9 @@
 |**2025-01-08**|**Privacy-Preserving Distributed Online Mirror Descent for Nonconvex Optimization**|Yingjie Zhou et.al.|[2501.04222](http://arxiv.org/abs/2501.04222)|null|
 |**2025-01-07**|**Synthetic Data Privacy Metrics**|Amy Steier et.al.|[2501.03941](http://arxiv.org/abs/2501.03941)|null|
 |**2025-01-07**|**A study on performance limitations in Federated Learning**|Karthik Mohan et.al.|[2501.03477](http://arxiv.org/abs/2501.03477)|null|
-|**2025-01-07**|**Structure-Preference Enabled Graph Embedding Generation under Differential Privacy**|Sen Zhang et.al.|[2501.03451](http://arxiv.org/abs/2501.03451)|null|
+|**2025-01-07**|**Structure-Preference Enabled Graph Embedding Generation under Differential Privacy**|Sen Zhang et.al.|[2501.03451](http://arxiv.org/abs/2501.03451)|**[link](https://github.com/sunnerzs/seprivgemb)**|
 |**2025-01-06**|**Characterizing the Accuracy-Communication-Privacy Trade-off in Distributed Stochastic Convex Optimization**|Sudeep Salgia et.al.|[2501.03222](http://arxiv.org/abs/2501.03222)|null|
-|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|null|
+|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|**[link](https://github.com/sunnerzs/privdpr)**|
 |**2025-01-03**|**Advancing privacy in learning analytics using differential privacy**|Qinyi Liu et.al.|[2501.01786](http://arxiv.org/abs/2501.01786)|null|
 |**2025-01-01**|**Differentially Private Matchings**|Michael Dinitz et.al.|[2501.00926](http://arxiv.org/abs/2501.00926)|null|
 |**2025-01-01**|**A Survey of Secure Semantic Communications**|Rui Meng et.al.|[2501.00842](http://arxiv.org/abs/2501.00842)|null|
@@ -939,8 +939,8 @@
 |**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464](http://arxiv.org/abs/2501.03464)|null|
 |**2025-01-08**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
 |**2025-01-06**|**A Decision-Based Heterogenous Graph Attention Network for Multi-Class Fake News Detection**|Batool Lakzaei et.al.|[2501.03290](http://arxiv.org/abs/2501.03290)|**[link](https://github.com/blakzaei/dhgat)**|
-|**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
-|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113](http://arxiv.org/abs/2501.03113)|null|
+|**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|**[link](https://github.com/hkuds/lightgnn)**|
+|**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113](http://arxiv.org/abs/2501.03113)|**[link](https://github.com/jks17/hymn)**|
 |**2025-01-07**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahar et.al.|[2501.02981](http://arxiv.org/abs/2501.02981)|null|
 |**2025-01-06**|**LOHA: Direct Graph Spectral Contrastive Learning Between Low-pass and High-pass Views**|Ziyun Zou et.al.|[2501.02969](http://arxiv.org/abs/2501.02969)|null|
 |**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808](http://arxiv.org/abs/2501.02808)|null|
