@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Efficient Gradient Tracking Algorithms for Distributed Optimization Problems with Inexact Communication**|Shengchao Zhaoa et.al.|[2501.05737](http://arxiv.org/abs/2501.05737)|null|
+|**2025-01-09**|**On Fair Ordering and Differential Privacy**|Shir Cohen et.al.|[2501.05535](http://arxiv.org/abs/2501.05535)|null|
 |**2025-01-09**|**Private Selection with Heterogeneous Sensitivities**|Daniela Antonova et.al.|[2501.05309](http://arxiv.org/abs/2501.05309)|null|
 |**2025-01-08**|**VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**|Ahmed Ayoub Bellachia et.al.|[2501.04319](http://arxiv.org/abs/2501.04319)|null|
 |**2025-01-08**|**Privacy-Preserving Distributed Online Mirror Descent for Nonconvex Optimization**|Yingjie Zhou et.al.|[2501.04222](http://arxiv.org/abs/2501.04222)|null|
@@ -926,6 +928,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
+|**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002](http://arxiv.org/abs/2501.06002)|**[link](https://github.com/basiralab/deltagnn)**|
+|**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
+|**2025-01-10**|**Fine-tuning is Not Fine: Mitigating Backdoor Attacks in GNNs with Limited Clean Data**|Jiale Zhang et.al.|[2501.05835](http://arxiv.org/abs/2501.05835)|null|
+|**2025-01-10**|**TransPlace: Transferable Circuit Global Placement via Graph Neural Network**|Yunbo Hou et.al.|[2501.05667](http://arxiv.org/abs/2501.05667)|null|
+|**2025-01-10**|**Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications**|Joe Eappen et.al.|[2501.05639](http://arxiv.org/abs/2501.05639)|null|
+|**2025-01-09**|**Watermarking Graph Neural Networks via Explanations for Ownership Protection**|Jane Downer et.al.|[2501.05614](http://arxiv.org/abs/2501.05614)|null|
+|**2025-01-09**|**Quantum Simplicial Neural Networks**|Simone Piperno et.al.|[2501.05558](http://arxiv.org/abs/2501.05558)|null|
 |**2025-01-09**|**Discovery of Spin-Crossover Candidates with Equivariant Graph Neural Networks**|Angel Albavera-Mata et.al.|[2501.05341](http://arxiv.org/abs/2501.05341)|null|
 |**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
 |**2025-01-08**|**Intelligent experiments through real-time AI: Fast Data Processing and Autonomous Detector Control for sPHENIX and future EIC detectors**|J. Kvapil et.al.|[2501.04845](http://arxiv.org/abs/2501.04845)|null|
