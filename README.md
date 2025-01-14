@@ -18,7 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-10**|**Efficient Gradient Tracking Algorithms for Distributed Optimization Problems with Inexact Communication**|Shengchao Zhaoa et.al.|[2501.05737](http://arxiv.org/abs/2501.05737)|null|
+|**2025-01-13**|**Differentially Private Kernelized Contextual Bandits**|Nikola Pavlovic et.al.|[2501.07046](http://arxiv.org/abs/2501.07046)|null|
+|**2025-01-12**|**Differentially Private Gradient-Tracking-Based Distributed Stochastic Optimization over Directed Graphs**|Jialong Chen et.al.|[2501.06793](http://arxiv.org/abs/2501.06793)|null|
+|**2025-01-12**|**Understanding and Mitigating Membership Inference Risks of Neural Ordinary Differential Equations**|Sanghyun Hong et.al.|[2501.06686](http://arxiv.org/abs/2501.06686)|null|
+|**2025-01-11**|**Differentially Private Distribution Estimation Using Functional Approximation**|Ye Tao et.al.|[2501.06620](http://arxiv.org/abs/2501.06620)|null|
+|**2025-01-13**|**Efficient Gradient Tracking Algorithms for Distributed Optimization Problems with Inexact Communication**|Shengchao Zhao et.al.|[2501.05737](http://arxiv.org/abs/2501.05737)|null|
 |**2025-01-09**|**On Fair Ordering and Differential Privacy**|Shir Cohen et.al.|[2501.05535](http://arxiv.org/abs/2501.05535)|null|
 |**2025-01-09**|**Private Selection with Heterogeneous Sensitivities**|Daniela Antonova et.al.|[2501.05309](http://arxiv.org/abs/2501.05309)|null|
 |**2025-01-08**|**VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**|Ahmed Ayoub Bellachia et.al.|[2501.04319](http://arxiv.org/abs/2501.04319)|null|
@@ -928,6 +932,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Advancing Higgsino Searches by Integrating ML for Boosted Object Tagging and Event Selection**|Rameswar Sahu et.al.|[2501.07491](http://arxiv.org/abs/2501.07491)|null|
+|**2025-01-13**|**Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems**|Vinay Sharma et.al.|[2501.07373](http://arxiv.org/abs/2501.07373)|null|
+|**2025-01-13**|**Generalizable Graph Neural Networks for Robust Power Grid Topology Control**|Matthijs de Jong et.al.|[2501.07186](http://arxiv.org/abs/2501.07186)|null|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
+|**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985](http://arxiv.org/abs/2501.06985)|null|
+|**2025-01-11**|**Dual-Modality Representation Learning for Molecular Property Prediction**|Anyin Zhao et.al.|[2501.06608](http://arxiv.org/abs/2501.06608)|null|
+|**2025-01-11**|**On the Computational Capability of Graph Neural Networks: A Circuit Complexity Bound Perspective**|Xiaoyu Li et.al.|[2501.06444](http://arxiv.org/abs/2501.06444)|null|
+|**2025-01-08**|**Data-Driven Radio Propagation Modeling using Graph Neural Networks**|Adrien Bufort et.al.|[2501.06236](http://arxiv.org/abs/2501.06236)|null|
 |**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
 |**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002](http://arxiv.org/abs/2501.06002)|**[link](https://github.com/basiralab/deltagnn)**|
 |**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
