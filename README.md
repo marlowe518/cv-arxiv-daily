@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**A Selective Homomorphic Encryption Approach for Faster Privacy-Preserving Federated Learning**|Abdulkadir Korkmaz et.al.|[2501.12911](http://arxiv.org/abs/2501.12911)|null|
+|**2025-01-22**|**Statistical Privacy**|Dennis Breutigam et.al.|[2501.12893](http://arxiv.org/abs/2501.12893)|null|
+|**2025-01-21**|**Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy**|Khaoula Chehbouni et.al.|[2501.12537](http://arxiv.org/abs/2501.12537)|null|
 |**2025-01-21**|**Optimizing Leaky Private Information Retrieval Codes to Achieve ${O}(\log K)$ Leakage Ratio Exponent**|Wenyuan Zhao et.al.|[2501.12310](http://arxiv.org/abs/2501.12310)|null|
 |**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046](http://arxiv.org/abs/2501.12046)|null|
 |**2025-01-20**|**An Information Geometric Approach to Local Information Privacy with Applications to Max-lift and Local Differential Privacy**|Amirreza Zamani et.al.|[2501.11757](http://arxiv.org/abs/2501.11757)|null|
-|**2025-01-20**|**Strong Data Processing Properties of Rényi-divergences via Pinsker-type Inequalities**|Leonhard Grosse et.al.|[2501.11473](http://arxiv.org/abs/2501.11473)|null|
+|**2025-01-22**|**Strong Data Processing Properties of Rényi-divergences via Pinsker-type Inequalities**|Leonhard Grosse et.al.|[2501.11473](http://arxiv.org/abs/2501.11473)|null|
 |**2025-01-17**|**Quantum Advantage in Private Multiple Hypothesis Testing**|Seung-Hyun Nam et.al.|[2501.10152](http://arxiv.org/abs/2501.10152)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
 |**2025-01-14**|**A Refreshment Stirred, Not Shaken (II): Invariant-Preserving Deployments of Differential Privacy for the US Decennial Census**|James Bailie et.al.|[2501.08449](http://arxiv.org/abs/2501.08449)|null|
@@ -942,6 +945,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks**|Qiuyu Zhu et.al.|[2501.12857](http://arxiv.org/abs/2501.12857)|null|
+|**2025-01-22**|**GRAMA: Adaptive Graph Autoregressive Moving Average Models**|Moshe Eliasof et.al.|[2501.12732](http://arxiv.org/abs/2501.12732)|null|
+|**2025-01-22**|**A Unified Invariant Learning Framework for Graph Classification**|Yongduo Sui et.al.|[2501.12595](http://arxiv.org/abs/2501.12595)|**[link](https://github.com/yongduosui/uil)**|
+|**2025-01-22**|**FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling**|Emir Ceyani et.al.|[2501.12592](http://arxiv.org/abs/2501.12592)|null|
+|**2025-01-21**|**SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids**|Aoxiang Ma et.al.|[2501.12427](http://arxiv.org/abs/2501.12427)|null|
 |**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309](http://arxiv.org/abs/2501.12309)|null|
 |**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
 |**2025-01-21**|**Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation**|Yang Wang et.al.|[2501.11870](http://arxiv.org/abs/2501.11870)|**[link](https://github.com/htyjers/c2f-metaembed)**|
