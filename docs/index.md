@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.25
+## Updated on 2025.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -957,7 +957,7 @@ layout: default
 |**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309](http://arxiv.org/abs/2501.12309)|null|
 |**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
 |**2025-01-21**|**Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation**|Yang Wang et.al.|[2501.11870](http://arxiv.org/abs/2501.11870)|**[link](https://github.com/htyjers/c2f-metaembed)**|
-|**2025-01-20**|**Leveraging graph neural networks and mobility data for COVID-19 forecasting**|Fernando H. O. Duarte et.al.|[2501.11711](http://arxiv.org/abs/2501.11711)|null|
+|**2025-01-20**|**Leveraging graph neural networks and mobility data for COVID-19 forecasting**|Fernando H. O. Duarte et.al.|[2501.11711](http://arxiv.org/abs/2501.11711)|**[link](https://github.com/hodfernando/2024_asoc_gnn_covid19_forecast)**|
 |**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
 |**2025-01-20**|**Advancing Multi-Party Dialogue Systems with Speaker-ware Contrastive Learning**|Zhongtian Hu et.al.|[2501.11292](http://arxiv.org/abs/2501.11292)|null|
 |**2025-01-20**|**Spatiotemporal Air Quality Mapping in Urban Areas Using Sparse Sensor Data, Satellite Imagery, Meteorological Factors, and Spatial Features**|Osama Ahmad et.al.|[2501.11270](http://arxiv.org/abs/2501.11270)|null|
