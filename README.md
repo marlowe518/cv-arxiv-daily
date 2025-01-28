@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-01-22**|**Statistical Privacy**|Dennis Breutigam et.al.|[2501.12893](http://arxiv.org/abs/2501.12893)|null|
 |**2025-01-21**|**Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy**|Khaoula Chehbouni et.al.|[2501.12537](http://arxiv.org/abs/2501.12537)|null|
 |**2025-01-21**|**Optimizing Leaky Private Information Retrieval Codes to Achieve ${O}(\log K)$ Leakage Ratio Exponent**|Wenyuan Zhao et.al.|[2501.12310](http://arxiv.org/abs/2501.12310)|null|
-|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046](http://arxiv.org/abs/2501.12046)|null|
+|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046](http://arxiv.org/abs/2501.12046)|**[link](https://github.com/yokiwuuu/cepam)**|
 |**2025-01-20**|**An Information Geometric Approach to Local Information Privacy with Applications to Max-lift and Local Differential Privacy**|Amirreza Zamani et.al.|[2501.11757](http://arxiv.org/abs/2501.11757)|null|
 |**2025-01-22**|**Strong Data Processing Properties of Rényi-divergences via Pinsker-type Inequalities**|Leonhard Grosse et.al.|[2501.11473](http://arxiv.org/abs/2501.11473)|null|
 |**2025-01-17**|**Quantum Advantage in Private Multiple Hypothesis Testing**|Seung-Hyun Nam et.al.|[2501.10152](http://arxiv.org/abs/2501.10152)|null|
@@ -950,13 +950,13 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|null|
+|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|**[link](https://github.com/ilyaorson/cyberdreamcatcher)**|
 |**2025-01-24**|**On the Homophily of Heterogeneous Graphs: Understanding and Unleashing**|Zhen Tao et.al.|[2501.14600](http://arxiv.org/abs/2501.14600)|null|
 |**2025-01-24**|**Convergence of gradient based training for linear Graph Neural Networks**|Dhiraj Patel et.al.|[2501.14440](http://arxiv.org/abs/2501.14440)|null|
 |**2025-01-24**|**Efficiently charting the space of mixed vacancy-ordered perovskites by machine-learning encoded atomic-site information**|Fan Zhang et.al.|[2501.14384](http://arxiv.org/abs/2501.14384)|null|
@@ -3337,7 +3337,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
