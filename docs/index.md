@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -28,7 +28,7 @@ layout: default
 |**2025-01-24**|**SoK: What Makes Private Learning Unfair?**|Kai Yao et.al.|[2501.14414](http://arxiv.org/abs/2501.14414)|null|
 |**2025-01-24**|**Tight Sample Complexity Bounds for Parameter Estimation Under Quantum Differential Privacy for Qubits**|Farhad Farokhi et.al.|[2501.14184](http://arxiv.org/abs/2501.14184)|null|
 |**2025-01-23**|**Improved subsample-and-aggregate via the private modified winsorized mean**|Kelly Ramsay et.al.|[2501.14095](http://arxiv.org/abs/2501.14095)|null|
-|**2025-01-23**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916](http://arxiv.org/abs/2501.13916)|null|
+|**2025-01-27**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916](http://arxiv.org/abs/2501.13916)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
 |**2025-01-27**|**Federated Granger Causality Learning for Interdependent Clients with State Space Representation**|Ayush Mohanty et.al.|[2501.13890](http://arxiv.org/abs/2501.13890)|null|
 |**2025-01-23**|**On Subset Retrieval and Group Testing Problems with Differential Privacy Constraints**|Mira Gonen et.al.|[2501.13278](http://arxiv.org/abs/2501.13278)|null|
