@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting**|Jan Schuchardt et.al.|[2502.02410](http://arxiv.org/abs/2502.02410)|null|
+|**2025-02-04**|**Common Neighborhood Estimation over Bipartite Graphs under Local Differential Privacy**|Yizhang He et.al.|[2502.01904](http://arxiv.org/abs/2502.01904)|null|
+|**2025-02-03**|**Learning with Differentially Private (Sliced) Wasserstein Gradients**|Clément Lalanne et.al.|[2502.01701](http://arxiv.org/abs/2502.01701)|null|
+|**2025-02-03**|**Metric Privacy in Federated Learning for Medical Imaging: Improving Convergence and Preventing Client Inference Attacks**|Judith Sáinz-Pardo Díaz et.al.|[2502.01352](http://arxiv.org/abs/2502.01352)|null|
+|**2025-02-03**|**Evaluating the Impacts of Swapping on the US Decennial Census**|Maria Ballesteros et.al.|[2502.01320](http://arxiv.org/abs/2502.01320)|null|
+|**2025-02-03**|**On the Private Estimation of Smooth Transport Maps**|Clément Lalanne et.al.|[2502.01168](http://arxiv.org/abs/2502.01168)|null|
+|**2025-02-03**|**Encrypted Large Model Inference: The Equivariant Encryption Paradigm**|James Buban et.al.|[2502.01013](http://arxiv.org/abs/2502.01013)|null|
+|**2025-02-02**|**DPBloomfilter: Securing Bloom Filters with Differential Privacy**|Yekun Ke et.al.|[2502.00693](http://arxiv.org/abs/2502.00693)|null|
+|**2025-02-01**|**Contrastive Private Data Synthesis via Weighted Multi-PLM Fusion**|Tianyuan Zou et.al.|[2502.00245](http://arxiv.org/abs/2502.00245)|null|
+|**2025-01-31**|**PRECISE: PRivacy-loss-Efficient and Consistent Inference based on poSterior quantilEs**|Ruyu Zhou et.al.|[2502.00192](http://arxiv.org/abs/2502.00192)|null|
 |**2025-01-31**|**Differentially Private Linear Programming: Reduced Sub-Optimality and Guaranteed Constraint Satisfaction**|Alexander Benvenuti et.al.|[2501.19315](http://arxiv.org/abs/2501.19315)|null|
 |**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287](http://arxiv.org/abs/2501.19287)|null|
 |**2025-01-31**|**Differentially Private Policy Gradient**|Alexandre Rio et.al.|[2501.19080](http://arxiv.org/abs/2501.19080)|null|
@@ -969,6 +979,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488](http://arxiv.org/abs/2502.02488)|null|
+|**2025-02-04**|**Using Random Noise Equivariantly to Boost Graph Neural Networks Universally**|Xiyuan Wang et.al.|[2502.02479](http://arxiv.org/abs/2502.02479)|null|
+|**2025-02-04**|**Towards graph neural networks for provably solving convex optimization problems**|Chendi Qian et.al.|[2502.02446](http://arxiv.org/abs/2502.02446)|null|
+|**2025-02-04**|**MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2502.02311](http://arxiv.org/abs/2502.02311)|null|
+|**2025-02-04**|**Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb**|Fotis I. Giasemis et.al.|[2502.02304](http://arxiv.org/abs/2502.02304)|null|
+|**2025-02-04**|**EdgeGFL: Rethinking Edge Information in Graph Feature Preference Learning**|Shengda Zhuo et.al.|[2502.02302](http://arxiv.org/abs/2502.02302)|null|
+|**2025-02-04**|**Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation**|Chenhao Zhai et.al.|[2502.02232](http://arxiv.org/abs/2502.02232)|null|
+|**2025-02-04**|**Graph Neural Networks for O-RAN Mobility Management: A Link Prediction Approach**|Ana Gonzalez Bermudez et.al.|[2502.02170](http://arxiv.org/abs/2502.02170)|null|
+|**2025-02-04**|**Query-Based and Unnoticeable Graph Injection Attack from Neighborhood Perspective**|Chang Liu et.al.|[2502.01936](http://arxiv.org/abs/2502.01936)|null|
+|**2025-02-03**|**Self-supervised Subgraph Neural Network With Deep Reinforcement Walk Exploration**|Jianming Huang et.al.|[2502.01809](http://arxiv.org/abs/2502.01809)|null|
+|**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|null|
+|**2025-02-03**|**FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction**|Dimitrios Michail et.al.|[2502.01550](http://arxiv.org/abs/2502.01550)|null|
+|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533](http://arxiv.org/abs/2502.01533)|null|
+|**2025-02-03**|**Can message-passing GNN approximate triangular factorizations of sparse matrices?**|Vladislav Trifonov et.al.|[2502.01397](http://arxiv.org/abs/2502.01397)|null|
+|**2025-02-03**|**Learning Traffic Anomalies from Generative Models on Real-Time Observations**|Fotis I. Giasemis et.al.|[2502.01391](http://arxiv.org/abs/2502.01391)|null|
+|**2025-02-03**|**Boosting Graph Robustness Against Backdoor Attacks: An Over-Similarity Perspective**|Chang Liu et.al.|[2502.01272](http://arxiv.org/abs/2502.01272)|null|
+|**2025-02-03**|**PerfSeer: An Efficient and Accurate Deep Learning Models Performance Predictor**|Xinlong Zhao et.al.|[2502.01206](http://arxiv.org/abs/2502.01206)|null|
+|**2025-02-03**|**Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity**|Erpai Luo et.al.|[2502.01171](http://arxiv.org/abs/2502.01171)|null|
+|**2025-02-03**|**Learning Efficient Positional Encodings with Graph Neural Networks**|Charilaos I. Kanatsoulis et.al.|[2502.01122](http://arxiv.org/abs/2502.01122)|null|
+|**2025-02-03**|**GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**|Linhao Luo et.al.|[2502.01113](http://arxiv.org/abs/2502.01113)|null|
 |**2025-02-03**|**E2Former: A Linear-time Efficient and Equivariant Transformer for Scalable Molecular Modeling**|Yunyang Li et.al.|[2501.19216](http://arxiv.org/abs/2501.19216)|null|
 |**2025-01-31**|**RIGNO: A Graph-based framework for robust and accurate operator learning for PDEs on arbitrary domains**|Sepehr Mousavi et.al.|[2501.19205](http://arxiv.org/abs/2501.19205)|**[link](https://github.com/camlab-ethz/rigno)**|
 |**2025-01-31**|**Learning Non-Local Molecular Interactions via Equivariant Local Representations and Charge Equilibration**|Paul Fuchs et.al.|[2501.19179](http://arxiv.org/abs/2501.19179)|null|
