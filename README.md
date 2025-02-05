@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-01-31**|**Differentially Private Policy Gradient**|Alexandre Rio et.al.|[2501.19080](http://arxiv.org/abs/2501.19080)|null|
 |**2025-01-31**|**On the Impact of Noise in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2501.19022](http://arxiv.org/abs/2501.19022)|**[link](https://github.com/sjmeis/privfill)**|
 |**2025-01-31**|**Scaling Laws for Differentially Private Language Models**|Ryan McKenna et.al.|[2501.18914](http://arxiv.org/abs/2501.18914)|null|
-|**2025-01-31**|**Scalable Distributed Reproduction Numbers of Network Epidemics with Differential Privacy**|Bo Chen et.al.|[2501.18862](http://arxiv.org/abs/2501.18862)|null|
+|**2025-02-04**|**Scalable Distributed Reproduction Numbers of Network Epidemics with Differential Privacy**|Bo Chen et.al.|[2501.18862](http://arxiv.org/abs/2501.18862)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-30**|**Optimal Survey Design for Private Mean Estimation**|Yu-Wei Chen et.al.|[2501.18121](http://arxiv.org/abs/2501.18121)|null|
@@ -969,7 +969,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -3398,7 +3398,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

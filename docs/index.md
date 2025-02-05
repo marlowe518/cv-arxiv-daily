@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -19,7 +19,7 @@ layout: default
 |**2025-01-31**|**Differentially Private Policy Gradient**|Alexandre Rio et.al.|[2501.19080](http://arxiv.org/abs/2501.19080)|null|
 |**2025-01-31**|**On the Impact of Noise in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2501.19022](http://arxiv.org/abs/2501.19022)|**[link](https://github.com/sjmeis/privfill)**|
 |**2025-01-31**|**Scaling Laws for Differentially Private Language Models**|Ryan McKenna et.al.|[2501.18914](http://arxiv.org/abs/2501.18914)|null|
-|**2025-01-31**|**Scalable Distributed Reproduction Numbers of Network Epidemics with Differential Privacy**|Bo Chen et.al.|[2501.18862](http://arxiv.org/abs/2501.18862)|null|
+|**2025-02-04**|**Scalable Distributed Reproduction Numbers of Network Epidemics with Differential Privacy**|Bo Chen et.al.|[2501.18862](http://arxiv.org/abs/2501.18862)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
 |**2025-01-30**|**Optimal Survey Design for Private Mean Estimation**|Yu-Wei Chen et.al.|[2501.18121](http://arxiv.org/abs/2501.18121)|null|
