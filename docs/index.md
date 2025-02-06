@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -991,7 +991,7 @@ layout: default
 |**2025-02-03**|**Self-supervised Subgraph Neural Network With Deep Reinforcement Walk Exploration**|Jianming Huang et.al.|[2502.01809](http://arxiv.org/abs/2502.01809)|null|
 |**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|null|
 |**2025-02-03**|**FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction**|Dimitrios Michail et.al.|[2502.01550](http://arxiv.org/abs/2502.01550)|null|
-|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533](http://arxiv.org/abs/2502.01533)|null|
+|**2025-02-03**|**Transformers trained on proteins can learn to attend to Euclidean distance**|Isaac Ellmen et.al.|[2502.01533](http://arxiv.org/abs/2502.01533)|**[link](https://github.com/Ellmen/attending-to-distance)**|
 |**2025-02-03**|**Can message-passing GNN approximate triangular factorizations of sparse matrices?**|Vladislav Trifonov et.al.|[2502.01397](http://arxiv.org/abs/2502.01397)|null|
 |**2025-02-03**|**Learning Traffic Anomalies from Generative Models on Real-Time Observations**|Fotis I. Giasemis et.al.|[2502.01391](http://arxiv.org/abs/2502.01391)|null|
 |**2025-02-03**|**Boosting Graph Robustness Against Backdoor Attacks: An Over-Similarity Perspective**|Chang Liu et.al.|[2502.01272](http://arxiv.org/abs/2502.01272)|null|
