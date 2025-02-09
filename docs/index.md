@@ -1004,7 +1004,7 @@ layout: default
 |**2025-02-04**|**Graph Structure Learning for Tumor Microenvironment with Cell Type Annotation from non-spatial scRNA-seq data**|Yu-An Huang et.al.|[2502.02629](http://arxiv.org/abs/2502.02629)|null|
 |**2025-02-04**|**Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?**|Xiyuan Wang et.al.|[2502.02488](http://arxiv.org/abs/2502.02488)|null|
 |**2025-02-04**|**Using Random Noise Equivariantly to Boost Graph Neural Networks Universally**|Xiyuan Wang et.al.|[2502.02479](http://arxiv.org/abs/2502.02479)|null|
-|**2025-02-04**|**Towards graph neural networks for provably solving convex optimization problems**|Chendi Qian et.al.|[2502.02446](http://arxiv.org/abs/2502.02446)|null|
+|**2025-02-04**|**Towards graph neural networks for provably solving convex optimization problems**|Chendi Qian et.al.|[2502.02446](http://arxiv.org/abs/2502.02446)|**[link](https://github.com/chendiqian/feasmpnn)**|
 |**2025-02-04**|**MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2502.02311](http://arxiv.org/abs/2502.02311)|null|
 |**2025-02-05**|**Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb**|Fotis I. Giasemis et.al.|[2502.02304](http://arxiv.org/abs/2502.02304)|null|
 |**2025-02-04**|**EdgeGFL: Rethinking Edge Information in Graph Feature Preference Learning**|Shengda Zhuo et.al.|[2502.02302](http://arxiv.org/abs/2502.02302)|null|
