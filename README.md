@@ -18,10 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
+|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
+|**2025-02-07**|**Bounding User Contributions in the Worst-Case for User-Level Differentially Private Mean Estimation**|V. Arvind Rameshwar et.al.|[2502.04749](http://arxiv.org/abs/2502.04749)|null|
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045](http://arxiv.org/abs/2502.04045)|null|
 |**2025-02-05**|**The Cost of Shuffling in Private Gradient Based Optimization**|Shuli Jiang et.al.|[2502.03652](http://arxiv.org/abs/2502.03652)|null|
 |**2025-02-05**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990](http://arxiv.org/abs/2502.02990)|null|
-|**2025-02-06**|**Privacy Token: Surprised to Find Out What You Accidentally Revealed**|Jiayang Meng et.al.|[2502.02913](http://arxiv.org/abs/2502.02913)|null|
+|**2025-02-07**|**Real-Time Privacy Risk Measurement with Privacy Tokens for Gradient Leakage**|Jiayang Meng et.al.|[2502.02913](http://arxiv.org/abs/2502.02913)|null|
 |**2025-02-05**|**Differentially-Private Multi-Tier Federated Learning: A Formal Analysis and Evaluation**|Evan Chen et.al.|[2502.02877](http://arxiv.org/abs/2502.02877)|null|
 |**2025-02-04**|**Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release**|Mark Bun et.al.|[2502.02709](http://arxiv.org/abs/2502.02709)|null|
 |**2025-02-04**|**Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting**|Jan Schuchardt et.al.|[2502.02410](http://arxiv.org/abs/2502.02410)|null|
@@ -991,6 +994,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Graph Contrastive Learning for Connectome Classification**|Martín Schmidt et.al.|[2502.05109](http://arxiv.org/abs/2502.05109)|null|
+|**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|null|
+|**2025-02-07**|**GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring**|Celia Rubio-Madrigal et.al.|[2502.04891](http://arxiv.org/abs/2502.04891)|null|
+|**2025-02-07**|**Graph Federated Learning Based Proactive Content Caching in Edge Computing**|Rui Wang et.al.|[2502.04760](http://arxiv.org/abs/2502.04760)|null|
+|**2025-02-07**|**Rethinking Oversmoothing in Graph Neural Networks: A Rank-Based Perspective**|Piero Deidda et.al.|[2502.04591](http://arxiv.org/abs/2502.04591)|null|
+|**2025-02-06**|**Learning Semantics-aware Search Operators for Genetic Programming**|Piotr Wyrwiński et.al.|[2502.04568](http://arxiv.org/abs/2502.04568)|null|
+|**2025-02-06**|**Beyond Interpolation: Extrapolative Reasoning with Reinforcement Learning and Graph Neural Networks**|Niccolò Grillo et.al.|[2502.04402](http://arxiv.org/abs/2502.04402)|null|
+|**2025-02-06**|**Online Location Planning for AI-Defined Vehicles: Optimizing Joint Tasks of Order Serving and Spatio-Temporal Heterogeneous Model Fine-Tuning**|Bokeng Zheng et.al.|[2502.04399](http://arxiv.org/abs/2502.04399)|null|
 |**2025-02-06**|**Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks**|Jiate Li et.al.|[2502.04224](http://arxiv.org/abs/2502.04224)|null|
 |**2025-02-06**|**ICGNN: Graph Neural Network Enabled Scalable Beamforming for MISO Interference Channels**|Changpeng He et.al.|[2502.03936](http://arxiv.org/abs/2502.03936)|null|
 |**2025-02-06**|**SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning**|Hong Han et.al.|[2502.03928](http://arxiv.org/abs/2502.03928)|null|
