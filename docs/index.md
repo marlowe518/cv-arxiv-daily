@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Differentially Private Empirical Cumulative Distribution Functions**|Antoine Barczewski et.al.|[2502.06651](http://arxiv.org/abs/2502.06651)|null|
+|**2025-02-10**|**Continual Release Moment Estimation with Differential Privacy**|Nikita P. Kalinin et.al.|[2502.06597](http://arxiv.org/abs/2502.06597)|null|
+|**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555](http://arxiv.org/abs/2502.06555)|null|
+|**2025-02-10**|**Hyperparameters in Score-Based Membership Inference Attacks**|Gauri Pradhan et.al.|[2502.06374](http://arxiv.org/abs/2502.06374)|null|
+|**2025-02-09**|**Scalable Differentially Private Bayesian Optimization**|Getoar Sopa et.al.|[2502.06044](http://arxiv.org/abs/2502.06044)|null|
+|**2025-02-08**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
+|**2025-02-08**|**Evaluating Differential Privacy on Correlated Datasets Using Pointwise Maximal Leakage**|Sara Saeidian et.al.|[2502.05516](http://arxiv.org/abs/2502.05516)|null|
+|**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|null|
+|**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|null|
 |**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-07**|**Bounding User Contributions in the Worst-Case for User-Level Differentially Private Mean Estimation**|V. Arvind Rameshwar et.al.|[2502.04749](http://arxiv.org/abs/2502.04749)|null|
@@ -988,6 +997,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**RelGNN: Composite Message Passing for Relational Deep Learning**|Tianlang Chen et.al.|[2502.06784](http://arxiv.org/abs/2502.06784)|null|
+|**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
+|**2025-02-10**|**IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification**|Zhixun Li et.al.|[2502.06280](http://arxiv.org/abs/2502.06280)|null|
+|**2025-02-10**|**Graph Neural Networks at a Fraction**|Rucha Bhalchandra Joshi et.al.|[2502.06136](http://arxiv.org/abs/2502.06136)|null|
+|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868](http://arxiv.org/abs/2502.05868)|null|
+|**2025-02-09**|**Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation**|Yunhui Liu et.al.|[2502.05864](http://arxiv.org/abs/2502.05864)|null|
+|**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836](http://arxiv.org/abs/2502.05836)|null|
+|**2025-02-09**|**GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation**|Danny Wang et.al.|[2502.05780](http://arxiv.org/abs/2502.05780)|null|
+|**2025-02-08**|**Rethinking Link Prediction for Directed Graphs**|Mingguo He et.al.|[2502.05724](http://arxiv.org/abs/2502.05724)|null|
+|**2025-02-08**|**Graph Neural Networks for Efficient AC Power Flow Prediction in Power Grids**|Seyedamirhossein Talebi et.al.|[2502.05702](http://arxiv.org/abs/2502.05702)|null|
+|**2025-02-08**|**NOMANet: A Graph Neural Network Enabled Power Allocation Scheme for NOMA**|Yipu Hou et.al.|[2502.05592](http://arxiv.org/abs/2502.05592)|null|
+|**2025-02-08**|**Robust Deep Signed Graph Clustering via Weak Balance Theory**|Peiyao Zhao et.al.|[2502.05472](http://arxiv.org/abs/2502.05472)|null|
+|**2025-02-08**|**Block Graph Neural Networks for tumor heterogeneity prediction**|Marianne Abémgnigni Njifon et.al.|[2502.05458](http://arxiv.org/abs/2502.05458)|null|
+|**2025-02-08**|**Graph Neural Network Enabled Pinching Antennas**|Xinke Xie et.al.|[2502.05447](http://arxiv.org/abs/2502.05447)|null|
+|**2025-02-08**|**LRA-GNN: Latent Relation-Aware Graph Neural Network with Initial and Dynamic Residual for Facial Age Estimation**|Yiping Zhang et.al.|[2502.05423](http://arxiv.org/abs/2502.05423)|null|
+|**2025-02-08**|**Graph-based Molecular In-context Learning Grounded on Morgan Fingerprints**|Ali Al-Lawati et.al.|[2502.05414](http://arxiv.org/abs/2502.05414)|null|
+|**2025-02-07**|**Estimating Voltage Drop: Models, Features and Data Representation Towards a Neural Surrogate**|Yifei Jin et.al.|[2502.05345](http://arxiv.org/abs/2502.05345)|null|
 |**2025-02-07**|**Graph Contrastive Learning for Connectome Classification**|Martín Schmidt et.al.|[2502.05109](http://arxiv.org/abs/2502.05109)|null|
 |**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|null|
 |**2025-02-07**|**GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring**|Celia Rubio-Madrigal et.al.|[2502.04891](http://arxiv.org/abs/2502.04891)|null|
