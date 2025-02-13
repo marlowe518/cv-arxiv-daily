@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555](http://arxiv.org/abs/2502.06555)|null|
 |**2025-02-10**|**Hyperparameters in Score-Based Membership Inference Attacks**|Gauri Pradhan et.al.|[2502.06374](http://arxiv.org/abs/2502.06374)|null|
 |**2025-02-09**|**Scalable Differentially Private Bayesian Optimization**|Getoar Sopa et.al.|[2502.06044](http://arxiv.org/abs/2502.06044)|null|
-|**2025-02-08**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
+|**2025-02-11**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
 |**2025-02-08**|**Evaluating Differential Privacy on Correlated Datasets Using Pointwise Maximal Leakage**|Sara Saeidian et.al.|[2502.05516](http://arxiv.org/abs/2502.05516)|null|
 |**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|null|
 |**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|null|
@@ -998,7 +998,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -3493,7 +3493,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250212>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

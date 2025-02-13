@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -20,7 +20,7 @@ layout: default
 |**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555](http://arxiv.org/abs/2502.06555)|null|
 |**2025-02-10**|**Hyperparameters in Score-Based Membership Inference Attacks**|Gauri Pradhan et.al.|[2502.06374](http://arxiv.org/abs/2502.06374)|null|
 |**2025-02-09**|**Scalable Differentially Private Bayesian Optimization**|Getoar Sopa et.al.|[2502.06044](http://arxiv.org/abs/2502.06044)|null|
-|**2025-02-08**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
+|**2025-02-11**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
 |**2025-02-08**|**Evaluating Differential Privacy on Correlated Datasets Using Pointwise Maximal Leakage**|Sara Saeidian et.al.|[2502.05516](http://arxiv.org/abs/2502.05516)|null|
 |**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|null|
 |**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|null|
