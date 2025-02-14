@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,14 +30,14 @@
 |**2025-02-09**|**Scalable Differentially Private Bayesian Optimization**|Getoar Sopa et.al.|[2502.06044](http://arxiv.org/abs/2502.06044)|null|
 |**2025-02-11**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
 |**2025-02-08**|**Evaluating Differential Privacy on Correlated Datasets Using Pointwise Maximal Leakage**|Sara Saeidian et.al.|[2502.05516](http://arxiv.org/abs/2502.05516)|null|
-|**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|null|
+|**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|**[link](https://github.com/microsoft/dpsda)**|
 |**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|null|
 |**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-07**|**Bounding User Contributions in the Worst-Case for User-Level Differentially Private Mean Estimation**|V. Arvind Rameshwar et.al.|[2502.04749](http://arxiv.org/abs/2502.04749)|null|
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045](http://arxiv.org/abs/2502.04045)|null|
 |**2025-02-05**|**The Cost of Shuffling in Private Gradient Based Optimization**|Shuli Jiang et.al.|[2502.03652](http://arxiv.org/abs/2502.03652)|null|
-|**2025-02-05**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990](http://arxiv.org/abs/2502.02990)|null|
+|**2025-02-05**|**Lightweight Protocols for Distributed Private Quantile Estimation**|Anders Aamand et.al.|[2502.02990](http://arxiv.org/abs/2502.02990)|**[link](https://github.com/NynsenFaber/Quantile_estimation_with_adaptive_LDP)**|
 |**2025-02-07**|**Real-Time Privacy Risk Measurement with Privacy Tokens for Gradient Leakage**|Jiayang Meng et.al.|[2502.02913](http://arxiv.org/abs/2502.02913)|null|
 |**2025-02-05**|**Differentially-Private Multi-Tier Federated Learning: A Formal Analysis and Evaluation**|Evan Chen et.al.|[2502.02877](http://arxiv.org/abs/2502.02877)|null|
 |**2025-02-04**|**Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release**|Mark Bun et.al.|[2502.02709](http://arxiv.org/abs/2502.02709)|null|
@@ -1002,7 +1002,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1020,7 +1020,7 @@
 |**2025-02-11**|**Stereograph: Stereoscopic event reconstruction using graph neural networks applied to CTAO**|Hana Ali Messaoud et.al.|[2502.07421](http://arxiv.org/abs/2502.07421)|null|
 |**2025-02-11**|**Effects of Random Edge-Dropping on Over-Squashing in Graph Neural Networks**|Jasraj Singh et.al.|[2502.07364](http://arxiv.org/abs/2502.07364)|null|
 |**2025-02-10**|**Neighborhood-Order Learning Graph Attention Network for Fake News Detection**|Batool Lakzaei et.al.|[2502.06927](http://arxiv.org/abs/2502.06927)|null|
-|**2025-02-10**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
+|**2025-02-13**|**GraNNite: Enabling High-Performance Execution of Graph Neural Networks on Resource-Constrained Neural Processing Units**|Arghadip Das et.al.|[2502.06921](http://arxiv.org/abs/2502.06921)|null|
 |**2025-02-10**|**RelGNN: Composite Message Passing for Relational Deep Learning**|Tianlang Chen et.al.|[2502.06784](http://arxiv.org/abs/2502.06784)|null|
 |**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
 |**2025-02-10**|**IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification**|Zhixun Li et.al.|[2502.06280](http://arxiv.org/abs/2502.06280)|null|
@@ -3506,7 +3506,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
