@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -23,7 +23,7 @@ layout: default
 |**2025-02-12**|**Local Differential Privacy is Not Enough: A Sample Reconstruction Attack against Federated Learning with Local Differential Privacy**|Zhichao You et.al.|[2502.08151](http://arxiv.org/abs/2502.08151)|null|
 |**2025-02-11**|**An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models**|Kasra Ahmadi et.al.|[2502.08008](http://arxiv.org/abs/2502.08008)|null|
 |**2025-02-11**|**The Role of Randomness in Stability**|Max Hopkins et.al.|[2502.08007](http://arxiv.org/abs/2502.08007)|null|
-|**2025-02-10**|**General-Purpose $f$ -DP Estimation and Auditing in a Black-Box Setting**|Önder Askin et.al.|[2502.07066](http://arxiv.org/abs/2502.07066)|null|
+|**2025-02-10**|**General-Purpose $f$ -DP Estimation and Auditing in a Black-Box Setting**|Önder Askin et.al.|[2502.07066](http://arxiv.org/abs/2502.07066)|**[link](https://github.com/stoneboat/fdp-estimation)**|
 |**2025-02-10**|**Differentially Private Empirical Cumulative Distribution Functions**|Antoine Barczewski et.al.|[2502.06651](http://arxiv.org/abs/2502.06651)|null|
 |**2025-02-10**|**Continual Release Moment Estimation with Differential Privacy**|Nikita P. Kalinin et.al.|[2502.06597](http://arxiv.org/abs/2502.06597)|null|
 |**2025-02-10**|**Is API Access to LLMs Useful for Generating Private Synthetic Tabular Data?**|Marika Swanberg et.al.|[2502.06555](http://arxiv.org/abs/2502.06555)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2025-02-11**|**Machine Unlearning via Information Theoretic Regularization**|Shizhou Xu et.al.|[2502.05684](http://arxiv.org/abs/2502.05684)|null|
 |**2025-02-08**|**Evaluating Differential Privacy on Correlated Datasets Using Pointwise Maximal Leakage**|Sara Saeidian et.al.|[2502.05516](http://arxiv.org/abs/2502.05516)|null|
 |**2025-02-08**|**Differentially Private Synthetic Data via APIs 3: Using Simulators Instead of Foundation Model**|Zinan Lin et.al.|[2502.05505](http://arxiv.org/abs/2502.05505)|**[link](https://github.com/microsoft/dpsda)**|
-|**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|null|
+|**2025-02-07**|**Training Set Reconstruction from Differentially Private Forests: How Effective is DP?**|Alice Gorgé et.al.|[2502.05307](http://arxiv.org/abs/2502.05307)|**[link](https://github.com/vidalt/DRAFT-DP)**|
 |**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-07**|**Bounding User Contributions in the Worst-Case for User-Level Differentially Private Mean Estimation**|V. Arvind Rameshwar et.al.|[2502.04749](http://arxiv.org/abs/2502.04749)|null|
