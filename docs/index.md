@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.16
+## Updated on 2025.02.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -1011,7 +1011,7 @@ layout: default
 |**2025-02-13**|**Machine learning for modelling unstructured grid data in computational physics: a review**|Sibo Cheng et.al.|[2502.09346](http://arxiv.org/abs/2502.09346)|null|
 |**2025-02-13**|**Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective**|Zhiwei Shan et.al.|[2502.09344](http://arxiv.org/abs/2502.09344)|null|
 |**2025-02-13**|**Graph Diffusion Network for Drug-Gene Prediction**|Jiayang Wu et.al.|[2502.09335](http://arxiv.org/abs/2502.09335)|null|
-|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|null|
+|**2025-02-14**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|null|
 |**2025-02-13**|**Unlocking the Potential of Classic GNNs for Graph-level Tasks: Simple Architectures Meet Excellence**|Yuankai Luo et.al.|[2502.09263](http://arxiv.org/abs/2502.09263)|**[link](https://github.com/LUOyk1999/tunedGNN-G)**|
 |**2025-02-13**|**Self-Supervised Graph Contrastive Pretraining for Device-level Integrated Circuits**|Sungyoung Lee et.al.|[2502.08949](http://arxiv.org/abs/2502.08949)|null|
 |**2025-02-12**|**Self-Evaluation for Job-Shop Scheduling**|Imanol Echeverria et.al.|[2502.08684](http://arxiv.org/abs/2502.08684)|null|
