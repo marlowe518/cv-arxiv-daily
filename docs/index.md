@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**CriteoPrivateAd: A Real-World Bidding Dataset to Design Private Advertising Systems**|Mehdi Sebbar et.al.|[2502.12103](http://arxiv.org/abs/2502.12103)|null|
+|**2025-02-17**|**Private Synthetic Graph Generation and Fused Gromov-Wasserstein Distance**|Leoni Carla Wirth et.al.|[2502.11778](http://arxiv.org/abs/2502.11778)|null|
+|**2025-02-17**|**Double Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy**|Rustem Islamov et.al.|[2502.11682](http://arxiv.org/abs/2502.11682)|null|
+|**2025-02-17**|**Differentially private fine-tuned NF-Net to predict GI cancer type**|Sai Venkatesh Chilukoti et.al.|[2502.11329](http://arxiv.org/abs/2502.11329)|null|
+|**2025-02-16**|**Computing Inconsistency Measures Under Differential Privacy**|Shubhankar Mohapatra et.al.|[2502.11009](http://arxiv.org/abs/2502.11009)|null|
+|**2025-02-16**|**New Rates in Stochastic Decision-Theoretic Online Learning under Differential Privacy**|Ruihan Wu et.al.|[2502.10997](http://arxiv.org/abs/2502.10997)|null|
 |**2025-02-14**|**Small Loss Bounds for Online Learning Separated Function Classes: A Gaussian Process Perspective**|Adam Block et.al.|[2502.10292](http://arxiv.org/abs/2502.10292)|null|
 |**2025-02-14**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207](http://arxiv.org/abs/2502.10207)|null|
 |**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978](http://arxiv.org/abs/2502.09978)|null|
@@ -1010,6 +1016,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
+|**2025-02-17**|**Data assimilation performed with robust shape registration and graph neural networks: application to aortic coarctation**|Francesco Romor et.al.|[2502.12097](http://arxiv.org/abs/2502.12097)|null|
+|**2025-02-17**|**UniGO: A Unified Graph Neural Network for Modeling Opinion Dynamics on Graphs**|Hao Li et.al.|[2502.11519](http://arxiv.org/abs/2502.11519)|null|
+|**2025-02-17**|**A GNN-based Spectral Filtering Mechanism for Imbalance Classification in Network Digital Twin**|Abubakar Isah et.al.|[2502.11505](http://arxiv.org/abs/2502.11505)|null|
+|**2025-02-17**|**Structure based SAT dataset for analysing GNN generalisation**|Yi Fu et.al.|[2502.11410](http://arxiv.org/abs/2502.11410)|null|
+|**2025-02-17**|**Oversmoothing as Loss of Sign: Towards Structural Balance in Graph Neural Networks**|Jiaqi Wang et.al.|[2502.11394](http://arxiv.org/abs/2502.11394)|null|
+|**2025-02-17**|**Hierarchical Graph Topic Modeling with Topic Tree-based Transformer**|Delvin Ce Zhang et.al.|[2502.11345](http://arxiv.org/abs/2502.11345)|null|
+|**2025-02-16**|**Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations**|Oualid Bougzime et.al.|[2502.11269](http://arxiv.org/abs/2502.11269)|null|
+|**2025-02-16**|**Large Language-Geometry Model: When LLM meets Equivariance**|Zongzhao Li et.al.|[2502.11149](http://arxiv.org/abs/2502.11149)|null|
+|**2025-02-16**|**G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems**|Shilong Wang et.al.|[2502.11127](http://arxiv.org/abs/2502.11127)|null|
+|**2025-02-16**|**Open-Set Cross-Network Node Classification via Unknown-Excluded Adversarial Graph Domain Alignment**|Xiao Shen et.al.|[2502.10967](http://arxiv.org/abs/2502.10967)|null|
+|**2025-02-15**|**LLM-driven Knowledge Distillation for Dynamic Text-Attributed Graphs**|Amit Roy et.al.|[2502.10914](http://arxiv.org/abs/2502.10914)|null|
+|**2025-02-15**|**Robust Multidimensional Graph Neural Networks for Signal Processing in Wireless Communications with Edge-Graph Information Bottleneck**|Ziheng Liu et.al.|[2502.10869](http://arxiv.org/abs/2502.10869)|null|
+|**2025-02-15**|**To Bin or not to Bin: Alternative Representations of Mass Spectra**|Niek de Jonge et.al.|[2502.10851](http://arxiv.org/abs/2502.10851)|null|
+|**2025-02-15**|**Implicit Neural Representations of Molecular Vector-Valued Functions**|Jirka Lhotka et.al.|[2502.10848](http://arxiv.org/abs/2502.10848)|null|
+|**2025-02-15**|**On Vanishing Gradients, Over-Smoothing, and Over-Squashing in GNNs: Bridging Recurrent and Graph Learning**|Álvaro Arroyo et.al.|[2502.10818](http://arxiv.org/abs/2502.10818)|null|
+|**2025-02-15**|**A Distillation-based Future-aware Graph Neural Network for Stock Trend Prediction**|Zhipeng Liu et.al.|[2502.10776](http://arxiv.org/abs/2502.10776)|null|
+|**2025-02-15**|**Human-Centric Community Detection in Hybrid Metaverse Networks with Integrated AI Entities**|Shih-Hsuan Chiu et.al.|[2502.10750](http://arxiv.org/abs/2502.10750)|null|
+|**2025-02-15**|**Automated Data Quality Validation in an End-to-End GNN Framework**|Sijie Dong et.al.|[2502.10667](http://arxiv.org/abs/2502.10667)|null|
+|**2025-02-14**|**Recent Advances in Malware Detection: Graph Learning and Explainability**|Hossein Shokouhinejad et.al.|[2502.10556](http://arxiv.org/abs/2502.10556)|null|
 |**2025-02-14**|**SGS-GNN: A Supervised Graph Sparsification method for Graph Neural Networks**|Siddhartha Shankar Das et.al.|[2502.10208](http://arxiv.org/abs/2502.10208)|null|
 |**2025-02-14**|**COMBINEX: A Unified Counterfactual Explainer for Graph Neural Networks via Node Feature and Structural Perturbations**|Flavio Giorgi et.al.|[2502.10111](http://arxiv.org/abs/2502.10111)|null|
 |**2025-02-14**|**TransGUNet: Transformer Meets Graph-based Skip Connection for Medical Image Segmentation**|Ju-Hyeon Nam et.al.|[2502.09931](http://arxiv.org/abs/2502.09931)|null|
