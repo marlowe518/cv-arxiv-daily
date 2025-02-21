@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**PREM: Privately Answering Statistical Queries with Relative Error**|Badih Ghazi et.al.|[2502.14809](http://arxiv.org/abs/2502.14809)|null|
+|**2025-02-20**|**On Theoretical Limits of Learning with Label Differential Privacy**|Puning Zhao et.al.|[2502.14309](http://arxiv.org/abs/2502.14309)|null|
+|**2025-02-19**|**Learning from End User Data with Shuffled Differential Privacy over Kernel Densities**|Tal Wagner et.al.|[2502.14087](http://arxiv.org/abs/2502.14087)|null|
 |**2025-02-19**|**Secure Federated Data Distillation**|Marco Arazzi et.al.|[2502.13728](http://arxiv.org/abs/2502.13728)|null|
 |**2025-02-19**|**Smoothed Normalization for Efficient Distributed Private Optimization**|Egor Shulgin et.al.|[2502.13482](http://arxiv.org/abs/2502.13482)|null|
 |**2025-02-19**|**Indifferential Privacy: A New Paradigm and Its Applications to Optimal Matching in Dark Pool Auctions**|Antigoni Polychroniadou et.al.|[2502.13415](http://arxiv.org/abs/2502.13415)|null|
@@ -25,7 +28,7 @@
 |**2025-02-18**|**Revisiting Privacy, Utility, and Efficiency Trade-offs when Fine-Tuning Large Language Models**|Soumi Das et.al.|[2502.13313](http://arxiv.org/abs/2502.13313)|null|
 |**2025-02-18**|**Private Text Generation by Seeding Large Language Model Prompts**|Supriya Nagesh et.al.|[2502.13193](http://arxiv.org/abs/2502.13193)|null|
 |**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976](http://arxiv.org/abs/2502.12976)|null|
-|**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794](http://arxiv.org/abs/2502.12794)|null|
+|**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794](http://arxiv.org/abs/2502.12794)|**[link](https://github.com/tanqiujiang/rapid)**|
 |**2025-02-19**|**CriteoPrivateAd: A Real-World Bidding Dataset to Design Private Advertising Systems**|Mehdi Sebbar et.al.|[2502.12103](http://arxiv.org/abs/2502.12103)|null|
 |**2025-02-17**|**Private Synthetic Graph Generation and Fused Gromov-Wasserstein Distance**|Leoni Carla Wirth et.al.|[2502.11778](http://arxiv.org/abs/2502.11778)|null|
 |**2025-02-17**|**Double Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy**|Rustem Islamov et.al.|[2502.11682](http://arxiv.org/abs/2502.11682)|null|
@@ -1030,8 +1033,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-19**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797](http://arxiv.org/abs/2502.13797)|null|
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|null|
+|**2025-02-20**|**Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting**|Yannick Wölker et.al.|[2502.14525](http://arxiv.org/abs/2502.14525)|null|
+|**2025-02-20**|**DAG: Deep Adaptive and Generative $K$ -Free Community Detection on Attributed Graphs**|Chang Liu et.al.|[2502.14294](http://arxiv.org/abs/2502.14294)|null|
+|**2025-02-20**|**Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies**|Jeehong Kim et.al.|[2502.14197](http://arxiv.org/abs/2502.14197)|null|
+|**2025-02-19**|**Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks**|Yonghao Liu et.al.|[2502.14158](http://arxiv.org/abs/2502.14158)|null|
+|**2025-02-19**|**SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection**|Tanzim Mahfuz et.al.|[2502.14116](http://arxiv.org/abs/2502.14116)|null|
+|**2025-02-20**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797](http://arxiv.org/abs/2502.13797)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|**[link](https://github.com/dbis-uibk/gcnext)**|
 |**2025-02-19**|**Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective**|Wentao Yu et.al.|[2502.13732](http://arxiv.org/abs/2502.13732)|null|
 |**2025-02-19**|**Towards Invariance to Node Identifiers in Graph Neural Networks**|Maya Bechler-Speicher et.al.|[2502.13660](http://arxiv.org/abs/2502.13660)|null|
 |**2025-02-19**|**Non-Euclidean Hierarchical Representational Learning using Hyperbolic Graph Neural Networks for Environmental Claim Detection**|Darpan Aswal et.al.|[2502.13628](http://arxiv.org/abs/2502.13628)|null|
