@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Mildly Accurate Computationally Differentially Private Inner Product Protocols Imply Oblivious Transfer**|Iftach Haitner et.al.|[2502.15629](http://arxiv.org/abs/2502.15629)|null|
+|**2025-02-21**|**Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning**|Raghav Singhal et.al.|[2502.15436](http://arxiv.org/abs/2502.15436)|**[link](https://github.com/CERT-Lab/fed-sb)**|
 |**2025-02-20**|**PREM: Privately Answering Statistical Queries with Relative Error**|Badih Ghazi et.al.|[2502.14809](http://arxiv.org/abs/2502.14809)|null|
 |**2025-02-20**|**On Theoretical Limits of Learning with Label Differential Privacy**|Puning Zhao et.al.|[2502.14309](http://arxiv.org/abs/2502.14309)|null|
 |**2025-02-19**|**Learning from End User Data with Shuffled Differential Privacy over Kernel Densities**|Tal Wagner et.al.|[2502.14087](http://arxiv.org/abs/2502.14087)|null|
@@ -1033,10 +1035,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks**|Jeremie Ochin et.al.|[2502.15462](http://arxiv.org/abs/2502.15462)|null|
+|**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
+|**2025-02-21**|**Learning Maritime Inventory Routing Optimization**|Rui Chen et.al.|[2502.15244](http://arxiv.org/abs/2502.15244)|null|
+|**2025-02-21**|**GNN-Coder: Boosting Semantic Code Retrieval with Combined GNNs and Transformer**|Yufan Ye et.al.|[2502.15202](http://arxiv.org/abs/2502.15202)|null|
+|**2025-02-21**|**Graph-Based Deep Learning on Stereo EEG for Predicting Seizure Freedom in Epilepsy Patients**|Artur Agaronyan et.al.|[2502.15198](http://arxiv.org/abs/2502.15198)|null|
+|**2025-02-21**|**Decoding lithium's subtle phase stability with a machine learning force field**|Yiheng Shen et.al.|[2502.15190](http://arxiv.org/abs/2502.15190)|null|
+|**2025-02-20**|**GiGL: Large-Scale Graph Neural Networks at Snapchat**|Tong Zhao et.al.|[2502.15054](http://arxiv.org/abs/2502.15054)|null|
+|**2025-02-20**|**Benchmarking Android Malware Detection: Rethinking the Role of Traditional and Deep Learning Models**|Guojun Liu et.al.|[2502.15041](http://arxiv.org/abs/2502.15041)|null|
+|**2025-02-20**|**Graph in the Vault: Protecting Edge GNN Inference with Trusted Execution Environment**|Ruyi Ding et.al.|[2502.15012](http://arxiv.org/abs/2502.15012)|null|
+|**2025-02-20**|**Understanding the Design Principles of Link Prediction in Directed Settings**|Jun Zhai et.al.|[2502.15008](http://arxiv.org/abs/2502.15008)|null|
 |**2025-02-20**|**Small Graph Is All You Need: DeepStateGNN for Scalable Traffic Forecasting**|Yannick Wölker et.al.|[2502.14525](http://arxiv.org/abs/2502.14525)|null|
 |**2025-02-20**|**DAG: Deep Adaptive and Generative $K$ -Free Community Detection on Attributed Graphs**|Chang Liu et.al.|[2502.14294](http://arxiv.org/abs/2502.14294)|null|
 |**2025-02-20**|**Adaptive Sparsified Graph Learning Framework for Vessel Behavior Anomalies**|Jeehong Kim et.al.|[2502.14197](http://arxiv.org/abs/2502.14197)|null|
-|**2025-02-19**|**Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks**|Yonghao Liu et.al.|[2502.14158](http://arxiv.org/abs/2502.14158)|null|
+|**2025-02-19**|**Dual-level Mixup for Graph Few-shot Learning with Fewer Tasks**|Yonghao Liu et.al.|[2502.14158](http://arxiv.org/abs/2502.14158)|**[link](https://github.com/KEAML-JLU/SMILE)**|
 |**2025-02-19**|**SALTY: Explainable Artificial Intelligence Guided Structural Analysis for Hardware Trojan Detection**|Tanzim Mahfuz et.al.|[2502.14116](http://arxiv.org/abs/2502.14116)|null|
 |**2025-02-20**|**Extending the RANGE of Graph Neural Networks: Relaying Attention Nodes for Global Encoding**|Alessandro Caruso et.al.|[2502.13797](http://arxiv.org/abs/2502.13797)|null|
 |**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|**[link](https://github.com/dbis-uibk/gcnext)**|
