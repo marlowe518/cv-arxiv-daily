@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**On the Dichotomy Between Privacy and Traceability in $\ell_p$ Stochastic Convex Optimization**|Sasha Voitovych et.al.|[2502.17384](http://arxiv.org/abs/2502.17384)|null|
+|**2025-02-24**|**Differential privacy guarantees of Markov chain Monte Carlo algorithms**|Andrea Bertazzi et.al.|[2502.17150](http://arxiv.org/abs/2502.17150)|null|
+|**2025-02-23**|**Guarding the Privacy of Label-Only Access to Neural Network Classifiers via iDP Verification**|Anan Kabaha et.al.|[2502.16519](http://arxiv.org/abs/2502.16519)|null|
+|**2025-02-21**|**Approximate Differential Privacy of the $\ell_2$ Mechanism**|Matthew Joseph et.al.|[2502.15929](http://arxiv.org/abs/2502.15929)|null|
+|**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Mildly Accurate Computationally Differentially Private Inner Product Protocols Imply Oblivious Transfer**|Iftach Haitner et.al.|[2502.15629](http://arxiv.org/abs/2502.15629)|null|
 |**2025-02-21**|**Fed-SB: A Silver Bullet for Extreme Communication Efficiency and Performance in (Private) Federated LoRA Fine-Tuning**|Raghav Singhal et.al.|[2502.15436](http://arxiv.org/abs/2502.15436)|**[link](https://github.com/CERT-Lab/fed-sb)**|
 |**2025-02-20**|**PREM: Privately Answering Statistical Queries with Relative Error**|Badih Ghazi et.al.|[2502.14809](http://arxiv.org/abs/2502.14809)|null|
@@ -1029,6 +1034,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks**|Emiliano Seri et.al.|[2502.17371](http://arxiv.org/abs/2502.17371)|null|
+|**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
+|**2025-02-24**|**Detecting Code Vulnerabilities with Heterogeneous GNN Training**|Yu Luo et.al.|[2502.16835](http://arxiv.org/abs/2502.16835)|null|
+|**2025-02-24**|**VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning**|Yang Chen et.al.|[2502.16793](http://arxiv.org/abs/2502.16793)|null|
+|**2025-02-23**|**Subsampling Graphs with GNN Performance Guarantees**|Mika Sarkin Jain et.al.|[2502.16703](http://arxiv.org/abs/2502.16703)|null|
+|**2025-02-23**|**Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations**|Laurin Lux et.al.|[2502.16697](http://arxiv.org/abs/2502.16697)|null|
+|**2025-02-23**|**A Survey of Graph Transformers: Architectures, Theories and Applications**|Chaohao Yuan et.al.|[2502.16533](http://arxiv.org/abs/2502.16533)|null|
+|**2025-02-23**|**GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking**|Yingjian Chen et.al.|[2502.16514](http://arxiv.org/abs/2502.16514)|null|
+|**2025-02-23**|**MAPN: Enhancing Heterogeneous Sparse Graph Representation by Mamba-based Asynchronous Aggregation**|Xuqi Mao et.al.|[2502.16454](http://arxiv.org/abs/2502.16454)|null|
+|**2025-02-23**|**Network Tomography with Path-Centric Graph Neural Network**|Yuntong Hu et.al.|[2502.16430](http://arxiv.org/abs/2502.16430)|null|
+|**2025-02-22**|**MOB-GCN: A Novel Multiscale Object-Based Graph Neural Network for Hyperspectral Image Classification**|Tuan-Anh Yang et.al.|[2502.16289](http://arxiv.org/abs/2502.16289)|null|
+|**2025-02-22**|**HetFS: A Method for Fast Similarity Search with Ad-hoc Meta-paths on Heterogeneous Information Networks**|Xuqi Mao et.al.|[2502.16288](http://arxiv.org/abs/2502.16288)|null|
+|**2025-02-22**|**FHGE: A Fast Heterogeneous Graph Embedding with Ad-hoc Meta-paths**|Xuqi Mao et.al.|[2502.16281](http://arxiv.org/abs/2502.16281)|null|
+|**2025-02-22**|**Verifying Quantized Graph Neural Networks is PSPACE-complete**|Marco Sälzer et.al.|[2502.16244](http://arxiv.org/abs/2502.16244)|null|
+|**2025-02-22**|**Graph Self-Supervised Learning with Learnable Structural and Positional Encodings**|Asiri Wijesinghe et.al.|[2502.16233](http://arxiv.org/abs/2502.16233)|null|
+|**2025-02-22**|**Interpreting core forms of urban morphology linked to urban functions with explainable graph neural network**|Dongsheng Chen et.al.|[2502.16210](http://arxiv.org/abs/2502.16210)|null|
+|**2025-02-22**|**Co-evolution-based Metal-binding Residue Prediction with Graph Neural Networks**|Sayedmohammadreza Rastegari et.al.|[2502.16189](http://arxiv.org/abs/2502.16189)|null|
+|**2025-02-22**|**Advanced Text Analytics -- Graph Neural Network for Fake News Detection in Social Media**|Anantram Patel et.al.|[2502.16157](http://arxiv.org/abs/2502.16157)|null|
+|**2025-02-21**|**Graph Attention Convolutional U-NET: A Semantic Segmentation Model for Identifying Flooded Areas**|Muhammad Umair Danish et.al.|[2502.15907](http://arxiv.org/abs/2502.15907)|null|
 |**2025-02-21**|**Game State and Spatio-temporal Action Detection in Soccer using Graph Neural Networks and 3D Convolutional Networks**|Jeremie Ochin et.al.|[2502.15462](http://arxiv.org/abs/2502.15462)|null|
 |**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
 |**2025-02-21**|**Learning Maritime Inventory Routing Optimization**|Rui Chen et.al.|[2502.15244](http://arxiv.org/abs/2502.15244)|null|
