@@ -18,13 +18,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Distributed Transition System with Tags and Value-wise Metric, for Privacy Analysis**|Siva Anantharaman et.al.|[2502.18974](http://arxiv.org/abs/2502.18974)|null|
+|**2025-02-25**|**Differentially Private Federated Learning With Time-Adaptive Privacy Spending**|Shahrzad Kiani et.al.|[2502.18706](http://arxiv.org/abs/2502.18706)|null|
+|**2025-02-25**|**Tukey Depth Mechanisms for Practical Private Mean Estimation**|Gavin Brown et.al.|[2502.18698](http://arxiv.org/abs/2502.18698)|null|
+|**2025-02-25**|**Differentially Private Iterative Screening Rules for Linear Regression**|Amol Khanna et.al.|[2502.18578](http://arxiv.org/abs/2502.18578)|null|
+|**2025-02-23**|**RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis**|Jianwei Wang et.al.|[2502.18517](http://arxiv.org/abs/2502.18517)|null|
 |**2025-02-25**|**TLDP: An Algorithm of Local Differential Privacy for Tensors**|Yachao Yuan et.al.|[2502.18227](http://arxiv.org/abs/2502.18227)|null|
 |**2025-02-25**|**Differentially private synthesis of Spatial Point Processes**|Dangchan Kim et.al.|[2502.18198](http://arxiv.org/abs/2502.18198)|null|
 |**2025-02-25**|**An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772](http://arxiv.org/abs/2502.17772)|null|
 |**2025-02-22**|**Towards User-level Private Reinforcement Learning with Human Feedback**|Jiaming Zhang et.al.|[2502.17515](http://arxiv.org/abs/2502.17515)|null|
 |**2025-02-24**|**On the Dichotomy Between Privacy and Traceability in $\ell_p$ Stochastic Convex Optimization**|Sasha Voitovych et.al.|[2502.17384](http://arxiv.org/abs/2502.17384)|null|
 |**2025-02-24**|**Differential privacy guarantees of Markov chain Monte Carlo algorithms**|Andrea Bertazzi et.al.|[2502.17150](http://arxiv.org/abs/2502.17150)|null|
-|**2025-02-23**|**Guarding the Privacy of Label-Only Access to Neural Network Classifiers via iDP Verification**|Anan Kabaha et.al.|[2502.16519](http://arxiv.org/abs/2502.16519)|null|
+|**2025-02-26**|**Guarding the Privacy of Label-Only Access to Neural Network Classifiers via iDP Verification**|Anan Kabaha et.al.|[2502.16519](http://arxiv.org/abs/2502.16519)|null|
 |**2025-02-21**|**Approximate Differential Privacy of the $\ell_2$ Mechanism**|Matthew Joseph et.al.|[2502.15929](http://arxiv.org/abs/2502.15929)|null|
 |**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
 |**2025-02-21**|**Mildly Accurate Computationally Differentially Private Inner Product Protocols Imply Oblivious Transfer**|Iftach Haitner et.al.|[2502.15629](http://arxiv.org/abs/2502.15629)|null|
@@ -1044,6 +1049,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377](http://arxiv.org/abs/2502.19377)|null|
+|**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252](http://arxiv.org/abs/2502.19252)|null|
+|**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
+|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998](http://arxiv.org/abs/2502.18998)|null|
+|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875](http://arxiv.org/abs/2502.18875)|null|
+|**2025-02-26**|**TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization**|Anay Majee et.al.|[2502.18847](http://arxiv.org/abs/2502.18847)|null|
+|**2025-02-26**|**Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation**|Yuxiang Wang et.al.|[2502.18771](http://arxiv.org/abs/2502.18771)|**[link](https://github.com/myflashbarry/LLM-benchmarking)**|
+|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743](http://arxiv.org/abs/2502.18743)|null|
 |**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188](http://arxiv.org/abs/2502.18188)|null|
 |**2025-02-25**|**ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases**|Rikuto Kotoge et.al.|[2502.18026](http://arxiv.org/abs/2502.18026)|null|
 |**2025-02-25**|**GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes**|Michele Fiori et.al.|[2502.17999](http://arxiv.org/abs/2502.17999)|null|
@@ -1051,7 +1064,7 @@
 |**2025-02-25**|**Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning**|Runzhong Wang et.al.|[2502.17874](http://arxiv.org/abs/2502.17874)|null|
 |**2025-02-25**|**Armada: Memory-Efficient Distributed Training of Large-Scale Graph Neural Networks**|Roger Waleffe et.al.|[2502.17846](http://arxiv.org/abs/2502.17846)|null|
 |**2025-02-25**|**Are GNNs doomed by the topology of their input graph?**|Amine Mohamed Aboussalah et.al.|[2502.17739](http://arxiv.org/abs/2502.17739)|null|
-|**2025-02-24**|**Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks**|Taos Transue et.al.|[2502.17612](http://arxiv.org/abs/2502.17612)|null|
+|**2025-02-26**|**Learning Decentralized Swarms Using Rotation Equivariant Graph Neural Networks**|Taos Transue et.al.|[2502.17612](http://arxiv.org/abs/2502.17612)|null|
 |**2025-02-23**|**Spectral Theory for Edge Pruning in Asynchronous Recurrent Graph Neural Networks**|Nicolas Bessone et.al.|[2502.17522](http://arxiv.org/abs/2502.17522)|null|
 |**2025-02-24**|**Sustainable Greenhouse Management: A Comparative Analysis of Recurrent and Graph Neural Networks**|Emiliano Seri et.al.|[2502.17371](http://arxiv.org/abs/2502.17371)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
