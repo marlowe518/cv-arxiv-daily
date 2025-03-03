@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -23,7 +23,7 @@ layout: default
 |**2025-02-23**|**RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis**|Jianwei Wang et.al.|[2502.18517](http://arxiv.org/abs/2502.18517)|null|
 |**2025-02-25**|**TLDP: An Algorithm of Local Differential Privacy for Tensors**|Yachao Yuan et.al.|[2502.18227](http://arxiv.org/abs/2502.18227)|null|
 |**2025-02-25**|**Differentially private synthesis of Spatial Point Processes**|Dangchan Kim et.al.|[2502.18198](http://arxiv.org/abs/2502.18198)|null|
-|**2025-02-25**|**An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772](http://arxiv.org/abs/2502.17772)|null|
+|**2025-02-28**|**An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772](http://arxiv.org/abs/2502.17772)|null|
 |**2025-02-22**|**Towards User-level Private Reinforcement Learning with Human Feedback**|Jiaming Zhang et.al.|[2502.17515](http://arxiv.org/abs/2502.17515)|null|
 |**2025-02-24**|**On the Dichotomy Between Privacy and Traceability in $\ell_p$ Stochastic Convex Optimization**|Sasha Voitovych et.al.|[2502.17384](http://arxiv.org/abs/2502.17384)|null|
 |**2025-02-24**|**Differential privacy guarantees of Markov chain Monte Carlo algorithms**|Andrea Bertazzi et.al.|[2502.17150](http://arxiv.org/abs/2502.17150)|null|
