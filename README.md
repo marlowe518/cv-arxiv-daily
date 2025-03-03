@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Differentially Private Recursive Least Squares Estimation for ARX Systems with Multi-Participants**|Jianwei Tan et.al.|[2502.20700](http://arxiv.org/abs/2502.20700)|null|
+|**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565](http://arxiv.org/abs/2502.20565)|null|
 |**2025-02-27**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207](http://arxiv.org/abs/2502.20207)|null|
 |**2025-02-26**|**Differentially Private Sequential Learning**|Yuxin Liu et.al.|[2502.19525](http://arxiv.org/abs/2502.19525)|null|
 |**2025-02-26**|**Distributed Transition System with Tags and Value-wise Metric, for Privacy Analysis**|Siva Anantharaman et.al.|[2502.18974](http://arxiv.org/abs/2502.18974)|null|
@@ -1051,17 +1053,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|null|
+|**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
+|**2025-02-28**|**AMPLE: Event-Driven Accelerator for Mixed-Precision Inference of Graph Neural Networks**|Pedro Gimenes et.al.|[2502.21196](http://arxiv.org/abs/2502.21196)|null|
+|**2025-02-28**|**Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**|Nanshan Deng et.al.|[2502.21134](http://arxiv.org/abs/2502.21134)|null|
+|**2025-02-28**|**Information Bottleneck-Guided Heterogeneous Graph Learning for Interpretable Neurodevelopmental Disorder Diagnosis**|Yueyang Li et.al.|[2502.20769](http://arxiv.org/abs/2502.20769)|null|
+|**2025-02-28**|**Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer**|Guanglin Zhou et.al.|[2502.20719](http://arxiv.org/abs/2502.20719)|null|
+|**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**WaveGAS: Waveform Relaxation for Scaling Graph Neural Networks**|Jana Vatter et.al.|[2502.19986](http://arxiv.org/abs/2502.19986)|null|
 |**2025-02-27**|**Efficient and Universal Neural-Network Decoder for Stabilizer-Based Quantum Error Correction**|Gengyuan Hu et.al.|[2502.19971](http://arxiv.org/abs/2502.19971)|null|
 |**2025-02-27**|**GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction**|Weiyang Kong et.al.|[2502.19823](http://arxiv.org/abs/2502.19823)|null|
-|**2025-02-27**|**Accurate and Scalable Graph Neural Networks via Message Invariance**|Zhihao Shi et.al.|[2502.19693](http://arxiv.org/abs/2502.19693)|null|
-|**2025-02-27**|**Training Robust Graph Neural Networks by Modeling Noise Dependencies**|Yeonjun In et.al.|[2502.19670](http://arxiv.org/abs/2502.19670)|null|
+|**2025-02-27**|**Accurate and Scalable Graph Neural Networks via Message Invariance**|Zhihao Shi et.al.|[2502.19693](http://arxiv.org/abs/2502.19693)|**[link](https://github.com/MIRALab-USTC/TOP)**|
+|**2025-02-27**|**Training Robust Graph Neural Networks by Modeling Noise Dependencies**|Yeonjun In et.al.|[2502.19670](http://arxiv.org/abs/2502.19670)|**[link](https://github.com/yeonjun-in/torch-DA-GNN)**|
 |**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377](http://arxiv.org/abs/2502.19377)|null|
 |**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252](http://arxiv.org/abs/2502.19252)|null|
 |**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
-|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998](http://arxiv.org/abs/2502.18998)|null|
-|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875](http://arxiv.org/abs/2502.18875)|null|
+|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998](http://arxiv.org/abs/2502.18998)|**[link](https://github.com/edgarsmdn/gh_gnn_margules)**|
+|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875](http://arxiv.org/abs/2502.18875)|**[link](https://github.com/youqingxiaozhua/deepternary)**|
 |**2025-02-26**|**TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization**|Anay Majee et.al.|[2502.18847](http://arxiv.org/abs/2502.18847)|null|
 |**2025-02-26**|**Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation**|Yuxiang Wang et.al.|[2502.18771](http://arxiv.org/abs/2502.18771)|**[link](https://github.com/myflashbarry/LLM-benchmarking)**|
 |**2025-02-27**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743](http://arxiv.org/abs/2502.18743)|null|
