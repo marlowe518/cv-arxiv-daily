@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-03**|**Video-DPRP: A Differentially Private Approach for Visual Privacy-Preserving Video Human Activity Recognition**|Allassan Tchangmena A Nken et.al.|[2503.02132](http://arxiv.org/abs/2503.02132)|null|
+|**2025-03-03**|**Optimal Differentially Private Sampling of Unbounded Gaussians**|Valentio Iverson et.al.|[2503.01766](http://arxiv.org/abs/2503.01766)|null|
+|**2025-03-03**|**Revisiting Locally Differentially Private Protocols: Towards Better Trade-offs in Privacy, Utility, and Attack Resistance**|Héber H. Arcolezi et.al.|[2503.01482](http://arxiv.org/abs/2503.01482)|**[link](https://github.com/hharcolezi/LDP_protocols_refined)**|
+|**2025-03-02**|**Federated Conversational Recommender System**|Allen Lin et.al.|[2503.00999](http://arxiv.org/abs/2503.00999)|null|
+|**2025-03-02**|**Towards hyperparameter-free optimization with differential privacy**|Zhiqi Bu et.al.|[2503.00703](http://arxiv.org/abs/2503.00703)|null|
 |**2025-02-28**|**Differentially Private Recursive Least Squares Estimation for ARX Systems with Multi-Participants**|Jianwei Tan et.al.|[2502.20700](http://arxiv.org/abs/2502.20700)|null|
 |**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565](http://arxiv.org/abs/2502.20565)|null|
 |**2025-02-27**|**Differentially-private frugal estimation of quantiles**|Massimo Cafaro et.al.|[2502.20207](http://arxiv.org/abs/2502.20207)|null|
@@ -1047,6 +1053,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**NodeNAS: Node-Specific Graph Neural Architecture Search for Out-of-Distribution Generalization**|Qiyi Wang et.al.|[2503.02448](http://arxiv.org/abs/2503.02448)|null|
+|**2025-03-04**|**InfoGNN: End-to-end deep learning on mesh via graph neural networks**|Ling Gao et.al.|[2503.02414](http://arxiv.org/abs/2503.02414)|null|
+|**2025-03-04**|**A Binary Classification Social Network Dataset for Graph Machine Learning**|Adnan Ali et.al.|[2503.02397](http://arxiv.org/abs/2503.02397)|null|
+|**2025-03-04**|**Incorporating graph neural network into route choice model**|Yuxun Ma et.al.|[2503.02315](http://arxiv.org/abs/2503.02315)|null|
+|**2025-03-04**|**CrystalFramer: Rethinking the Role of Frames for SE(3)-Invariant Crystal Structure Modeling**|Yusei Ito et.al.|[2503.02209](http://arxiv.org/abs/2503.02209)|null|
+|**2025-03-03**|**Fairness and/or Privacy on Social Graphs**|Bartlomiej Surma et.al.|[2503.02114](http://arxiv.org/abs/2503.02114)|null|
+|**2025-03-03**|**Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**|Yumeng Song et.al.|[2503.02047](http://arxiv.org/abs/2503.02047)|null|
+|**2025-03-03**|**Learning Exposure Mapping Functions for Inferring Heterogeneous Peer Effects**|Shishir Adhikari et.al.|[2503.01722](http://arxiv.org/abs/2503.01722)|null|
+|**2025-03-03**|**GRNFormer: A Biologically-Guided Framework for Integrating Gene Regulatory Networks into RNA Foundation Models**|Mufan Qiu et.al.|[2503.01682](http://arxiv.org/abs/2503.01682)|null|
+|**2025-03-03**|**Effective High-order Graph Representation Learning for Credit Card Fraud Detection**|Yao Zou et.al.|[2503.01556](http://arxiv.org/abs/2503.01556)|null|
+|**2025-03-03**|**InversionGNN: A Dual Path Network for Multi-Property Molecular Optimization**|Yifan Niu et.al.|[2503.01488](http://arxiv.org/abs/2503.01488)|null|
+|**2025-03-03**|**Enhancing Social Media Rumor Detection: A Semantic and Graph Neural Network Approach for the 2024 Global Election**|Liu Yan et.al.|[2503.01394](http://arxiv.org/abs/2503.01394)|null|
+|**2025-03-03**|**Statistical physics analysis of graph neural networks: Approaching optimality in the contextual stochastic block model**|O. Duranthon et.al.|[2503.01361](http://arxiv.org/abs/2503.01361)|null|
+|**2025-03-03**|**Soybean Disease Detection via Interpretable Hybrid CNN-GNN: Integrating MobileNetV2 and GraphSAGE with Cross-Modal Attention**|Md Abrar Jahin et.al.|[2503.01284](http://arxiv.org/abs/2503.01284)|null|
+|**2025-03-03**|**DCI: A Coordinated Allocation and Filling Workload-Aware Dual-Cache Allocation GNN Inference Acceleration System**|Yi Luo et.al.|[2503.01281](http://arxiv.org/abs/2503.01281)|null|
+|**2025-03-03**|**Pre-training Graph Neural Networks with Structural Fingerprints for Materials Discovery**|Shuyi Jia et.al.|[2503.01227](http://arxiv.org/abs/2503.01227)|null|
+|**2025-03-03**|**STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction**|Shilin Tong et.al.|[2503.01152](http://arxiv.org/abs/2503.01152)|null|
+|**2025-03-03**|**Depth-Adaptive Graph Neural Networks via Learnable Bakry-'Emery Curvature**|Asela Hevapathige et.al.|[2503.01079](http://arxiv.org/abs/2503.01079)|null|
+|**2025-03-02**|**CAGN-GAT Fusion: A Hybrid Contrastive Attentive Graph Neural Network for Network Intrusion Detection**|Md Abrar Jahin et.al.|[2503.00961](http://arxiv.org/abs/2503.00961)|null|
+|**2025-03-04**|**Hierarchical graph sampling based minibatch learning with chain preservation and variance reduction**|Qia Hu et.al.|[2503.00860](http://arxiv.org/abs/2503.00860)|null|
 |**2025-02-28**|**Assessing zero-shot generalisation behaviour in graph-neural-network interatomic potentials**|Chiheb Ben Mahmoud et.al.|[2502.21317](http://arxiv.org/abs/2502.21317)|null|
 |**2025-02-28**|**AMPLE: Event-Driven Accelerator for Mixed-Precision Inference of Graph Neural Networks**|Pedro Gimenes et.al.|[2502.21196](http://arxiv.org/abs/2502.21196)|null|
 |**2025-02-28**|**Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**|Nanshan Deng et.al.|[2502.21134](http://arxiv.org/abs/2502.21134)|null|
