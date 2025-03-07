@@ -18,11 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Controlled privacy leakage propagation throughout overlapping grouped learning**|Shahrzad Kiani et.al.|[2503.04054](http://arxiv.org/abs/2503.04054)|null|
 |**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684](http://arxiv.org/abs/2503.03684)|null|
 |**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
 |**2025-03-05**|**It's My Data Too: Private ML for Datasets with Multi-User Training Examples**|Arun Ganesh et.al.|[2503.03622](http://arxiv.org/abs/2503.03622)|null|
 |**2025-03-05**|**Differentially Private Learners for Heterogeneous Treatment Effects**|Maresa Schröder et.al.|[2503.03486](http://arxiv.org/abs/2503.03486)|null|
-|**2025-03-05**|**Data Poisoning Attacks to Locally Differentially Private Range Query Protocols**|I-Jung Hsu et.al.|[2503.03454](http://arxiv.org/abs/2503.03454)|null|
+|**2025-03-06**|**Data Poisoning Attacks to Locally Differentially Private Range Query Protocols**|Ting-Wei Liao et.al.|[2503.03454](http://arxiv.org/abs/2503.03454)|null|
 |**2025-03-04**|**Adopt a PET! An Exploration of PETs, Policy, and Practicalities for Industry in Canada**|Masoumeh Shafieinejad et.al.|[2503.03027](http://arxiv.org/abs/2503.03027)|null|
 |**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
 |**2025-03-03**|**Video-DPRP: A Differentially Private Approach for Visual Privacy-Preserving Video Human Activity Recognition**|Allassan Tchangmena A Nken et.al.|[2503.02132](http://arxiv.org/abs/2503.02132)|null|
@@ -1065,6 +1066,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks**|Shengjie Liu et.al.|[2503.04233](http://arxiv.org/abs/2503.04233)|null|
+|**2025-03-06**|**The JARVIS Infrastructure is All You Need for Materials Design**|Kamal Choudhary et.al.|[2503.04133](http://arxiv.org/abs/2503.04133)|null|
+|**2025-03-05**|**Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE**|Tri Nguyen et.al.|[2503.03812](http://arxiv.org/abs/2503.03812)|null|
 |**2025-03-05**|**PacketCLIP: Multi-Modal Embedding of Network Traffic and Language for Cybersecurity Reasoning**|Ryozo Masukawa et.al.|[2503.03747](http://arxiv.org/abs/2503.03747)|null|
 |**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736](http://arxiv.org/abs/2503.03736)|null|
 |**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599](http://arxiv.org/abs/2503.03599)|null|
