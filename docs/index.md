@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting**|Mingchen Li et.al.|[2503.04990](http://arxiv.org/abs/2503.04990)|null|
+|**2025-03-06**|**A Consensus Privacy Metrics Framework for Synthetic Data**|Lisa Pilgram et.al.|[2503.04980](http://arxiv.org/abs/2503.04980)|null|
 |**2025-03-06**|**Controlled privacy leakage propagation throughout overlapping grouped learning**|Shahrzad Kiani et.al.|[2503.04054](http://arxiv.org/abs/2503.04054)|null|
 |**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684](http://arxiv.org/abs/2503.03684)|null|
 |**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
@@ -1060,6 +1062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs**|Shujie Li et.al.|[2503.04822](http://arxiv.org/abs/2503.04822)|null|
+|**2025-03-04**|**Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks**|Luis Vitor Zerkowski et.al.|[2503.04816](http://arxiv.org/abs/2503.04816)|null|
 |**2025-03-06**|**Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks**|Shengjie Liu et.al.|[2503.04233](http://arxiv.org/abs/2503.04233)|null|
 |**2025-03-06**|**The JARVIS Infrastructure is All You Need for Materials Design**|Kamal Choudhary et.al.|[2503.04133](http://arxiv.org/abs/2503.04133)|null|
 |**2025-03-05**|**Trial by FIRE: Probing the dark matter density profile of dwarf galaxies with GraphNPE**|Tri Nguyen et.al.|[2503.03812](http://arxiv.org/abs/2503.03812)|null|
