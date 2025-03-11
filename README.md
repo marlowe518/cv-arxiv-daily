@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data**|I-Jung Hsu et.al.|[2503.07483](http://arxiv.org/abs/2503.07483)|null|
+|**2025-03-10**|**How Well Can Differential Privacy Be Audited in One Run?**|Amit Keinan et.al.|[2503.07199](http://arxiv.org/abs/2503.07199)|null|
+|**2025-03-10**|**A Unified View of Optimal Kernel Hypothesis Testing**|Antonin Schrab et.al.|[2503.07084](http://arxiv.org/abs/2503.07084)|null|
+|**2025-03-10**|**A Failure-Free and Efficient Discrete Laplace Distribution for Differential Privacy in MPC**|Ivan Tjuawinata et.al.|[2503.07048](http://arxiv.org/abs/2503.07048)|null|
+|**2025-03-09**|**Data Efficient Subset Training with Differential Privacy**|Ninad Jayesh Gandhi et.al.|[2503.06732](http://arxiv.org/abs/2503.06732)|null|
+|**2025-03-08**|**Nearly Optimal Differentially Private ReLU Regression**|Meng Ding et.al.|[2503.06009](http://arxiv.org/abs/2503.06009)|null|
 |**2025-03-06**|**DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting**|Mingchen Li et.al.|[2503.04990](http://arxiv.org/abs/2503.04990)|null|
 |**2025-03-06**|**A Consensus Privacy Metrics Framework for Synthetic Data**|Lisa Pilgram et.al.|[2503.04980](http://arxiv.org/abs/2503.04980)|null|
 |**2025-03-06**|**Controlled privacy leakage propagation throughout overlapping grouped learning**|Shahrzad Kiani et.al.|[2503.04054](http://arxiv.org/abs/2503.04054)|null|
@@ -1068,6 +1074,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code**|Gangyang Li et.al.|[2503.07243](http://arxiv.org/abs/2503.07243)|null|
+|**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
+|**2025-03-10**|**Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention**|Merve Cigdem Ipek et.al.|[2503.07109](http://arxiv.org/abs/2503.07109)|null|
+|**2025-03-10**|**Graph Neural Network for Location- and Orientation-Assisted mmWave Beam Alignment**|Yuzhu Lei et.al.|[2503.06943](http://arxiv.org/abs/2503.06943)|null|
+|**2025-03-09**|**Deep Cut-informed Graph Embedding and Clustering**|Zhiyuan Ning et.al.|[2503.06635](http://arxiv.org/abs/2503.06635)|null|
+|**2025-03-09**|**Hardware-Accelerated Event-Graph Neural Networks for Low-Latency Time-Series Classification on SoC FPGA**|Hiroshi Nakano et.al.|[2503.06629](http://arxiv.org/abs/2503.06629)|null|
+|**2025-03-09**|**Using Subgraph GNNs for Node Classification:an Overlooked Potential Approach**|Qian Zeng et.al.|[2503.06614](http://arxiv.org/abs/2503.06614)|null|
+|**2025-03-09**|**Identifying Evidence Subgraphs for Financial Risk Detection via Graph Counterfactual and Factual Reasoning**|Huaming Du et.al.|[2503.06441](http://arxiv.org/abs/2503.06441)|null|
+|**2025-03-09**|**Dynamic Load Balancing for EV Charging Stations Using Reinforcement Learning and Demand Prediction**|Hesam Mosalli et.al.|[2503.06370](http://arxiv.org/abs/2503.06370)|null|
+|**2025-03-08**|**GIN-Graph: A Generative Interpretation Network for Model-Level Explanation of Graph Neural Networks**|Xiao Yue et.al.|[2503.06352](http://arxiv.org/abs/2503.06352)|null|
+|**2025-03-08**|**Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs**|Xiabao Wu et.al.|[2503.06208](http://arxiv.org/abs/2503.06208)|null|
+|**2025-03-08**|**Gradient-Driven Graph Neural Networks for Learning Digital and Hybrid Precoder**|Lin Zhang et.al.|[2503.06077](http://arxiv.org/abs/2503.06077)|null|
+|**2025-03-08**|**Interpretable High-order Knowledge Graph Neural Network for Predicting Synthetic Lethality in Human Cancers**|Xuexin Chen et.al.|[2503.06052](http://arxiv.org/abs/2503.06052)|null|
 |**2025-03-05**|**HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs**|Shujie Li et.al.|[2503.04822](http://arxiv.org/abs/2503.04822)|null|
 |**2025-03-04**|**Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks**|Luis Vitor Zerkowski et.al.|[2503.04816](http://arxiv.org/abs/2503.04816)|null|
 |**2025-03-06**|**Learning Wideband User Scheduling and Hybrid Precoding with Graph Neural Networks**|Shengjie Liu et.al.|[2503.04233](http://arxiv.org/abs/2503.04233)|null|
