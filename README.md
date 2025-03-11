@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1062,7 +1062,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1077,11 +1077,11 @@
 |**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736](http://arxiv.org/abs/2503.03736)|null|
 |**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599](http://arxiv.org/abs/2503.03599)|null|
 |**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
-|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|null|
-|**2025-03-05**|**Leap: Inductive Link Prediction via Learnable TopologyAugmentation**|Ahmed E. Samy et.al.|[2503.03331](http://arxiv.org/abs/2503.03331)|null|
+|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|**[link](https://github.com/idea-iitd/gnnmerge)**|
+|**2025-03-05**|**Leap: Inductive Link Prediction via Learnable TopologyAugmentation**|Ahmed E. Samy et.al.|[2503.03331](http://arxiv.org/abs/2503.03331)|**[link](https://github.com/ahmedesamy/leap)**|
 |**2025-03-05**|**LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**|Xi Zhu et.al.|[2503.03313](http://arxiv.org/abs/2503.03313)|null|
 |**2025-03-05**|**Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs**|Runlin Lei et.al.|[2503.03258](http://arxiv.org/abs/2503.03258)|null|
-|**2025-03-05**|**Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection**|Yue Hou et.al.|[2503.03241](http://arxiv.org/abs/2503.03241)|null|
+|**2025-03-05**|**Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection**|Yue Hou et.al.|[2503.03241](http://arxiv.org/abs/2503.03241)|**[link](https://github.com/name-is-what/sego)**|
 |**2025-03-05**|**NodeReg: Mitigating the Imbalance and Distribution Shift Effects in Semi-Supervised Node Classification via Norm Consistency**|Shenzhi Yang et.al.|[2503.03211](http://arxiv.org/abs/2503.03211)|null|
 |**2025-03-05**|**Directly Follows Graphs Go Predictive Process Monitoring With Graph Neural Networks**|Attila Lischka et.al.|[2503.03197](http://arxiv.org/abs/2503.03197)|null|
 |**2025-03-04**|**Learning Precoding in Multi-user Multi-antenna Systems: Transformer or Graph Transformer?**|Yuxuan Duan et.al.|[2503.02998](http://arxiv.org/abs/2503.02998)|null|
@@ -3720,7 +3720,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
