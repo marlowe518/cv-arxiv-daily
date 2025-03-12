@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**A Communication-Efficient and Differentially-Private Distributed Generalized Nash Equilibrium Seeking Algorithm for Aggregative Games**|Wenqing Zhao et.al.|[2503.08494](http://arxiv.org/abs/2503.08494)|null|
+|**2025-03-11**|**Privacy for Free: Leveraging Local Differential Privacy Perturbed Data from Multiple Services**|Rong Du et.al.|[2503.08297](http://arxiv.org/abs/2503.08297)|null|
+|**2025-03-11**|**Locally Private Nonparametric Contextual Multi-armed Bandits**|Yuheng Ma et.al.|[2503.08098](http://arxiv.org/abs/2503.08098)|null|
 |**2025-03-06**|**Poisoning Attacks to Local Differential Privacy Protocols for Trajectory Data**|I-Jung Hsu et.al.|[2503.07483](http://arxiv.org/abs/2503.07483)|null|
 |**2025-03-10**|**How Well Can Differential Privacy Be Audited in One Run?**|Amit Keinan et.al.|[2503.07199](http://arxiv.org/abs/2503.07199)|null|
 |**2025-03-10**|**A Unified View of Optimal Kernel Hypothesis Testing**|Antonin Schrab et.al.|[2503.07084](http://arxiv.org/abs/2503.07084)|null|
@@ -1068,6 +1071,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**i-WiViG: Interpretable Window Vision GNN**|Ivica Obadic et.al.|[2503.08321](http://arxiv.org/abs/2503.08321)|null|
+|**2025-03-11**|**Evidential Uncertainty Probes for Graph Neural Networks**|Linlin Yu et.al.|[2503.08097](http://arxiv.org/abs/2503.08097)|null|
+|**2025-03-10**|**CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders**|Jongwon Park et.al.|[2503.07852](http://arxiv.org/abs/2503.07852)|null|
+|**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662](http://arxiv.org/abs/2503.07662)|null|
 |**2025-03-10**|**Beyond the Edge of Function: Unraveling the Patterns of Type Recovery in Binary Code**|Gangyang Li et.al.|[2503.07243](http://arxiv.org/abs/2503.07243)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
 |**2025-03-10**|**Explainable Android Malware Detection and Malicious Code Localization Using Graph Attention**|Merve Cigdem Ipek et.al.|[2503.07109](http://arxiv.org/abs/2503.07109)|null|
