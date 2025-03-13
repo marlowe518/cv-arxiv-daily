@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Differentially Private Equilibrium Finding in Polymatrix Games**|Mingyang Liu et.al.|[2503.09538](http://arxiv.org/abs/2503.09538)|null|
+|**2025-03-12**|**Investigating User Perspectives on Differentially Private Text Privatization**|Stephen Meisenbacher et.al.|[2503.09338](http://arxiv.org/abs/2503.09338)|null|
+|**2025-03-12**|**Differential Privacy Personalized Federated Learning Based on Dynamically Sparsified Client Updates**|Chuanyin Wang et.al.|[2503.09192](http://arxiv.org/abs/2503.09192)|null|
 |**2025-03-11**|**A Communication-Efficient and Differentially-Private Distributed Generalized Nash Equilibrium Seeking Algorithm for Aggregative Games**|Wenqing Zhao et.al.|[2503.08494](http://arxiv.org/abs/2503.08494)|null|
 |**2025-03-11**|**Privacy for Free: Leveraging Local Differential Privacy Perturbed Data from Multiple Services**|Rong Du et.al.|[2503.08297](http://arxiv.org/abs/2503.08297)|null|
 |**2025-03-11**|**Locally Private Nonparametric Contextual Multi-armed Bandits**|Yuheng Ma et.al.|[2503.08098](http://arxiv.org/abs/2503.08098)|null|
@@ -1077,6 +1080,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Graph-based Full Event Interpretation: a graph neural network for event reconstruction in Belle II**|Merna Abumusabh et.al.|[2503.09401](http://arxiv.org/abs/2503.09401)|null|
+|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
+|**2025-03-12**|**Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**|Yu Bu et.al.|[2503.09281](http://arxiv.org/abs/2503.09281)|null|
+|**2025-03-12**|**SCOPE-DTI: Semi-Inductive Dataset Construction and Framework Optimization for Practical Usability Enhancement in Deep Learning-Based Drug Target Interaction Prediction**|Yigang Chen et.al.|[2503.09251](http://arxiv.org/abs/2503.09251)|null|
+|**2025-03-12**|**TreeX: Generating Global Graphical GNN Explanations via Critical Subtree Extraction**|Shengyao Lu et.al.|[2503.09051](http://arxiv.org/abs/2503.09051)|null|
+|**2025-03-12**|**Adaptive Backdoor Attacks with Reasonable Constraints on Graph Neural Networks**|Xuewen Dong et.al.|[2503.09049](http://arxiv.org/abs/2503.09049)|null|
+|**2025-03-12**|**Towards Quantifying Long-Range Interactions in Graph Machine Learning: a Large Graph Dataset and a Measurement**|Huidong Liang et.al.|[2503.09008](http://arxiv.org/abs/2503.09008)|null|
 |**2025-03-11**|**i-WiViG: Interpretable Window Vision GNN**|Ivica Obadic et.al.|[2503.08321](http://arxiv.org/abs/2503.08321)|null|
 |**2025-03-11**|**Evidential Uncertainty Probes for Graph Neural Networks**|Linlin Yu et.al.|[2503.08097](http://arxiv.org/abs/2503.08097)|null|
 |**2025-03-10**|**CIMAGE: Exploiting the Conditional Independence in Masked Graph Auto-encoders**|Jongwon Park et.al.|[2503.07852](http://arxiv.org/abs/2503.07852)|null|
