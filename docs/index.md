@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.23
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -31,7 +31,7 @@ layout: default
 |**2025-03-17**|**BLIA: Detect model memorization in binary classification model through passive Label Inference attack**|Mohammad Wahiduzzaman Khan et.al.|[2503.12801](http://arxiv.org/abs/2503.12801)|null|
 |**2025-03-16**|**Synthesizing Privacy-Preserving Text Data via Finetuning without Finetuning Billion-Scale LLMs**|Bowen Tan et.al.|[2503.12347](http://arxiv.org/abs/2503.12347)|null|
 |**2025-03-16**|**Empirical Privacy Variance**|Yuzheng Hu et.al.|[2503.12314](http://arxiv.org/abs/2503.12314)|null|
-|**2025-03-15**|**A Bubble-Cluster Federated Learning Framework for Privacy-Preserving Demand Forecasting on Heterogeneous Retail Data**|Yunbo Long et.al.|[2503.12220](http://arxiv.org/abs/2503.12220)|null|
+|**2025-03-21**|**PA-CFL: Privacy-Adaptive Clustered Federated Learning for Transformer-Based Sales Forecasting on Heterogeneous Retail Data**|Yunbo Long et.al.|[2503.12220](http://arxiv.org/abs/2503.12220)|null|
 |**2025-03-15**|**Auditing Differential Privacy in the Black-Box Setting**|Kaining Shi et.al.|[2503.12045](http://arxiv.org/abs/2503.12045)|null|
 |**2025-03-14**|**Practical Implications of Implementing Local Differential Privacy for Smart grids**|Khadija Hafeez et.al.|[2503.11920](http://arxiv.org/abs/2503.11920)|null|
 |**2025-03-14**|**PREAMBLE: Private and Efficient Aggregation of Block Sparse Vectors and Applications**|Hilal Asi et.al.|[2503.11897](http://arxiv.org/abs/2503.11897)|null|
