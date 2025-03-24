@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**On Privately Estimating a Single Parameter**|Hilal Asi et.al.|[2503.17252](http://arxiv.org/abs/2503.17252)|null|
+|**2025-03-21**|**Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation**|Jiangcheng Qin et.al.|[2503.16875](http://arxiv.org/abs/2503.16875)|null|
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
 |**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233](http://arxiv.org/abs/2503.16233)|null|
 |**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
@@ -24,7 +26,7 @@ layout: default
 |**2025-03-19**|**Inspecting the Representation Manifold of Differentially-Private Text**|Stefan Arnold et.al.|[2503.14991](http://arxiv.org/abs/2503.14991)|null|
 |**2025-03-19**|**Synthesizing Grid Data with Cyber Resilience and Privacy Guarantees**|Shengyang Wu et.al.|[2503.14877](http://arxiv.org/abs/2503.14877)|null|
 |**2025-03-18**|**Better Private Distribution Testing by Leveraging Unverified Auxiliary Data**|Maryam Aliakbarpour et.al.|[2503.14709](http://arxiv.org/abs/2503.14709)|null|
-|**2025-03-18**|**DPImageBench: A Unified Benchmark for Differentially Private Image Synthesis**|Chen Gong et.al.|[2503.14681](http://arxiv.org/abs/2503.14681)|null|
+|**2025-03-18**|**DPImageBench: A Unified Benchmark for Differentially Private Image Synthesis**|Chen Gong et.al.|[2503.14681](http://arxiv.org/abs/2503.14681)|**[link](https://github.com/2019chengong/dpimagebench)**|
 |**2025-03-18**|**Empirical Calibration and Metric Differential Privacy in Language Models**|Pedro Faustini et.al.|[2503.13872](http://arxiv.org/abs/2503.13872)|null|
 |**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958](http://arxiv.org/abs/2503.12958)|null|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822](http://arxiv.org/abs/2503.12822)|null|
@@ -1100,11 +1102,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
+|**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153](http://arxiv.org/abs/2503.17153)|null|
+|**2025-03-21**|**TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs**|Steve Gounoue et.al.|[2503.16901](http://arxiv.org/abs/2503.16901)|null|
+|**2025-03-20**|**Ordered Topological Deep Learning: a Network Modeling Case Study**|Guillermo Bernárdez et.al.|[2503.16746](http://arxiv.org/abs/2503.16746)|null|
+|**2025-03-20**|**ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks**|Zhan Cheng et.al.|[2503.16693](http://arxiv.org/abs/2503.16693)|null|
+|**2025-03-20**|**ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)**|Alejandro Ariza-Casabona et.al.|[2503.16661](http://arxiv.org/abs/2503.16661)|null|
 |**2025-03-20**|**Beyond Local Selection: Global Cut Selection for Enhanced Mixed-Integer Programming**|Shuli Zeng et.al.|[2503.15847](http://arxiv.org/abs/2503.15847)|null|
 |**2025-03-20**|**GraPLUS: Graph-based Placement Using Semantics for Image Composition**|Mir Mohammad Khaleghi et.al.|[2503.15761](http://arxiv.org/abs/2503.15761)|null|
 |**2025-03-19**|**Survey on Generalization Theory for Graph Neural Networks**|Antonis Vasileiou et.al.|[2503.15650](http://arxiv.org/abs/2503.15650)|null|
 |**2025-03-19**|**PEnGUiN: Partially Equivariant Graph NeUral Networks for Sample Efficient MARL**|Joshua McClellan et.al.|[2503.15615](http://arxiv.org/abs/2503.15615)|null|
-|**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391](http://arxiv.org/abs/2503.15391)|null|
+|**2025-03-19**|**Modeling crystal defects using defect-informed neural networks**|Ziduo Yang et.al.|[2503.15391](http://arxiv.org/abs/2503.15391)|**[link](https://github.com/Shen-Group/DefiNet)**|
 |**2025-03-19**|**Lyapunov-Based Graph Neural Networks for Adaptive Control of Multi-Agent Systems**|Brandon C. Fallin et.al.|[2503.15360](http://arxiv.org/abs/2503.15360)|null|
 |**2025-03-19**|**Learning to quantify graph nodes**|Alessio Micheli et.al.|[2503.15267](http://arxiv.org/abs/2503.15267)|null|
 |**2025-03-20**|**Classification of Electron and Muon Neutrino Events for the ESS $ν$ SB Near Water Cherenkov Detector using Graph Neural Networks**|J. Aguilar et.al.|[2503.15247](http://arxiv.org/abs/2503.15247)|null|
