@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Differentially Private Joint Independence Test**|Xingwei Liu et.al.|[2503.18721](http://arxiv.org/abs/2503.18721)|null|
+|**2025-03-24**|**Improved Rates of Differentially Private Nonconvex-Strongly-Concave Minimax Optimization**|Ruijia Zhang et.al.|[2503.18317](http://arxiv.org/abs/2503.18317)|null|
 |**2025-03-21**|**On Privately Estimating a Single Parameter**|Hilal Asi et.al.|[2503.17252](http://arxiv.org/abs/2503.17252)|null|
 |**2025-03-21**|**Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation**|Jiangcheng Qin et.al.|[2503.16875](http://arxiv.org/abs/2503.16875)|null|
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
@@ -1108,6 +1110,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling**|Zeqing Jin et.al.|[2503.18911](http://arxiv.org/abs/2503.18911)|null|
+|**2025-03-24**|**Energy-Efficient Dynamic Training and Inference for GNN-Based Network Modeling**|Chetna Singhal et.al.|[2503.18706](http://arxiv.org/abs/2503.18706)|null|
+|**2025-03-24**|**Predicting airfoil pressure distribution using boundary graph neural networks**|Sankalp Jena et.al.|[2503.18638](http://arxiv.org/abs/2503.18638)|null|
+|**2025-03-24**|**Deterministic Certification of Graph Neural Networks against Graph Poisoning Attacks with Arbitrary Perturbations**|Jiate Li et.al.|[2503.18503](http://arxiv.org/abs/2503.18503)|null|
+|**2025-03-24**|**MAGIC-VQA: Multimodal And Grounded Inference with Commonsense Knowledge for Visual Question Answering**|Shuo Yang et.al.|[2503.18491](http://arxiv.org/abs/2503.18491)|null|
+|**2025-03-24**|**AES-SpMM: Balancing Accuracy and Speed by Adaptive Edge Sampling Strategy to Accelerate SpMM in GNNs**|Yingchen Song et.al.|[2503.18427](http://arxiv.org/abs/2503.18427)|null|
+|**2025-03-24**|**DiffusedWrinkles: A Diffusion-Based Model for Data-Driven Garment Animation**|Raquel Vidaurre et.al.|[2503.18370](http://arxiv.org/abs/2503.18370)|null|
+|**2025-03-23**|**Iterative Multi-Agent Reinforcement Learning: A Novel Approach Toward Real-World Multi-Echelon Inventory Optimization**|Georg Ziegner et.al.|[2503.18201](http://arxiv.org/abs/2503.18201)|null|
+|**2025-03-23**|**Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation**|Hongliang Chi et.al.|[2503.18195](http://arxiv.org/abs/2503.18195)|null|
+|**2025-03-23**|**Equivariant Machine Learning Interatomic Potentials with Global Charge Redistribution**|Moin Uddin Maruf et.al.|[2503.17949](http://arxiv.org/abs/2503.17949)|**[link](https://github.com/ahmad-research-group/nequip-charge)**|
+|**2025-03-22**|**Normalized Matching Transformer**|Abtin Pourhadi et.al.|[2503.17715](http://arxiv.org/abs/2503.17715)|null|
+|**2025-03-21**|**Spall failure of alumina at high-strain rates using femtosecond laser experiments and high-fidelity molecular dynamics simulations**|Mewael Isiet et.al.|[2503.17520](http://arxiv.org/abs/2503.17520)|null|
 |**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
 |**2025-03-21**|**Enhancing Steering Estimation with Semantic-Aware GNNs**|Fouad Makiyeh et.al.|[2503.17153](http://arxiv.org/abs/2503.17153)|null|
 |**2025-03-21**|**TeMP-TraG: Edge-based Temporal Message Passing in Transaction Graphs**|Steve Gounoue et.al.|[2503.16901](http://arxiv.org/abs/2503.16901)|null|
