@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Bayesian Pseudo Posterior Mechanism for Differentially Private Machine Learning**|Robert Chew et.al.|[2503.21528](http://arxiv.org/abs/2503.21528)|null|
+|**2025-03-27**|**AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**|Sen Zhang et.al.|[2503.21426](http://arxiv.org/abs/2503.21426)|null|
+|**2025-03-27**|**Multi-Objective Optimization for Privacy-Utility Balance in Differentially Private Federated Learning**|Kanishka Ranaweera et.al.|[2503.21159](http://arxiv.org/abs/2503.21159)|null|
+|**2025-03-27**|**Federated Learning with Differential Privacy: An Utility-Enhanced Approach**|Kanishka Ranaweera et.al.|[2503.21154](http://arxiv.org/abs/2503.21154)|null|
+|**2025-03-27**|**Purifying Approximate Differential Privacy with Randomized Post-processing**|Yingyu Lin et.al.|[2503.21071](http://arxiv.org/abs/2503.21071)|null|
+|**2025-03-26**|**Generating Synthetic Data with Formal Privacy Guarantees: State of the Art and the Road Ahead**|Viktor Schlegel et.al.|[2503.20846](http://arxiv.org/abs/2503.20846)|null|
 |**2025-03-25**|**Applications of Certified Randomness**|Omar Amer et.al.|[2503.19759](http://arxiv.org/abs/2503.19759)|null|
 |**2025-03-25**|**An Approximate Monte Carlo Simulation Method for Estimating Uncertainty and Constructing Confidence Intervals for 2020 Census Statistics**|Robert Ashmead et.al.|[2503.19714](http://arxiv.org/abs/2503.19714)|null|
 |**2025-03-25**|**Privately Evaluating Untrusted Black-Box Functions**|Ephraim Linder et.al.|[2503.19268](http://arxiv.org/abs/2503.19268)|null|
@@ -1107,6 +1113,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681](http://arxiv.org/abs/2503.21681)|null|
+|**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579](http://arxiv.org/abs/2503.21579)|null|
+|**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471](http://arxiv.org/abs/2503.21471)|null|
+|**2025-03-27**|**Improvement Graph Convolution Collaborative Filtering with Weighted addition input**|Tin T. Tran et.al.|[2503.21468](http://arxiv.org/abs/2503.21468)|null|
+|**2025-03-27**|**Graph-to-Vision: Multi-graph Understanding and Reasoning using Vision-Language Models**|Ruizhou Li et.al.|[2503.21435](http://arxiv.org/abs/2503.21435)|null|
+|**2025-03-27**|**AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification**|Minjun Kim et.al.|[2503.21105](http://arxiv.org/abs/2503.21105)|null|
+|**2025-03-26**|**BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology**|Amaya Gallagher-Syed et.al.|[2503.20880](http://arxiv.org/abs/2503.20880)|null|
 |**2025-03-26**|**$β$ -GNN: A Robust Ensemble Approach Against Graph Structure Perturbation**|Haci Ismail Aslan et.al.|[2503.20630](http://arxiv.org/abs/2503.20630)|null|
 |**2025-03-26**|**Multi-dataset and Transfer Learning Using Gene Expression Knowledge Graphs**|Rita T. Sousa et.al.|[2503.20400](http://arxiv.org/abs/2503.20400)|null|
 |**2025-03-26**|**Emergent properties and the multiscale characterization challenge in condensed matter, from crystals to complex materials: a Review**|Elisabetta Nocerino et.al.|[2503.20266](http://arxiv.org/abs/2503.20266)|null|
