@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
 |**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233](http://arxiv.org/abs/2503.16233)|null|
 |**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
-|**2025-03-19**|**Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces**|Ari Blondal et.al.|[2503.15294](http://arxiv.org/abs/2503.15294)|null|
+|**2025-03-28**|**Borsuk-Ulam and Replicable Learning of Large-Margin Halfspaces**|Ari Blondal et.al.|[2503.15294](http://arxiv.org/abs/2503.15294)|null|
 |**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210](http://arxiv.org/abs/2503.15210)|null|
 |**2025-03-19**|**Global Group Fairness in Federated Learning via Function Tracking**|Yves Rychener et.al.|[2503.15163](http://arxiv.org/abs/2503.15163)|null|
 |**2025-03-19**|**OFL: Opportunistic Federated Learning for Resource-Heterogeneous and Privacy-Aware Devices**|Yunlong Mao et.al.|[2503.15015](http://arxiv.org/abs/2503.15015)|null|
@@ -1113,7 +1113,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1136,7 +1136,7 @@
 |**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
 |**2025-03-25**|**Causal invariant geographic network representations with feature and structural distribution shifts**|Yuhan Wang et.al.|[2503.19382](http://arxiv.org/abs/2503.19382)|null|
 |**2025-03-25**|**Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**|Yiwei Zhang et.al.|[2503.19380](http://arxiv.org/abs/2503.19380)|null|
-|**2025-03-26**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
+|**2025-03-28**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
 |**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
 |**2025-03-24**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
 |**2025-03-26**|**Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks**|Jiazhu Dai et.al.|[2503.19070](http://arxiv.org/abs/2503.19070)|null|
@@ -3877,7 +3877,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
