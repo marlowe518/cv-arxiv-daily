@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Sample-Optimal Private Regression in Polynomial Time**|Prashanti Anderson et.al.|[2503.24321](http://arxiv.org/abs/2503.24321)|null|
+|**2025-03-31**|**Initial State Privacy of Nonlinear Systems on Riemannian Manifolds**|Le Liu et.al.|[2503.24089](http://arxiv.org/abs/2503.24089)|null|
+|**2025-03-31**|**Privacy Preservation for Statistical Input in Dynamical Systems**|Le Liu et.al.|[2503.23903](http://arxiv.org/abs/2503.23903)|null|
+|**2025-03-31**|**PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution**|Lina Wang et.al.|[2503.23726](http://arxiv.org/abs/2503.23726)|null|
+|**2025-03-29**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
+|**2025-03-29**|**PrivPetal: Relational Data Synthesis via Permutation Relations**|Kuntai Cai et.al.|[2503.22970](http://arxiv.org/abs/2503.22970)|null|
+|**2025-03-27**|**Adaptive Clipping for Privacy-Preserving Few-Shot Learning: Enhancing Generalization with Limited Data**|Kanishka Ranaweera et.al.|[2503.22749](http://arxiv.org/abs/2503.22749)|null|
 |**2025-03-28**|**Spend Your Budget Wisely: Towards an Intelligent Distribution of the Privacy Budget in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2503.22379](http://arxiv.org/abs/2503.22379)|**[link](https://github.com/sjmeis/EpsilonDistributor)**|
 |**2025-03-27**|**Bayesian Pseudo Posterior Mechanism for Differentially Private Machine Learning**|Robert Chew et.al.|[2503.21528](http://arxiv.org/abs/2503.21528)|null|
 |**2025-03-27**|**AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model**|Sen Zhang et.al.|[2503.21426](http://arxiv.org/abs/2503.21426)|**[link](https://github.com/sunnerzs/AdvSGM)**|
@@ -1114,6 +1121,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
+|**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203](http://arxiv.org/abs/2503.24203)|null|
+|**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
+|**2025-03-31**|**Inductive Graph Representation Learning with Quantum Graph Neural Networks**|Arthur M. Faria et.al.|[2503.24111](http://arxiv.org/abs/2503.24111)|null|
+|**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766](http://arxiv.org/abs/2503.23766)|null|
+|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713](http://arxiv.org/abs/2503.23713)|null|
+|**2025-03-31**|**Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network**|Anas Saleh et.al.|[2503.23635](http://arxiv.org/abs/2503.23635)|null|
+|**2025-03-30**|**Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting**|Fan-Keng Sun et.al.|[2503.23621](http://arxiv.org/abs/2503.23621)|null|
+|**2025-03-30**|**Graph-Eq: Discovering Mathematical Equations using Graph Generative Models**|Nisal Ranasinghe et.al.|[2503.23617](http://arxiv.org/abs/2503.23617)|null|
+|**2025-03-30**|**Question-Aware Knowledge Graph Prompting for Enhancing Large Language Models**|Haochen Liu et.al.|[2503.23523](http://arxiv.org/abs/2503.23523)|null|
+|**2025-03-30**|**POINT $^{2}$ : A Polymer Informatics Training and Testing Database**|Jiaxin Xu et.al.|[2503.23491](http://arxiv.org/abs/2503.23491)|null|
+|**2025-03-30**|**A Systematic Decade Review of Trip Route Planning with Travel Time Estimation based on User Preferences and Behavior**|Nikil Jayasuriya et.al.|[2503.23486](http://arxiv.org/abs/2503.23486)|null|
+|**2025-03-29**|**A QUBO Framework for Team Formation**|Karan Vombatkere et.al.|[2503.23209](http://arxiv.org/abs/2503.23209)|null|
+|**2025-03-29**|**Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks**|Zewen Liu et.al.|[2503.23167](http://arxiv.org/abs/2503.23167)|**[link](https://github.com/emory-melody/awesome-graph-ndes)**|
+|**2025-03-29**|**Prediction of 30-day hospital readmission with clinical notes and EHR information**|Tiago Almeida et.al.|[2503.23050](http://arxiv.org/abs/2503.23050)|null|
+|**2025-03-29**|**MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning**|M Rita Verdelho et.al.|[2503.23042](http://arxiv.org/abs/2503.23042)|null|
+|**2025-03-29**|**AuditVotes: A Framework Towards More Deployable Certified Robustness for Graph Neural Networks**|Yuni Lai et.al.|[2503.22998](http://arxiv.org/abs/2503.22998)|null|
+|**2025-03-29**|**SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry**|Peiyu Chen et.al.|[2503.22963](http://arxiv.org/abs/2503.22963)|**[link](https://github.com/arclab-hku/supereio)**|
+|**2025-03-29**|**Graph Kolmogorov-Arnold Networks for Multi-Cancer Classification and Biomarker Identification, An Interpretable Multi-Omics Approach**|Fadi Alharbi et.al.|[2503.22939](http://arxiv.org/abs/2503.22939)|null|
 |**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569](http://arxiv.org/abs/2503.22569)|null|
 |**2025-03-28**|**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**|Fabian Schmidt et.al.|[2503.22277](http://arxiv.org/abs/2503.22277)|**[link](https://github.com/smidtfab/CFiCS)**|
 |**2025-03-28**|**Data-driven modeling of fluid flow around rotating structures with graph neural networks**|Rui Gao et.al.|[2503.22252](http://arxiv.org/abs/2503.22252)|null|
