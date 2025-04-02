@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-03-31**|**Initial State Privacy of Nonlinear Systems on Riemannian Manifolds**|Le Liu et.al.|[2503.24089](http://arxiv.org/abs/2503.24089)|null|
 |**2025-03-31**|**Privacy Preservation for Statistical Input in Dynamical Systems**|Le Liu et.al.|[2503.23903](http://arxiv.org/abs/2503.23903)|null|
 |**2025-03-31**|**PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution**|Lina Wang et.al.|[2503.23726](http://arxiv.org/abs/2503.23726)|null|
-|**2025-03-29**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
+|**2025-04-01**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
 |**2025-03-29**|**PrivPetal: Relational Data Synthesis via Permutation Relations**|Kuntai Cai et.al.|[2503.22970](http://arxiv.org/abs/2503.22970)|null|
 |**2025-03-27**|**Adaptive Clipping for Privacy-Preserving Few-Shot Learning: Enhancing Generalization with Limited Data**|Kanishka Ranaweera et.al.|[2503.22749](http://arxiv.org/abs/2503.22749)|null|
 |**2025-03-28**|**Spend Your Budget Wisely: Towards an Intelligent Distribution of the Privacy Budget in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2503.22379](http://arxiv.org/abs/2503.22379)|**[link](https://github.com/sjmeis/EpsilonDistributor)**|
@@ -1121,13 +1121,13 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203](http://arxiv.org/abs/2503.24203)|null|
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
@@ -3910,7 +3910,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

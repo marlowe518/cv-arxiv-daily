@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -18,7 +18,7 @@ layout: default
 |**2025-03-31**|**Initial State Privacy of Nonlinear Systems on Riemannian Manifolds**|Le Liu et.al.|[2503.24089](http://arxiv.org/abs/2503.24089)|null|
 |**2025-03-31**|**Privacy Preservation for Statistical Input in Dynamical Systems**|Le Liu et.al.|[2503.23903](http://arxiv.org/abs/2503.23903)|null|
 |**2025-03-31**|**PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution**|Lina Wang et.al.|[2503.23726](http://arxiv.org/abs/2503.23726)|null|
-|**2025-03-29**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
+|**2025-04-01**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
 |**2025-03-29**|**PrivPetal: Relational Data Synthesis via Permutation Relations**|Kuntai Cai et.al.|[2503.22970](http://arxiv.org/abs/2503.22970)|null|
 |**2025-03-27**|**Adaptive Clipping for Privacy-Preserving Few-Shot Learning: Enhancing Generalization with Limited Data**|Kanishka Ranaweera et.al.|[2503.22749](http://arxiv.org/abs/2503.22749)|null|
 |**2025-03-28**|**Spend Your Budget Wisely: Towards an Intelligent Distribution of the Privacy Budget in Differentially Private Text Rewriting**|Stephen Meisenbacher et.al.|[2503.22379](http://arxiv.org/abs/2503.22379)|**[link](https://github.com/sjmeis/EpsilonDistributor)**|
@@ -1121,7 +1121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203](http://arxiv.org/abs/2503.24203)|null|
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
