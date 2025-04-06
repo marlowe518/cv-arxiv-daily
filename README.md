@@ -1153,7 +1153,7 @@
 |**2025-04-01**|**Efficient n-body simulations using physics informed graph neural networks**|Víctor Ramos-Osuna et.al.|[2504.01169](http://arxiv.org/abs/2504.01169)|null|
 |**2025-04-01**|**GKAN: Explainable Diagnosis of Alzheimer's Disease Using Graph Neural Network with Kolmogorov-Arnold Networks**|Tianqi Ding et.al.|[2504.00946](http://arxiv.org/abs/2504.00946)|null|
 |**2025-04-02**|**Adversarial Curriculum Graph-Free Knowledge Distillation for Graph Neural Networks**|Yuang Jia et.al.|[2504.00540](http://arxiv.org/abs/2504.00540)|null|
-|**2025-04-03**|**Output Prediction of Quantum Circuits based on Graph Neural Networks**|Yuxiang Liu et.al.|[2504.00464](http://arxiv.org/abs/2504.00464)|null|
+|**2025-04-03**|**Output Prediction of Quantum Circuits based on Graph Neural Networks**|Yuxiang Liu et.al.|[2504.00464](http://arxiv.org/abs/2504.00464)|**[link](https://github.com/quantum-and-ml/qaml)**|
 |**2025-04-02**|**Reducing Smoothness with Expressive Memory Enhanced Hierarchical Graph Neural Networks**|Thomas Bailie et.al.|[2504.00349](http://arxiv.org/abs/2504.00349)|null|
 |**2025-04-01**|**Simple yet Effective Node Property Prediction on Edge Streams under Distribution Shifts**|Jongha Lee et.al.|[2504.00328](http://arxiv.org/abs/2504.00328)|null|
 |**2025-03-31**|**Lorentzian Graph Isomorphic Network**|Srinitish Srinivasan et.al.|[2504.00142](http://arxiv.org/abs/2504.00142)|**[link](https://github.com/Deceptrax123/LGIN)**|
