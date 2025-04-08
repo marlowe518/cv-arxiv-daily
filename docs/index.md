@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Infinitely Divisible Noise for Differential Privacy: Nearly Optimal Error in the High $\varepsilon$ Regime**|Charlie Harrison et.al.|[2504.05202](http://arxiv.org/abs/2504.05202)|null|
+|**2025-04-07**|**Pr $εε$ mpt: Sanitizing Sensitive Prompts for LLMs**|Amrita Roy Chowdhury et.al.|[2504.05147](http://arxiv.org/abs/2504.05147)|null|
+|**2025-04-06**|**Binned Group Algebra Factorization for Differentially Private Continual Counting**|Monika Henzinger et.al.|[2504.04398](http://arxiv.org/abs/2504.04398)|null|
 |**2025-04-04**|**A Generalized Binary Tree Mechanism for Differentially Private Approximation of All-Pair Distances**|Michael Dinitz et.al.|[2504.03354](http://arxiv.org/abs/2504.03354)|null|
 |**2025-04-03**|**Improving Efficiency in Federated Learning with Optimized Homomorphic Encryption**|Feiran Yang et.al.|[2504.03002](http://arxiv.org/abs/2504.03002)|null|
 |**2025-04-02**|**On Model Protection in Federated Learning against Eavesdropping Attacks**|Dipankar Maity et.al.|[2504.02114](http://arxiv.org/abs/2504.02114)|null|
@@ -1131,6 +1134,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting**|Shuai Han et.al.|[2504.05140](http://arxiv.org/abs/2504.05140)|null|
+|**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030](http://arxiv.org/abs/2504.05030)|null|
+|**2025-04-07**|**Fine tuning generative adversarial networks with universal force fields: application to two-dimensional topological insulators**|Alexander C. Tyner et.al.|[2504.04940](http://arxiv.org/abs/2504.04940)|null|
+|**2025-04-07**|**Boosting Relational Deep Learning with Pretrained Tabular Models**|Veronica Lachi et.al.|[2504.04934](http://arxiv.org/abs/2504.04934)|null|
+|**2025-04-07**|**Attentional Graph Meta-Learning for Indoor Localization Using Extremely Sparse Fingerprints**|Wenzhong Yan et.al.|[2504.04829](http://arxiv.org/abs/2504.04829)|null|
+|**2025-04-07**|**Bidirectional Hierarchical Protein Multi-Modal Representation Learning**|Xuefeng Liu et.al.|[2504.04770](http://arxiv.org/abs/2504.04770)|null|
+|**2025-04-07**|**MedGNN: Capturing the Links Between Urban Characteristics and Medical Prescriptions**|Minwei Zhao et.al.|[2504.04739](http://arxiv.org/abs/2504.04739)|null|
+|**2025-04-07**|**Sparsity-Aware Communication for Distributed Graph Neural Network Training**|Ujjaini Mukhodopadhyay et.al.|[2504.04673](http://arxiv.org/abs/2504.04673)|null|
+|**2025-04-07**|**Scaling Graph Neural Networks for Particle Track Reconstruction**|Alok Tripathy et.al.|[2504.04670](http://arxiv.org/abs/2504.04670)|null|
+|**2025-04-05**|**PIORF: Physics-Informed Ollivier-Ricci Flow for Long-Range Interactions in Mesh Graph Neural Networks**|Youn-Yeol Yu et.al.|[2504.04052](http://arxiv.org/abs/2504.04052)|null|
+|**2025-04-04**|**TGraphX: Tensor-Aware Graph Neural Network for Multi-Dimensional Feature Learning**|Arash Sajjadi et.al.|[2504.03953](http://arxiv.org/abs/2504.03953)|**[link](https://github.com/arashsajjadi/TGraphX)**|
 |**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610](http://arxiv.org/abs/2504.03610)|null|
 |**2025-04-04**|**Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics**|Ivan Žugec et.al.|[2504.03521](http://arxiv.org/abs/2504.03521)|null|
 |**2025-04-04**|**Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks**|Alexander Mattick et.al.|[2504.03429](http://arxiv.org/abs/2504.03429)|null|
