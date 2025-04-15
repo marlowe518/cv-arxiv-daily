@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,14 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-11**|**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**|Georgi Ganev et.al.|[2504.08254](http://arxiv.org/abs/2504.08254)|null|
+|**2025-04-14**|**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**|Georgi Ganev et.al.|[2504.08254](http://arxiv.org/abs/2504.08254)|null|
 |**2025-04-10**|**Differentially Private Selection using Smooth Sensitivity**|Iago Chaves et.al.|[2504.08086](http://arxiv.org/abs/2504.08086)|null|
 |**2025-04-10**|**Privacy-Preserving Vertical K-Means Clustering**|Federico Mazzone et.al.|[2504.07578](http://arxiv.org/abs/2504.07578)|null|
 |**2025-04-11**|**Decomposition-Based Optimal Bounds for Privacy Amplification via Shuffling**|Pengcheng Su et.al.|[2504.07414](http://arxiv.org/abs/2504.07414)|null|
 |**2025-04-10**|**Multi-Selection for Recommendation Systems**|Sahasrajit Sarmasarkar et.al.|[2504.07403](http://arxiv.org/abs/2504.07403)|null|
 |**2025-04-10**|**Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation under Differential Privacy**|Takao Murakami et.al.|[2504.07362](http://arxiv.org/abs/2504.07362)|null|
 |**2025-04-09**|**Trustworthy AI Must Account for Intersectionality**|Jesse C. Cresswell et.al.|[2504.07170](http://arxiv.org/abs/2504.07170)|null|
-|**2025-04-09**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
+|**2025-04-14**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
 |**2025-04-08**|**Releasing Differentially Private Event Logs Using Generative Models**|Frederik Wangelik et.al.|[2504.06418](http://arxiv.org/abs/2504.06418)|null|
 |**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004](http://arxiv.org/abs/2504.06004)|null|
 |**2025-04-08**|**Technical Report: Full Version of Analyzing and Optimizing Perturbation of DP-SGD Geometrically**|Jiawei Duan et.al.|[2504.05618](http://arxiv.org/abs/2504.05618)|null|
@@ -1145,7 +1145,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -3997,7 +3997,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
