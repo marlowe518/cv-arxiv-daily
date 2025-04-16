@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Improving Statistical Privacy by Subsampling**|Dennis Breutigam et.al.|[2504.11429](http://arxiv.org/abs/2504.11429)|null|
+|**2025-04-15**|**Differentially Private Geodesic and Linear Regression**|Aditya Kulkarni et.al.|[2504.11304](http://arxiv.org/abs/2504.11304)|null|
+|**2025-04-15**|**Leveraging Vertical Public-Private Split for Improved Synthetic Data Generation**|Samuel Maddock et.al.|[2504.10987](http://arxiv.org/abs/2504.10987)|null|
+|**2025-04-13**|**Federated Learning with Layer Skipping: Efficient Training of Large Language Models for Healthcare NLP**|Lihong Zhang et.al.|[2504.10536](http://arxiv.org/abs/2504.10536)|null|
 |**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
 |**2025-04-14**|**Accelerating Differentially Private Federated Learning via Adaptive Extrapolation**|Shokichi Takakura et.al.|[2504.09850](http://arxiv.org/abs/2504.09850)|null|
 |**2025-04-12**|**Towards Optimal Differentially Private Regret Bounds in Linear MDPs**|Sharan Sahu et.al.|[2504.09339](http://arxiv.org/abs/2504.09339)|null|
@@ -1155,6 +1159,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Network Alignment**|Rui Tang et.al.|[2504.11367](http://arxiv.org/abs/2504.11367)|null|
+|**2025-04-15**|**Accurate Machine Learning Interatomic Potentials for Polyacene Molecular Crystals: Application to Single Molecule Host-Guest Systems**|Burak Gurlek et.al.|[2504.11224](http://arxiv.org/abs/2504.11224)|null|
+|**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
+|**2025-04-15**|**AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification**|Maximilian G. Schuh et.al.|[2504.11091](http://arxiv.org/abs/2504.11091)|null|
+|**2025-04-15**|**Why am I seeing this? Towards recognizing social media recommender systems with missing recommendations**|Sabrina Guidotti et.al.|[2504.11000](http://arxiv.org/abs/2504.11000)|null|
+|**2025-04-15**|**Transfer Learning for Temporal Link Prediction**|Ayan Chatterjee et.al.|[2504.10925](http://arxiv.org/abs/2504.10925)|null|
+|**2025-04-15**|**Towards A Universal Graph Structural Encoder**|Jialin Chen et.al.|[2504.10917](http://arxiv.org/abs/2504.10917)|null|
+|**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et.al.|[2504.10700](http://arxiv.org/abs/2504.10700)|null|
+|**2025-04-14**|**MatterTune: An Integrated, User-Friendly Platform for Fine-Tuning Atomistic Foundation Models to Accelerate Materials Simulation and Discovery**|Lingyu Kong et.al.|[2504.10655](http://arxiv.org/abs/2504.10655)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**AI-Driven Code Refactoring: Using Graph Neural Networks to Enhance Software Maintainability**|Gopichand Bandarupalli et.al.|[2504.10412](http://arxiv.org/abs/2504.10412)|null|
 |**2025-04-14**|**GNN-ACLP: Graph Neural Networks based Analog Circuit Link Prediction**|Guanyuan Pan et.al.|[2504.10240](http://arxiv.org/abs/2504.10240)|null|
