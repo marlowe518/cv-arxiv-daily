@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-16**|**Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification**|Yue Li et.al.|[2504.11793](http://arxiv.org/abs/2504.11793)|null|
+|**2025-04-17**|**Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification**|Yue Li et.al.|[2504.11793](http://arxiv.org/abs/2504.11793)|null|
 |**2025-04-15**|**RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems**|Xiaohua Feng et.al.|[2504.11510](http://arxiv.org/abs/2504.11510)|null|
 |**2025-04-15**|**Improving Statistical Privacy by Subsampling**|Dennis Breutigam et.al.|[2504.11429](http://arxiv.org/abs/2504.11429)|null|
 |**2025-04-15**|**Differentially Private Geodesic and Linear Regression**|Aditya Kulkarni et.al.|[2504.11304](http://arxiv.org/abs/2504.11304)|null|
@@ -1155,7 +1155,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1173,7 +1173,7 @@
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
 |**2025-04-15**|**AI-guided Antibiotic Discovery Pipeline from Target Selection to Compound Identification**|Maximilian G. Schuh et.al.|[2504.11091](http://arxiv.org/abs/2504.11091)|null|
 |**2025-04-15**|**Why am I seeing this? Towards recognizing social media recommender systems with missing recommendations**|Sabrina Guidotti et.al.|[2504.11000](http://arxiv.org/abs/2504.11000)|null|
-|**2025-04-15**|**Transfer Learning for Temporal Link Prediction**|Ayan Chatterjee et.al.|[2504.10925](http://arxiv.org/abs/2504.10925)|**[link](https://github.com/google-research/google-research/tree/master/fm4tlp)**|
+|**2025-04-17**|**Transfer Learning for Temporal Link Prediction**|Ayan Chatterjee et.al.|[2504.10925](http://arxiv.org/abs/2504.10925)|**[link](https://github.com/google-research/google-research/tree/master/fm4tlp)**|
 |**2025-04-15**|**Towards A Universal Graph Structural Encoder**|Jialin Chen et.al.|[2504.10917](http://arxiv.org/abs/2504.10917)|null|
 |**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et.al.|[2504.10700](http://arxiv.org/abs/2504.10700)|null|
 |**2025-04-14**|**MatterTune: An Integrated, User-Friendly Platform for Fine-Tuning Atomistic Foundation Models to Accelerate Materials Simulation and Discovery**|Lingyu Kong et.al.|[2504.10655](http://arxiv.org/abs/2504.10655)|null|
@@ -4033,7 +4033,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
