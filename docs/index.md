@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Interpreting Network Differential Privacy**|Jonathan Hehir et.al.|[2504.12520](http://arxiv.org/abs/2504.12520)|null|
 |**2025-04-17**|**Selective Attention Federated Learning: Improving Privacy and Efficiency for Clinical Text Classification**|Yue Li et.al.|[2504.11793](http://arxiv.org/abs/2504.11793)|null|
 |**2025-04-15**|**RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems**|Xiaohua Feng et.al.|[2504.11510](http://arxiv.org/abs/2504.11510)|null|
 |**2025-04-15**|**Improving Statistical Privacy by Subsampling**|Dennis Breutigam et.al.|[2504.11429](http://arxiv.org/abs/2504.11429)|null|
@@ -1155,6 +1156,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
+|**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817](http://arxiv.org/abs/2504.12817)|null|
+|**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627](http://arxiv.org/abs/2504.12627)|null|
+|**2025-04-16**|**Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex**|Azadeh Beiranvand et.al.|[2504.12474](http://arxiv.org/abs/2504.12474)|null|
 |**2025-04-16**|**Balancing Graph Embedding Smoothness in Self-Supervised Learning via Information-Theoretic Decomposition**|Heesoo Jung et.al.|[2504.12011](http://arxiv.org/abs/2504.12011)|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907](http://arxiv.org/abs/2504.11907)|null|
 |**2025-04-16**|**HyperSAT: Unsupervised Hypergraph Neural Networks for Weighted MaxSAT Problems**|Qiyue Chen et.al.|[2504.11885](http://arxiv.org/abs/2504.11885)|null|
