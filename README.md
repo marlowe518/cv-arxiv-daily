@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**A Refreshment Stirred, Not Shaken (III): Can Swapping Be Differentially Private?**|James Bailie et.al.|[2504.15246](http://arxiv.org/abs/2504.15246)|null|
+|**2025-04-21**|**Dual Utilization of Perturbation for Stream Data Publication under Local Differential Privacy**|Rong Du et.al.|[2504.14993](http://arxiv.org/abs/2504.14993)|null|
+|**2025-04-20**|**Optimal Additive Noise Mechanisms for Differential Privacy**|Atefeh Gilani et.al.|[2504.14730](http://arxiv.org/abs/2504.14730)|null|
+|**2025-04-20**|**Reveal-or-Obscure: A Differentially Private Sampling Algorithm for Discrete Distributions**|Naima Tasnim et.al.|[2504.14696](http://arxiv.org/abs/2504.14696)|null|
+|**2025-04-19**|**Do You Really Need Public Data? Surrogate Public Data for Differential Privacy on Tabular Data**|Shlomi Hod et.al.|[2504.14368](http://arxiv.org/abs/2504.14368)|null|
+|**2025-04-18**|**Benchmarking Differentially Private Tabular Data Synthesis**|Kai Chen et.al.|[2504.14061](http://arxiv.org/abs/2504.14061)|null|
 |**2025-04-18**|**Near-optimal algorithms for private estimation and sequential testing of collision probability**|Robert Busa-Fekete et.al.|[2504.13804](http://arxiv.org/abs/2504.13804)|null|
 |**2025-04-18**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526](http://arxiv.org/abs/2504.13526)|null|
 |**2025-04-16**|**Interpreting Network Differential Privacy**|Jonathan Hehir et.al.|[2504.12520](http://arxiv.org/abs/2504.12520)|null|
@@ -1164,6 +1170,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
+|**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
+|**2025-04-21**|**Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis**|Yulong Li et.al.|[2504.15072](http://arxiv.org/abs/2504.15072)|null|
+|**2025-04-21**|**Edge-boosted graph learning for functional brain connectivity analysis**|David Yang et.al.|[2504.14796](http://arxiv.org/abs/2504.14796)|null|
+|**2025-04-20**|**Uncovering Issues in the Radio Access Network by Looking at the Neighbors**|José Suárez-Varela et.al.|[2504.14686](http://arxiv.org/abs/2504.14686)|null|
+|**2025-04-20**|**LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method**|Yue Li et.al.|[2504.14494](http://arxiv.org/abs/2504.14494)|null|
+|**2025-04-20**|**Beamforming Design and Association Scheme for Multi-RIS Multi-User mmWave Systems Through Graph Neural Networks**|Mengbing Liu et.al.|[2504.14464](http://arxiv.org/abs/2504.14464)|null|
+|**2025-04-19**|**Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction**|Till Rossner et.al.|[2504.14361](http://arxiv.org/abs/2504.14361)|null|
+|**2025-04-19**|**CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective**|Ze Zhao et.al.|[2504.14282](http://arxiv.org/abs/2504.14282)|null|
+|**2025-04-19**|**Dual-channel Heterophilic Message Passing for Graph Fraud Detection**|Wenxin Zhang et.al.|[2504.14205](http://arxiv.org/abs/2504.14205)|null|
+|**2025-04-18**|**Deep Learning on Graphs for Mobile Network Topology Generation**|Felix Nannesson Meli et.al.|[2504.13991](http://arxiv.org/abs/2504.13991)|null|
 |**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786](http://arxiv.org/abs/2504.13786)|null|
 |**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
 |**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|**[link](https://github.com/zahraakhlaghi/alda4rec)**|
