@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
+|**2025-04-24**|**From Randomized Response to Randomized Index: Answering Subset Counting Queries with Local Differential Privacy**|Qingqing Ye et.al.|[2504.17523](http://arxiv.org/abs/2504.17523)|null|
+|**2025-04-24**|**Signal Recovery from Random Dot-Product Graphs Under Local Differential Privacy**|Siddharth Vishwanath et.al.|[2504.17274](http://arxiv.org/abs/2504.17274)|null|
 |**2025-04-23**|**MCMC for Bayesian estimation of Differential Privacy from Membership Inference Attacks**|Ceren Yildirim et.al.|[2504.16683](http://arxiv.org/abs/2504.16683)|null|
 |**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438](http://arxiv.org/abs/2504.16438)|null|
 |**2025-04-23**|**The Safety-Privacy Tradeoff in Linear Bandits**|Arghavan Zibaie et.al.|[2504.16371](http://arxiv.org/abs/2504.16371)|null|
@@ -1177,6 +1180,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction**|Steven E. Wilson et.al.|[2504.17749](http://arxiv.org/abs/2504.17749)|null|
+|**2025-04-24**|**Prototype-enhanced prediction in graph neural networks for climate applications**|Nawid Keshtmand et.al.|[2504.17492](http://arxiv.org/abs/2504.17492)|null|
+|**2025-04-24**|**HeRB: Heterophily-Resolved Structure Balancer for Graph Neural Networks**|Ke-Jia Chen et.al.|[2504.17276](http://arxiv.org/abs/2504.17276)|null|
+|**2025-04-23**|**Discovering the Precursors of Traffic Breakdowns Using Spatiotemporal Graph Attribution Networks**|Zhaobin Mo et.al.|[2504.17109](http://arxiv.org/abs/2504.17109)|null|
 |**2025-04-23**|**WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks**|Younggeol Cho et.al.|[2504.16655](http://arxiv.org/abs/2504.16655)|null|
 |**2025-04-23**|**Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks**|Mao Wang et.al.|[2504.16360](http://arxiv.org/abs/2504.16360)|null|
 |**2025-04-22**|**On the Consistency of GNN Explanations for Malware Detection**|Hossein Shokouhinejad et.al.|[2504.16316](http://arxiv.org/abs/2504.16316)|null|
