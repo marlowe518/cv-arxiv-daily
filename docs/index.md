@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-26**|**Differentially Private Quasi-Concave Optimization: Bypassing the Lower Bound and Application to Geometric Problems**|Kobbi Nissim et.al.|[2504.19001](http://arxiv.org/abs/2504.19001)|null|
+|**2025-04-26**|**Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving**|Gharbi Khamis Alshammari et.al.|[2504.18939](http://arxiv.org/abs/2504.18939)|null|
+|**2025-04-24**|**Optimizing the Privacy-Utility Balance using Synthetic Data and Configurable Perturbation Pipelines**|Anantha Sharma et.al.|[2504.18596](http://arxiv.org/abs/2504.18596)|null|
+|**2025-04-23**|**Enhancing Privacy in Semantic Communication over Wiretap Channels leveraging Differential Privacy**|Weixuan Chen et.al.|[2504.18581](http://arxiv.org/abs/2504.18581)|null|
 |**2025-04-25**|**Heavy-Tailed Privacy: The Symmetric alpha-Stable Privacy Mechanism**|Christopher C. Zawacki et.al.|[2504.18411](http://arxiv.org/abs/2504.18411)|null|
 |**2025-04-25**|**NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation**|Rob Romijnders et.al.|[2504.18147](http://arxiv.org/abs/2504.18147)|null|
 |**2025-04-25**|**Differential Privacy-Driven Framework for Enhancing Heart Disease Prediction**|Yazan Otoum et.al.|[2504.18007](http://arxiv.org/abs/2504.18007)|null|
@@ -1177,6 +1181,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987](http://arxiv.org/abs/2504.19987)|null|
+|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
+|**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785](http://arxiv.org/abs/2504.19785)|null|
+|**2025-04-28**|**Learning Efficiency Meets Symmetry Breaking**|Yingbin Bai et.al.|[2504.19738](http://arxiv.org/abs/2504.19738)|null|
+|**2025-04-28**|**Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification**|Nikolaos Chaidos et.al.|[2504.19682](http://arxiv.org/abs/2504.19682)|null|
+|**2025-04-28**|**Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models**|Lei Xu et.al.|[2504.19649](http://arxiv.org/abs/2504.19649)|null|
+|**2025-04-28**|**A Universal Spin-Orbit-Coupled Hamiltonian Model for Accelerated Quantum Material Discovery**|Yang Zhong et.al.|[2504.19586](http://arxiv.org/abs/2504.19586)|null|
+|**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
+|**2025-04-26**|**HeartSimSage: Attention-Enhanced Graph Neural Networks for Accelerating Cardiac Mechanics Modeling**|Lei Shi et.al.|[2504.18968](http://arxiv.org/abs/2504.18968)|null|
+|**2025-04-26**|**Kinship Verification through a Forest Neural Network**|Ali Nazari et.al.|[2504.18910](http://arxiv.org/abs/2504.18910)|null|
+|**2025-04-26**|**High-order Graph Neural Networks with Common Neighbor Awareness for Link Prediction**|Ling Wang et.al.|[2504.18758](http://arxiv.org/abs/2504.18758)|null|
+|**2025-04-25**|**Explainable Deep-Learning Based Potentially Hazardous Asteroids Classification Using Graph Neural Networks**|Baimam Boukar Jean Jacques et.al.|[2504.18605](http://arxiv.org/abs/2504.18605)|**[link](https://github.com/baimamboukar/hazardous-asteroid-classification)**|
 |**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353](http://arxiv.org/abs/2504.18353)|null|
 |**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273](http://arxiv.org/abs/2504.18273)|null|
 |**2025-04-25**|**Efficient GNN Training Through Structure-Aware Randomized Mini-Batching**|Vignesh Balaji et.al.|[2504.18082](http://arxiv.org/abs/2504.18082)|null|
