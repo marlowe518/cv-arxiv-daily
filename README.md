@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-30**|**An Inversion Theorem for Buffered Linear Toeplitz (BLT) Matrices and Applications to Streaming Differential Privacy**|H. Brendan McMahan et.al.|[2504.21413](http://arxiv.org/abs/2504.21413)|null|
 |**2025-04-30**|**Participatory AI, Public Sector AI, Differential Privacy, Conversational Interfaces, Explainable AI, Citizen Engagement in AI**|Wenjun Yang et.al.|[2504.21297](http://arxiv.org/abs/2504.21297)|null|
 |**2025-04-29**|**Differentially Private Secure Multiplication with Erasures and Adversaries**|Haoyang Hu et.al.|[2504.21178](http://arxiv.org/abs/2504.21178)|null|
-|**2025-04-28**|**Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?**|Hao Du et.al.|[2504.21036](http://arxiv.org/abs/2504.21036)|null|
+|**2025-05-01**|**Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?**|Hao Du et.al.|[2504.21036](http://arxiv.org/abs/2504.21036)|null|
 |**2025-04-28**|**A False Sense of Privacy: Evaluating Textual Data Sanitization Beyond Surface-level Privacy Leakage**|Rui Xin et.al.|[2504.21035](http://arxiv.org/abs/2504.21035)|null|
 |**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
 |**2025-04-29**|**Bipartite Randomized Response Mechanism for Local Differential Privacy**|Shun Zhang et.al.|[2504.20926](http://arxiv.org/abs/2504.20926)|null|
@@ -1194,7 +1194,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4143,7 +4143,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
