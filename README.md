@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Fine-grained Manipulation Attacks to Local Differential Privacy Protocols for Data Streams**|Xinyu Li et.al.|[2505.01292](http://arxiv.org/abs/2505.01292)|null|
+|**2025-05-02**|**PHSafe: Disclosure Avoidance for the 2020 Census Supplemental Demographic and Housing Characteristics File (S-DHC)**|William Sexton et.al.|[2505.01254](http://arxiv.org/abs/2505.01254)|null|
+|**2025-05-02**|**Gaussian Differential Private Bootstrap by Subsampling**|Holger Dette et.al.|[2505.01197](http://arxiv.org/abs/2505.01197)|null|
+|**2025-05-01**|**Particle Filter for Bayesian Inference on Privatized Data**|Yu-Wei Chen et.al.|[2505.00877](http://arxiv.org/abs/2505.00877)|null|
 |**2025-05-01**|**SOMA: a novel sampler for exchangeable variables**|Yifei Xiong et.al.|[2505.00635](http://arxiv.org/abs/2505.00635)|null|
 |**2025-04-30**|**On the Space Complexity of Online Convolution**|Joel Daniel Andersson et.al.|[2505.00181](http://arxiv.org/abs/2505.00181)|null|
 |**2025-04-30**|**VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**|Haochen Sun et.al.|[2504.21752](http://arxiv.org/abs/2504.21752)|null|
@@ -1202,6 +1206,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
+|**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993](http://arxiv.org/abs/2505.00993)|null|
+|**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|null|
 |**2025-05-02**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
 |**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562](http://arxiv.org/abs/2505.00562)|null|
 |**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402](http://arxiv.org/abs/2505.00402)|null|
