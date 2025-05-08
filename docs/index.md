@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -1207,18 +1207,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|null|
+|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|**[link](https://github.com/ispras/gnn-aid)**|
 |**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311](http://arxiv.org/abs/2505.03311)|null|
 |**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
 |**2025-05-06**|**HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments**|Evangelos Psomiadis et.al.|[2505.03128](http://arxiv.org/abs/2505.03128)|null|
 |**2025-05-06**|**STG: Spatiotemporal Graph Neural Network with Fusion and Spatiotemporal Decoupling Learning for Prognostic Prediction of Colorectal Cancer Liver Metastasis**|Yiran Zhu et.al.|[2505.03123](http://arxiv.org/abs/2505.03123)|null|
-|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|**[link](https://github.com/jakub-zarzycki2022/gattaca)**|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Rethinking Federated Graph Learning: A Data Condensation Perspective**|Hao Zhang et.al.|[2505.02573](http://arxiv.org/abs/2505.02573)|null|
 |**2025-05-05**|**Robustness questions the interpretability of graph neural networks: what to do?**|Kirill Lukyanov et.al.|[2505.02566](http://arxiv.org/abs/2505.02566)|null|
 |**2025-05-05**|**Machine-learning interatomic potentials from a users perspective: A comparison of accuracy, speed and data efficiency**|Niklas Leimeroth et.al.|[2505.02503](http://arxiv.org/abs/2505.02503)|null|
-|**2025-05-04**|**RISE: Radius of Influence based Subgraph Extraction for 3D Molecular Graph Explanation**|Jingxiang Qu et.al.|[2505.02247](http://arxiv.org/abs/2505.02247)|null|
-|**2025-05-04**|**Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data**|Zhong Guan et.al.|[2505.02130](http://arxiv.org/abs/2505.02130)|null|
+|**2025-05-04**|**RISE: Radius of Influence based Subgraph Extraction for 3D Molecular Graph Explanation**|Jingxiang Qu et.al.|[2505.02247](http://arxiv.org/abs/2505.02247)|**[link](https://github.com/qujx/rise)**|
+|**2025-05-04**|**Attention Mechanisms Perspective: Exploring LLM Processing of Graph-Structured Data**|Zhong Guan et.al.|[2505.02130](http://arxiv.org/abs/2505.02130)|**[link](https://github.com/millioniron/llm_exploration)**|
 |**2025-05-04**|**TeMTG: Text-Enhanced Multi-Hop Temporal Graph Modeling for Audio-Visual Video Parsing**|Yaru Chen et.al.|[2505.02096](http://arxiv.org/abs/2505.02096)|null|
 |**2025-05-03**|**From Players to Champions: A Generalizable Machine Learning Approach for Match Outcome Prediction with Insights from the FIFA World Cup**|Ali Al-Bustami et.al.|[2505.01902](http://arxiv.org/abs/2505.01902)|null|
 |**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
