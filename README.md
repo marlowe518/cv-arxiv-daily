@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Spectral and Temporal Denoising for Differentially Private Optimization**|Hyeju Shin et.al.|[2505.04468](http://arxiv.org/abs/2505.04468)|null|
+|**2025-05-07**|**Privacy Challenges In Image Processing Applications**|Maneesha et.al.|[2505.04181](http://arxiv.org/abs/2505.04181)|null|
+|**2025-05-06**|**Differentially Private Densest- $k$ -Subgraph**|Alireza Khayatian et.al.|[2505.03858](http://arxiv.org/abs/2505.03858)|null|
 |**2025-05-06**|**Differential Privacy for Network Assortativity**|Fei Ma et.al.|[2505.03639](http://arxiv.org/abs/2505.03639)|null|
 |**2025-05-02**|**SafeTab-H: Disclosure Avoidance for the 2020 Census Detailed Demographic and Housing Characteristics File B (Detailed DHC-B)**|William Sexton et.al.|[2505.03072](http://arxiv.org/abs/2505.03072)|null|
 |**2025-05-05**|**Unifying Laplace Mechanism with Instance Optimality in Differential Privacy**|David Durfee et.al.|[2505.02798](http://arxiv.org/abs/2505.02798)|null|
@@ -1213,6 +1216,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Multi-Granular Attention based Heterogeneous Hypergraph Neural Network**|Hong Jin et.al.|[2505.04340](http://arxiv.org/abs/2505.04340)|null|
+|**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083](http://arxiv.org/abs/2505.04083)|null|
+|**2025-05-06**|**Modal Decomposition and Identification for a Population of Structures Using Physics-Informed Graph Neural Networks and Transformers**|Xudong Jian et.al.|[2505.04018](http://arxiv.org/abs/2505.04018)|null|
+|**2025-05-06**|**Decentralized Distributed Proximal Policy Optimization (DD-PPO) for High Performance Computing Scheduling on Multi-User Systems**|Matthew Sgambati et.al.|[2505.03946](http://arxiv.org/abs/2505.03946)|null|
+|**2025-05-06**|**GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype**|Changxi Chi et.al.|[2505.03853](http://arxiv.org/abs/2505.03853)|null|
+|**2025-05-03**|**Sentiment-Aware Recommendation Systems in E-Commerce: A Review from a Natural Language Processing Perspective**|Yogesh Gajula et.al.|[2505.03828](http://arxiv.org/abs/2505.03828)|null|
 |**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|**[link](https://github.com/ispras/gnn-aid)**|
 |**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311](http://arxiv.org/abs/2505.03311)|null|
 |**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
