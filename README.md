@@ -18,6 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy**|Haoqi Wu et.al.|[2505.05922](http://arxiv.org/abs/2505.05922)|null|
+|**2025-05-09**|**Enhancing Noisy Functional Encryption for Privacy-Preserving Machine Learning**|Linda Scheu-Hachtel et.al.|[2505.05843](http://arxiv.org/abs/2505.05843)|null|
+|**2025-05-09**|**On the Price of Differential Privacy for Spectral Clustering over Stochastic Block Models**|Antti Koskela et.al.|[2505.05816](http://arxiv.org/abs/2505.05816)|null|
+|**2025-05-09**|**Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security**|Yiwei Zhang et.al.|[2505.05751](http://arxiv.org/abs/2505.05751)|null|
+|**2025-05-09**|**Crowding Out The Noise: Algorithmic Collective Action Under Differential Privacy**|Rushabh Solanki et.al.|[2505.05707](http://arxiv.org/abs/2505.05707)|null|
+|**2025-05-08**|**Privacy-Preserving Transformers: SwiftKey's Differential Privacy Implementation**|Abdelrahman Abouelenin et.al.|[2505.05648](http://arxiv.org/abs/2505.05648)|null|
+|**2025-05-08**|**Optimal Regret of Bernoulli Bandits under Global Differential Privacy**|Achraf Azize et.al.|[2505.05613](http://arxiv.org/abs/2505.05613)|null|
+|**2025-05-08**|**Real-Time Privacy Preservation for Robot Visual Perception**|Minkyu Choi et.al.|[2505.05519](http://arxiv.org/abs/2505.05519)|null|
 |**2025-05-08**|**InfTDA: A Simple TopDown Mechanism for Hierarchical Differentially Private Counting Queries**|Fabrizio Boninsegna et.al.|[2505.05347](http://arxiv.org/abs/2505.05347)|null|
 |**2025-05-08**|**FedRE: Robust and Effective Federated Learning with Privacy Preference**|Tianzhe Xiao et.al.|[2505.04889](http://arxiv.org/abs/2505.04889)|null|
 |**2025-05-07**|**Spectral and Temporal Denoising for Differentially Private Optimization**|Hyeju Shin et.al.|[2505.04468](http://arxiv.org/abs/2505.04468)|null|
@@ -1218,6 +1226,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785](http://arxiv.org/abs/2505.05785)|null|
+|**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652](http://arxiv.org/abs/2505.05652)|null|
 |**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123](http://arxiv.org/abs/2505.05123)|null|
 |**2025-05-08**|**Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks**|Zhifeng Hu et.al.|[2505.04981](http://arxiv.org/abs/2505.04981)|null|
 |**2025-05-08**|**Physics-Assisted and Topology-Informed Deep Learning for Weather Prediction**|Jiaqi Zheng et.al.|[2505.04918](http://arxiv.org/abs/2505.04918)|**[link](https://github.com/yumenomae/passat_5p625)**|
