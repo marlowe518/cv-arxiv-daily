@@ -18,6 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Enhancing Accuracy in Differentially Private Distributed Optimization Through Sensitivity Reduction**|Furan Xie et.al.|[2505.07482](http://arxiv.org/abs/2505.07482)|null|
+|**2025-05-11**|**Empirical Analysis of Asynchronous Federated Learning on Heterogeneous Devices: Efficiency, Fairness, and Privacy Trade-offs**|Samaneh Mohammadi et.al.|[2505.07041](http://arxiv.org/abs/2505.07041)|null|
+|**2025-05-10**|**DPolicy: Managing Privacy Risks Across Multiple Releases with Differential Privacy**|Nicolas Küchler et.al.|[2505.06747](http://arxiv.org/abs/2505.06747)|null|
+|**2025-05-10**|**Dyn-D $^2$ P: Dynamic Differentially Private Decentralized Learning with Provable Utility Guarantee**|Zehan Zhu et.al.|[2505.06651](http://arxiv.org/abs/2505.06651)|null|
+|**2025-05-10**|**An \tilde{O}ptimal Differentially Private Learner for Concept Classes with VC Dimension 1**|Chao Yan et.al.|[2505.06581](http://arxiv.org/abs/2505.06581)|null|
+|**2025-05-09**|**RiM: Record, Improve and Maintain Physical Well-being using Federated Learning**|Aditya Mishra et.al.|[2505.06384](http://arxiv.org/abs/2505.06384)|null|
+|**2025-05-08**|**User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data**|Haowei Yang et.al.|[2505.06305](http://arxiv.org/abs/2505.06305)|null|
 |**2025-05-09**|**CAPE: Context-Aware Prompt Perturbation Mechanism with Differential Privacy**|Haoqi Wu et.al.|[2505.05922](http://arxiv.org/abs/2505.05922)|null|
 |**2025-05-09**|**Enhancing Noisy Functional Encryption for Privacy-Preserving Machine Learning**|Linda Scheu-Hachtel et.al.|[2505.05843](http://arxiv.org/abs/2505.05843)|null|
 |**2025-05-09**|**On the Price of Differential Privacy for Spectral Clustering over Stochastic Block Models**|Antti Koskela et.al.|[2505.05816](http://arxiv.org/abs/2505.05816)|null|
@@ -1226,6 +1233,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**A class of distributed automata that contains the modal mu-fragment**|Veeti Ahvonen et.al.|[2505.07816](http://arxiv.org/abs/2505.07816)|null|
+|**2025-05-12**|**Tagging fully hadronic exotic decays of the vectorlike $\mathbf{B}$ quark using a graph neural network**|Jai Bardhan et.al.|[2505.07769](http://arxiv.org/abs/2505.07769)|null|
+|**2025-05-12**|**Generating Skyline Explanations for Graph Neural Networks**|Dazhuo Qiu et.al.|[2505.07635](http://arxiv.org/abs/2505.07635)|null|
+|**2025-05-12**|**Wireless Link Scheduling with State-Augmented Graph Neural Networks**|Romina Garcia Camargo et.al.|[2505.07598](http://arxiv.org/abs/2505.07598)|null|
+|**2025-05-12**|**Integrating Machine Learning with Triboelectric Nanogenerators: Optimizing Electrode Materials and Doping Strategies for Intelligent Energy Harves**|Guanping Xu et.al.|[2505.07414](http://arxiv.org/abs/2505.07414)|null|
+|**2025-05-12**|**HAMLET: Healthcare-focused Adaptive Multilingual Learning Embedding-based Topic Modeling**|Hajar Sakai et.al.|[2505.07157](http://arxiv.org/abs/2505.07157)|null|
+|**2025-05-11**|**COMRECGC: Global Graph Counterfactual Explainer through Common Recourse**|Gregoire Fournier et.al.|[2505.07081](http://arxiv.org/abs/2505.07081)|null|
+|**2025-05-11**|**NetSight: Graph Attention Based Traffic Forecasting in Computer Networks**|Jinming Xing et.al.|[2505.07034](http://arxiv.org/abs/2505.07034)|null|
+|**2025-05-11**|**QSeer: A Quantum-Inspired Graph Neural Network for Parameter Initialization in Quantum Approximate Optimization Algorithm Circuits**|Lei Jiang et.al.|[2505.06810](http://arxiv.org/abs/2505.06810)|null|
+|**2025-05-10**|**Learning Graph Representation of Agent Diffuser**|Youcef Djenouri et.al.|[2505.06761](http://arxiv.org/abs/2505.06761)|**[link](https://github.com/yousia/lgr_ad)**|
+|**2025-05-09**|**Reconstructing Brain Causal Dynamics for Subject and Task Fingerprints using fMRI Time-series Data**|Dachuan Song et.al.|[2505.06392](http://arxiv.org/abs/2505.06392)|null|
+|**2025-05-09**|**Learn to Think: Bootstrapping LLM Reasoning Capability Through Graph Learning**|Hang Gao et.al.|[2505.06321](http://arxiv.org/abs/2505.06321)|**[link](https://github.com/zch65458525/l2t)**|
+|**2025-05-08**|**GraphComp: Extreme Error-bounded Compression of Scientific Data via Temporal Graph Autoencoders**|Guozhong Li et.al.|[2505.06316](http://arxiv.org/abs/2505.06316)|null|
+|**2025-05-08**|**Domain-Adversarial Anatomical Graph Networks for Cross-User Human Activity Recognition**|Xiaozhou Ye et.al.|[2505.06301](http://arxiv.org/abs/2505.06301)|null|
 |**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785](http://arxiv.org/abs/2505.05785)|null|
 |**2025-05-08**|**Fast and Fourier Features for Transfer Learning of Interatomic Potentials**|Pietro Novelli et.al.|[2505.05652](http://arxiv.org/abs/2505.05652)|null|
 |**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123](http://arxiv.org/abs/2505.05123)|null|
