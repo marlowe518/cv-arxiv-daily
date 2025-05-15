@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Towards Efficient Verification of Parallel Applications with Mc SimGrid**|Matthieu Laurent et.al.|[2505.09209](http://arxiv.org/abs/2505.09209)|null|
+|**2025-05-13**|**Improved Algorithms for Differentially Private Language Model Alignment**|Keyu Chen et.al.|[2505.08849](http://arxiv.org/abs/2505.08849)|null|
+|**2025-05-13**|**On the interplay of Explainability, Privacy and Predictive Performance with Explanation-assisted Model Extraction**|Fatima Ezzeddine et.al.|[2505.08847](http://arxiv.org/abs/2505.08847)|null|
 |**2025-05-13**|**Privacy-Preserving Analytics for Smart Meter (AMI) Data: A Hybrid Approach to Comply with CPUC Privacy Regulations**|Benjamin Westrich et.al.|[2505.08237](http://arxiv.org/abs/2505.08237)|null|
 |**2025-05-13**|**Online differentially private inference in stochastic gradient descent**|Jinhan Xie et.al.|[2505.08227](http://arxiv.org/abs/2505.08227)|null|
 |**2025-05-13**|**Mirror Mirror on the Wall, Have I Forgotten it All? A New Framework for Evaluating Machine Unlearning**|Brennon Brimhall et.al.|[2505.08138](http://arxiv.org/abs/2505.08138)|null|
@@ -1236,6 +1239,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
+|**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
+|**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
+|**2025-05-14**|**WSCIF: A Weakly-Supervised Color Intelligence Framework for Tactical Anomaly Detection in Surveillance Keyframes**|Wei Meng et.al.|[2505.09129](http://arxiv.org/abs/2505.09129)|null|
 |**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788](http://arxiv.org/abs/2505.08788)|null|
 |**2025-05-14**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|**[link](https://github.com/vpsg-research/waveguard)**|
 |**2025-05-13**|**SAR-GTR: Attributed Scattering Information Guided SAR Graph Transformer Recognition Algorithm**|Xuying Xiong et.al.|[2505.08547](http://arxiv.org/abs/2505.08547)|null|
