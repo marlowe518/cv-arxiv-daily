@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1230,16 +1230,16 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788](http://arxiv.org/abs/2505.08788)|null|
-|**2025-05-13**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|null|
+|**2025-05-14**|**WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks**|Ziyuan He et.al.|[2505.08614](http://arxiv.org/abs/2505.08614)|**[link](https://github.com/vpsg-research/waveguard)**|
 |**2025-05-13**|**SAR-GTR: Attributed Scattering Information Guided SAR Graph Transformer Recognition Algorithm**|Xuying Xiong et.al.|[2505.08547](http://arxiv.org/abs/2505.08547)|null|
-|**2025-05-13**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
+|**2025-05-14**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
 |**2025-05-13**|**Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction**|Yanbin Wei et.al.|[2505.08266](http://arxiv.org/abs/2505.08266)|null|
 |**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
 |**2025-05-13**|**$\mathcal{H}$ -HIGNN: A Scalable Graph Neural Network Framework with Hierarchical Matrix Acceleration for Simulation of Large-Scale Particulate Suspensions**|Zhan Ma et.al.|[2505.08174](http://arxiv.org/abs/2505.08174)|null|
@@ -4243,7 +4243,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
