@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
+|**2025-05-15**|**Locally Differentially Private Frequency Estimation via Joint Randomized Response**|Ye Zheng et.al.|[2505.10349](http://arxiv.org/abs/2505.10349)|**[link](https://github.com/ZhengYeah/JRR)**|
 |**2025-05-14**|**Towards Efficient Verification of Parallel Applications with Mc SimGrid**|Matthieu Laurent et.al.|[2505.09209](http://arxiv.org/abs/2505.09209)|null|
 |**2025-05-13**|**Improved Algorithms for Differentially Private Language Model Alignment**|Keyu Chen et.al.|[2505.08849](http://arxiv.org/abs/2505.08849)|null|
 |**2025-05-13**|**On the interplay of Explainability, Privacy and Predictive Performance with Explanation-assisted Model Extraction**|Fatima Ezzeddine et.al.|[2505.08847](http://arxiv.org/abs/2505.08847)|null|
@@ -1239,6 +1241,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
+|**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
+|**2025-05-15**|**Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2505.10040](http://arxiv.org/abs/2505.10040)|null|
+|**2025-05-13**|**Next Word Suggestion using Graph Neural Network**|Abisha Thapa Magar et.al.|[2505.09649](http://arxiv.org/abs/2505.09649)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
 |**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
 |**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
