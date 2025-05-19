@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Locally Differentially Private Graph Clustering via the Power Iteration Method**|Vorapong Suppakitpaisarn et.al.|[2505.11169](http://arxiv.org/abs/2505.11169)|null|
+|**2025-05-16**|**Optimal Allocation of Privacy Budget on Hierarchical Data Release**|Joonhyuk Ko et.al.|[2505.10871](http://arxiv.org/abs/2505.10871)|null|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
 |**2025-05-15**|**Locally Differentially Private Frequency Estimation via Joint Randomized Response**|Ye Zheng et.al.|[2505.10349](http://arxiv.org/abs/2505.10349)|**[link](https://github.com/ZhengYeah/JRR)**|
 |**2025-05-14**|**Towards Efficient Verification of Parallel Applications with Mc SimGrid**|Matthieu Laurent et.al.|[2505.09209](http://arxiv.org/abs/2505.09209)|null|
@@ -1241,6 +1243,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|null|
+|**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
+|**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
+|**2025-05-16**|**Graph Representational Learning: When Does More Expressivity Hurt Generalization?**|Sohir Maskey et.al.|[2505.11298](http://arxiv.org/abs/2505.11298)|null|
+|**2025-05-16**|**Unfolded Deep Graph Learning for Networked Over-the-Air Computation**|Xiao Tang et.al.|[2505.11248](http://arxiv.org/abs/2505.11248)|null|
+|**2025-05-16**|**Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment**|Oskar Bohn Lassen et.al.|[2505.11230](http://arxiv.org/abs/2505.11230)|null|
+|**2025-05-16**|**IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment**|Chunying Zhou et.al.|[2505.11205](http://arxiv.org/abs/2505.11205)|null|
+|**2025-05-16**|**Covariance Density Neural Networks**|Om Roy et.al.|[2505.11139](http://arxiv.org/abs/2505.11139)|null|
+|**2025-05-16**|**Halting Recurrent GNNs and the Graded $μ$ -Calculus**|Jeroen Bollen et.al.|[2505.11050](http://arxiv.org/abs/2505.11050)|null|
+|**2025-05-16**|**Relational Graph Transformer**|Vijay Prakash Dwivedi et.al.|[2505.10960](http://arxiv.org/abs/2505.10960)|null|
+|**2025-05-16**|**Graph and Simplicial Complex Prediction Gaussian Process via the Hodgelet Representations**|Mathieu Alain et.al.|[2505.10877](http://arxiv.org/abs/2505.10877)|null|
+|**2025-05-16**|**RapidGNN: Communication Efficient Large-Scale Distributed Training of Graph Neural Networks**|Arefin Niam et.al.|[2505.10806](http://arxiv.org/abs/2505.10806)|null|
+|**2025-05-15**|**Learning Repetition-Invariant Representations for Polymer Informatics**|Yihan Zhu et.al.|[2505.10726](http://arxiv.org/abs/2505.10726)|null|
+|**2025-05-15**|**GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics**|Sebestyén Kamp et.al.|[2505.10711](http://arxiv.org/abs/2505.10711)|null|
 |**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
 |**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
 |**2025-05-15**|**Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2505.10040](http://arxiv.org/abs/2505.10040)|null|
