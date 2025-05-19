@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -1248,7 +1248,7 @@ layout: default
 |**2025-05-13**|**SAR-GTR: Attributed Scattering Information Guided SAR Graph Transformer Recognition Algorithm**|Xuying Xiong et.al.|[2505.08547](http://arxiv.org/abs/2505.08547)|null|
 |**2025-05-14**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
 |**2025-05-13**|**Open the Eyes of MPNN: Vision Enhances MPNN in Link Prediction**|Yanbin Wei et.al.|[2505.08266](http://arxiv.org/abs/2505.08266)|null|
-|**2025-05-13**|**LLM Enhancers for GNNs: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
+|**2025-05-15**|**Large Language Model Enhancers for Graph Neural Networks: An Analysis from the Perspective of Causal Mechanism Identification**|Hang Gao et.al.|[2505.08265](http://arxiv.org/abs/2505.08265)|null|
 |**2025-05-13**|**$\mathcal{H}$ -HIGNN: A Scalable Graph Neural Network Framework with Hierarchical Matrix Acceleration for Simulation of Large-Scale Particulate Suspensions**|Zhan Ma et.al.|[2505.08174](http://arxiv.org/abs/2505.08174)|null|
 |**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|**[link](https://github.com/sunshy-1/HCMKR)**|
 |**2025-05-12**|**Equivariant graph neural network surrogates for predicting the properties of relaxed atomic configurations**|Jamie Holber et.al.|[2505.08121](http://arxiv.org/abs/2505.08121)|null|
