@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks**|Javad Forough et.al.|[2505.13362](http://arxiv.org/abs/2505.13362)|null|
+|**2025-05-19**|**Counting Graphlets of Size $k$ under Local Differential Privacy**|Vorapong Suppakitpaisarn et.al.|[2505.12954](http://arxiv.org/abs/2505.12954)|null|
+|**2025-05-19**|**FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA**|Seanie Lee et.al.|[2505.12805](http://arxiv.org/abs/2505.12805)|null|
+|**2025-05-19**|**EPSpatial: Achieving Efficient and Private Statistical Analytics of Geospatial Data**|Chuan Zhang et.al.|[2505.12612](http://arxiv.org/abs/2505.12612)|null|
+|**2025-05-18**|**Private Statistical Estimation via Truncation**|Manolis Zampetakis et.al.|[2505.12541](http://arxiv.org/abs/2505.12541)|null|
+|**2025-05-17**|**Federated Deep Reinforcement Learning for Privacy-Preserving Robotic-Assisted Surgery**|Sana Hafeez et.al.|[2505.12153](http://arxiv.org/abs/2505.12153)|null|
+|**2025-05-17**|**Back to Square Roots: An Optimal Bound on the Matrix Factorization Error for Multi-Epoch Differentially Private SGD**|Nikita P. Kalinin et.al.|[2505.12128](http://arxiv.org/abs/2505.12128)|null|
 |**2025-05-16**|**Locally Differentially Private Graph Clustering via the Power Iteration Method**|Vorapong Suppakitpaisarn et.al.|[2505.11169](http://arxiv.org/abs/2505.11169)|null|
 |**2025-05-16**|**Optimal Allocation of Privacy Budget on Hierarchical Data Release**|Joonhyuk Ko et.al.|[2505.10871](http://arxiv.org/abs/2505.10871)|null|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
@@ -1237,6 +1244,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings**|Adrien Lagesse et.al.|[2505.13087](http://arxiv.org/abs/2505.13087)|null|
+|**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
+|**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
+|**2025-05-19**|**Pave Your Own Path: Graph Gradual Domain Adaptation on Fused Gromov-Wasserstein Geodesics**|Zhichen Zeng et.al.|[2505.12709](http://arxiv.org/abs/2505.12709)|null|
+|**2025-05-19**|**scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data**|Ping Xu et.al.|[2505.12626](http://arxiv.org/abs/2505.12626)|null|
+|**2025-05-19**|**Adaptive Graph Unlearning**|Pengfei Ding et.al.|[2505.12614](http://arxiv.org/abs/2505.12614)|null|
+|**2025-05-18**|**LM $^2$ otifs : An Explainable Framework for Machine-Generated Texts Detection**|Xu Zheng et.al.|[2505.12507](http://arxiv.org/abs/2505.12507)|null|
+|**2025-05-18**|**Addressing the Scarcity of Benchmarks for Graph XAI**|Michele Fontanesi et.al.|[2505.12437](http://arxiv.org/abs/2505.12437)|null|
+|**2025-05-18**|**It Takes a Graph to Know a Graph: Rewiring for Homophily with a Reference Graph**|Harel Mendelman et.al.|[2505.12411](http://arxiv.org/abs/2505.12411)|null|
+|**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
+|**2025-05-18**|**GraphFLEx: Structure Learning Framework for Large Expanding Graphs**|Mohit Kataria et.al.|[2505.12323](http://arxiv.org/abs/2505.12323)|null|
+|**2025-05-18**|**Pre-trained Prompt-driven Community Search**|Li Ni et.al.|[2505.12304](http://arxiv.org/abs/2505.12304)|null|
+|**2025-05-18**|**Enhancing Knowledge Graph Completion with GNN Distillation and Probabilistic Interaction Modeling**|Lingzhi Wang et.al.|[2505.12272](http://arxiv.org/abs/2505.12272)|null|
+|**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
+|**2025-05-17**|**Understanding the Capabilities of Molecular Graph Neural Networks in Materials Science Through Multimodal Learning and Physical Context Encoding**|Can Polat et.al.|[2505.12137](http://arxiv.org/abs/2505.12137)|null|
+|**2025-05-17**|**Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting**|Xiao Wang et.al.|[2505.12136](http://arxiv.org/abs/2505.12136)|null|
+|**2025-05-17**|**Ripple: Scalable Incremental GNN Inferencing on Large Streaming Graphs**|Pranjal Naman et.al.|[2505.12112](http://arxiv.org/abs/2505.12112)|null|
+|**2025-05-17**|**Relation-Aware Graph Foundation Model**|Jianxiang Yu et.al.|[2505.12027](http://arxiv.org/abs/2505.12027)|null|
+|**2025-05-17**|**The Logical Expressiveness of Temporal GNNs via Two-Dimensional Product Logics**|Marco Sälzer et.al.|[2505.11930](http://arxiv.org/abs/2505.11930)|null|
+|**2025-05-16**|**Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming**|Diksha Goel et.al.|[2505.11710](http://arxiv.org/abs/2505.11710)|null|
 |**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|null|
 |**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
 |**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
