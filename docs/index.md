@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Vulnerability of Transfer-Learned Neural Networks to Data Reconstruction Attacks in Small-Data Regime**|Tomasz Maciążek et.al.|[2505.14323](http://arxiv.org/abs/2505.14323)|null|
+|**2025-05-20**|**A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input**|Bar Mahpud et.al.|[2505.14251](http://arxiv.org/abs/2505.14251)|null|
+|**2025-05-19**|**Differentially Private Quantiles with Smaller Error**|Jacob Imola et.al.|[2505.13662](http://arxiv.org/abs/2505.13662)|null|
+|**2025-05-19**|**Optimal Client Sampling in Federated Learning with Client-Level Heterogeneous Differential Privacy**|Jiahao Xu et.al.|[2505.13655](http://arxiv.org/abs/2505.13655)|null|
 |**2025-05-19**|**DynaNoise: Dynamic Probabilistic Noise Injection for Defending Against Membership Inference Attacks**|Javad Forough et.al.|[2505.13362](http://arxiv.org/abs/2505.13362)|null|
 |**2025-05-19**|**Counting Graphlets of Size $k$ under Local Differential Privacy**|Vorapong Suppakitpaisarn et.al.|[2505.12954](http://arxiv.org/abs/2505.12954)|null|
 |**2025-05-19**|**FedSVD: Adaptive Orthogonalization for Private Federated Learning with LoRA**|Seanie Lee et.al.|[2505.12805](http://arxiv.org/abs/2505.12805)|null|
@@ -1244,6 +1248,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium**|Xinxin Fan et.al.|[2505.14463](http://arxiv.org/abs/2505.14463)|null|
+|**2025-05-20**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|
+|**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408](http://arxiv.org/abs/2505.14408)|null|
+|**2025-05-20**|**Unsupervised Graph Clustering with Deep Structural Entropy**|Jingyun Zhang et.al.|[2505.14040](http://arxiv.org/abs/2505.14040)|null|
+|**2025-05-20**|**Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening**|Guoming Li et.al.|[2505.14033](http://arxiv.org/abs/2505.14033)|null|
+|**2025-05-20**|**Towards Comprehensive and Prerequisite-Free Explainer for Graph Neural Networks**|Han Zhang et.al.|[2505.14005](http://arxiv.org/abs/2505.14005)|null|
+|**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754](http://arxiv.org/abs/2505.13754)|null|
 |**2025-05-19**|**Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings**|Adrien Lagesse et.al.|[2505.13087](http://arxiv.org/abs/2505.13087)|null|
 |**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
 |**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
