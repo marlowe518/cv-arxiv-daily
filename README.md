@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721](http://arxiv.org/abs/2505.15721)|null|
+|**2025-05-21**|**A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO**|Xingyu Zhou et.al.|[2505.15694](http://arxiv.org/abs/2505.15694)|null|
+|**2025-05-21**|**Second-Order Convergence in Private Stochastic Non-Convex Optimization**|Youming Tao et.al.|[2505.15647](http://arxiv.org/abs/2505.15647)|null|
+|**2025-05-21**|**Optimal Piecewise-based Mechanism for Collecting Bounded Numerical Data under Local Differential Privacy**|Ye Zheng et.al.|[2505.15483](http://arxiv.org/abs/2505.15483)|**[link](https://github.com/ZhengYeah/Optimal-GPM)**|
+|**2025-05-21**|**EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression**|Tong Cheng et.al.|[2505.15140](http://arxiv.org/abs/2505.15140)|null|
+|**2025-05-20**|**Privacy Preserving Conversion Modeling in Data Clean Room**|Kungang Li et.al.|[2505.14959](http://arxiv.org/abs/2505.14959)|null|
 |**2025-05-20**|**Vulnerability of Transfer-Learned Neural Networks to Data Reconstruction Attacks in Small-Data Regime**|Tomasz Maciążek et.al.|[2505.14323](http://arxiv.org/abs/2505.14323)|**[link](https://github.com/tmaciazek/training-data-reconstruction)**|
 |**2025-05-20**|**A Private Approximation of the 2nd-Moment Matrix of Any Subsamplable Input**|Bar Mahpud et.al.|[2505.14251](http://arxiv.org/abs/2505.14251)|null|
 |**2025-05-19**|**Differentially Private Quantiles with Smaller Error**|Jacob Imola et.al.|[2505.13662](http://arxiv.org/abs/2505.13662)|**[link](https://github.com/nynsenfaber/dp_cc_quantiles)**|
@@ -1254,6 +1260,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Higher-order Structure Boosts Link Prediction on Temporal Graphs**|Jingzhe Liu et.al.|[2505.15746](http://arxiv.org/abs/2505.15746)|null|
+|**2025-05-21**|**Graph Conditional Flow Matching for Relational Data Generation**|Davide Scassola et.al.|[2505.15668](http://arxiv.org/abs/2505.15668)|null|
+|**2025-05-21**|**HOPSE: Scalable Higher-Order Positional and Structural Encoder for Combinatorial Representations**|Martin Carrasco et.al.|[2505.15405](http://arxiv.org/abs/2505.15405)|null|
+|**2025-05-21**|**Piecewise-linear Ricci curvature flows on weighted graphs**|Jicheng Ma et.al.|[2505.15395](http://arxiv.org/abs/2505.15395)|null|
+|**2025-05-21**|**NeuBM: Mitigating Model Bias in Graph Neural Networks through Neutral Input Calibration**|Jiawei Gu et.al.|[2505.15180](http://arxiv.org/abs/2505.15180)|null|
+|**2025-05-21**|**SpectralGap: Graph-Level Out-of-Distribution Detection via Laplacian Eigenvalue Gaps**|Jiawei Gu et.al.|[2505.15177](http://arxiv.org/abs/2505.15177)|null|
+|**2025-05-21**|**EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression**|Tong Cheng et.al.|[2505.15140](http://arxiv.org/abs/2505.15140)|null|
+|**2025-05-21**|**Unified Cross-Modal Attention-Mixer Based Structural-Functional Connectomics Fusion for Neuropsychiatric Disorder Diagnosis**|Badhan Mazumder et.al.|[2505.15139](http://arxiv.org/abs/2505.15139)|null|
+|**2025-05-21**|**Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling**|Badhan Mazumder et.al.|[2505.15135](http://arxiv.org/abs/2505.15135)|null|
+|**2025-05-21**|**Beyond Node Attention: Multi-Scale Harmonic Encoding for Feature-Wise Graph Message Passing**|Longlong Li et.al.|[2505.15015](http://arxiv.org/abs/2505.15015)|null|
+|**2025-05-20**|**Topology-aware Detection and Localization of Distributed Denial-of-Service Attacks in Network-on-Chips**|Hansika Weerasena et.al.|[2505.14898](http://arxiv.org/abs/2505.14898)|null|
+|**2025-05-20**|**LOBSTUR: A Local Bootstrap Framework for Tuning Unsupervised Representations in Graph Neural Networks**|So Won Jeong et.al.|[2505.14867](http://arxiv.org/abs/2505.14867)|**[link](https://github.com/sowonjeong/lobstur-graph-bootstrap)**|
+|**2025-05-20**|**Cooperative Causal GraphSAGE**|Zaifa Xue et.al.|[2505.14748](http://arxiv.org/abs/2505.14748)|null|
+|**2025-05-20**|**Leveraging Multivariate Long-Term History Representation for Time Series Forecasting**|Huiliang Zhang et.al.|[2505.14737](http://arxiv.org/abs/2505.14737)|null|
 |**2025-05-20**|**Adverseness vs. Equilibrium: Exploring Graph Adversarial Resilience through Dynamic Equilibrium**|Xinxin Fan et.al.|[2505.14463](http://arxiv.org/abs/2505.14463)|null|
 |**2025-05-21**|**Robustness Evaluation of Graph-based News Detection Using Network Structural Information**|Xianghua Zeng et.al.|[2505.14453](http://arxiv.org/abs/2505.14453)|null|
 |**2025-05-20**|**Solving Unit Commitment Problems with Graph Neural Network based Initial Commitment Prediction and Large Neighborhood Search**|Linfeng Yang et.al.|[2505.14408](http://arxiv.org/abs/2505.14408)|null|
