@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models**|Antti Koskela et.al.|[2505.19969](http://arxiv.org/abs/2505.19969)|null|
+|**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823](http://arxiv.org/abs/2505.19823)|null|
+|**2025-05-26**|**Model Agnostic Differentially Private Causal Inference**|Christiant Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|null|
+|**2025-05-23**|**KL-regularization Itself is Differentially Private in Bandits and RLHF**|Yizhou Zhang et.al.|[2505.18407](http://arxiv.org/abs/2505.18407)|null|
 |**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371](http://arxiv.org/abs/2505.16371)|null|
 |**2025-05-22**|**Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping**|Simone Bombari et.al.|[2505.16329](http://arxiv.org/abs/2505.16329)|null|
 |**2025-05-22**|**Verifying Differentially Private Median Estimation**|Hyukjun Kwon et.al.|[2505.16246](http://arxiv.org/abs/2505.16246)|null|
@@ -1258,6 +1263,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks**|Jinyan Wang et.al.|[2505.20074](http://arxiv.org/abs/2505.20074)|null|
+|**2025-05-26**|**Graph Wave Networks**|Juwei Yue et.al.|[2505.20034](http://arxiv.org/abs/2505.20034)|null|
+|**2025-05-26**|**GraphAU-Pain: Graph-based Action Unit Representation for Pain Intensity Estimation**|Zhiyu Wang et.al.|[2505.19802](http://arxiv.org/abs/2505.19802)|null|
+|**2025-05-26**|**Language Model-Enhanced Message Passing for Heterophilic Graph Learning**|Wenjun Wang et.al.|[2505.19762](http://arxiv.org/abs/2505.19762)|null|
+|**2025-05-26**|**STRAP: Spatio-Temporal Pattern Retrieval for Out-of-Distribution Generalization**|Haoyu Zhang et.al.|[2505.19547](http://arxiv.org/abs/2505.19547)|null|
+|**2025-05-26**|**MetaGMT: Improving Actionable Interpretability of Graph Multilinear Networks via Meta-Learning Filtration**|Rishabh Bhattacharya et.al.|[2505.19445](http://arxiv.org/abs/2505.19445)|null|
+|**2025-05-25**|**Chordless Structure: A Pathway to Simple and Expressive GNNs**|Hongxu Pan et.al.|[2505.19188](http://arxiv.org/abs/2505.19188)|null|
+|**2025-05-25**|**HGCL: Hierarchical Graph Contrastive Learning for User-Item Recommendation**|Jiawei Xue et.al.|[2505.19020](http://arxiv.org/abs/2505.19020)|null|
+|**2025-05-25**|**Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection**|Xiping Li et.al.|[2505.18934](http://arxiv.org/abs/2505.18934)|null|
+|**2025-05-24**|**Mind The Gap: Deep Learning Doesn't Learn Deeply**|Lucas Saldyt et.al.|[2505.18623](http://arxiv.org/abs/2505.18623)|null|
+|**2025-05-24**|**AI-predicted PT-symmetric magnets**|Hao Wu et.al.|[2505.18620](http://arxiv.org/abs/2505.18620)|null|
+|**2025-05-23**|**Model Editing with Graph-Based External Memory**|Yash Kumar Atri et.al.|[2505.18343](http://arxiv.org/abs/2505.18343)|null|
+|**2025-05-23**|**Convexified Message-Passing Graph Neural Networks**|Saar Cohen et.al.|[2505.18289](http://arxiv.org/abs/2505.18289)|null|
+|**2025-05-23**|**Evidence-Grounded Multimodal Misinformation Detection with Attention-Based GNNs**|Sharad Duwal et.al.|[2505.18221](http://arxiv.org/abs/2505.18221)|null|
 |**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
 |**2025-05-23**|**Directed Semi-Simplicial Learning with Applications to Brain Activity Decoding**|Manuel Lecha et.al.|[2505.17939](http://arxiv.org/abs/2505.17939)|null|
 |**2025-05-23**|**A Network Science Approach to Granular Time Series Segmentation**|Ivana Kesić et.al.|[2505.17640](http://arxiv.org/abs/2505.17640)|null|
