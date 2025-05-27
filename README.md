@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1258,7 +1258,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1278,7 +1278,7 @@
 |**2025-05-22**|**Statistical Test for Saliency Maps of Graph Neural Networks via Selective Inference**|Shuichi Nishino et.al.|[2505.16893](http://arxiv.org/abs/2505.16893)|null|
 |**2025-05-22**|**Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?**|Nicolas Keriven et.al.|[2505.16736](http://arxiv.org/abs/2505.16736)|null|
 |**2025-05-22**|**Joint Relational Database Generation via Graph-Conditional Diffusion Models**|Mohamed Amine Ketata et.al.|[2505.16527](http://arxiv.org/abs/2505.16527)|null|
-|**2025-05-22**|**Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization**|Robbert Reijnen et.al.|[2505.16471](http://arxiv.org/abs/2505.16471)|**[link](https://github.com/robbertreijnen/gs-modac)**|
+|**2025-05-24**|**Graph-Supported Dynamic Algorithm Configuration for Multi-Objective Combinatorial Optimization**|Robbert Reijnen et.al.|[2505.16471](http://arxiv.org/abs/2505.16471)|**[link](https://github.com/robbertreijnen/gs-modac)**|
 |**2025-05-22**|**Conf-GNNRec: Quantifying and Calibrating the Prediction Confidence for GNN-based Recommendation Methods**|Meng Yan et.al.|[2505.16466](http://arxiv.org/abs/2505.16466)|null|
 |**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371](http://arxiv.org/abs/2505.16371)|null|
 |**2025-05-23**|**Manipulating Elasto-Plastic Objects With 3D Occupancy and Learning-Based Predictive Control**|Zhen Zhang et.al.|[2505.16249](http://arxiv.org/abs/2505.16249)|null|
@@ -4356,7 +4356,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
