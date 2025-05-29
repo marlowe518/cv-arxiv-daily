@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-05-26**|**Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models**|Antti Koskela et.al.|[2505.19969](http://arxiv.org/abs/2505.19969)|null|
 |**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823](http://arxiv.org/abs/2505.19823)|null|
 |**2025-05-27**|**Model Agnostic Differentially Private Causal Inference**|Christian Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
-|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-23**|**KL-regularization Itself is Differentially Private in Bandits and RLHF**|Yizhou Zhang et.al.|[2505.18407](http://arxiv.org/abs/2505.18407)|null|
 |**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371](http://arxiv.org/abs/2505.16371)|null|
 |**2025-05-22**|**Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping**|Simone Bombari et.al.|[2505.16329](http://arxiv.org/abs/2505.16329)|null|
@@ -1267,7 +1267,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4393,7 +4393,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

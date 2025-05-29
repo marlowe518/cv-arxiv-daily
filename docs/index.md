@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -21,7 +21,7 @@ layout: default
 |**2025-05-26**|**Differential Privacy Analysis of Decentralized Gossip Averaging under Varying Threat Models**|Antti Koskela et.al.|[2505.19969](http://arxiv.org/abs/2505.19969)|null|
 |**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823](http://arxiv.org/abs/2505.19823)|null|
 |**2025-05-27**|**Model Agnostic Differentially Private Causal Inference**|Christian Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
-|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-23**|**KL-regularization Itself is Differentially Private in Bandits and RLHF**|Yizhou Zhang et.al.|[2505.18407](http://arxiv.org/abs/2505.18407)|null|
 |**2025-05-22**|**Privacy-Aware Cyberterrorism Network Analysis using Graph Neural Networks and Federated Learning**|Anas Ali et.al.|[2505.16371](http://arxiv.org/abs/2505.16371)|null|
 |**2025-05-22**|**Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping**|Simone Bombari et.al.|[2505.16329](http://arxiv.org/abs/2505.16329)|null|
