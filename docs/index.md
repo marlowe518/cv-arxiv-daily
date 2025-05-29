@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Private Lossless Multiple Release**|Joel Daniel Andersson et.al.|[2505.22449](http://arxiv.org/abs/2505.22449)|null|
+|**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
+|**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108](http://arxiv.org/abs/2505.22108)|null|
+|**2025-05-27**|**Faster Rates for Private Adversarial Bandits**|Hilal Asi et.al.|[2505.21790](http://arxiv.org/abs/2505.21790)|null|
+|**2025-05-27**|**PrivATE: Differentially Private Confidence Intervals for Average Treatment Effects**|Maresa Schröder et.al.|[2505.21641](http://arxiv.org/abs/2505.21641)|null|
 |**2025-05-27**|**Square $χ$PO: Differentially Private and Robust $χ^2$ -Preference Optimization in Offline Direct Alignment**|Xingyu Zhou et.al.|[2505.21395](http://arxiv.org/abs/2505.21395)|null|
 |**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924](http://arxiv.org/abs/2505.20924)|null|
 |**2025-05-27**|**Multi-level Certified Defense Against Poisoning Attacks in Offline Reinforcement Learning**|Shijie Liu et.al.|[2505.20621](http://arxiv.org/abs/2505.20621)|null|
@@ -1267,6 +1272,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
+|**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504](http://arxiv.org/abs/2505.22504)|null|
+|**2025-05-28**|**Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis**|Amirhossein Sohrabbeig et.al.|[2505.22474](http://arxiv.org/abs/2505.22474)|null|
+|**2025-05-28**|**Directed Homophily-Aware Graph Neural Network**|Aihu Zhang et.al.|[2505.22362](http://arxiv.org/abs/2505.22362)|null|
+|**2025-05-28**|**B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data**|Magdalena Proszewska et.al.|[2505.22252](http://arxiv.org/abs/2505.22252)|null|
+|**2025-05-28**|**What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning**|Gangwei Jiang et.al.|[2505.22148](http://arxiv.org/abs/2505.22148)|null|
+|**2025-05-28**|**Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic Languages**|Pratik Rakesh Singh et.al.|[2505.21937](http://arxiv.org/abs/2505.21937)|null|
+|**2025-05-28**|**FALCON: An ML Framework for Fully Automated Layout-Constrained Analog Circuit Design**|Asal Mehradfar et.al.|[2505.21923](http://arxiv.org/abs/2505.21923)|null|
+|**2025-05-27**|**P-DROP: Poisson-Based Dropout for Graph Neural Networks**|Hyunsik Yun et.al.|[2505.21783](http://arxiv.org/abs/2505.21783)|null|
+|**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754](http://arxiv.org/abs/2505.21754)|null|
 |**2025-05-27**|**Learning Individual Behavior in Agent-Based Models with Graph Diffusion Networks**|Francesco Cozzi et.al.|[2505.21426](http://arxiv.org/abs/2505.21426)|null|
 |**2025-05-27**|**Graph Neural Network Aided Detection for the Multi-User Multi-Dimensional Index Modulated Uplink**|Xinyu Feng et.al.|[2505.21343](http://arxiv.org/abs/2505.21343)|null|
 |**2025-05-27**|**GSAT: Graph Structure Attention Networks**|Farshad Noravesh et.al.|[2505.21288](http://arxiv.org/abs/2505.21288)|null|
