@@ -18,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Locally Differentially Private Two-Sample Testing**|Alexander Kent et.al.|[2505.24811](http://arxiv.org/abs/2505.24811)|null|
+|**2025-05-30**|**Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**|Erchi Wang et.al.|[2505.24737](http://arxiv.org/abs/2505.24737)|null|
+|**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603](http://arxiv.org/abs/2505.24603)|null|
+|**2025-05-30**|**Sample-optimal learning of quantum states using gentle measurements**|Cristina Butucea et.al.|[2505.24587](http://arxiv.org/abs/2505.24587)|null|
+|**2025-05-29**|**Synopsis: Secure and private trend inference from encrypted semantic embeddings**|Madelyne Xiao et.al.|[2505.23880](http://arxiv.org/abs/2505.23880)|null|
+|**2025-05-27**|**DP-RTFL: Differentially Private Resilient Temporal Federated Learning for Trustworthy AI in Regulated Industries**|Abhijit Talluri et.al.|[2505.23813](http://arxiv.org/abs/2505.23813)|null|
 |**2025-05-29**|**Differentially Private Space-Efficient Algorithms for Counting Distinct Elements in the Turnstile Model**|Rachel Cummings et.al.|[2505.23682](http://arxiv.org/abs/2505.23682)|null|
 |**2025-05-29**|**Instance-Optimality for Private KL Distribution Estimation**|Jiayuan Ye et.al.|[2505.23620](http://arxiv.org/abs/2505.23620)|null|
 |**2025-05-28**|**Private Rate-Constrained Optimization with Applications to Fair Learning**|Mohammad Yaghini et.al.|[2505.22703](http://arxiv.org/abs/2505.22703)|null|
@@ -1281,6 +1287,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs**|Franziska Heeg et.al.|[2505.24438](http://arxiv.org/abs/2505.24438)|null|
+|**2025-05-30**|**Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System**|Giovanny C-Londoño et.al.|[2505.24429](http://arxiv.org/abs/2505.24429)|null|
+|**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
+|**2025-05-30**|**Biological Pathway Guided Gene Selection Through Collaborative Reinforcement Learning**|Ehtesamul Azim et.al.|[2505.24155](http://arxiv.org/abs/2505.24155)|null|
+|**2025-05-30**|**Practical Bayes-Optimal Membership Inference Attacks**|Marcus Lassila et.al.|[2505.24089](http://arxiv.org/abs/2505.24089)|null|
+|**2025-05-29**|**Primal-Dual Neural Algorithmic Reasoning**|Yu He et.al.|[2505.24067](http://arxiv.org/abs/2505.24067)|null|
+|**2025-05-29**|**Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs**|Yilong Wang et.al.|[2505.24055](http://arxiv.org/abs/2505.24055)|null|
+|**2025-05-29**|**Cosmology with Topological Deep Learning**|Jun-Young Lee et.al.|[2505.23904](http://arxiv.org/abs/2505.23904)|null|
+|**2025-05-29**|**A Benchmark Dataset for Graph Regression with Homogeneous and Multi-Relational Variants**|Peter Samoaa et.al.|[2505.23875](http://arxiv.org/abs/2505.23875)|null|
 |**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669](http://arxiv.org/abs/2505.23669)|null|
 |**2025-05-29**|**AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction**|Niklas Freymuth et.al.|[2505.23663](http://arxiv.org/abs/2505.23663)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
 |**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599](http://arxiv.org/abs/2505.23599)|**[link](https://github.com/yuxinma98/transferring_transferability)**|
