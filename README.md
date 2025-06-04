@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**On the Benefits of Accelerated Optimization in Robust and Private Estimation**|Laurentiu Andrei Marchis et.al.|[2506.03044](http://arxiv.org/abs/2506.03044)|null|
+|**2025-06-03**|**Privacy-Preserving Federated Convex Optimization: Balancing Partial-Participation and Efficiency via Noise Cancellation**|Roie Reshef et.al.|[2506.02563](http://arxiv.org/abs/2506.02563)|null|
+|**2025-06-03**|**Enhancing Convergence, Privacy and Fairness for Wireless Personalized Federated Learning: Quantization-Assisted Min-Max Fair Scheduling**|Xiyu Zhao et.al.|[2506.02422](http://arxiv.org/abs/2506.02422)|null|
+|**2025-06-03**|**Testing for large-dimensional covariance matrix under differential privacy**|Shiwei Sang et.al.|[2506.02410](http://arxiv.org/abs/2506.02410)|null|
+|**2025-06-02**|**Mitigating Data Poisoning Attacks to Local Differential Privacy**|Xiaolin Li et.al.|[2506.02156](http://arxiv.org/abs/2506.02156)|null|
+|**2025-06-02**|**ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels**|Rishi Raj Sahoo et.al.|[2506.02134](http://arxiv.org/abs/2506.02134)|null|
+|**2025-06-02**|**SMOTE-DP: Improving Privacy-Utility Tradeoff with Synthetic Data**|Yan Zhou et.al.|[2506.01907](http://arxiv.org/abs/2506.01907)|null|
+|**2025-06-02**|**Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping**|Linzh Zhao et.al.|[2506.01396](http://arxiv.org/abs/2506.01396)|null|
+|**2025-06-01**|**Nearly-Linear Time Private Hypothesis Selection with the Optimal Approximation Factor**|Maryam Aliakbarpour et.al.|[2506.01162](http://arxiv.org/abs/2506.01162)|null|
+|**2025-05-31**|**Controlling the Spread of Epidemics on Networks with Differential Privacy**|Dung Nguyen et.al.|[2506.00745](http://arxiv.org/abs/2506.00745)|null|
+|**2025-05-31**|**Differential Privacy for Deep Learning in Medicine**|Marziyeh Mohammadi et.al.|[2506.00660](http://arxiv.org/abs/2506.00660)|null|
+|**2025-05-31**|**dpmm: Differentially Private Marginal Models, a Library for Synthetic Tabular Data Generation**|Sofiane Mahiou et.al.|[2506.00322](http://arxiv.org/abs/2506.00322)|null|
+|**2025-05-30**|**Hush! Protecting Secrets During Model Training: An Indistinguishability Approach**|Arun Ganesh et.al.|[2506.00201](http://arxiv.org/abs/2506.00201)|null|
+|**2025-05-30**|**Privacy Amplification in Differentially Private Zeroth-Order Optimization with Hidden States**|Eli Chien et.al.|[2506.00158](http://arxiv.org/abs/2506.00158)|null|
 |**2025-05-30**|**Locally Differentially Private Two-Sample Testing**|Alexander Kent et.al.|[2505.24811](http://arxiv.org/abs/2505.24811)|null|
 |**2025-05-30**|**Adapting to Linear Separable Subsets with Large-Margin in Differentially Private Learning**|Erchi Wang et.al.|[2505.24737](http://arxiv.org/abs/2505.24737)|null|
 |**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603](http://arxiv.org/abs/2505.24603)|null|
@@ -1281,12 +1295,32 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Graph Neural Network
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment**|Bin Ma et.al.|[2506.03087](http://arxiv.org/abs/2506.03087)|null|
+|**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
+|**2025-06-03**|**Sheaves Reloaded: A Directional Awakening**|Stefano Fiorini et.al.|[2506.02842](http://arxiv.org/abs/2506.02842)|null|
+|**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834](http://arxiv.org/abs/2506.02834)|null|
+|**2025-06-03**|**Joint Optimization based on Two-phase GNN in RIS- and DF-assisted MISO Systems with Fine-grained Rate Demands**|Huijun Tang et.al.|[2506.02642](http://arxiv.org/abs/2506.02642)|null|
+|**2025-06-03**|**HGOT: Self-supervised Heterogeneous Graph Neural Network with Optimal Transport**|Yanbei Liu et.al.|[2506.02619](http://arxiv.org/abs/2506.02619)|null|
+|**2025-06-03**|**HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification**|Niklas Kormann et.al.|[2506.02542](http://arxiv.org/abs/2506.02542)|null|
+|**2025-06-02**|**From Features to Structure: Task-Aware Graph Construction for Relational and Tabular Learning with GNNs**|Tamara Cucumides et.al.|[2506.02243](http://arxiv.org/abs/2506.02243)|null|
+|**2025-06-02**|**ReconXF: Graph Reconstruction Attack via Public Feature Explanations on Privatized Node Features and Labels**|Rishi Raj Sahoo et.al.|[2506.02134](http://arxiv.org/abs/2506.02134)|null|
+|**2025-06-02**|**Stock Market Telepathy: Graph Neural Networks Predicting the Secret Conversations between MINT and G7 Countries**|Nurbanu Bursa et.al.|[2506.01945](http://arxiv.org/abs/2506.01945)|null|
+|**2025-06-02**|**iQUEST: An Iterative Question-Guided Framework for Knowledge Base Question Answering**|Shuai Wang et.al.|[2506.01784](http://arxiv.org/abs/2506.01784)|null|
+|**2025-06-02**|**Principled data augmentation for learning to solve quadratic programming problems**|Chendi Qian et.al.|[2506.01728](http://arxiv.org/abs/2506.01728)|null|
+|**2025-06-02**|**Graph neural network model for the era of large atomistic models**|Duo Zhang et.al.|[2506.01686](http://arxiv.org/abs/2506.01686)|null|
+|**2025-06-02**|**Sheep Facial Pain Assessment Under Weighted Graph Neural Networks**|Alam Noor et.al.|[2506.01468](http://arxiv.org/abs/2506.01468)|null|
+|**2025-06-02**|**Recent Developments in GNNs for Drug Discovery**|Zhengyu Fang et.al.|[2506.01302](http://arxiv.org/abs/2506.01302)|null|
+|**2025-06-02**|**Towards Efficient Few-shot Graph Neural Architecture Search via Partitioning Gradient Contribution**|Wenhao Song et.al.|[2506.01231](http://arxiv.org/abs/2506.01231)|null|
+|**2025-06-01**|**Keystep Recognition using Graph Neural Networks**|Julia Lee Romero et.al.|[2506.01102](http://arxiv.org/abs/2506.01102)|null|
+|**2025-06-01**|**Regulatory Graphs and GenAI for Real-Time Transaction Monitoring and Compliance Explanation in Banking**|Kunal Khanvilkar et.al.|[2506.01093](http://arxiv.org/abs/2506.01093)|null|
+|**2025-06-01**|**Pilot Contamination-Aware Graph Attention Network for Power Control in CFmMIMO**|Tingting Zhang et.al.|[2506.00967](http://arxiv.org/abs/2506.00967)|null|
+|**2025-06-01**|**Uncertainty-Aware Metabolic Stability Prediction with Dual-View Contrastive Learning**|Peijin Guo et.al.|[2506.00936](http://arxiv.org/abs/2506.00936)|null|
 |**2025-05-30**|**Weisfeiler and Leman Follow the Arrow of Time: Expressive Power of Message Passing in Temporal Event Graphs**|Franziska Heeg et.al.|[2505.24438](http://arxiv.org/abs/2505.24438)|null|
 |**2025-05-30**|**Deep Learning Weather Models for Subregional Ocean Forecasting: A Case Study on the Canary Current Upwelling System**|Giovanny C-Londoño et.al.|[2505.24429](http://arxiv.org/abs/2505.24429)|null|
 |**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
@@ -4433,7 +4467,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
