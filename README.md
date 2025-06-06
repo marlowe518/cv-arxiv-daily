@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1298,7 +1298,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1309,7 +1309,7 @@
 |**2025-06-04**|**Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks**|Lili Chen et.al.|[2506.03813](http://arxiv.org/abs/2506.03813)|null|
 |**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
 |**2025-06-04**|**Topology-Aware Graph Neural Network-based State Estimation for PMU-Unobservable Power Systems**|Shiva Moshtagh et.al.|[2506.03493](http://arxiv.org/abs/2506.03493)|null|
-|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
+|**2025-06-05**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
 |**2025-06-03**|**Physics and Computing Performance of the EggNet Tracking Pipeline**|Jay Chan et.al.|[2506.03415](http://arxiv.org/abs/2506.03415)|null|
 |**2025-06-03**|**How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment**|Bin Ma et.al.|[2506.03087](http://arxiv.org/abs/2506.03087)|null|
 |**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
@@ -4477,7 +4477,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
