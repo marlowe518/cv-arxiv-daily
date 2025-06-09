@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Differentially Private Explanations for Clusters**|Amir Gilad et.al.|[2506.05900](http://arxiv.org/abs/2506.05900)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
+|**2025-06-05**|**On Differential Privacy for Adaptively Solving Search Problems via Sketching**|Shiyuan Feng et.al.|[2506.05503](http://arxiv.org/abs/2506.05503)|null|
+|**2025-06-05**|**TRIDENT -- A Three-Tier Privacy-Preserving Propaganda Detection Model in Mobile Networks using Transformers, Adversarial Learning, and Differential Privacy**|Al Nahian Bin Emran et.al.|[2506.05421](http://arxiv.org/abs/2506.05421)|null|
+|**2025-06-04**|**FERRET: Private Deep Learning Faster And Better Than DPSGD**|David Zagardo et.al.|[2506.05416](http://arxiv.org/abs/2506.05416)|null|
+|**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411](http://arxiv.org/abs/2506.05411)|null|
+|**2025-06-04**|**Differentially Private Federated $k$ -Means Clustering with Server-Side Data**|Jonathan Scott et.al.|[2506.05408](http://arxiv.org/abs/2506.05408)|null|
+|**2025-06-04**|**PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**|Jianqing Zhang et.al.|[2506.05407](http://arxiv.org/abs/2506.05407)|null|
 |**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|null|
 |**2025-06-05**|**Privacy Amplification Through Synthetic Data: Insights from Linear Regression**|Clément Pierquin et.al.|[2506.05101](http://arxiv.org/abs/2506.05101)|null|
 |**2025-06-05**|**Urania: Differentially Private Insights into AI Use**|Daogao Liu et.al.|[2506.04681](http://arxiv.org/abs/2506.04681)|null|
@@ -1303,6 +1311,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226](http://arxiv.org/abs/2506.06226)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
+|**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127](http://arxiv.org/abs/2506.06127)|null|
+|**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045](http://arxiv.org/abs/2506.06045)|null|
+|**2025-06-06**|**On Measuring Long-Range Interactions in Graph Neural Networks**|Jacob Bamberger et.al.|[2506.05971](http://arxiv.org/abs/2506.05971)|null|
+|**2025-06-06**|**Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization**|Tianjun Yao et.al.|[2506.05957](http://arxiv.org/abs/2506.05957)|null|
+|**2025-06-06**|**Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks**|Yushang Zhao et.al.|[2506.05873](http://arxiv.org/abs/2506.05873)|null|
+|**2025-06-06**|**Positional Encoding meets Persistent Homology on Graphs**|Yogesh Verma et.al.|[2506.05814](http://arxiv.org/abs/2506.05814)|null|
+|**2025-06-06**|**EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator**|Qianyi Chen et.al.|[2506.05797](http://arxiv.org/abs/2506.05797)|null|
+|**2025-06-06**|**Large Language Models are Good Relational Learners**|Fang Wu et.al.|[2506.05725](http://arxiv.org/abs/2506.05725)|null|
+|**2025-06-06**|**Topology-aware Neural Flux Prediction Guided by Physics**|Haoyang Jiang et.al.|[2506.05676](http://arxiv.org/abs/2506.05676)|null|
+|**2025-06-05**|**Heterogeneous Sequel-Aware Graph Neural Networks for Sequential Learning**|Anushka Tiwari et.al.|[2506.05625](http://arxiv.org/abs/2506.05625)|null|
+|**2025-06-05**|**Spectral Graph Neural Networks are Incomplete on Graphs with a Simple Spectrum**|Snir Hordan et.al.|[2506.05530](http://arxiv.org/abs/2506.05530)|null|
 |**2025-06-05**|**Joint Beamforming and Integer User Association using a GNN with Gumbel-Softmax Reparameterizations**|Qing Lyu et.al.|[2506.05241](http://arxiv.org/abs/2506.05241)|null|
 |**2025-06-05**|**Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning**|Jingyu Hu et.al.|[2506.05214](http://arxiv.org/abs/2506.05214)|null|
 |**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
