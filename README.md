@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411](http://arxiv.org/abs/2506.05411)|null|
 |**2025-06-04**|**Differentially Private Federated $k$ -Means Clustering with Server-Side Data**|Jonathan Scott et.al.|[2506.05408](http://arxiv.org/abs/2506.05408)|null|
 |**2025-06-04**|**PCEvolve: Private Contrastive Evolution for Synthetic Dataset Generation via Few-Shot Private Data and Generative APIs**|Jianqing Zhang et.al.|[2506.05407](http://arxiv.org/abs/2506.05407)|null|
-|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|null|
+|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|**[link](https://github.com/columbia/pdslib)**|
 |**2025-06-05**|**Privacy Amplification Through Synthetic Data: Insights from Linear Regression**|Clément Pierquin et.al.|[2506.05101](http://arxiv.org/abs/2506.05101)|null|
 |**2025-06-05**|**Urania: Differentially Private Insights into AI Use**|Daogao Liu et.al.|[2506.04681](http://arxiv.org/abs/2506.04681)|null|
 |**2025-06-05**|**Clustering and Median Aggregation Improve Differentially Private Inference**|Kareem Amin et.al.|[2506.04566](http://arxiv.org/abs/2506.04566)|null|
@@ -1311,7 +1311,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4511,7 +4511,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
