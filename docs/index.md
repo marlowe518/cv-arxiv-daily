@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|null|
+|**2025-06-09**|**Securing Unbounded Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2506.07868](http://arxiv.org/abs/2506.07868)|null|
+|**2025-06-09**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|null|
+|**2025-06-09**|**Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries**|Haoxiang Wang et.al.|[2506.07555](http://arxiv.org/abs/2506.07555)|null|
+|**2025-06-08**|**Decentralized Optimization with Amplified Privacy via Efficient Communication**|Wei Huo et.al.|[2506.07102](http://arxiv.org/abs/2506.07102)|null|
+|**2025-06-08**|**Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models**|Qianshan Wei et.al.|[2506.07077](http://arxiv.org/abs/2506.07077)|null|
+|**2025-06-07**|**Differentially Private Sparse Linear Regression with Heavy-tailed Responses**|Xizhi Tian et.al.|[2506.06861](http://arxiv.org/abs/2506.06861)|null|
+|**2025-06-06**|**GeoClip: Geometry-Aware Clipping for Differentially Private SGD**|Atefeh Gilani et.al.|[2506.06549](http://arxiv.org/abs/2506.06549)|null|
 |**2025-06-06**|**Differentially Private Explanations for Clusters**|Amir Gilad et.al.|[2506.05900](http://arxiv.org/abs/2506.05900)|null|
 |**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
 |**2025-06-05**|**On Differential Privacy for Adaptively Solving Search Problems via Sketching**|Shiyuan Feng et.al.|[2506.05503](http://arxiv.org/abs/2506.05503)|null|
@@ -1311,6 +1319,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854](http://arxiv.org/abs/2506.07854)|null|
+|**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
+|**2025-06-09**|**HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model**|Yuling Wang et.al.|[2506.07428](http://arxiv.org/abs/2506.07428)|null|
+|**2025-06-08**|**Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment**|Huanyi Xie et.al.|[2506.07168](http://arxiv.org/abs/2506.07168)|null|
+|**2025-06-08**|**MAGNet: A Multi-Scale Attention-Guided Graph Fusion Network for DRC Violation Detection**|Weihan Lu et.al.|[2506.07126](http://arxiv.org/abs/2506.07126)|null|
+|**2025-06-07**|**Graph-Based Physics-Guided Urban PM2.5 Air Quality Imputation with Constrained Monitoring Data**|Shangjie Du et.al.|[2506.06917](http://arxiv.org/abs/2506.06917)|null|
+|**2025-06-07**|**Graph Neural Networks in Modern AI-aided Drug Discovery**|Odin Zhang et.al.|[2506.06915](http://arxiv.org/abs/2506.06915)|null|
+|**2025-06-07**|**Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations**|Fred Xu et.al.|[2506.06907](http://arxiv.org/abs/2506.06907)|null|
+|**2025-06-07**|**FuncGNN: Learning Functional Semantics of Logic Circuits with Graph Neural Networks**|Qiyun Zhao et.al.|[2506.06787](http://arxiv.org/abs/2506.06787)|null|
+|**2025-06-07**|**Caterpillar GNN: Replacing Message Passing with Efficient Aggregation**|Marek Černý et.al.|[2506.06784](http://arxiv.org/abs/2506.06784)|null|
+|**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
+|**2025-06-07**|**Neighborhood Overlap-Aware High-Order Graph Neural Network for Dynamic Graph Learning**|Ling Wang et.al.|[2506.06728](http://arxiv.org/abs/2506.06728)|null|
+|**2025-06-06**|**Graph Persistence goes Spectral**|Mattie Ji et.al.|[2506.06571](http://arxiv.org/abs/2506.06571)|null|
+|**2025-06-06**|**Rapid training of Hamiltonian graph networks without gradient descent**|Atamert Rahma et.al.|[2506.06558](http://arxiv.org/abs/2506.06558)|null|
 |**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226](http://arxiv.org/abs/2506.06226)|null|
 |**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
 |**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127](http://arxiv.org/abs/2506.06127)|null|
