@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176](http://arxiv.org/abs/2506.08176)|null|
 |**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|null|
 |**2025-06-09**|**Securing Unbounded Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2506.07868](http://arxiv.org/abs/2506.07868)|null|
-|**2025-06-09**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|null|
+|**2025-06-12**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|null|
 |**2025-06-09**|**Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries**|Haoxiang Wang et.al.|[2506.07555](http://arxiv.org/abs/2506.07555)|null|
 |**2025-06-08**|**Decentralized Optimization with Amplified Privacy via Efficient Communication**|Wei Huo et.al.|[2506.07102](http://arxiv.org/abs/2506.07102)|null|
 |**2025-06-08**|**Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models**|Qianshan Wei et.al.|[2506.07077](http://arxiv.org/abs/2506.07077)|null|
@@ -1326,7 +1326,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4554,7 +4554,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
