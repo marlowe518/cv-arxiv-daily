@@ -21,16 +21,16 @@ layout: default
 |**2025-06-10**|**Private Evolution Converges**|Tomás González et.al.|[2506.08312](http://arxiv.org/abs/2506.08312)|null|
 |**2025-06-09**|**Correlated Noise Mechanisms for Differentially Private Learning**|Krishna Pillutla et.al.|[2506.08201](http://arxiv.org/abs/2506.08201)|null|
 |**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176](http://arxiv.org/abs/2506.08176)|null|
-|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|null|
+|**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|**[link](https://github.com/rahn80643/federated-learning-pytorch-he-smap)**|
 |**2025-06-09**|**Securing Unbounded Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2506.07868](http://arxiv.org/abs/2506.07868)|null|
-|**2025-06-12**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|null|
+|**2025-06-12**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|**[link](https://github.com/necst/timberstrike)**|
 |**2025-06-09**|**Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries**|Haoxiang Wang et.al.|[2506.07555](http://arxiv.org/abs/2506.07555)|null|
 |**2025-06-08**|**Decentralized Optimization with Amplified Privacy via Efficient Communication**|Wei Huo et.al.|[2506.07102](http://arxiv.org/abs/2506.07102)|null|
 |**2025-06-08**|**Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models**|Qianshan Wei et.al.|[2506.07077](http://arxiv.org/abs/2506.07077)|null|
 |**2025-06-07**|**Differentially Private Sparse Linear Regression with Heavy-tailed Responses**|Xizhi Tian et.al.|[2506.06861](http://arxiv.org/abs/2506.06861)|null|
 |**2025-06-06**|**GeoClip: Geometry-Aware Clipping for Differentially Private SGD**|Atefeh Gilani et.al.|[2506.06549](http://arxiv.org/abs/2506.06549)|null|
 |**2025-06-06**|**Differentially Private Explanations for Clusters**|Amir Gilad et.al.|[2506.05900](http://arxiv.org/abs/2506.05900)|null|
-|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|**[link](https://github.com/solidlabnetwork/fedshield-llm)**|
 |**2025-06-05**|**On Differential Privacy for Adaptively Solving Search Problems via Sketching**|Shiyuan Feng et.al.|[2506.05503](http://arxiv.org/abs/2506.05503)|null|
 |**2025-06-05**|**TRIDENT -- A Three-Tier Privacy-Preserving Propaganda Detection Model in Mobile Networks using Transformers, Adversarial Learning, and Differential Privacy**|Al Nahian Bin Emran et.al.|[2506.05421](http://arxiv.org/abs/2506.05421)|null|
 |**2025-06-04**|**FERRET: Private Deep Learning Faster And Better Than DPSGD**|David Zagardo et.al.|[2506.05416](http://arxiv.org/abs/2506.05416)|null|
@@ -1331,8 +1331,8 @@ layout: default
 |**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
 |**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329](http://arxiv.org/abs/2506.10329)|null|
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
-|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|null|
-|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|null|
+|**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|**[link](https://github.com/jhqi/ssgco-egael)**|
+|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|**[link](https://github.com/mikelcasals/ggc_4_qgnns)**|
 |**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Toward Scalable Quantum Compilation for Modular Architecture: Qubit Mapping and Reuse via Deep Reinforcement Learning**|Sokea Sang et.al.|[2506.09323](http://arxiv.org/abs/2506.09323)|null|
