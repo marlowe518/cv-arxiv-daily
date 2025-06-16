@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690](http://arxiv.org/abs/2506.09690)|null|
 |**2025-06-11**|**What is the Cost of Differential Privacy for Deep Learning-Based Trajectory Generation?**|Erik Buchholz et.al.|[2506.09312](http://arxiv.org/abs/2506.09312)|**[link](https://github.com/erik-buchholz/CostOfTrajectoryPrivacy)**|
-|**2025-06-10**|**Differentially Private Relational Learning with Entity-level Privacy Guarantees**|Yinan Huang et.al.|[2506.08347](http://arxiv.org/abs/2506.08347)|null|
+|**2025-06-12**|**Differentially Private Relational Learning with Entity-level Privacy Guarantees**|Yinan Huang et.al.|[2506.08347](http://arxiv.org/abs/2506.08347)|null|
 |**2025-06-10**|**Private Evolution Converges**|Tomás González et.al.|[2506.08312](http://arxiv.org/abs/2506.08312)|null|
 |**2025-06-09**|**Correlated Noise Mechanisms for Differentially Private Learning**|Krishna Pillutla et.al.|[2506.08201](http://arxiv.org/abs/2506.08201)|null|
 |**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176](http://arxiv.org/abs/2506.08176)|null|
