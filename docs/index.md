@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**Differential Privacy in Machine Learning: From Symbolic AI to LLMs**|Francisco Aguilera-Martínez et.al.|[2506.11687](http://arxiv.org/abs/2506.11687)|null|
+|**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690](http://arxiv.org/abs/2506.09690)|null|
 |**2025-06-11**|**What is the Cost of Differential Privacy for Deep Learning-Based Trajectory Generation?**|Erik Buchholz et.al.|[2506.09312](http://arxiv.org/abs/2506.09312)|**[link](https://github.com/erik-buchholz/CostOfTrajectoryPrivacy)**|
@@ -1326,6 +1328,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
+|**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743](http://arxiv.org/abs/2506.11743)|null|
+|**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721](http://arxiv.org/abs/2506.11721)|null|
+|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
+|**2025-06-13**|**Geometry-Aware Edge Pooling for Graph Neural Networks**|Katharina Limbeck et.al.|[2506.11700](http://arxiv.org/abs/2506.11700)|null|
+|**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611](http://arxiv.org/abs/2506.11611)|null|
+|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
+|**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398](http://arxiv.org/abs/2506.11398)|null|
+|**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 |**2025-06-12**|**Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics**|Pascal Plettenberg et.al.|[2506.10577](http://arxiv.org/abs/2506.10577)|null|
 |**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
@@ -1333,7 +1344,7 @@ layout: default
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
 |**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|**[link](https://github.com/jhqi/ssgco-egael)**|
 |**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|**[link](https://github.com/mikelcasals/ggc_4_qgnns)**|
-|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
+|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|**[link](https://github.com/TIB-K330/HALO)**|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Toward Scalable Quantum Compilation for Modular Architecture: Qubit Mapping and Reuse via Deep Reinforcement Learning**|Sokea Sang et.al.|[2506.09323](http://arxiv.org/abs/2506.09323)|null|
 |**2025-06-10**|**Effective Data Pruning through Score Extrapolation**|Sebastian Schmidt et.al.|[2506.09010](http://arxiv.org/abs/2506.09010)|null|
