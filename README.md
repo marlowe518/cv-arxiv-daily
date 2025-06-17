@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|**[link](https://github.com/rahn80643/federated-learning-pytorch-he-smap)**|
 |**2025-06-09**|**Securing Unbounded Differential Privacy Against Timing Attacks**|Zachary Ratliff et.al.|[2506.07868](http://arxiv.org/abs/2506.07868)|null|
 |**2025-06-12**|**TimberStrike: Dataset Reconstruction Attack Revealing Privacy Leakage in Federated Tree-Based Systems**|Marco Di Gennaro et.al.|[2506.07605](http://arxiv.org/abs/2506.07605)|**[link](https://github.com/necst/timberstrike)**|
-|**2025-06-09**|**Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries**|Haoxiang Wang et.al.|[2506.07555](http://arxiv.org/abs/2506.07555)|null|
+|**2025-06-14**|**Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries**|Haoxiang Wang et.al.|[2506.07555](http://arxiv.org/abs/2506.07555)|null|
 |**2025-06-08**|**Decentralized Optimization with Amplified Privacy via Efficient Communication**|Wei Huo et.al.|[2506.07102](http://arxiv.org/abs/2506.07102)|null|
 |**2025-06-08**|**Dual-Priv Pruning : Efficient Differential Private Fine-Tuning in Multimodal Large Language Models**|Qianshan Wei et.al.|[2506.07077](http://arxiv.org/abs/2506.07077)|null|
 |**2025-06-07**|**Differentially Private Sparse Linear Regression with Heavy-tailed Responses**|Xizhi Tian et.al.|[2506.06861](http://arxiv.org/abs/2506.06861)|null|
@@ -1328,7 +1328,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1340,12 +1340,12 @@
 |**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
 |**2025-06-13**|**Geometry-Aware Edge Pooling for Graph Neural Networks**|Katharina Limbeck et.al.|[2506.11700](http://arxiv.org/abs/2506.11700)|null|
 |**2025-06-13**|**KCES: Training-Free Defense for Robust Graph Neural Networks via Kernel Complexity**|Yaning Jia et.al.|[2506.11611](http://arxiv.org/abs/2506.11611)|null|
-|**2025-06-13**|**SemanticST: Spatially Informed Semantic Graph Learning for1 Clustering, Integration, and Scalable Analysis of Spatial2 Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
+|**2025-06-16**|**SemanticST: Spatially Informed Semantic Graph Learning for Clustering, Integration, and Scalable Analysis of Spatial Transcriptomics**|Roxana Zahedi et.al.|[2506.11491](http://arxiv.org/abs/2506.11491)|null|
 |**2025-06-13**|**FIGNN: Feature-Specific Interpretability for Graph Neural Network Surrogate Models**|Riddhiman Raut et.al.|[2506.11398](http://arxiv.org/abs/2506.11398)|null|
 |**2025-06-13**|**EDN: A Novel Edge-Dependent Noise Model for Graph Data**|Pintu Kumar et.al.|[2506.11368](http://arxiv.org/abs/2506.11368)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
-|**2025-06-12**|**Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics**|Pascal Plettenberg et.al.|[2506.10577](http://arxiv.org/abs/2506.10577)|null|
-|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|null|
+|**2025-06-12**|**Graph Neural Networks for Automatic Addition of Optimizing Components in Printed Circuit Board Schematics**|Pascal Plettenberg et.al.|[2506.10577](http://arxiv.org/abs/2506.10577)|**[link](https://github.com/pasplett/pcb-node-pair-gnn)**|
+|**2025-06-12**|**LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture**|Yanhui Li et.al.|[2506.10347](http://arxiv.org/abs/2506.10347)|**[link](https://github.com/1371149/lightkg)**|
 |**2025-06-12**|**Context-Adaptive Graph Neural Networks for Next POI Recommendation**|Yu Lei et.al.|[2506.10329](http://arxiv.org/abs/2506.10329)|null|
 |**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
 |**2025-06-11**|**Structural-Spectral Graph Convolution with Evidential Edge Learning for Hyperspectral Image Clustering**|Jianhan Qi et.al.|[2506.09920](http://arxiv.org/abs/2506.09920)|**[link](https://github.com/jhqi/ssgco-egael)**|
@@ -4570,7 +4570,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
