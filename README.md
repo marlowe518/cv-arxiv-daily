@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Dual Protection Ring: User Profiling Via Differential Privacy and Service Dissemination Through Private Information Retrieval**|Imdad Ullah et.al.|[2506.13170](http://arxiv.org/abs/2506.13170)|null|
+|**2025-06-15**|**Differentially Private Bilevel Optimization: Efficient Algorithms with Near-Optimal Rates**|Andrew Lowy et.al.|[2506.12994](http://arxiv.org/abs/2506.12994)|null|
+|**2025-06-15**|**Private List Learnability vs. Online List Learnability**|Steve Hanneke et.al.|[2506.12856](http://arxiv.org/abs/2506.12856)|null|
+|**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
+|**2025-06-14**|**Beyond Laplace and Gaussian: Exploring the Generalized Gaussian Mechanism for Private Machine Learning**|Roy Rinberg et.al.|[2506.12553](http://arxiv.org/abs/2506.12553)|null|
 |**2025-06-13**|**Differential Privacy in Machine Learning: From Symbolic AI to LLMs**|Francisco Aguilera-Martínez et.al.|[2506.11687](http://arxiv.org/abs/2506.11687)|null|
 |**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
@@ -1334,6 +1339,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
+|**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343](http://arxiv.org/abs/2506.13343)|null|
+|**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
+|**2025-06-16**|**PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone**|Kamilia Zaripova et.al.|[2506.13119](http://arxiv.org/abs/2506.13119)|null|
+|**2025-06-16**|**Dynamic Graph Condensation**|Dong Chen et.al.|[2506.13099](http://arxiv.org/abs/2506.13099)|null|
+|**2025-06-16**|**Uncertainty-Aware Graph Neural Networks: A Multi-Hop Evidence Fusion Approach**|Qingfeng Chen et.al.|[2506.13083](http://arxiv.org/abs/2506.13083)|null|
+|**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902](http://arxiv.org/abs/2506.12902)|null|
+|**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700](http://arxiv.org/abs/2506.12700)|null|
+|**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558](http://arxiv.org/abs/2506.12558)|null|
+|**2025-06-14**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468](http://arxiv.org/abs/2506.12468)|null|
+|**2025-06-14**|**Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control**|Rongpeng Li et.al.|[2506.12453](http://arxiv.org/abs/2506.12453)|null|
+|**2025-06-14**|**Optimizing Federated Learning using Remote Embeddings for Graph Neural Networks**|Pranjal Naman et.al.|[2506.12425](http://arxiv.org/abs/2506.12425)|null|
+|**2025-06-14**|**GSDNet: Revisiting Incomplete Multimodal-Diffusion from Graph Spectrum Perspective for Conversation Emotion Recognition**|Yuntao Shou et.al.|[2506.12325](http://arxiv.org/abs/2506.12325)|null|
+|**2025-06-13**|**Directed Acyclic Graph Convolutional Networks**|Samuel Rey et.al.|[2506.12218](http://arxiv.org/abs/2506.12218)|null|
+|**2025-06-13**|**Graph Semi-Supervised Learning for Point Classification on Data Manifolds**|Caio F. Deberaldini Netto et.al.|[2506.12197](http://arxiv.org/abs/2506.12197)|null|
 |**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
 |**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743](http://arxiv.org/abs/2506.11743)|null|
 |**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721](http://arxiv.org/abs/2506.11721)|null|
