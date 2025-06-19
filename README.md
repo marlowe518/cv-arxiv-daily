@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-06-16**|**Dual Protection Ring: User Profiling Via Differential Privacy and Service Dissemination Through Private Information Retrieval**|Imdad Ullah et.al.|[2506.13170](http://arxiv.org/abs/2506.13170)|null|
 |**2025-06-15**|**Differentially Private Bilevel Optimization: Efficient Algorithms with Near-Optimal Rates**|Andrew Lowy et.al.|[2506.12994](http://arxiv.org/abs/2506.12994)|null|
 |**2025-06-15**|**Private List Learnability vs. Online List Learnability**|Steve Hanneke et.al.|[2506.12856](http://arxiv.org/abs/2506.12856)|null|
-|**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
+|**2025-06-18**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
 |**2025-06-14**|**Beyond Laplace and Gaussian: Exploring the Generalized Gaussian Mechanism for Private Machine Learning**|Roy Rinberg et.al.|[2506.12553](http://arxiv.org/abs/2506.12553)|null|
 |**2025-06-13**|**Differential Privacy in Machine Learning: From Symbolic AI to LLMs**|Francisco Aguilera-Martínez et.al.|[2506.11687](http://arxiv.org/abs/2506.11687)|null|
 |**2025-06-13**|**Computational Attestations of Polynomial Integrity Towards Verifiable Machine-Learning**|Dustin Ray et.al.|[2506.11458](http://arxiv.org/abs/2506.11458)|null|
@@ -1335,7 +1335,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -1352,7 +1352,7 @@
 |**2025-06-16**|**Density-aware Walks for Coordinated Campaign Detection**|Atul Anand Gopalakrishnan et.al.|[2506.13912](http://arxiv.org/abs/2506.13912)|null|
 |**2025-06-16**|**Logical Expressiveness of Graph Neural Networks with Hierarchical Node Individualization**|Arie Soeteman et.al.|[2506.13911](http://arxiv.org/abs/2506.13911)|null|
 |**2025-06-16**|**GITO: Graph-Informed Transformer Operator for Learning Complex Partial Differential Equations**|Milad Ramezankhani et.al.|[2506.13906](http://arxiv.org/abs/2506.13906)|null|
-|**2025-06-16**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
+|**2025-06-18**|**A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction**|Yi Wang et.al.|[2506.13678](http://arxiv.org/abs/2506.13678)|null|
 |**2025-06-16**|**TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection**|Fuaing Niu et.al.|[2506.13343](http://arxiv.org/abs/2506.13343)|null|
 |**2025-06-16**|**Navigating the Black Box: Leveraging LLMs for Effective Text-Level Graph Injection Attacks**|Yuefei Lyu et.al.|[2506.13276](http://arxiv.org/abs/2506.13276)|null|
 |**2025-06-16**|**PhenoKG: Knowledge Graph-Driven Gene Discovery and Patient Insights from Phenotypes Alone**|Kamilia Zaripova et.al.|[2506.13119](http://arxiv.org/abs/2506.13119)|null|
@@ -4603,7 +4603,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
