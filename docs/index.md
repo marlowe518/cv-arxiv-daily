@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -18,7 +18,7 @@ layout: default
 |**2025-06-18**|**Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference**|Terrance Liu et.al.|[2506.15349](http://arxiv.org/abs/2506.15349)|null|
 |**2025-06-18**|**Facility Location Problem under Local Differential Privacy without Super-set Assumption**|Kevin Pfisterer et.al.|[2506.15224](http://arxiv.org/abs/2506.15224)|null|
 |**2025-06-18**|**ImprovDML: Improved Trade-off in Private Byzantine-Resilient Distributed Machine Learning**|Bing Liu et.al.|[2506.15181](http://arxiv.org/abs/2506.15181)|null|
-|**2025-06-18**|**Local Differential Privacy for Distributed Stochastic Aggregative Optimization with Guaranteed Optimality**|Ziqin Chen et.al.|[2506.15106](http://arxiv.org/abs/2506.15106)|null|
+|**2025-06-19**|**Local Differential Privacy for Distributed Stochastic Aggregative Optimization with Guaranteed Optimality**|Ziqin Chen et.al.|[2506.15106](http://arxiv.org/abs/2506.15106)|null|
 |**2025-06-17**|**Private Continual Counting of Unbounded Streams**|Ben Jacobsen et.al.|[2506.15018](http://arxiv.org/abs/2506.15018)|null|
 |**2025-06-17**|**Differential Privacy and Survey Sampling**|Daniel Bernard Bonnéry et.al.|[2506.14620](http://arxiv.org/abs/2506.14620)|null|
 |**2025-06-17**|**Convergence-Privacy-Fairness Trade-Off in Personalized Federated Learning**|Xiyu Zhao et.al.|[2506.14251](http://arxiv.org/abs/2506.14251)|null|

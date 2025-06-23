@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-06-18**|**Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference**|Terrance Liu et.al.|[2506.15349](http://arxiv.org/abs/2506.15349)|null|
 |**2025-06-18**|**Facility Location Problem under Local Differential Privacy without Super-set Assumption**|Kevin Pfisterer et.al.|[2506.15224](http://arxiv.org/abs/2506.15224)|null|
 |**2025-06-18**|**ImprovDML: Improved Trade-off in Private Byzantine-Resilient Distributed Machine Learning**|Bing Liu et.al.|[2506.15181](http://arxiv.org/abs/2506.15181)|null|
-|**2025-06-18**|**Local Differential Privacy for Distributed Stochastic Aggregative Optimization with Guaranteed Optimality**|Ziqin Chen et.al.|[2506.15106](http://arxiv.org/abs/2506.15106)|null|
+|**2025-06-19**|**Local Differential Privacy for Distributed Stochastic Aggregative Optimization with Guaranteed Optimality**|Ziqin Chen et.al.|[2506.15106](http://arxiv.org/abs/2506.15106)|null|
 |**2025-06-17**|**Private Continual Counting of Unbounded Streams**|Ben Jacobsen et.al.|[2506.15018](http://arxiv.org/abs/2506.15018)|null|
 |**2025-06-17**|**Differential Privacy and Survey Sampling**|Daniel Bernard Bonnéry et.al.|[2506.14620](http://arxiv.org/abs/2506.14620)|null|
 |**2025-06-17**|**Convergence-Privacy-Fairness Trade-Off in Personalized Federated Learning**|Xiyu Zhao et.al.|[2506.14251](http://arxiv.org/abs/2506.14251)|null|
@@ -1341,7 +1341,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4613,7 +4613,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
