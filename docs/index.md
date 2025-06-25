@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Machine Learning with Privacy for Protected Attributes**|Saeed Mahloujifar et.al.|[2506.19836](http://arxiv.org/abs/2506.19836)|null|
+|**2025-06-24**|**Network Structures as an Attack Surface: Topology-Based Privacy Leakage in Federated Learning**|Murtaza Rangwala et.al.|[2506.19260](http://arxiv.org/abs/2506.19260)|null|
+|**2025-06-24**|**Private Model Personalization Revisited**|Conor Snedeker et.al.|[2506.19220](http://arxiv.org/abs/2506.19220)|null|
 |**2025-06-23**|**Understanding the Theoretical Guarantees of DPM**|Yara Schütt et.al.|[2506.18685](http://arxiv.org/abs/2506.18685)|null|
 |**2025-06-23**|**Robust Committee Voting, or The Other Side of Representation**|Gregory Kehne et.al.|[2506.18643](http://arxiv.org/abs/2506.18643)|null|
 |**2025-06-21**|**A Locally Differential Private Coding-Assisted Succinct Histogram Protocol**|Hsuan-Po Liu et.al.|[2506.17767](http://arxiv.org/abs/2506.17767)|null|
@@ -1350,6 +1353,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks**|Nathan Maurer et.al.|[2506.19703](http://arxiv.org/abs/2506.19703)|null|
+|**2025-06-24**|**Higher-Order Graph Databases**|Maciej Besta et.al.|[2506.19661](http://arxiv.org/abs/2506.19661)|null|
+|**2025-06-24**|**Fast and Distributed Equivariant Graph Neural Networks by Virtual Node Learning**|Yuelin Zhang et.al.|[2506.19482](http://arxiv.org/abs/2506.19482)|null|
+|**2025-06-24**|**Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network**|Yan Li et.al.|[2506.19289](http://arxiv.org/abs/2506.19289)|null|
+|**2025-06-24**|**A Batch-Insensitive Dynamic GNN Approach to Address Temporal Discontinuity in Graph Streams**|Yang Zhou et.al.|[2506.19282](http://arxiv.org/abs/2506.19282)|null|
+|**2025-06-23**|**Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning**|Hanshuo Wu et.al.|[2506.19023](http://arxiv.org/abs/2506.19023)|null|
 |**2025-06-23**|**Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression**|Yigit Berkay Uslu et.al.|[2506.18748](http://arxiv.org/abs/2506.18748)|null|
 |**2025-06-23**|**SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding**|Yuchang Zhu et.al.|[2506.18696](http://arxiv.org/abs/2506.18696)|null|
 |**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
