@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Balancing Privacy and Utility in Correlated Data: A Study of Bayesian Differential Privacy**|Martin Lange et.al.|[2506.21308](http://arxiv.org/abs/2506.21308)|null|
+|**2025-06-26**|**PrivacyGo: Privacy-Preserving Ad Measurement with Multidimensional Intersection**|Jian Du et.al.|[2506.20981](http://arxiv.org/abs/2506.20981)|null|
+|**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872](http://arxiv.org/abs/2506.20872)|null|
+|**2025-06-25**|**Practical and Accurate Local Edge Differentially Private Graph Algorithms**|Pranay Mundra et.al.|[2506.20828](http://arxiv.org/abs/2506.20828)|null|
 |**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413](http://arxiv.org/abs/2506.20413)|null|
 |**2025-06-25**|**Don't Hash Me Like That: Exposing and Mitigating Hash-Induced Unfairness in Local Differential Privacy**|Berkay Kemal Balioglu et.al.|[2506.20290](http://arxiv.org/abs/2506.20290)|null|
 |**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234](http://arxiv.org/abs/2506.20234)|null|
@@ -1364,6 +1368,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
+|**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
+|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
+|**2025-06-26**|**Hardware-Aware Quantum Kernel Design Based on Graph Neural Networks**|Yuxiang Liu et.al.|[2506.21161](http://arxiv.org/abs/2506.21161)|null|
+|**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818](http://arxiv.org/abs/2506.20818)|null|
+|**2025-06-25**|**Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis**|Zhonghao Zhan et.al.|[2506.20806](http://arxiv.org/abs/2506.20806)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
 |**2025-06-25**|**Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments**|Charles Shaw et.al.|[2506.20499](http://arxiv.org/abs/2506.20499)|null|
 |**2025-06-25**|**Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations**|Lorenzo Bini et.al.|[2506.20362](http://arxiv.org/abs/2506.20362)|null|
