@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-26**|**Balancing Privacy and Utility in Correlated Data: A Study of Bayesian Differential Privacy**|Martin Lange et.al.|[2506.21308](http://arxiv.org/abs/2506.21308)|null|
 |**2025-06-26**|**PrivacyGo: Privacy-Preserving Ad Measurement with Multidimensional Intersection**|Jian Du et.al.|[2506.20981](http://arxiv.org/abs/2506.20981)|null|
 |**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872](http://arxiv.org/abs/2506.20872)|null|
-|**2025-06-25**|**Practical and Accurate Local Edge Differentially Private Graph Algorithms**|Pranay Mundra et.al.|[2506.20828](http://arxiv.org/abs/2506.20828)|null|
+|**2025-06-27**|**Practical and Accurate Local Edge Differentially Private Graph Algorithms**|Pranay Mundra et.al.|[2506.20828](http://arxiv.org/abs/2506.20828)|null|
 |**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413](http://arxiv.org/abs/2506.20413)|null|
 |**2025-06-25**|**Don't Hash Me Like That: Exposing and Mitigating Hash-Induced Unfairness in Local Differential Privacy**|Berkay Kemal Balioglu et.al.|[2506.20290](http://arxiv.org/abs/2506.20290)|null|
 |**2025-06-25**|**Communication-Efficient Publication of Sparse Vectors under Differential Privacy**|Quentin Hillebrand et.al.|[2506.20234](http://arxiv.org/abs/2506.20234)|null|
