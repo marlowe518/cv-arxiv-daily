@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033](http://arxiv.org/abs/2506.24033)|null|
+|**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
+|**2025-06-30**|**SoK: Semantic Privacy in Large Language Models**|Baihe Ma et.al.|[2506.23603](http://arxiv.org/abs/2506.23603)|null|
+|**2025-06-28**|**Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations**|Yu Zheng et.al.|[2506.22727](http://arxiv.org/abs/2506.22727)|null|
 |**2025-06-27**|**A Framework for Multi-source Privacy Preserving Epidemic Analysis**|Zihan Guan et.al.|[2506.22342](http://arxiv.org/abs/2506.22342)|null|
 |**2025-06-27**|**Boosting Classification with Quantum-Inspired Augmentations**|Matthias Tschöpe et.al.|[2506.22241](http://arxiv.org/abs/2506.22241)|null|
 |**2025-06-27**|**Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses**|Archisman Ghosh et.al.|[2506.21842](http://arxiv.org/abs/2506.21842)|null|
@@ -1365,6 +1369,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Bridging Theory and Practice in Link Representation with Graph Neural Networks**|Veronica Lachi et.al.|[2506.24018](http://arxiv.org/abs/2506.24018)|null|
+|**2025-06-30**|**When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)**|Parosh Aziz Abdulla et.al.|[2506.23784](http://arxiv.org/abs/2506.23784)|null|
+|**2025-06-30**|**Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782](http://arxiv.org/abs/2506.23782)|null|
+|**2025-06-30**|**Graph Neural Networks to Predict Coercivity of Hard Magnetic Microstructures**|Heisam Moustafa et.al.|[2506.23615](http://arxiv.org/abs/2506.23615)|null|
+|**2025-06-29**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126](http://arxiv.org/abs/2506.23126)|null|
+|**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
+|**2025-06-28**|**Prediction Gaps as Pathways to Explanation: Rethinking Educational Outcomes through Differences in Model Performance**|Javier Garcia-Bernardo et.al.|[2506.22993](http://arxiv.org/abs/2506.22993)|null|
+|**2025-06-28**|**Missing-Modality-Aware Graph Neural Network for Cancer Classification**|Sina Tabakhi et.al.|[2506.22901](http://arxiv.org/abs/2506.22901)|null|
+|**2025-06-28**|**Convergent Privacy Framework with Contractive GNN Layers for Multi-hop Aggregations**|Yu Zheng et.al.|[2506.22727](http://arxiv.org/abs/2506.22727)|null|
+|**2025-06-28**|**Investigation of the performance of a GNN-based b-jet tagging method in heavy-ion collisions**|Changhwan Choi et.al.|[2506.22691](http://arxiv.org/abs/2506.22691)|null|
+|**2025-06-27**|**DistShap: Scalable GNN Explanations with Distributed Shapley Values**|Selahattin Akkas et.al.|[2506.22668](http://arxiv.org/abs/2506.22668)|null|
+|**2025-06-27**|**Task-Agnostic Contrastive Pretraining for Relational Deep Learning**|Jakub Peleška et.al.|[2506.22530](http://arxiv.org/abs/2506.22530)|null|
+|**2025-06-27**|**MisinfoTeleGraph: Network-driven Misinformation Detection for German Telegram Messages**|Lu Kalkbrenner et.al.|[2506.22529](http://arxiv.org/abs/2506.22529)|null|
 |**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299](http://arxiv.org/abs/2506.22299)|null|
 |**2025-06-27**|**The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment**|Lorenz Wendlinger et.al.|[2506.22165](http://arxiv.org/abs/2506.22165)|null|
 |**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
