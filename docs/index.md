@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -34,7 +34,7 @@ layout: default
 |**2025-06-21**|**A Locally Differential Private Coding-Assisted Succinct Histogram Protocol**|Hsuan-Po Liu et.al.|[2506.17767](http://arxiv.org/abs/2506.17767)|null|
 |**2025-06-16**|**Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in Federated Vision Models**|Quan Nguyen et.al.|[2506.17292](http://arxiv.org/abs/2506.17292)|null|
 |**2025-06-20**|**A Novel Approach to Differential Privacy with Alpha Divergence**|Yifeng Liu et.al.|[2506.17012](http://arxiv.org/abs/2506.17012)|null|
-|**2025-06-20**|**The Hitchhiker's Guide to Efficient, End-to-End, and Tight DP Auditing**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2506.16666](http://arxiv.org/abs/2506.16666)|null|
+|**2025-06-30**|**The Hitchhiker's Guide to Efficient, End-to-End, and Tight DP Auditing**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2506.16666](http://arxiv.org/abs/2506.16666)|null|
 |**2025-06-20**|**Private Training & Data Generation by Clustering Embeddings**|Felix Zhou et.al.|[2506.16661](http://arxiv.org/abs/2506.16661)|null|
 |**2025-06-19**|**Efficient and Privacy-Preserving Soft Prompt Transfer for LLMs**|Xun Wang et.al.|[2506.16196](http://arxiv.org/abs/2506.16196)|null|
 |**2025-06-18**|**FARFETCH'D: A Side-Channel Analysis Framework for Privacy Applications on Confidential Virtual Machines**|Ruiyi Zhang et.al.|[2506.15924](http://arxiv.org/abs/2506.15924)|null|
@@ -1379,7 +1379,7 @@ layout: default
 |**2025-06-25**|**Demystifying Distributed Training of Graph Neural Networks for Link Prediction**|Xin Huang et.al.|[2506.20818](http://arxiv.org/abs/2506.20818)|null|
 |**2025-06-25**|**Poster: Enhancing GNN Robustness for Network Intrusion Detection via Agent-based Analysis**|Zhonghao Zhan et.al.|[2506.20806](http://arxiv.org/abs/2506.20806)|null|
 |**2025-06-25**|**Exploring Graph-Transformer Out-of-Distribution Generalization Abilities**|Itay Niv et.al.|[2506.20575](http://arxiv.org/abs/2506.20575)|null|
-|**2025-06-25**|**Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments**|Charles Shaw et.al.|[2506.20499](http://arxiv.org/abs/2506.20499)|null|
+|**2025-06-30**|**Adaptive Supergeo Design: A Scalable Framework for Geographic Marketing Experiments**|Charles Shaw et.al.|[2506.20499](http://arxiv.org/abs/2506.20499)|null|
 |**2025-06-25**|**Self-Supervised Graph Learning via Spectral Bootstrapping and Laplacian-Based Augmentations**|Lorenzo Bini et.al.|[2506.20362](http://arxiv.org/abs/2506.20362)|null|
 |**2025-06-25**|**Directed Link Prediction using GNN with Local and Global Feature Fusion**|Yuyang Zhang et.al.|[2506.20235](http://arxiv.org/abs/2506.20235)|null|
 |**2025-06-24**|**GNN's Uncertainty Quantification using Self-Distillation**|Hirad Daneshvar et.al.|[2506.20046](http://arxiv.org/abs/2506.20046)|null|
