@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Breaking the $n^{1.5}$ Additive Error Barrier for Private and Efficient Graph Sparsification via Private Expander Decomposition**|Anders Aamand et.al.|[2507.01873](http://arxiv.org/abs/2507.01873)|null|
+|**2025-07-02**|**Tuning without Peeking: Provable Privacy and Generalization Bounds for LLM Post-Training**|Ismail Labiad et.al.|[2507.01752](http://arxiv.org/abs/2507.01752)|null|
+|**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487](http://arxiv.org/abs/2507.01487)|null|
+|**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
+|**2025-07-01**|**On Design Principles for Private Adaptive Optimizers**|Arun Ganesh et.al.|[2507.01129](http://arxiv.org/abs/2507.01129)|null|
+|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
+|**2025-07-01**|**Gaze3P: Gaze-Based Prediction of User-Perceived Privacy**|Mayar Elfares et.al.|[2507.00596](http://arxiv.org/abs/2507.00596)|null|
+|**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402](http://arxiv.org/abs/2507.00402)|null|
+|**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230](http://arxiv.org/abs/2507.00230)|null|
 |**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033](http://arxiv.org/abs/2506.24033)|null|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
 |**2025-06-30**|**SoK: Semantic Privacy in Large Language Models**|Baihe Ma et.al.|[2506.23603](http://arxiv.org/abs/2506.23603)|null|
@@ -1375,6 +1384,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876](http://arxiv.org/abs/2507.01876)|null|
+|**2025-07-02**|**Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks**|Keegan Menkce et.al.|[2507.01868](http://arxiv.org/abs/2507.01868)|null|
+|**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825](http://arxiv.org/abs/2507.01825)|null|
+|**2025-07-01**|**Rotational Sampling: A Plug-and-Play Encoder for Rotation-Invariant 3D Molecular GNNs**|Dian Jin et.al.|[2507.01073](http://arxiv.org/abs/2507.01073)|null|
+|**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937](http://arxiv.org/abs/2507.00937)|null|
+|**2025-07-01**|**Understanding Generalization in Node and Link Prediction**|Antonis Vasileiou et.al.|[2507.00927](http://arxiv.org/abs/2507.00927)|null|
+|**2025-07-01**|**NN-Former: Rethinking Graph Structure in Neural Architecture Representation**|Ruihan Xu et.al.|[2507.00880](http://arxiv.org/abs/2507.00880)|null|
+|**2025-07-01**|**Neural Augmented Kalman Filters for Road Network assisted GNSS positioning**|Hans van Gorp et.al.|[2507.00654](http://arxiv.org/abs/2507.00654)|null|
+|**2025-07-01**|**Cooperative Sheaf Neural Networks**|André Ribeiro et.al.|[2507.00647](http://arxiv.org/abs/2507.00647)|null|
+|**2025-07-01**|**A Recipe for Causal Graph Regression: Confounding Effects Revisited**|Yujia Yin et.al.|[2507.00440](http://arxiv.org/abs/2507.00440)|null|
+|**2025-07-02**|**Graph-Based Deep Learning for Component Segmentation of Maize Plants**|J. I. Ruiz-Martinez et.al.|[2507.00182](http://arxiv.org/abs/2507.00182)|null|
+|**2025-06-30**|**Graph Neural Networks in Wind Power Forecasting**|Javier Castellano et.al.|[2507.00105](http://arxiv.org/abs/2507.00105)|null|
+|**2025-06-30**|**Strategic Counterfactual Modeling of Deep-Target Airstrike Systems via Intervention-Aware Spatio-Causal Graph Networks**|Wei Meng et.al.|[2507.00083](http://arxiv.org/abs/2507.00083)|null|
 |**2025-06-30**|**Bridging Theory and Practice in Link Representation with Graph Neural Networks**|Veronica Lachi et.al.|[2506.24018](http://arxiv.org/abs/2506.24018)|null|
 |**2025-06-30**|**When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)**|Parosh Aziz Abdulla et.al.|[2506.23784](http://arxiv.org/abs/2506.23784)|null|
 |**2025-06-30**|**Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782](http://arxiv.org/abs/2506.23782)|null|
