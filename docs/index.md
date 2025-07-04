@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -19,7 +19,7 @@ layout: default
 |**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487](http://arxiv.org/abs/2507.01487)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
 |**2025-07-01**|**On Design Principles for Private Adaptive Optimizers**|Arun Ganesh et.al.|[2507.01129](http://arxiv.org/abs/2507.01129)|null|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
+|**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-07-01**|**Gaze3P: Gaze-Based Prediction of User-Perceived Privacy**|Mayar Elfares et.al.|[2507.00596](http://arxiv.org/abs/2507.00596)|null|
 |**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402](http://arxiv.org/abs/2507.00402)|null|
 |**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230](http://arxiv.org/abs/2507.00230)|null|
