@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -24,7 +24,7 @@ layout: default
 |**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-07-01**|**Gaze3P: Gaze-Based Prediction of User-Perceived Privacy**|Mayar Elfares et.al.|[2507.00596](http://arxiv.org/abs/2507.00596)|null|
 |**2025-07-01**|**GRAND: Graph Release with Assured Node Differential Privacy**|Suqing Liu et.al.|[2507.00402](http://arxiv.org/abs/2507.00402)|null|
-|**2025-06-30**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230](http://arxiv.org/abs/2507.00230)|null|
+|**2025-07-04**|**PPFL-RDSN: Privacy-Preserving Federated Learning-based Residual Dense Spatial Networks for Encrypted Lossy Image Reconstruction**|Peilin He et.al.|[2507.00230](http://arxiv.org/abs/2507.00230)|null|
 |**2025-06-30**|**Poisoning Attacks to Local Differential Privacy for Ranking Estimation**|Pei Zhan et.al.|[2506.24033](http://arxiv.org/abs/2506.24033)|null|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
 |**2025-06-30**|**SoK: Semantic Privacy in Large Language Models**|Baihe Ma et.al.|[2506.23603](http://arxiv.org/abs/2506.23603)|null|
