@@ -18,6 +18,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175](http://arxiv.org/abs/2507.05175)|null|
+|**2025-07-06**|**DP-Fusion: Token-Level Differentially Private Inference for Large Language Models**|Rushil Thareja et.al.|[2507.04531](http://arxiv.org/abs/2507.04531)|null|
+|**2025-07-06**|**Towards integration of Privacy Enhancing Technologies in Explainable Artificial Intelligence**|Sonal Allana et.al.|[2507.04528](http://arxiv.org/abs/2507.04528)|null|
+|**2025-07-06**|**Model Inversion Attacks on Llama 3: Extracting PII from Large Language Models**|Sathesh P. Sivashanmugam et.al.|[2507.04478](http://arxiv.org/abs/2507.04478)|null|
+|**2025-07-06**|**UniAud: A Unified Auditing Framework for High Auditing Power and Utility with One Training Run**|Ruixuan Liu et.al.|[2507.04457](http://arxiv.org/abs/2507.04457)|null|
+|**2025-07-05**|**One-Bit Model Aggregation for Differentially Private and Byzantine-Robust Personalized Federated Learning**|Muhang Lan et.al.|[2507.03973](http://arxiv.org/abs/2507.03973)|null|
+|**2025-07-04**|**Differentially private scale testing via rank transformations and percentile modifications**|Joshua Levine et.al.|[2507.03725](http://arxiv.org/abs/2507.03725)|null|
+|**2025-07-04**|**Communication Efficient, Differentially Private Distributed Optimization using Correlation-Aware Sketching**|Julien Nicolas et.al.|[2507.03545](http://arxiv.org/abs/2507.03545)|null|
+|**2025-07-04**|**Accelerating Private Heavy Hitter Detection on Continual Observation Streams**|Rayne Holland et.al.|[2507.03361](http://arxiv.org/abs/2507.03361)|null|
 |**2025-07-03**|**Quantifying Classifier Utility under Local Differential Privacy**|Ye Zheng et.al.|[2507.02727](http://arxiv.org/abs/2507.02727)|null|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
 |**2025-07-02**|**Breaking the $n^{1.5}$ Additive Error Barrier for Private and Efficient Graph Sparsification via Private Expander Decomposition**|Anders Aamand et.al.|[2507.01873](http://arxiv.org/abs/2507.01873)|null|
@@ -1386,6 +1395,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Replacing detector simulation with heterogeneous GNNs in flavour physics analyses**|Guillermo Hijano et.al.|[2507.05069](http://arxiv.org/abs/2507.05069)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-05**|**Graph Neural Networks as a Substitute for Transformers in Single-Cell Transcriptomics**|Jiaxin Qi et.al.|[2507.04125](http://arxiv.org/abs/2507.04125)|null|
+|**2025-07-05**|**Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models**|Devashish Khulbe et.al.|[2507.04027](http://arxiv.org/abs/2507.04027)|null|
+|**2025-07-05**|**Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs**|Thanh Hoang-Minh et.al.|[2507.03947](http://arxiv.org/abs/2507.03947)|null|
+|**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et.al.|[2507.03853](http://arxiv.org/abs/2507.03853)|null|
+|**2025-07-04**|**Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction**|Manasa Kaniselvan et.al.|[2507.03840](http://arxiv.org/abs/2507.03840)|null|
+|**2025-07-04**|**Effective Capacitance Modeling Using Graph Neural Networks**|Eren Dogan et.al.|[2507.03787](http://arxiv.org/abs/2507.03787)|null|
+|**2025-07-04**|**CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning**|Ningyuan Huang et.al.|[2507.03707](http://arxiv.org/abs/2507.03707)|null|
+|**2025-07-04**|**Plugging Attention into Power Grids: Towards Transparent Forecasting**|Eloi Campagne et.al.|[2507.03690](http://arxiv.org/abs/2507.03690)|null|
+|**2025-07-04**|**Simplifying Graph Neural Kernels: from Stacking Layers to Collapsed Structure**|Lin Wang et.al.|[2507.03560](http://arxiv.org/abs/2507.03560)|null|
+|**2025-07-04**|**Molecular Machine Learning Using Euler Characteristic Transforms**|Victor Toscano-Duran et.al.|[2507.03474](http://arxiv.org/abs/2507.03474)|null|
+|**2025-07-04**|**Multi-Level Fusion Graph Neural Network for Molecule Property Prediction**|XiaYu Liu et.al.|[2507.03430](http://arxiv.org/abs/2507.03430)|null|
+|**2025-07-04**|**AoI-Energy-Spectrum Optimization in Post-Disaster Powered Communication Intelligent Network via Hierarchical Heterogeneous Graph Neural Network**|Hanjian Liu et.al.|[2507.03401](http://arxiv.org/abs/2507.03401)|null|
+|**2025-07-04**|**Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Network with Group Lasso Regularization**|Zanyu Shi et.al.|[2507.03318](http://arxiv.org/abs/2507.03318)|null|
 |**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
 |**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
 |**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
