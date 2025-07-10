@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-08**|**Post-Processing in Local Differential Privacy: An Extensive Evaluation and Benchmark Platform**|Alireza Khodaie et.al.|[2507.05875](http://arxiv.org/abs/2507.05875)|null|
 |**2025-07-08**|**LDP $^3$ : An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872](http://arxiv.org/abs/2507.05872)|null|
-|**2025-07-08**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610](http://arxiv.org/abs/2507.05610)|null|
+|**2025-07-09**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610](http://arxiv.org/abs/2507.05610)|null|
 |**2025-07-08**|**The Landscape of Memorization in LLMs: Mechanisms, Measurement, and Mitigation**|Alexander Xiong et.al.|[2507.05578](http://arxiv.org/abs/2507.05578)|null|
 |**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175](http://arxiv.org/abs/2507.05175)|null|
 |**2025-07-06**|**DP-Fusion: Token-Level Differentially Private Inference for Large Language Models**|Rushil Thareja et.al.|[2507.04531](http://arxiv.org/abs/2507.04531)|null|
