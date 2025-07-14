@@ -18,6 +18,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
+|**2025-07-10**|**Beyond the Worst Case: Extending Differential Privacy Guarantees to Realistic Adversaries**|Marika Swanberg et.al.|[2507.08158](http://arxiv.org/abs/2507.08158)|null|
+|**2025-07-10**|**An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis**|Ming Wang et.al.|[2507.08050](http://arxiv.org/abs/2507.08050)|null|
 |**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565](http://arxiv.org/abs/2507.07565)|null|
 |**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
 |**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316](http://arxiv.org/abs/2507.07316)|null|
@@ -1408,6 +1411,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
+|**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494](http://arxiv.org/abs/2507.08494)|null|
+|**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212](http://arxiv.org/abs/2507.08212)|null|
+|**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184](http://arxiv.org/abs/2507.08184)|null|
+|**2025-07-10**|**Exploring substructures in the Milky Way halo Neural networks applied to Gaia and APOGEE DR 17**|L. Berni et.al.|[2507.08074](http://arxiv.org/abs/2507.08074)|null|
 |**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854](http://arxiv.org/abs/2507.07854)|null|
 |**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844](http://arxiv.org/abs/2507.07844)|null|
 |**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
