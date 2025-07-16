@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
 |**2025-07-10**|**Beyond the Worst Case: Extending Differential Privacy Guarantees to Realistic Adversaries**|Marika Swanberg et.al.|[2507.08158](http://arxiv.org/abs/2507.08158)|null|
 |**2025-07-10**|**An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis**|Ming Wang et.al.|[2507.08050](http://arxiv.org/abs/2507.08050)|null|
-|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565](http://arxiv.org/abs/2507.07565)|null|
+|**2025-07-15**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565](http://arxiv.org/abs/2507.07565)|null|
 |**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
 |**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316](http://arxiv.org/abs/2507.07316)|null|
 |**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041](http://arxiv.org/abs/2507.07041)|null|
@@ -1410,7 +1410,7 @@
 |**2023-11-14**|**Sparsity-Preserving Differentially Private Training of Large Embedding Models**|Badih Ghazi et.al.|[2311.08357](http://arxiv.org/abs/2311.08357)|null|
 |**2023-11-13**|**Differentially Private Approximate Pattern Matching**|Teresa Anna Steiner et.al.|[2311.07415](http://arxiv.org/abs/2311.07415)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Graph Neural Network
 
@@ -4831,7 +4831,7 @@
 |**2023-11-30**|**LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning**|Jintang Li et.al.|[2311.16605](http://arxiv.org/abs/2311.16605)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
