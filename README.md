@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324](http://arxiv.org/abs/2507.11324)|null|
+|**2025-07-15**|**Solving Linear Programs with Differential Privacy**|Alina Ene et.al.|[2507.10946](http://arxiv.org/abs/2507.10946)|null|
+|**2025-07-14**|**Optimal Debiased Inference on Privatized Data via Indirect Estimation and Parametric Bootstrap**|Zhanyu Wang et.al.|[2507.10746](http://arxiv.org/abs/2507.10746)|null|
+|**2025-07-14**|**Crypto-Assisted Graph Degree Sequence Release under Local Differential Privacy**|Xiaojian Zhang et.al.|[2507.10627](http://arxiv.org/abs/2507.10627)|null|
 |**2025-07-14**|**On the Performance of Differentially Private Optimization with Heavy-Tail Class Imbalance**|Qiaoyue Tang et.al.|[2507.10536](http://arxiv.org/abs/2507.10536)|null|
 |**2025-07-14**|**Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix**|Ming Wen et.al.|[2507.09990](http://arxiv.org/abs/2507.09990)|null|
 |**2025-07-13**|**Interpreting Differential Privacy in Terms of Disclosure Risk**|Zeki Kazan et.al.|[2507.09699](http://arxiv.org/abs/2507.09699)|null|
@@ -1416,6 +1421,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057](http://arxiv.org/abs/2507.11057)|null|
+|**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
+|**2025-07-15**|**Graph-based Fingerprint Update Using Unlabelled WiFi Signals**|Ka Ho Chiu et.al.|[2507.11038](http://arxiv.org/abs/2507.11038)|null|
+|**2025-07-15**|**GALDS: A Graph-Autoencoder-based Latent Dynamics Surrogate model to predict neurite material transport**|Tsung Yeh Hsieh et.al.|[2507.10871](http://arxiv.org/abs/2507.10871)|null|
+|**2025-07-14**|**HEIMDALL: a grapH-based sEIsMic Detector And Locator for microseismicity**|Matteo Bagagli et.al.|[2507.10850](http://arxiv.org/abs/2507.10850)|null|
+|**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
+|**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
 |**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
