@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Differential Privacy
@@ -25,7 +25,7 @@ layout: default
 |**2025-07-16**|**A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy**|Xiang Li et.al.|[2507.12098](http://arxiv.org/abs/2507.12098)|null|
 |**2025-07-15**|**Fiducial Matching: Differentially Private Inference for Categorical Data**|Ogonnaya Michael Romanus et.al.|[2507.11762](http://arxiv.org/abs/2507.11762)|null|
 |**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
-|**2025-07-15**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324](http://arxiv.org/abs/2507.11324)|null|
+|**2025-07-22**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324](http://arxiv.org/abs/2507.11324)|null|
 |**2025-07-15**|**Solving Linear Programs with Differential Privacy**|Alina Ene et.al.|[2507.10946](http://arxiv.org/abs/2507.10946)|null|
 |**2025-07-14**|**Optimal Debiased Inference on Privatized Data via Indirect Estimation and Parametric Bootstrap**|Zhanyu Wang et.al.|[2507.10746](http://arxiv.org/abs/2507.10746)|null|
 |**2025-07-14**|**Crypto-Assisted Graph Degree Sequence Release under Local Differential Privacy**|Xiaojian Zhang et.al.|[2507.10627](http://arxiv.org/abs/2507.10627)|null|
@@ -1429,11 +1429,11 @@ layout: default
 |**2025-07-21**|**Hypergraph modelling of wave scattering to speed-up material design**|Kunwoo Park et.al.|[2507.15329](http://arxiv.org/abs/2507.15329)|null|
 |**2025-07-21**|**Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks**|Rabia Latief Bhat et.al.|[2507.15246](http://arxiv.org/abs/2507.15246)|null|
 |**2025-07-21**|**Long-Short Distance Graph Neural Networks and Improved Curriculum Learning for Emotion Recognition in Conversation**|Xinran Li et.al.|[2507.15205](http://arxiv.org/abs/2507.15205)|null|
-|**2025-07-21**|**Feature Construction Using Network Control Theory and Rank Encoding for Graph Machine Learning**|Anwar Said et.al.|[2507.15195](http://arxiv.org/abs/2507.15195)|null|
+|**2025-07-22**|**Feature Construction Using Network Control Theory and Rank Encoding for Graph Machine Learning**|Anwar Said et.al.|[2507.15195](http://arxiv.org/abs/2507.15195)|null|
 |**2025-07-20**|**Can We Move Freely in NEOM's The Line? An Agent-Based Simulation of Human Mobility in a Futuristic Smart City**|Abderaouf Bahi et.al.|[2507.15143](http://arxiv.org/abs/2507.15143)|null|
 |**2025-07-19**|**LPS-GNN : Deploying Graph Neural Networks on Graphs with 100-Billion Edges**|Xu Cheng et.al.|[2507.14570](http://arxiv.org/abs/2507.14570)|null|
 |**2025-07-19**|**ReDiSC: A Reparameterized Masked Diffusion Model for Scalable Node Classification with Structured Predictions**|Yule Li et.al.|[2507.14484](http://arxiv.org/abs/2507.14484)|null|
-|**2025-07-19**|**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**|Yitong Lin et.al.|[2507.14468](http://arxiv.org/abs/2507.14468)|null|
+|**2025-07-22**|**BioGraphFusion: Graph Knowledge Embedding for Biological Completion and Reasoning**|Yitong Lin et.al.|[2507.14468](http://arxiv.org/abs/2507.14468)|null|
 |**2025-07-18**|**Collaborative Indirect Influencing and Control on Graphs using Graph Neural Networks**|Max L. Gardenswartz et.al.|[2507.14409](http://arxiv.org/abs/2507.14409)|null|
 |**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035](http://arxiv.org/abs/2507.14035)|null|
 |**2025-07-18**|**Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks**|Jagruti Patel et.al.|[2507.13992](http://arxiv.org/abs/2507.13992)|null|
