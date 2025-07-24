@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Optimal differentially private kernel learning with random projection**|Bonwoo Lee et.al.|[2507.17544](http://arxiv.org/abs/2507.17544)|null|
+|**2025-07-23**|**Frequency Estimation of Correlated Multi-attribute Data under Local Differential Privacy**|Shafizur Rahman Seeam et.al.|[2507.17516](http://arxiv.org/abs/2507.17516)|null|
+|**2025-07-23**|**A Privacy-Preserving Data Collection Method for Diversified Statistical Analysis**|Hao Jiang et.al.|[2507.17180](http://arxiv.org/abs/2507.17180)|null|
+|**2025-07-22**|**Optimal Pure Differentially Private Sparse Histograms in Near-Linear Deterministic Time**|Florian Kerschbaum et.al.|[2507.17017](http://arxiv.org/abs/2507.17017)|null|
 |**2025-07-21**|**"We Need a Standard": Toward an Expert-Informed Privacy Label for Differential Privacy**|Onyinye Dibia et.al.|[2507.15997](http://arxiv.org/abs/2507.15997)|null|
 |**2025-07-21**|**Optimizing Canaries for Privacy Auditing with Metagradient Descent**|Matteo Boglioni et.al.|[2507.15836](http://arxiv.org/abs/2507.15836)|null|
 |**2025-07-21**|**Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems**|Andrii Balashov et.al.|[2507.15613](http://arxiv.org/abs/2507.15613)|null|
@@ -1432,6 +1436,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**From Atoms to Dynamics: Learning the Committor Without Collective Variables**|Sergio Contreras Arredondo et.al.|[2507.17700](http://arxiv.org/abs/2507.17700)|null|
+|**2025-07-23**|**Towards Effective Open-set Graph Class-incremental Learning**|Jiazhen Chen et.al.|[2507.17687](http://arxiv.org/abs/2507.17687)|null|
+|**2025-07-23**|**Graph Neural Network Approach to Predicting Magnetization in Quasi-One-Dimensional Ising Systems**|V. Slavin et.al.|[2507.17509](http://arxiv.org/abs/2507.17509)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-22**|**PyG 2.0: Scalable Learning on Real World Graphs**|Matthias Fey et.al.|[2507.16991](http://arxiv.org/abs/2507.16991)|null|
 |**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
 |**2025-07-22**|**ApproxGNN: A Pretrained GNN for Parameter Prediction in Design Space Exploration for Approximate Computing**|Ondrej Vlcek et.al.|[2507.16379](http://arxiv.org/abs/2507.16379)|null|
